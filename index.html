@@ -1,0 +1,631 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<script src="./support.js"></script>
+</head>
+<body>
+<x-dc>
+<helmet>
+<style>
+  * { box-sizing: border-box; }
+  body { margin:0; font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Microsoft YaHei","Segoe UI",sans-serif; }
+  a { color:#315CF0; text-decoration:none; }
+  a:hover { color:#1E3FC0; }
+  @keyframes spin { to { transform:rotate(360deg); } }
+  @keyframes blink { 0%,80%,100%{opacity:.2} 40%{opacity:1} }
+  @keyframes fadeUp { from{opacity:0;transform:translateY(6px)} to{opacity:1;transform:none} }
+  ::-webkit-scrollbar{width:10px;height:10px}
+  ::-webkit-scrollbar-thumb{background:#D8DCE4;border-radius:6px;border:2px solid transparent;background-clip:content-box}
+</style>
+</helmet>
+<div style="height:100vh;display:flex;flex-direction:column;background:#F5F6F8;color:#10182B;font-family:-apple-system,BlinkMacSystemFont,'PingFang SC','Microsoft YaHei','Segoe UI',sans-serif">
+
+  <!-- TOP BAR -->
+  <div style="height:56px;flex:none;display:flex;align-items:center;gap:18px;padding:0 20px;background:#fff;border-bottom:1px solid #E8EAEF;z-index:5">
+    <div style="display:flex;align-items:center;gap:11px">
+      <div style="width:30px;height:30px;border-radius:8px;background:#10182B;color:#fff;display:flex;align-items:center;justify-content:center;font-weight:800;font-size:15px;letter-spacing:-.02em">O</div>
+      <div style="display:flex;align-items:baseline;gap:8px">
+        <span style="font-weight:700;font-size:15px;color:#10182B">{{ companyName }}</span>
+        <span style="font-size:13px;color:#8B93A3;font-weight:500">情报中台</span>
+      </div>
+      <div style="display:flex;align-items:center;gap:6px;margin-left:6px;padding:4px 10px;border:1px solid #E8EAEF;border-radius:20px">
+        <span style="width:6px;height:6px;border-radius:50%;background:#0E9F6E;display:inline-block"></span>
+        <span style="font-size:12px;color:#5B6473">运行于飞书</span>
+      </div>
+    </div>
+    <div style="flex:1;max-width:440px;display:flex;align-items:center;gap:8px;background:#F5F6F8;border:1px solid #EDEFF3;border-radius:10px;padding:0 12px;height:36px">
+      <svg width="15" height="15" viewBox="0 0 18 18" fill="none" stroke="#9AA1AF" stroke-width="1.6"><circle cx="8" cy="8" r="5"></circle><line x1="12" y1="12" x2="16" y2="16" stroke-linecap="round"></line></svg>
+      <span style="font-size:13px;color:#9AA1AF">搜索情报、知识库、竞品动态…</span>
+    </div>
+    <div style="margin-left:auto;display:flex;align-items:center;gap:10px">
+      <div style="text-align:right;line-height:1.25">
+        <div style="font-size:13px;font-weight:600;color:#22293A">IR 实习生</div>
+        <div style="font-size:11px;color:#9AA1AF">品牌 / 融资</div>
+      </div>
+      <div style="width:32px;height:32px;border-radius:50%;color:#fff;display:flex;align-items:center;justify-content:center;font-size:13px;font-weight:600" style="{{ userAvatarStyle }}">你</div>
+    </div>
+  </div>
+
+  <!-- BODY -->
+  <div style="flex:1;display:flex;min-height:0">
+
+    <!-- SIDEBAR -->
+    <div style="width:232px;flex:none;background:#fff;border-right:1px solid #E8EAEF;padding:16px 14px;display:flex;flex-direction:column">
+      <div style="font-size:11px;font-weight:700;letter-spacing:.06em;color:#AAB0BC;padding:4px 12px 10px">工作区</div>
+      <div style="display:flex;flex-direction:column;gap:3px">
+        <div onClick="{{ goOverview }}" style="{{ navOverviewStyle }}">
+          <svg width="17" height="17" viewBox="0 0 18 18" fill="none" stroke="currentColor" stroke-width="1.6"><rect x="2.5" y="2.5" width="5.5" height="5.5" rx="1.2"></rect><rect x="10" y="2.5" width="5.5" height="5.5" rx="1.2"></rect><rect x="2.5" y="10" width="5.5" height="5.5" rx="1.2"></rect><rect x="10" y="10" width="5.5" height="5.5" rx="1.2"></rect></svg>
+          <span>工作台</span>
+        </div>
+        <div onClick="{{ goIntel }}" style="{{ navIntelStyle }}">
+          <svg width="17" height="17" viewBox="0 0 18 18" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M2 10h3l2-6 3.5 11L13 10h3"></path></svg>
+          <span>情报收集</span>
+        </div>
+        <div onClick="{{ goKb }}" style="{{ navKbStyle }}">
+          <svg width="17" height="17" viewBox="0 0 18 18" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><rect x="3" y="2.5" width="12" height="13" rx="1.4"></rect><line x1="6.5" y1="2.5" x2="6.5" y2="15.5"></line></svg>
+          <span>知识库</span>
+        </div>
+        <div onClick="{{ goChat }}" style="{{ navChatStyle }}">
+          <svg width="17" height="17" viewBox="0 0 18 18" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><path d="M3 5.5a2 2 0 0 1 2-2h8a2 2 0 0 1 2 2V11a2 2 0 0 1-2 2H8l-3.5 2.6V13H5a2 2 0 0 1-2-2z"></path></svg>
+          <span>智能问答</span>
+        </div>
+        <div onClick="{{ goAccess }}" style="{{ navAccessStyle }}">
+          <svg width="17" height="17" viewBox="0 0 18 18" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"><rect x="3.5" y="7.5" width="11" height="7.5" rx="1.4"></rect><path d="M5.5 7.5V5.5a3.5 3.5 0 0 1 7 0v2"></path></svg>
+          <span>权限与成员</span>
+        </div>
+      </div>
+      <div style="margin-top:auto;background:#F7F8FA;border:1px solid #EDEFF3;border-radius:12px;padding:13px 14px">
+        <div style="font-size:11px;font-weight:700;letter-spacing:.04em;color:#8B93A3;margin-bottom:9px">服务范围</div>
+        <div style="display:flex;flex-direction:column;gap:7px">
+          <div style="display:flex;align-items:center;gap:8px;font-size:13px;color:#22293A"><span style="width:6px;height:6px;border-radius:50%;background:#0E9F6E;display:inline-block"></span>品牌部</div>
+          <div style="display:flex;align-items:center;gap:8px;font-size:13px;color:#22293A"><span style="width:6px;height:6px;border-radius:50%;background:#0E9F6E;display:inline-block"></span>融资部</div>
+        </div>
+        <div style="margin-top:10px;padding-top:9px;border-top:1px dashed #E2E5EB;font-size:11px;color:#9AA1AF;line-height:1.5">其他部门默认不可见</div>
+      </div>
+    </div>
+
+    <!-- MAIN -->
+    <div style="flex:1;min-width:0;overflow:auto">
+      <div style="max-width:1120px;margin:0 auto;padding:28px 32px 64px">
+
+        <!-- ============ OVERVIEW ============ -->
+        <sc-if value="{{ isOverview }}" hint-placeholder-val="{{ true }}">
+          <div>
+            <div style="display:flex;align-items:flex-end;justify-content:space-between;margin-bottom:22px">
+              <div>
+                <h1 style="margin:0;font-size:24px;font-weight:700;letter-spacing:-.01em">工作台</h1>
+                <div style="margin-top:6px;font-size:13px;color:#8B93A3">{{ companyName }} 品牌 / 融资情报中台 · 运行于飞书</div>
+              </div>
+              <div style="font-size:13px;color:#8B93A3">2026年7月13日 · 周一</div>
+            </div>
+
+            <div style="display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin-bottom:16px">
+              <sc-for list="{{ stats }}" as="st" hint-placeholder-count="4">
+                <div style="background:#fff;border:1px solid #E8EAEF;border-radius:14px;padding:17px 18px;box-shadow:0 1px 2px rgba(16,24,43,.04)">
+                  <div style="font-size:12.5px;color:#8B93A3;margin-bottom:10px">{{ st.label }}</div>
+                  <div style="display:flex;align-items:baseline;gap:4px">
+                    <span style="font-size:27px;font-weight:700;font-variant-numeric:tabular-nums">{{ st.value }}</span>
+                    <span style="font-size:13px;color:#8B93A3">{{ st.unit }}</span>
+                  </div>
+                </div>
+              </sc-for>
+            </div>
+
+            <div style="display:grid;grid-template-columns:1.45fr 1fr;gap:16px">
+              <div style="background:#fff;border:1px solid #E8EAEF;border-radius:14px;padding:20px 22px;box-shadow:0 1px 2px rgba(16,24,43,.04)">
+                <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:14px">
+                  <span style="font-size:15px;font-weight:700">今日情报速览</span>
+                  <span onClick="{{ goIntel }}" style="font-size:13px;color:#315CF0;cursor:pointer">查看全部 →</span>
+                </div>
+                <div style="display:flex;flex-direction:column">
+                  <sc-for list="{{ overviewFeed }}" as="f" hint-placeholder-count="4">
+                    <div style="display:flex;align-items:center;gap:12px;padding:12px 0;border-top:1px solid #F0F1F4">
+                      <span style="{{ f.badgeStyle }}">{{ f.kind }}</span>
+                      <span style="flex:1;font-size:13.5px;color:#22293A;line-height:1.5">{{ f.title }}</span>
+                      <span style="font-size:12px;color:#AAB0BC;white-space:nowrap">{{ f.time }}</span>
+                    </div>
+                  </sc-for>
+                </div>
+              </div>
+
+              <div style="display:flex;flex-direction:column;gap:16px">
+                <div style="background:#fff;border:1px solid #E8EAEF;border-radius:14px;padding:20px 22px;box-shadow:0 1px 2px rgba(16,24,43,.04)">
+                  <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:12px">
+                    <span style="font-size:15px;font-weight:700">最近入库</span>
+                    <span onClick="{{ goKb }}" style="font-size:13px;color:#315CF0;cursor:pointer">进入知识库 →</span>
+                  </div>
+                  <div style="display:flex;flex-direction:column">
+                    <sc-for list="{{ recentKb }}" as="k" hint-placeholder-count="4">
+                      <div style="display:flex;align-items:center;gap:9px;padding:9px 0;border-top:1px solid #F0F1F4">
+                        <span style="font-size:11px;color:#5B6473;background:#F1F3F7;border-radius:5px;padding:2px 6px;white-space:nowrap">{{ k.type }}</span>
+                        <span style="flex:1;font-size:13px;color:#22293A;line-height:1.45;overflow:hidden;text-overflow:ellipsis;white-space:nowrap">{{ k.title }}</span>
+                      </div>
+                    </sc-for>
+                  </div>
+                </div>
+
+                <div style="background:#fff;border:1px solid #E8EAEF;border-radius:14px;padding:20px 22px;box-shadow:0 1px 2px rgba(16,24,43,.04)">
+                  <div style="font-size:15px;font-weight:700;margin-bottom:14px">快捷操作</div>
+                  <div style="display:flex;flex-direction:column;gap:10px">
+                    <button onClick="{{ onPullFromOverview }}" style="{{ primaryBtnStyle }}">⚡ 一键拉取情报</button>
+                    <button onClick="{{ onAddFromOverview }}" style="{{ outlineBtnStyle }}">＋ 添加到知识库</button>
+                    <button onClick="{{ onAskFromOverview }}" style="{{ outlineBtnStyle }}">💬 向知识库提问</button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </sc-if>
+
+        <!-- ============ INTEL ============ -->
+        <sc-if value="{{ isIntel }}">
+          <div>
+            <div style="margin-bottom:20px">
+              <h1 style="margin:0;font-size:24px;font-weight:700;letter-spacing:-.01em">情报收集</h1>
+              <div style="margin-top:6px;font-size:13px;color:#8B93A3">一键拉取指定周期内 AI 营销行业资讯与竞品动态，可存入知识库</div>
+            </div>
+
+            <div style="background:#fff;border:1px solid #E8EAEF;border-radius:14px;padding:18px 20px;box-shadow:0 1px 2px rgba(16,24,43,.04);margin-bottom:18px">
+              <div style="display:flex;align-items:center;flex-wrap:wrap;gap:14px">
+                <span style="font-size:13px;color:#5B6473;font-weight:600">采集周期</span>
+                <div style="display:flex;gap:8px">
+                  <button onClick="{{ setPeriodToday }}" style="{{ pTodayStyle }}">今日</button>
+                  <button onClick="{{ setPeriodWeek }}" style="{{ pWeekStyle }}">本周</button>
+                  <button onClick="{{ setPeriodMonth }}" style="{{ pMonthStyle }}">本月</button>
+                  <button onClick="{{ setPeriodQuarter }}" style="{{ pQuarterStyle }}">本季度</button>
+                </div>
+                <button onClick="{{ pullIntel }}" style="{{ primaryBtnStyle }}" style-hover="opacity:.9">{{ pullLabel }}</button>
+              </div>
+              <div style="margin-top:14px;padding-top:13px;border-top:1px solid #F0F1F4;font-size:12px;color:#9AA1AF;line-height:1.6">数据源：36氪 · TechCrunch · 竞品官网 · Meta / Google 政策 · 内部爬取工具（规则可复用）</div>
+            </div>
+
+            <sc-if value="{{ intelIdle }}">
+              <div style="background:#fff;border:1px dashed #D8DCE4;border-radius:14px;padding:56px 20px;text-align:center">
+                <div style="font-size:15px;color:#5B6473;font-weight:600;margin-bottom:6px">选择周期后点击「一键拉取」</div>
+                <div style="font-size:13px;color:#9AA1AF">系统将从多个数据源聚合并去重，输出行业资讯与竞品动态</div>
+              </div>
+            </sc-if>
+
+            <sc-if value="{{ intelLoading }}">
+              <div style="background:#fff;border:1px solid #E8EAEF;border-radius:14px;padding:22px">
+                <div style="display:flex;align-items:center;gap:12px;margin-bottom:20px">
+                  <span style="width:18px;height:18px;border:2px solid #E8EAEF;border-top-color:#315CF0;border-radius:50%;display:inline-block;animation:spin .7s linear infinite"></span>
+                  <span style="font-size:14px;color:#5B6473">正在从 8 个数据源聚合、去重与摘要…</span>
+                </div>
+                <sc-for list="{{ skeletons }}" as="sk" hint-placeholder-count="3">
+                  <div style="padding:14px 0;border-top:1px solid #F0F1F4">
+                    <div style="height:13px;width:62%;background:#EDEFF3;border-radius:6px;margin-bottom:10px"></div>
+                    <div style="height:10px;width:88%;background:#F1F3F7;border-radius:6px"></div>
+                  </div>
+                </sc-for>
+              </div>
+            </sc-if>
+
+            <sc-if value="{{ intelDone }}">
+              <div>
+                <div style="display:flex;align-items:center;justify-content:space-between;background:#EAF0FE;border:1px solid #D6E1FC;border-radius:10px;padding:11px 16px;margin-bottom:18px">
+                  <span style="font-size:13px;color:#12306E">本次共聚合 <b>18</b> 条，去重后 <b>{{ intelTotal }}</b> 条 · 更新于刚刚</span>
+                  <span style="font-size:12px;color:#4B69B8">{{ intelPeriod }}</span>
+                </div>
+
+                <div style="font-size:12px;font-weight:700;letter-spacing:.05em;color:#8B93A3;margin:6px 2px 12px">行业资讯</div>
+                <div style="display:flex;flex-direction:column;gap:12px;margin-bottom:26px">
+                  <sc-for list="{{ industryNews }}" as="f" hint-placeholder-count="3">
+                    <div style="background:#fff;border:1px solid #E8EAEF;border-radius:13px;padding:16px 18px;animation:fadeUp .3s ease both">
+                      <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:8px">
+                        <span style="{{ f.badgeStyle }}">{{ f.kindLabel }}</span>
+                        <span style="font-size:12px;color:#AAB0BC">{{ f.source }} · {{ f.time }}</span>
+                      </div>
+                      <div style="font-size:14.5px;font-weight:600;color:#1A2233;line-height:1.5;margin-bottom:6px">{{ f.title }}</div>
+                      <div style="font-size:13px;color:#6A7280;line-height:1.6;margin-bottom:12px">{{ f.summary }}</div>
+                      <div style="display:flex;align-items:center;justify-content:space-between">
+                        <div style="display:flex;gap:6px">
+                          <sc-for list="{{ f.tags }}" as="t" hint-placeholder-count="2">
+                            <span style="font-size:11px;color:#5B6473;background:#F1F3F7;border-radius:5px;padding:3px 8px">{{ t }}</span>
+                          </sc-for>
+                        </div>
+                        <button onClick="{{ f.onSave }}" style="{{ f.saveStyle }}">{{ f.saveLabel }}</button>
+                      </div>
+                    </div>
+                  </sc-for>
+                </div>
+
+                <div style="font-size:12px;font-weight:700;letter-spacing:.05em;color:#8B93A3;margin:6px 2px 12px">竞品动态</div>
+                <div style="display:flex;flex-direction:column;gap:12px">
+                  <sc-for list="{{ competitorNews }}" as="f" hint-placeholder-count="4">
+                    <div style="background:#fff;border:1px solid #E8EAEF;border-radius:13px;padding:16px 18px;animation:fadeUp .3s ease both">
+                      <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:8px">
+                        <span style="display:inline-flex;align-items:center;gap:6px;font-size:12px;font-weight:700;color:#7A3E9D;background:#F3EAFA;border-radius:6px;padding:3px 9px">竞品 · {{ f.comp }}</span>
+                        <span style="font-size:12px;color:#AAB0BC">{{ f.source }} · {{ f.time }}</span>
+                      </div>
+                      <div style="font-size:14.5px;font-weight:600;color:#1A2233;line-height:1.5;margin-bottom:6px">{{ f.title }}</div>
+                      <div style="font-size:13px;color:#6A7280;line-height:1.6;margin-bottom:12px">{{ f.summary }}</div>
+                      <div style="display:flex;align-items:center;justify-content:space-between">
+                        <div style="display:flex;gap:6px">
+                          <sc-for list="{{ f.tags }}" as="t" hint-placeholder-count="2">
+                            <span style="font-size:11px;color:#5B6473;background:#F1F3F7;border-radius:5px;padding:3px 8px">{{ t }}</span>
+                          </sc-for>
+                        </div>
+                        <button onClick="{{ f.onSave }}" style="{{ f.saveStyle }}">{{ f.saveLabel }}</button>
+                      </div>
+                    </div>
+                  </sc-for>
+                </div>
+              </div>
+            </sc-if>
+          </div>
+        </sc-if>
+
+        <!-- ============ KB ============ -->
+        <sc-if value="{{ isKb }}">
+          <div>
+            <div style="display:flex;align-items:flex-end;justify-content:space-between;margin-bottom:18px">
+              <div>
+                <h1 style="margin:0;font-size:24px;font-weight:700;letter-spacing:-.01em">知识库</h1>
+                <div style="margin-top:6px;font-size:13px;color:#8B93A3">链接 / 文档自动解析入库，支持 RAG 对话调用</div>
+              </div>
+              <button onClick="{{ openKbModal }}" style="{{ primaryBtnStyle }}">＋ 添加内容</button>
+            </div>
+
+            <div style="display:flex;gap:9px;margin-bottom:16px;flex-wrap:wrap">
+              <span style="font-size:12.5px;font-weight:600;color:#fff;background:#22293A;border-radius:20px;padding:6px 13px">全部 {{ kbCount }}</span>
+              <span style="font-size:12.5px;color:#5B6473;background:#fff;border:1px solid #E8EAEF;border-radius:20px;padding:6px 13px">竞品</span>
+              <span style="font-size:12.5px;color:#5B6473;background:#fff;border:1px solid #E8EAEF;border-radius:20px;padding:6px 13px">行业</span>
+              <span style="font-size:12.5px;color:#5B6473;background:#fff;border:1px solid #E8EAEF;border-radius:20px;padding:6px 13px">投放政策</span>
+              <span style="font-size:12.5px;color:#5B6473;background:#fff;border:1px solid #E8EAEF;border-radius:20px;padding:6px 13px">内部</span>
+            </div>
+
+            <div style="background:#fff;border:1px solid #E8EAEF;border-radius:14px;overflow:hidden;box-shadow:0 1px 2px rgba(16,24,43,.04)">
+              <div style="display:grid;grid-template-columns:2.6fr .7fr 1fr 1.2fr 1fr .8fr;gap:12px;padding:12px 20px;background:#FAFBFC;border-bottom:1px solid #EDEFF3;font-size:12px;font-weight:600;color:#8B93A3">
+                <div>名称</div><div>类型</div><div>来源</div><div>标签</div><div>状态</div><div>入库时间</div>
+              </div>
+              <sc-for list="{{ kbItems }}" as="k" hint-placeholder-count="5">
+                <div style="display:grid;grid-template-columns:2.6fr .7fr 1fr 1.2fr 1fr .8fr;gap:12px;padding:14px 20px;border-bottom:1px solid #F2F3F6;align-items:center">
+                  <div style="font-size:13.5px;color:#1A2233;font-weight:500;line-height:1.45">{{ k.title }}</div>
+                  <div style="font-size:12px;color:#5B6473">{{ k.type }}</div>
+                  <div style="font-size:12px;color:#8B93A3">{{ k.source }}</div>
+                  <div style="display:flex;gap:5px;flex-wrap:wrap">
+                    <sc-for list="{{ k.tags }}" as="t" hint-placeholder-count="2">
+                      <span style="font-size:11px;color:#5B6473;background:#F1F3F7;border-radius:5px;padding:2px 7px">{{ t }}</span>
+                    </sc-for>
+                  </div>
+                  <div>
+                    <span style="{{ k.statusStyle }}">
+                      <sc-if value="{{ k.parsing }}"><span style="width:11px;height:11px;border:2px solid #EAD9B0;border-top-color:#B4770E;border-radius:50%;display:inline-block;animation:spin .7s linear infinite"></span></sc-if>
+                      {{ k.statusLabel }}
+                    </span>
+                  </div>
+                  <div style="font-size:12px;color:#8B93A3">{{ k.time }}</div>
+                </div>
+              </sc-for>
+            </div>
+          </div>
+        </sc-if>
+
+        <!-- ============ CHAT ============ -->
+        <sc-if value="{{ isChat }}">
+          <div style="display:flex;flex-direction:column;height:calc(100vh - 168px);background:#fff;border:1px solid #E8EAEF;border-radius:16px;overflow:hidden;box-shadow:0 1px 2px rgba(16,24,43,.04)">
+            <div style="flex:none;padding:16px 22px;border-bottom:1px solid #EDEFF3;display:flex;align-items:center;justify-content:space-between">
+              <div>
+                <div style="font-size:16px;font-weight:700">智能问答</div>
+                <div style="font-size:12px;color:#8B93A3;margin-top:3px">基于知识库的 RAG 检索问答，回答附引用来源</div>
+              </div>
+              <span style="font-size:11px;font-weight:600;color:#12306E;background:#EAF0FE;border-radius:20px;padding:5px 11px">RAG · 已入库 {{ kbCount }} 条</span>
+            </div>
+
+            <div style="flex:1;overflow:auto;padding:22px 24px;background:#F7F8FA">
+              <sc-for list="{{ messages }}" as="m" hint-placeholder-count="1">
+                <div style="{{ m.rowStyle }}">
+                  <div style="max-width:78%">
+                    <div style="{{ m.bubbleStyle }}">{{ m.text }}</div>
+                    <sc-if value="{{ m.hasCites }}">
+                      <div style="display:flex;flex-wrap:wrap;gap:6px;margin-top:8px">
+                        <sc-for list="{{ m.cites }}" as="c" hint-placeholder-count="2">
+                          <span style="display:inline-flex;align-items:center;gap:5px;font-size:11.5px;color:#4B69B8;background:#fff;border:1px solid #D6E1FC;border-radius:7px;padding:4px 9px">
+                            <b style="color:#315CF0">[{{ c.n }}]</b>{{ c.label }}
+                          </span>
+                        </sc-for>
+                      </div>
+                    </sc-if>
+                  </div>
+                </div>
+              </sc-for>
+              <sc-if value="{{ chatThinking }}">
+                <div style="display:flex;justify-content:flex-start;margin-bottom:16px">
+                  <div style="padding:14px 16px;border-radius:14px 14px 14px 4px;background:#fff;border:1px solid #E8EAEF;display:flex;gap:5px">
+                    <span style="width:7px;height:7px;border-radius:50%;background:#B7BEC9;display:inline-block;animation:blink 1.2s infinite"></span>
+                    <span style="width:7px;height:7px;border-radius:50%;background:#B7BEC9;display:inline-block;animation:blink 1.2s infinite .2s"></span>
+                    <span style="width:7px;height:7px;border-radius:50%;background:#B7BEC9;display:inline-block;animation:blink 1.2s infinite .4s"></span>
+                  </div>
+                </div>
+              </sc-if>
+            </div>
+
+            <div style="flex:none;padding:14px 22px 16px;border-top:1px solid #EDEFF3">
+              <div style="display:flex;gap:8px;flex-wrap:wrap;margin-bottom:11px">
+                <sc-for list="{{ quicks }}" as="q" hint-placeholder-count="3">
+                  <button onClick="{{ q.onAsk }}" style="padding:7px 13px;border-radius:20px;border:1px solid #E1E5EC;background:#fff;color:#5B6473;font-size:12.5px;cursor:pointer" style-hover="border-color:#C9D6FB;color:#315CF0">{{ q.text }}</button>
+                </sc-for>
+              </div>
+              <div style="display:flex;gap:10px;align-items:center">
+                <input value="{{ chatInput }}" onInput="{{ setChatInput }}" onKeyDown="{{ onChatKey }}" placeholder="向知识库提问，回车发送…" style="flex:1;height:42px;border:1px solid #E1E5EC;border-radius:11px;padding:0 15px;font-size:14px;outline:none;color:#1A2233" style-focus="border-color:#315CF0" />
+                <button onClick="{{ send }}" style="{{ sendBtnStyle }}">发送</button>
+              </div>
+              <div style="font-size:11px;color:#AAB0BC;margin-top:9px">回答仅基于已入库内容，可能不完整；演示环境。</div>
+            </div>
+          </div>
+        </sc-if>
+
+        <!-- ============ ACCESS ============ -->
+        <sc-if value="{{ isAccess }}">
+          <div>
+            <div style="margin-bottom:20px">
+              <h1 style="margin:0;font-size:24px;font-weight:700;letter-spacing:-.01em">权限与成员</h1>
+              <div style="margin-top:6px;font-size:13px;color:#8B93A3">仅面向品牌、融资部门开放，其他部门默认拒绝访问</div>
+            </div>
+
+            <div style="display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:18px">
+              <div style="background:#fff;border:1px solid #E8EAEF;border-radius:14px;padding:20px 22px;box-shadow:0 1px 2px rgba(16,24,43,.04)">
+                <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:14px">
+                  <span style="font-size:15px;font-weight:700">品牌部</span>
+                  <span style="font-size:12px;color:#0E7A54;background:#E6F6EF;border-radius:20px;padding:4px 11px;font-weight:600">已开通 · 4 人</span>
+                </div>
+                <div style="display:flex;gap:8px;margin-bottom:14px">
+                  <span style="width:34px;height:34px;border-radius:50%;background:#E7ECF7;color:#3E5CDB;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:600">张一</span>
+                  <span style="width:34px;height:34px;border-radius:50%;background:#E7ECF7;color:#3E5CDB;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:600">李二</span>
+                  <span style="width:34px;height:34px;border-radius:50%;background:#E7ECF7;color:#3E5CDB;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:600">王三</span>
+                  <span style="width:34px;height:34px;border-radius:50%;background:#F1F3F7;color:#8B93A3;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:600">+1</span>
+                </div>
+                <div style="font-size:12.5px;color:#6A7280;line-height:1.6">可见范围：全部情报 · 全部知识库 · RAG 问答</div>
+              </div>
+              <div style="background:#fff;border:1px solid #E8EAEF;border-radius:14px;padding:20px 22px;box-shadow:0 1px 2px rgba(16,24,43,.04)">
+                <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:14px">
+                  <span style="font-size:15px;font-weight:700">融资部</span>
+                  <span style="font-size:12px;color:#0E7A54;background:#E6F6EF;border-radius:20px;padding:4px 11px;font-weight:600">已开通 · 3 人</span>
+                </div>
+                <div style="display:flex;gap:8px;margin-bottom:14px">
+                  <span style="width:34px;height:34px;border-radius:50%;color:#fff;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:600" style="{{ userAvatarStyle }}">你</span>
+                  <span style="width:34px;height:34px;border-radius:50%;background:#E7ECF7;color:#3E5CDB;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:600">陈四</span>
+                  <span style="width:34px;height:34px;border-radius:50%;background:#E7ECF7;color:#3E5CDB;display:flex;align-items:center;justify-content:center;font-size:12px;font-weight:600">孙五</span>
+                </div>
+                <div style="font-size:12.5px;color:#6A7280;line-height:1.6">可见范围：全部情报 · 全部知识库 · RAG 问答</div>
+              </div>
+            </div>
+
+            <div style="background:#fff;border:1px solid #E8EAEF;border-radius:14px;overflow:hidden;box-shadow:0 1px 2px rgba(16,24,43,.04)">
+              <div style="display:grid;grid-template-columns:1.6fr 1fr 1fr 1fr 1fr;gap:8px;padding:13px 20px;background:#FAFBFC;border-bottom:1px solid #EDEFF3;font-size:12px;font-weight:600;color:#8B93A3">
+                <div>权限项</div><div style="text-align:center">管理员(IR)</div><div style="text-align:center">品牌部</div><div style="text-align:center">融资部</div><div style="text-align:center">只读访客</div>
+              </div>
+              <sc-for list="{{ matrixRows }}" as="row" hint-placeholder-count="5">
+                <div style="display:grid;grid-template-columns:1.6fr 1fr 1fr 1fr 1fr;gap:8px;padding:13px 20px;border-bottom:1px solid #F2F3F6;align-items:center">
+                  <div style="font-size:13px;color:#1A2233;font-weight:500">{{ row.name }}</div>
+                  <sc-for list="{{ row.cells }}" as="c" hint-placeholder-count="4">
+                    <div style="text-align:center;font-size:14px" style="{{ c.style }}">{{ c.v }}</div>
+                  </sc-for>
+                </div>
+              </sc-for>
+            </div>
+            <div style="margin-top:14px;font-size:12px;color:#9AA1AF">默认拒绝：非品牌 / 融资部门成员无法访问本中台任何模块。</div>
+          </div>
+        </sc-if>
+
+      </div>
+    </div>
+  </div>
+
+  <!-- KB ADD MODAL -->
+  <sc-if value="{{ kbModalOpen }}">
+    <div onClick="{{ closeKbModal }}" style="position:fixed;inset:0;background:rgba(16,24,43,.42);display:flex;align-items:center;justify-content:center;z-index:50">
+      <div onClick="{{ stop }}" style="width:520px;max-width:92vw;background:#fff;border-radius:16px;padding:24px;box-shadow:0 24px 60px rgba(16,24,43,.28)">
+        <div style="font-size:17px;font-weight:700;margin-bottom:4px">添加到知识库</div>
+        <div style="font-size:13px;color:#8B93A3;margin-bottom:18px">粘贴链接或文档标题，系统将自动解析、打标签并入库，供 RAG 调用</div>
+        <input value="{{ kbInput }}" onInput="{{ setKbInput }}" placeholder="https://…  或  文档名称" style="width:100%;height:44px;border:1px solid #E1E5EC;border-radius:11px;padding:0 15px;font-size:14px;outline:none;margin-bottom:10px" style-focus="border-color:#315CF0" />
+        <div style="display:flex;gap:8px;margin-bottom:20px">
+          <span style="font-size:12px;color:#8B93A3">建议来源：</span>
+          <span style="font-size:12px;color:#5B6473;background:#F1F3F7;border-radius:5px;padding:2px 8px">竞品官网</span>
+          <span style="font-size:12px;color:#5B6473;background:#F1F3F7;border-radius:5px;padding:2px 8px">行业报告</span>
+          <span style="font-size:12px;color:#5B6473;background:#F1F3F7;border-radius:5px;padding:2px 8px">投放政策</span>
+        </div>
+        <div style="display:flex;justify-content:flex-end;gap:10px">
+          <button onClick="{{ closeKbModal }}" style="{{ outlineBtnStyle }}">取消</button>
+          <button onClick="{{ addKbItem }}" style="{{ primaryBtnStyle }}">解析并入库</button>
+        </div>
+      </div>
+    </div>
+  </sc-if>
+
+</div>
+</x-dc>
+<script type="text/x-dc" data-dc-script data-props="{
+  &quot;$preview&quot;: { &quot;width&quot;: &quot;100%&quot;, &quot;height&quot;: &quot;100%&quot; },
+  &quot;accentColor&quot;: { &quot;editor&quot;: &quot;color&quot;, &quot;default&quot;: &quot;#315CF0&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;外观&quot; },
+  &quot;companyName&quot;: { &quot;editor&quot;: &quot;text&quot;, &quot;default&quot;: &quot;OranAI&quot;, &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;外观&quot; },
+  &quot;defaultView&quot;: { &quot;editor&quot;: &quot;enum&quot;, &quot;default&quot;: &quot;overview&quot;, &quot;options&quot;: [&quot;overview&quot;, &quot;intel&quot;, &quot;kb&quot;, &quot;chat&quot;, &quot;access&quot;], &quot;tsType&quot;: &quot;string&quot;, &quot;section&quot;: &quot;行为&quot; }
+}">
+class Component extends DCLogic {
+  state = {
+    view: (this.props && this.props.defaultView) || 'overview',
+    kbItems: [
+      { id:'s1', title:'特赞 Tezign 完成新一轮融资官宣', type:'链接', source:'36氪', tags:['竞品','融资'], status:'done', time:'07-11' },
+      { id:'s2', title:'2025 全球 AI 营销市场规模与趋势报告', type:'文档', source:'内部 · PDF', tags:['行业','市场'], status:'done', time:'07-10' },
+      { id:'s3', title:'钛动科技 TopWork 多语言创意生成更新', type:'链接', source:'官网', tags:['竞品','产品'], status:'done', time:'07-09' },
+      { id:'s4', title:'Meta 广告投放政策 2025 Q2 变更说明', type:'链接', source:'Meta Business', tags:['投放','政策'], status:'done', time:'07-08' },
+      { id:'s5', title:'奥创光年 AIGC 营销大模型发布会纪要', type:'文档', source:'内部 · DOCX', tags:['竞品','技术'], status:'done', time:'07-05' },
+    ],
+    kbModalOpen:false, kbInput:'',
+    intelStatus:'idle', intelPeriod:'本周',
+    industryNews: [
+      { id:'i1', title:'Gartner：2026 年超 60% 出海品牌将用生成式 AI 生产广告创意', source:'Gartner', time:'2小时前', summary:'报告指出 AIGC 正从辅助工具变为创意生产主链路，出海营销场景渗透最快。', tags:['行业','趋势'], saved:false },
+      { id:'i2', title:'TikTok 更新 Symphony 广告创意 AI 套件，支持多语言数字人', source:'TikTok for Business', time:'今天', summary:'新增数字人口播与脚本生成，直接影响出海短视频投放的创意成本。', tags:['平台','创意'], saved:false },
+      { id:'i3', title:'Google Performance Max 全面接入 Gemini', source:'Google Ads', time:'昨天', summary:'PMax 创意与竞价策略引入 Gemini，投放自动化程度进一步提高。', tags:['投放','政策'], saved:false },
+    ],
+    competitorNews: [
+      { id:'c1', comp:'特赞 Tezign', title:'与国际快消品牌达成内容中台合作', source:'36氪', time:'今天', summary:'继续强化企业内容资产管理（DAM）与内容供应链定位。', tags:['合作','内容中台'], saved:false },
+      { id:'c2', comp:'钛动科技', title:'TopWork 上线多语言创意批量生成', source:'官网', time:'昨天', summary:'面向出海广告主，主打一键多语言多版本创意，与 OranAI 场景高度重叠。', tags:['产品','出海'], saved:false },
+      { id:'c3', comp:'奥创光年', title:'发布营销 Agent，宣称投放降本 40%', source:'钛媒体', time:'2天前', summary:'从 AIGC 内容向营销 Agent 演进，强调自动化与 ROI。', tags:['技术','Agent'], saved:false },
+      { id:'c4', comp:'LessieAIden', title:'内测 AI 数字人带货，进军东南亚', source:'公众号', time:'3天前', summary:'切入东南亚直播电商，数字人 + 本地化内容，为潜在区域竞品。', tags:['数字人','东南亚'], saved:false },
+    ],
+    messages: [
+      { role:'assistant', text:'你好，我是 OranAI 情报助手。我可以基于已入库的行业报告、竞品动态与投放政策回答问题，并附上引用来源。试试下面的推荐问题，或直接提问。', cites:[] },
+    ],
+    chatInput:'', chatThinking:false,
+  };
+
+  go(v){ this.setState({ view:v }); }
+
+  openKbModal(){ this.setState({ kbModalOpen:true }); }
+  closeKbModal(){ this.setState({ kbModalOpen:false, kbInput:'' }); }
+  addKbItem(){
+    const v = (this.state.kbInput || '').trim();
+    if(!v) return;
+    const isLink = /^https?:\/\//i.test(v) || /\.[a-z]{2,}/i.test(v);
+    const id = 'k' + Date.now();
+    const item = { id, title: v.length>46 ? v.slice(0,46)+'…' : v, type: isLink?'链接':'文档', source:'手动添加', tags:['待分类'], status:'parsing', time:'刚刚' };
+    this.setState(s => ({ kbItems:[item, ...s.kbItems], kbModalOpen:false, kbInput:'' }));
+    setTimeout(() => {
+      this.setState(s => ({ kbItems: s.kbItems.map(it => it.id===id ? { ...it, status:'done', tags:['竞品','待复核'] } : it) }));
+    }, 1700);
+  }
+
+  setPeriod(p){ this.setState({ intelPeriod:p }); }
+  pullIntel(){
+    if(this.state.intelStatus==='loading') return;
+    this.setState({ intelStatus:'loading' });
+    setTimeout(() => this.setState({ intelStatus:'done' }), 1500);
+  }
+  saveIntel(id){
+    const all = [...this.state.industryNews, ...this.state.competitorNews];
+    const src = all.find(n => n.id===id);
+    this.setState(s => ({
+      industryNews: s.industryNews.map(n => n.id===id ? { ...n, saved:true } : n),
+      competitorNews: s.competitorNews.map(n => n.id===id ? { ...n, saved:true } : n),
+    }));
+    if(src){
+      const kid = 'k'+id;
+      if(!this.state.kbItems.some(it => it.id===kid)){
+        this.setState(s => ({ kbItems:[{ id:kid, title:src.title, type:'链接', source:'情报收集', tags:src.tags, status:'done', time:'刚刚' }, ...s.kbItems] }));
+      }
+    }
+  }
+
+  answerFor(q){
+    if(q.indexOf('融资')>=0 || q.indexOf('动作')>=0 || q.indexOf('产品')>=0){
+      return { text:'根据已入库情报：① 特赞 Tezign 官宣新一轮融资，继续加码企业内容中台；② 钛动科技 TopWork 上线多语言创意批量生成，强化出海投放；③ 奥创光年发布营销 Agent，主打降本增效。整体趋势是竞品从"工具"向"平台 / Agent"演进，与 OranAI 出海投放主场景存在部分重叠。', cites:[{n:1,label:'特赞完成新一轮融资'},{n:2,label:'钛动 TopWork 更新'},{n:3,label:'奥创光年营销 Agent'}] };
+    }
+    if(q.indexOf('特赞')>=0 || q.indexOf('定位')>=0 || q.indexOf('差异')>=0){
+      return { text:'特赞 Tezign 以内容资产管理（DAM）与内容供应链为核心，服务大型品牌的内容生产与治理；OranAI 聚焦出海广告投放与增长，强调"创意生产 → 投放 ROI"的闭环。二者在 AI 生成创意环节重叠，但特赞偏内容中台、OranAI 偏投放增长。', cites:[{n:1,label:'2025 AI 营销市场报告'}] };
+    }
+    if(q.indexOf('政策')>=0 || q.indexOf('投放')>=0){
+      return { text:'近期已入库政策：Meta 广告投放政策 2025 Q2 变更，涉及素材审核与定向口径；Google Performance Max 全面接入 Gemini，创意生成与竞价策略调整。建议评估对现有出海账户的合规与投放效率影响。', cites:[{n:1,label:'Meta 2025 Q2 政策变更'},{n:2,label:'Google PMax 接入 Gemini'}] };
+    }
+    return { text:'已在知识库中检索相关内容。这是演示环境，正式版将基于飞书知识库的 RAG 能力返回带引用来源的答案。你可以试试下方的推荐问题。', cites:[] };
+  }
+  ask(q){
+    q = (q || '').trim();
+    if(!q || this.state.chatThinking) return;
+    this.setState(s => ({ messages:[...s.messages, { role:'user', text:q, cites:[] }], chatInput:'', chatThinking:true }));
+    setTimeout(() => {
+      const a = this.answerFor(q);
+      this.setState(s => ({ messages:[...s.messages, { role:'assistant', text:a.text, cites:a.cites }], chatThinking:false }));
+    }, 950);
+  }
+
+  navStyle(active){
+    return { display:'flex', alignItems:'center', gap:'11px', padding:'9px 12px', borderRadius:'9px', cursor:'pointer', fontSize:'14px', fontWeight:active?600:500, color:active?this.AC():'#5B6473', background:active?'#EAF0FE':'transparent', transition:'background .15s' };
+  }
+  periodStyle(active){
+    return { padding:'7px 15px', borderRadius:'8px', cursor:'pointer', fontSize:'13px', fontWeight:active?600:500, color:active?'#fff':'#5B6473', background:active?this.AC():'#fff', border:active?('1px solid '+this.AC()):'1px solid #E8EAEF' };
+  }
+  AC(){ return (this.props && this.props.accentColor) || '#315CF0'; }
+
+  renderVals(){
+    const s = this.state;
+    const AC = this.AC();
+    const badge = (kind) => {
+      const map = { '竞品':{c:'#7A3E9D',bg:'#F3EAFA'}, '行业':{c:'#12306E',bg:'#EAF0FE'}, '政策':{c:'#B4770E',bg:'#FBF3E2'}, '平台':{c:'#0E7A54',bg:'#E6F6EF'} };
+      const m = map[kind] || map['行业'];
+      return { display:'inline-block', padding:'2px 9px', borderRadius:'6px', fontSize:'11px', fontWeight:700, color:m.c, background:m.bg };
+    };
+    const saveStyle = (saved) => ({ padding:'6px 13px', borderRadius:'8px', fontSize:'12px', fontWeight:600, cursor:'pointer', color:saved?'#0E7A54':AC, background:saved?'#E6F6EF':'#fff', border:saved?'1px solid #CDEBDD':('1px solid #C9D6FB') });
+
+    const kbItems = s.kbItems.map(it => ({
+      ...it,
+      parsing: it.status==='parsing',
+      statusLabel: it.status==='parsing' ? '解析中' : '已入库',
+      statusStyle: it.status==='parsing'
+        ? { display:'inline-flex', alignItems:'center', gap:'6px', padding:'3px 9px', borderRadius:'20px', fontSize:'12px', fontWeight:600, color:'#B4770E', background:'#FBF3E2' }
+        : { display:'inline-flex', alignItems:'center', gap:'6px', padding:'3px 9px', borderRadius:'20px', fontSize:'12px', fontWeight:600, color:'#0E7A54', background:'#E6F6EF' },
+    }));
+
+    const industryNews = s.industryNews.map(n => ({ ...n, kindLabel:n.tags[0], badgeStyle:badge(n.tags[0]), saveLabel:n.saved?'已存入 ✓':'存入知识库', saveStyle:saveStyle(n.saved), onSave:() => this.saveIntel(n.id) }));
+    const competitorNews = s.competitorNews.map(n => ({ ...n, saveLabel:n.saved?'已存入 ✓':'存入知识库', saveStyle:saveStyle(n.saved), onSave:() => this.saveIntel(n.id) }));
+
+    const messages = s.messages.map(m => {
+      const isUser = m.role==='user';
+      return { ...m, isUser, hasCites:!!(m.cites && m.cites.length),
+        rowStyle:{ display:'flex', justifyContent:isUser?'flex-end':'flex-start', marginBottom:'16px' },
+        bubbleStyle:{ padding:'12px 16px', borderRadius:isUser?'14px 14px 4px 14px':'14px 14px 14px 4px', fontSize:'14px', lineHeight:1.75, color:isUser?'#fff':'#22293A', background:isUser?AC:'#fff', border:isUser?'none':'1px solid #E8EAEF' } };
+    });
+
+    const quickTexts = ['本季度竞品在融资和产品上有哪些动作？', '特赞和 OranAI 的定位差异是什么？', '出海投放最新政策变化？'];
+    const quicks = quickTexts.map(q => ({ text:q, onAsk:() => this.ask(q) }));
+
+    const mk = (name, cells) => ({ name, cells: cells.map(ok => ({ v: ok?'✓':'—', style:{ color: ok?'#0E9F6E':'#C9CDD6', fontWeight: ok?700:400 } })) });
+    const matrixRows = [
+      mk('查看情报', [true,true,true,true]),
+      mk('管理知识库', [true,true,true,false]),
+      mk('RAG 智能问答', [true,true,true,true]),
+      mk('配置数据源', [true,false,false,false]),
+      mk('邀请成员', [true,false,false,false]),
+    ];
+
+    const primaryBtnStyle = { padding:'9px 17px', borderRadius:'9px', border:'none', cursor:'pointer', fontSize:'13px', fontWeight:600, color:'#fff', background:AC };
+    const outlineBtnStyle = { padding:'9px 17px', borderRadius:'9px', cursor:'pointer', fontSize:'13px', fontWeight:600, color:'#22293A', background:'#fff', border:'1px solid #E1E5EC' };
+    const sendBtnStyle = { height:'42px', padding:'0 22px', borderRadius:'11px', border:'none', cursor:'pointer', fontSize:'14px', fontWeight:600, color:'#fff', background:AC };
+
+    return {
+      companyName: (this.props && this.props.companyName) || 'OranAI',
+      userAvatarStyle: { background:AC },
+      view:s.view, isOverview:s.view==='overview', isIntel:s.view==='intel', isKb:s.view==='kb', isChat:s.view==='chat', isAccess:s.view==='access',
+      goOverview:() => this.go('overview'), goIntel:() => this.go('intel'), goKb:() => this.go('kb'), goChat:() => this.go('chat'), goAccess:() => this.go('access'),
+      navOverviewStyle:this.navStyle(s.view==='overview'), navIntelStyle:this.navStyle(s.view==='intel'), navKbStyle:this.navStyle(s.view==='kb'), navChatStyle:this.navStyle(s.view==='chat'), navAccessStyle:this.navStyle(s.view==='access'),
+
+      stats: [ { label:'知识库条目', value:String(s.kbItems.length), unit:'条' }, { label:'本周期情报', value:'18', unit:'条' }, { label:'监测竞品', value:'6', unit:'家' }, { label:'RAG 问答 / 本周', value:'37', unit:'次' } ],
+      overviewFeed: [
+        { kind:'竞品', badgeStyle:badge('竞品'), title:'钛动科技 · TopWork 上线多语言创意批量生成', time:'昨天' },
+        { kind:'行业', badgeStyle:badge('行业'), title:'Gartner：超 60% 出海品牌将用生成式 AI 生产创意', time:'2小时前' },
+        { kind:'竞品', badgeStyle:badge('竞品'), title:'奥创光年 · 发布营销 Agent，宣称降本 40%', time:'2天前' },
+        { kind:'政策', badgeStyle:badge('政策'), title:'Google Performance Max 全面接入 Gemini', time:'昨天' },
+      ],
+      recentKb: kbItems.slice(0,4),
+      onPullFromOverview:() => { this.setState({ view:'intel' }); this.pullIntel(); },
+      onAddFromOverview:() => this.setState({ view:'kb', kbModalOpen:true }),
+      onAskFromOverview:() => this.setState({ view:'chat' }),
+
+      kbItems, kbCount:s.kbItems.length, kbModalOpen:s.kbModalOpen, kbInput:s.kbInput,
+      setKbInput:(e) => this.setState({ kbInput:e.target.value }),
+      openKbModal:() => this.openKbModal(), closeKbModal:() => this.closeKbModal(), addKbItem:() => this.addKbItem(),
+      stop:(e) => e.stopPropagation(),
+
+      intelStatus:s.intelStatus, intelIdle:s.intelStatus==='idle', intelLoading:s.intelStatus==='loading', intelDone:s.intelStatus==='done',
+      intelPeriod:s.intelPeriod, pullLabel:'一键拉取（'+s.intelPeriod+'）', intelTotal:12,
+      setPeriodToday:() => this.setPeriod('今日'), setPeriodWeek:() => this.setPeriod('本周'), setPeriodMonth:() => this.setPeriod('本月'), setPeriodQuarter:() => this.setPeriod('本季度'),
+      pTodayStyle:this.periodStyle(s.intelPeriod==='今日'), pWeekStyle:this.periodStyle(s.intelPeriod==='本周'), pMonthStyle:this.periodStyle(s.intelPeriod==='本月'), pQuarterStyle:this.periodStyle(s.intelPeriod==='本季度'),
+      pullIntel:() => this.pullIntel(),
+      skeletons:[1,2,3], industryNews, competitorNews,
+
+      messages, chatThinking:s.chatThinking, chatInput:s.chatInput, quicks,
+      setChatInput:(e) => this.setState({ chatInput:e.target.value }),
+      onChatKey:(e) => { if(e.key==='Enter') this.ask(this.state.chatInput); },
+      send:() => this.ask(this.state.chatInput),
+
+      matrixRows,
+      primaryBtnStyle, outlineBtnStyle, sendBtnStyle,
+    };
+  }
+}
+</script>
+</body>
+</html>
