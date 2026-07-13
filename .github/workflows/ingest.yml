@@ -1,0 +1,30 @@
+name: 情报抓取 (ingest)
+on:
+  schedule:
+    - cron: "0 22 * * *"   # 每天北京时间约 06:00
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: 抓取情报
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/ingest.py
+      - name: 提交更新
+        run: |
+          git config user.name  "oran-intel-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/knowledge.js data/knowledge.json
+          if git diff --staged --quiet; then
+            echo "无新增情报，跳过提交。"
+          else
+            git commit -m "chore(intel): 定时更新知识库 $(date -u +%F)"
+            git push
+          fi
