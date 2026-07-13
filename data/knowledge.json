@@ -1,5 +1,4 @@
-/* 自动生成 by scripts/ingest.py —— 请勿手改 */
-window.KB_DATA = {
+{
  "meta": {
   "generated": "2026-07-13",
   "origin": "ingest.py · Google News RSS",
@@ -1926,4 +1925,4 @@ window.KB_DATA = {
    ]
   }
  ]
-};
+}
