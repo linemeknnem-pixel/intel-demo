@@ -2,9 +2,108 @@
  "meta": {
   "generated": "2026-07-14",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 12 条，合计 161 条"
+  "note": "新增 7 条，合计 168 条"
  },
  "items": [
+  {
+   "id": "n73365d2c08",
+   "category": "竞品",
+   "company": "",
+   "title": "全球首批 | 钛动科技成为 ChatGPT Ads 官方认证合作伙伴 - 美通社",
+   "source": "美通社",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LN2VaQjFlZjY5SWFHeDF6MGR6WFJSRjl3MEtsSTZNVEl4YktkVTlQT2R5dXV6X09YdDhpNDRRaVpHOGY1NjFwNFk0dFhVLVpHbjlOSVBrOA?oc=5",
+   "date": "2026-07-14",
+   "summary": "全球首批 | 钛动科技成为 ChatGPT Ads 官方认证合作伙伴  美通社",
+   "body": "全球首批 | 钛动科技成为 ChatGPT Ads 官方认证合作伙伴  美通社",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n0c9c62ad4d",
+   "category": "竞品",
+   "company": "",
+   "title": "36岁，账上躺着30亿，他是最懂海外流量的中国人 - iceo.com.cn",
+   "source": "iceo.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8wY3Vod1FkdWJtQjZodGF5X25oeW5nbnFMQm52QTN1cHg1OFRfc3dmNFA3ZGRWME5RZVN4dk5VcWxmTlBhT3NDQVpWMnNyNV9vV1l6c0JVN2Fia3k2S0NUVm1ZdGtWd1N4RUJTVXJHZ1JwSXY5YVE?oc=5",
+   "date": "2026-04-13",
+   "summary": "36岁，账上躺着30亿，他是最懂海外流量的中国人  iceo.com.cn",
+   "body": "36岁，账上躺着30亿，他是最懂海外流量的中国人  iceo.com.cn",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n82c89d7a3f",
+   "category": "行业",
+   "company": "",
+   "title": "谷歌全球推出广告AI标识但存漏洞引发争议- 快讯 - 亿邦动力网",
+   "source": "亿邦动力网",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE40ZzVaVE5MS0pId1dMZHFSTllDV3FVRFdFQ3Vka3RwcnhwaG1rYXBHeW8zOF9qOXk2Z2hPWmVUeFFpN0JGM09fRGRqWklpY3FPTTRVajNTMW0?oc=5",
+   "date": "2026-07-14",
+   "summary": "谷歌全球推出广告AI标识但存漏洞引发争议- 快讯  亿邦动力网",
+   "body": "谷歌全球推出广告AI标识但存漏洞引发争议- 快讯  亿邦动力网",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "nb14883ec3e",
+   "category": "政策",
+   "company": "",
+   "title": "TikTok AI内容治理升级：批量合成带货视频面临系统拦截 - 手机网易网",
+   "source": "手机网易网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tZEFqeHN3dDFHcENFNXc5UFFhQUhvSmJEZXZJTHR4U0c4emVBRkNtMThpVkhLazFRelplRU1PUFE3bFZVMlpFNGtwem5oMlNybmY2b1RBX1JYbEo1MkMwVWN3?oc=5",
+   "date": "2026-07-14",
+   "summary": "TikTok AI内容治理升级：批量合成带货视频面临系统拦截  手机网易网",
+   "body": "TikTok AI内容治理升级：批量合成带货视频面临系统拦截  手机网易网",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "ne92975eb17",
+   "category": "政策",
+   "company": "",
+   "title": "OpenAI、Google 賣AI模型給黑名單中企 美政策爆漏洞 - 世界新聞網",
+   "source": "世界新聞網",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbk9YUmlaSmViU1Nzc2FXUS1kdEdYNHlqU0R4UlR3TDlFMS1Jc1poMDhzSC1ralo0TE8tc3RYZXFqOUg5ZWlJblZLa2lFNi04WjJtMW9ySTJYSWk3VHYyTXJ1b240R1RINFBmR0lBbzBXR3lIcVA1dENxYWtfcWR3aTloWGhDeTZV0gFnQVVfeXFMT0NCWExINy1SRkJBbDVyek5ReWVWYzV5VFRLZDdsb011WGtBaU1JWHItU3pwMno3SzVsTVR2SVhzbmtMU1IwYmJYVDVvX1g2eTZ4R0tjQVN6SlFLZ1hjYWdsNDViNGRoaw?oc=5",
+   "date": "2026-07-11",
+   "summary": "OpenAI、Google 賣AI模型給黑名單中企 美政策爆漏洞  世界新聞網",
+   "body": "OpenAI、Google 賣AI模型給黑名單中企 美政策爆漏洞  世界新聞網",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n39f5c8ebd5",
+   "category": "消费者",
+   "company": "",
+   "title": "抖音电商：过去一年平台运动消费成交额同比增长38% - 亿邦动力网",
+   "source": "亿邦动力网",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1vcVBrYXh5ejR6WU1EUVpSeDBCRjF5OVBzTVN3UmIzLS1UdXlCaFZPWVBJeklEa2ZwSVB1OW1tX2tkR3ZJVGwxRnVOYWJmUE9kaU54NFktUDI?oc=5",
+   "date": "2026-07-06",
+   "summary": "抖音电商：过去一年平台运动消费成交额同比增长38%  亿邦动力网",
+   "body": "抖音电商：过去一年平台运动消费成交额同比增长38%  亿邦动力网",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "ne0e854b340",
+   "category": "消费者",
+   "company": "",
+   "title": "\"心智种树\"取代\"流量种草\"：2026年年中营销趋势深度解读 - 手机网易网",
+   "source": "手机网易网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9jSTU4Q0ZKcTVjcDlKbl9jTWRqSFdLZXRmZUFYbEpNN3VyYnp2aklZUjl5LXplVEZxUUgwSW5jNHRaLTE2RmpQV2xFcHFFQTIxaHFCWE51VlRJMjVqVWRjazFR?oc=5",
+   "date": "2026-07-07",
+   "summary": "\"心智种树\"取代\"流量种草\"：2026年年中营销趋势深度解读  手机网易网",
+   "body": "\"心智种树\"取代\"流量种草\"：2026年年中营销趋势深度解读  手机网易网",
+   "tags": [
+    "消费者",
+    "种草"
+   ]
+  },
   {
    "id": "nf466b11ab9",
    "category": "竞品",
