@@ -3,9 +3,226 @@ window.KB_DATA = {
  "meta": {
   "generated": "2026-07-14",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 1 条，合计 169 条"
+  "note": "新增 15 条，合计 184 条"
  },
  "items": [
+  {
+   "id": "nae1fb2c5ae",
+   "category": "竞品",
+   "company": "",
+   "title": "钛动科技成为ChatGPT Ads官方技术合作伙伴 - 手机网易网",
+   "source": "手机网易网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1MUEdWVVdRQ181ajBkbG10c2JjRUt2bzFydWtpMDBiRXpKQ3JUVzR4eWtid29GejBBYXl6RzdvY1JLZXRJTDJnSG8yX0VNemkxYlhGWkhYM0w1OWpRdUFhWmpn?oc=5",
+   "date": "2026-07-14",
+   "summary": "钛动科技成为ChatGPT Ads官方技术合作伙伴  手机网易网",
+   "body": "钛动科技成为ChatGPT Ads官方技术合作伙伴  手机网易网",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n8420521006",
+   "category": "竞品",
+   "company": "",
+   "title": "经验不“断电”，钛动科技把营销知识库变成出海团队的接力棒 - 中华网",
+   "source": "中华网",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzTzdCMVZ5Mk04VkR5ZTg4SVhTa0hGZlZLVGtMaUJ4UGpUNjdSWEtiN3dTWWo3ZDFRYzBWeXVjdFViTXU3cnhlMnR5VXpKWC1ISXhlWWpKdERxZWVDY1E?oc=5",
+   "date": "2026-06-15",
+   "summary": "经验不“断电”，钛动科技把营销知识库变成出海团队的接力棒  中华网",
+   "body": "经验不“断电”，钛动科技把营销知识库变成出海团队的接力棒  中华网",
+   "tags": [
+    "竞品",
+    "出海"
+   ]
+  },
+  {
+   "id": "n88651bf59c",
+   "category": "行业",
+   "company": "",
+   "title": "四份重磅研究，一次看懂2026营销新趋势丨第七届媒介力学论坛 - 搜狐网",
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVXFxUFZqczJEMlhRV2VwUzYtdzlrQWE0UGNkZXRYYlJRMUVBZFhmTUI4bjRIanBXV3lQZURMU3VxbkNVUy00ai1WSTNTbEJnYzhKZnBVSlQxWjVWTXU1bUpXLWZXV3V2NVBlN2FmU3l1VXVHd2pwYUFQOTkxQ0xKQ3JkODFTb05ZQ3B5dQ?oc=5",
+   "date": "2026-07-14",
+   "summary": "四份重磅研究，一次看懂2026营销新趋势丨第七届媒介力学论坛  搜狐网",
+   "body": "四份重磅研究，一次看懂2026营销新趋势丨第七届媒介力学论坛  搜狐网",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n776ebd2358",
+   "category": "行业",
+   "company": "",
+   "title": "AI不只会生成视频：快手开始重做广告与电商的生产线 - 手机网易网",
+   "source": "手机网易网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBSSUo1RFhJalRxMlF2ZllfenZKdGVSTjEwXzdLSzhsU1lvc3U3WVkwUlNGVTlFRnNXRUtsMTBSSjRrTGlzakVVNnNYeF9oekxfSWpndWdMWEY2VF9Dc0xodjhB?oc=5",
+   "date": "2026-07-14",
+   "summary": "AI不只会生成视频：快手开始重做广告与电商的生产线  手机网易网",
+   "body": "AI不只会生成视频：快手开始重做广告与电商的生产线  手机网易网",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n90ab777329",
+   "category": "政策",
+   "company": "",
+   "title": "【跨境早报】7 月起欧盟小包加收 3 欧元！多平台物流佣金政策大改 - 雨果跨境",
+   "source": "雨果跨境",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE04cnBLc1FHTm5vVm0wMEVvNldSUDJaX2lBTkFuQlFVX3NtZmpiY1ZrcFFJVm1oQ2pnMkJ5NWpLYnloNHI2UW1DX0VLbno?oc=5",
+   "date": "2026-06-22",
+   "summary": "【跨境早报】7 月起欧盟小包加收 3 欧元！多平台物流佣金政策大改  雨果跨境",
+   "body": "【跨境早报】7 月起欧盟小包加收 3 欧元！多平台物流佣金政策大改  雨果跨境",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nb1d126eaf4",
+   "category": "政策",
+   "company": "",
+   "title": "TK观察：首次TikTok英欧日大会讲了什么，一次性总结20条分享 - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5WX1I5VzFoTlV6UWlFNHdRQ0d0eWpfcldYUW5iNVhYc0tpZUxya0xPekhlVG1IMnRnM2RVaGlLdmlPZDhnWl9vVUlsMTlqVWJ1WjBEY08zbTdTV3dqVGFOS0w1T1JCUHE4WGgtMmtfSFhPMHlpVVE?oc=5",
+   "date": "2026-03-30",
+   "summary": "TK观察：首次TikTok英欧日大会讲了什么，一次性总结20条分享  新浪财经",
+   "body": "TK观察：首次TikTok英欧日大会讲了什么，一次性总结20条分享  新浪财经",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n27699ce2ac",
+   "category": "政策",
+   "company": "",
+   "title": "Meta的21倍市盈率广告机器，正在碾压Palantir的145倍梦想估值 - 手机网易网",
+   "source": "手机网易网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5PX0JIU1VzLWFGOUJ4d2FHREljUXBKc1dRTWM0T3RLSnBjTXd2cGdiUUdWWjdOTVdQRUhfZ3p4TnRsbmRuUmtrYzJZUnRzNWJWRnNiemprRVpwRTFyREg4bmJn?oc=5",
+   "date": "2026-07-14",
+   "summary": "Meta的21倍市盈率广告机器，正在碾压Palantir的145倍梦想估值  手机网易网",
+   "body": "Meta的21倍市盈率广告机器，正在碾压Palantir的145倍梦想估值  手机网易网",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "naad0828a9f",
+   "category": "政策",
+   "company": "",
+   "title": "Meta广告中的AI增益叙事 - 雪球",
+   "source": "雪球",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5BeGxOVWdpbGV5UGhUM1BCSXBXSGd5cEx1R1VONDZGZ1UySUMwT2czbmZ5MVppLXAxQnNGQW5MdnRsLTUxUnJPSk1pSHlYTmw0?oc=5",
+   "date": "2026-01-06",
+   "summary": "Meta广告中的AI增益叙事  雪球",
+   "body": "Meta广告中的AI增益叙事  雪球",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n316e119ebe",
+   "category": "客户",
+   "company": "",
+   "title": "前第四范式总裁创业，用营销AI Agent解构内容社交平台的“营销玄学”，已获千万元融资 - 36 Kr",
+   "source": "36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pWi1wdmNxZ05xREZXVDJ1ZnRqWFZ6ekhiVlFGNm9rQVJIazh2cDNJMEpEV01SUnFZQUQwSzQ5NVVZajVyamV0dUVfb0Rydw?oc=5",
+   "date": "2026-01-18",
+   "summary": "前第四范式总裁创业，用营销AI Agent解构内容社交平台的“营销玄学”，已获千万元融资  36 Kr",
+   "body": "前第四范式总裁创业，用营销AI Agent解构内容社交平台的“营销玄学”，已获千万元融资  36 Kr",
+   "tags": [
+    "客户",
+    "融资",
+    "Agent"
+   ]
+  },
+  {
+   "id": "nf525646c8f",
+   "category": "客户",
+   "company": "",
+   "title": "【艺恩数据出席2025美容化妆品品牌生态大会】发布AI营销新范式2025年10月24日在北京举办的“2025第三届美容化妆品品牌生态大会” 上，艺恩数据发布的以AI驱动的美妆抖音营销新范式，成为全场瞩目的焦点。面对红利褪去、竞争白热化的市场环境，艺恩数据代表刘 - 新浪网",
+   "source": "新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1uekNVaDhac3lhVXRpeElCNkpYaXZWajcwZ1F0WFVBYzdrUVA5LVZEeHFLWDBCZlZNQzg5aXVaZUxlc0RsSGFMVWEwOEFvZFhLOC1HVGQ5STYxMFpkNTEtZXJFdw?oc=5",
+   "date": "2025-10-27",
+   "summary": "【艺恩数据出席2025美容化妆品品牌生态大会】发布AI营销新范式2025年10月24日在北京举办的“2025第三届美容化妆品品牌生态大会” 上，艺恩数据发布的以AI驱动的美妆抖音营销新范式，成为全场瞩目的焦点。面对红利褪去、竞争白热化的市场环境，艺恩数据代表刘  新浪网",
+   "body": "【艺恩数据出席2025美容化妆品品牌生态大会】发布AI营销新范式2025年10月24日在北京举办的“2025第三届美容化妆品品牌生态大会” 上，艺恩数据发布的以AI驱动的美妆抖音营销新范式，成为全场瞩目的焦点。面对红利褪去、竞争白热化的市场环境，艺恩数据代表刘  新浪网",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n24c1b3a8d2",
+   "category": "客户",
+   "company": "",
+   "title": "2025短剧年榜|电商,美妆投放短剧最多,成长励志短剧吸金力最强 - 流媒体网",
+   "source": "流媒体网",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1sMDhxSUxzQ0JzSURhcE4xSnZ2dzh1Wmk3WUdCVmEtWTlaLU5CTzVNYXc3Q1g5MWdwZ3dCVTRvd3lJRWhXbkZoYS1rY1l0M3QwbDJvT3JfU0k?oc=5",
+   "date": "2026-01-12",
+   "summary": "2025短剧年榜|电商,美妆投放短剧最多,成长励志短剧吸金力最强  流媒体网",
+   "body": "2025短剧年榜|电商,美妆投放短剧最多,成长励志短剧吸金力最强  流媒体网",
+   "tags": [
+    "客户",
+    "投放"
+   ]
+  },
+  {
+   "id": "n379ecb14fc",
+   "category": "客户",
+   "company": "",
+   "title": "首发丨中国出海品牌AI Agent解决方案服务商QuickCEP完成新一轮融资 - 创业邦",
+   "source": "创业邦",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE00aUhRU25OcjVuYU5Tc0dWczBuUkRqSktsbm1mRVhPYWt2RWZ0LU9IVXJwNzZ0bFU4Yk9WY2FZbEVuRmRyX09NTFZlbElabmhf?oc=5",
+   "date": "2025-11-28",
+   "summary": "首发丨中国出海品牌AI Agent解决方案服务商QuickCEP完成新一轮融资  创业邦",
+   "body": "首发丨中国出海品牌AI Agent解决方案服务商QuickCEP完成新一轮融资  创业邦",
+   "tags": [
+    "客户",
+    "融资",
+    "出海",
+    "Agent"
+   ]
+  },
+  {
+   "id": "n798b449d8f",
+   "category": "客户",
+   "company": "",
+   "title": "AI for Growth，PAGC 2026全面升级！AI赋能，开启产品全球增长新篇章 - Morketing",
+   "source": "Morketing",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hdDhqSFhCUXMyZHlZYW4xZk82dEpQSVpETFNRYXZKOUhuRFRaQzllN1ptNkpkaGJnc3dHa19PMlRCMnNhN3VsOTAydTZrVkk?oc=5",
+   "date": "2026-03-12",
+   "summary": "AI for Growth，PAGC 2026全面升级！AI赋能，开启产品全球增长新篇章  Morketing",
+   "body": "AI for Growth，PAGC 2026全面升级！AI赋能，开启产品全球增长新篇章  Morketing",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n502a33864d",
+   "category": "消费者",
+   "company": "",
+   "title": "抖音电商报告：世界杯观赛季足球商品成交额同比涨逾一倍 - 东方财富",
+   "source": "东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5hcEFzU0c3d0ZrWVkyS0pnQm44cDJBOFF0NlYyUDN0MmhCQlhVb0pKT3NNMGVzeWU3TUl5VU40QVRSLTNFalc2UnVEenU2ekdaczBicEZaQnl3WFVBNVA3Tw?oc=5",
+   "date": "2026-07-07",
+   "summary": "抖音电商报告：世界杯观赛季足球商品成交额同比涨逾一倍  东方财富",
+   "body": "抖音电商报告：世界杯观赛季足球商品成交额同比涨逾一倍  东方财富",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "nac282de158",
+   "category": "消费者",
+   "company": "",
+   "title": "抖音“520”消费趋势观察：95后下单量同比增长57%，50岁以上增长76% - 亿欧",
+   "source": "亿欧",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GQ01RY2Q5ampYbHRQMktlTVRrTGowTGUtdkdZMHFEeDI4YWgyZUNtU2JRd3V4bkRuckVlaHhjWklyb0tDb29yM3M1VVhtenhOSFhBMQ?oc=5",
+   "date": "2026-05-19",
+   "summary": "抖音“520”消费趋势观察：95后下单量同比增长57%，50岁以上增长76%  亿欧",
+   "body": "抖音“520”消费趋势观察：95后下单量同比增长57%，50岁以上增长76%  亿欧",
+   "tags": [
+    "消费者"
+   ]
+  },
   {
    "id": "n89770b498a",
    "category": "竞品",
