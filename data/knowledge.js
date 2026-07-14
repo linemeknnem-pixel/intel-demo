@@ -3,9 +3,23 @@ window.KB_DATA = {
  "meta": {
   "generated": "2026-07-14",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 7 条，合计 168 条"
+  "note": "新增 1 条，合计 169 条"
  },
  "items": [
+  {
+   "id": "n89770b498a",
+   "category": "竞品",
+   "company": "",
+   "title": "全球首批 | 钛动科技成为 ChatGPT Ads 官方认证合作伙伴 - 霞光社",
+   "source": "霞光社",
+   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8teV9EdGF2elNVVFBaZlRvZWY3eXM1YnUwT0Y3RDRDVFROVk9kWWNsMzFtWW5uR1A4TjRZd0ZYSjk4a3pp?oc=5",
+   "date": "2026-07-14",
+   "summary": "全球首批 | 钛动科技成为 ChatGPT Ads 官方认证合作伙伴  霞光社",
+   "body": "全球首批 | 钛动科技成为 ChatGPT Ads 官方认证合作伙伴  霞光社",
+   "tags": [
+    "竞品"
+   ]
+  },
   {
    "id": "n73365d2c08",
    "category": "竞品",
