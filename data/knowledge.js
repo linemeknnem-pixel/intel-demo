@@ -1,11 +1,182 @@
 /* 自动生成 by scripts/ingest.py —— 请勿手改 */
 window.KB_DATA = {
  "meta": {
-  "generated": "2026-07-13",
+  "generated": "2026-07-14",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 16 条，合计 149 条"
+  "note": "新增 12 条，合计 161 条"
  },
  "items": [
+  {
+   "id": "nf466b11ab9",
+   "category": "竞品",
+   "company": "",
+   "title": "特赞科技Tezign发布内容人工智能Content + AI新产品 重塑品牌内容体验，驱动品牌增长 - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE00OHN5dnV1a19Ma1pUSl9FbzBmWkNpWWp2ZDZsSE5BMUtWbWpFRzAxc2dfZ1huMy1uQTRwWnlOb1JRNHZtSkpCTXRic0Rjc1ZqYTRwU3lnczdqalVBT2VTdUFac1RqbXVxdnFpSVp5NXZUdFdYM213Q1lkT0liTlU?oc=5",
+   "date": "2024-09-27",
+   "summary": "特赞科技Tezign发布内容人工智能Content + AI新产品 重塑品牌内容体验，驱动品牌增长  新浪财经",
+   "body": "特赞科技Tezign发布内容人工智能Content + AI新产品 重塑品牌内容体验，驱动品牌增长  新浪财经",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n4adb573a94",
+   "category": "竞品",
+   "company": "",
+   "title": "钛动科技战略投资布局加速：以全球渠道与数据能力赋能创新企业 - 雷峰网",
+   "source": "雷峰网",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1lRXZkZy1mdkZJZVZZRjFMRGJRMHlpaWVBV3dlVEgzTU1HR0VCUTU2QnlrU2pST3lhOFdibFhVWkhNTkhjT0pIUi1jdnJwV3Q5cUNoSXBiR0tKWGtkbmRSM2k2OVExdWoxSjFtYTlrcUlxUGYt?oc=5",
+   "date": "2026-06-18",
+   "summary": "钛动科技战略投资布局加速：以全球渠道与数据能力赋能创新企业  雷峰网",
+   "body": "钛动科技战略投资布局加速：以全球渠道与数据能力赋能创新企业  雷峰网",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n54ecae8a36",
+   "category": "行业",
+   "company": "",
+   "title": "Meta为Facebook和Instagram广告添加更清晰的AI标签 - ALM Corp",
+   "source": "ALM Corp",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWGRMQXRjdExJSDU0S01aMDVUeXNidkFnU1RoTGRZbW1iREtuaDA0MHRRZ3ZrekxfdWhPY2F3YUp4bldlUHVlMGduOEVOTkdyaE5RNFpUN0tSZE1OWk5fSDQ5YVNZZVk0OGNLeW5sNWx0bHF0TTFLSUdOU0xxQzFVMVlENGptcXpWVnVKZHh3?oc=5",
+   "date": "2026-07-14",
+   "summary": "Meta为Facebook和Instagram广告添加更清晰的AI标签  ALM Corp",
+   "body": "Meta为Facebook和Instagram广告添加更清晰的AI标签  ALM Corp",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "na28980fcbe",
+   "category": "政策",
+   "company": "",
+   "title": "TikTok面向欧洲娱乐营销人员推出人工智能驱动的流媒体广告和全新功能 | ALM公司 - ALM Corp",
+   "source": "ALM Corp",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZElkZy0yVnZ1cmhKMU9Ib1IzT0llWEhwd19IY1NWRG1WRk1iZVZQd2NBdVpsSkp5SjRPTV9wb0Yta0dEeGZTY3lOSk15dl9nLXU4YW1RSXJqSzc3OGQxelFjWnFfdlZfUERHdnI4RDctMHcxSno2aVVyaGltbDZ5TkRqTnpmUEdfMWNBNG9PWG8?oc=5",
+   "date": "2026-02-17",
+   "summary": "TikTok面向欧洲娱乐营销人员推出人工智能驱动的流媒体广告和全新功能 | ALM公司  ALM Corp",
+   "body": "TikTok面向欧洲娱乐营销人员推出人工智能驱动的流媒体广告和全新功能 | ALM公司  ALM Corp",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n756fac602a",
+   "category": "政策",
+   "company": "",
+   "title": "“防不住”金融诈骗，谷歌、Meta、TikTok 遭欧盟消费者组织集体投诉 - 新浪网",
+   "source": "新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiuwdBVV95cUxNMXZ6T01zMjZjWkFkQzlQVWdROU1CMlFuS3VTRE5sc01HRXg1R1M0NnZ1OFNHOVItaUxOdE5ZeEhtSllSZVFtZUVEazJkYzk4Y1llaVNxZl9BY0VLbVFrTHV0T1E5RUtJVkxUZ3p4NzlUZVZzai1lMEVDQjM3RHlzMzlOVm1ySFlNN2tEWVk1ZVVNYTZuYkpZTzRNMDhTaUJjSDhSSG5NWU11ZlhRdmpGVFJCWGswbkxJTkw5b0RUa0ZLMkFlR0d3U2w5SzhFY2FfN1hfYlMtZ2ZlMG92cm1uZURFSTNWR2dVNWlFbDB6YkxzdWVJSVdFOWVoSm1zTnVuZGxpUEhZbnM4RkUxU2xGNFYwenROMk5nVmlQejM5TXBZQ3FlVjdWcEZqdlVtS19oT1F2dGQzYVJNeTVaSkRjaXdGcVdUd0dXWE9VeVVxdDJjbnBNRHNpdXBSQlVTbTZnNVRWZHI2ZFBOWTk1dUFFYmpoM1BLTlN0ckdxX2RxVTVfdlhNU0dQZzMyekRTVjA2ZmhQVTBIYUgwMEllWENkUkdBY0RDVzZiTjY5ZG40Yk4xcDh3STJ2Q3pBWEZkWHN5WXlWZ014eEEzZ3VjZG1kUVJ2NGNwZG50QUJ6REhTaFhLa2RHVnJua0FwcjJFXzE0dWNnOU1PMU8yaG8zSTRLZ0hTV2hZLWNhZ0ppTXZxcGFBYlJlZ1kzem5qVm84RXo5ZkV3a3ZYc1NoY1I4Tlo0cURsdGoyaEVKUWpYYlM2SHh5d0xtUTlybmh1ZW5teDdsb19YX0FWVXJxRDFNUERKMG9YWEw1VEp3Z1Q3MHRLZ29Ua2RzV3BwLU9fV2hpbEFQUVM2ejd5ZC1fcURKcEdVekxObWRYOHVPRFpEUHp4UjRhbnNVNEItelluMHZyd1Y1NHlLd1RFcXA4UVBVMDhnbjA5azhlSXJMWUxfWGl0aUhmMGN6RjdmNlhZMmFFb3Jhcm9LMDhSVnJsdFJoQThIWWd1bjlkS09KUUM2aV91d0syRTFSMWprWl9BdlkzYnJvelVWWDVwLXlFUmloLUNsNWdpSUpiVFV2cWQxVHBTc1ptaHhYcm9VNXBDd2dCZ3RhNjBTclI1MTN2RnpyenJwRm9aREowUmZtQzBHcENIdFY5clRXRHVmb1p5RXBRNHYwUlJoZE1vb0trOXFfcGRQV3NmNEpMN3V2azNaYW13SW9NUzE3cEtaeVFfNjRWWnhzTTE3aXpJcG1WMV8yaUpEcmhTcDRmTjhzS05N?oc=5",
+   "date": "2026-05-21",
+   "summary": "“防不住”金融诈骗，谷歌、Meta、TikTok 遭欧盟消费者组织集体投诉  新浪网",
+   "body": "“防不住”金融诈骗，谷歌、Meta、TikTok 遭欧盟消费者组织集体投诉  新浪网",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n87bb93f593",
+   "category": "政策",
+   "company": "",
+   "title": "Meta筹建Meta Compute出租算力 算力短缺叙事进入新阶段 - 虎嗅网",
+   "source": "虎嗅网",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9aN2JHV1RQR1NiRkJqYmVmOHVkTlF0dThVbEh3a01nak5kQnBzcTVEekJaYnllSU9WTG0zYkhuRy1iSC1kVkJNVEdIQy10M1UyUl8tUA?oc=5",
+   "date": "2026-07-10",
+   "summary": "Meta筹建Meta Compute出租算力 算力短缺叙事进入新阶段  虎嗅网",
+   "body": "Meta筹建Meta Compute出租算力 算力短缺叙事进入新阶段  虎嗅网",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n25b3ce2024",
+   "category": "政策",
+   "company": "",
+   "title": "2026年国内五大谷歌广告投放服务商深度盘点与选型实战指南 - 衡阳新闻网",
+   "source": "衡阳新闻网",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5fOGpqaXc5ZUdPZzZMU3hIZWtZR1NleElXVzZRMURUZldwY2RWMGFOVTlDbnF1NkREMXBXY3J1LU1pTnlfUmhjUEZ1dnRxRlZmN0Npb20xS2RXLVMybU4wWEVrUUM?oc=5",
+   "date": "2026-07-07",
+   "summary": "2026年国内五大谷歌广告投放服务商深度盘点与选型实战指南  衡阳新闻网",
+   "body": "2026年国内五大谷歌广告投放服务商深度盘点与选型实战指南  衡阳新闻网",
+   "tags": [
+    "政策",
+    "投放"
+   ]
+  },
+  {
+   "id": "n48b35522da",
+   "category": "政策",
+   "company": "",
+   "title": "Google Ads 支持邮件可能由人工智能生成：广告主在采取行动前应核实哪些信息 - ALM Corp",
+   "source": "ALM Corp",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBzU0NvQ1NvLWxlVjBHbjViQkl1SW5FaFhONmotemYxcHVvZk9mZWVtNnV6S2RxQzlEY2o3S29HajNnNWJHOG5oeWxZSTlCTEttYUNKai1pUGZJdWktYzdoZjdXQmpROHoxclZ4ZTFJcXpxQ3hCUUJfN0tB?oc=5",
+   "date": "2026-04-04",
+   "summary": "Google Ads 支持邮件可能由人工智能生成：广告主在采取行动前应核实哪些信息  ALM Corp",
+   "body": "Google Ads 支持邮件可能由人工智能生成：广告主在采取行动前应核实哪些信息  ALM Corp",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nc589d016ce",
+   "category": "政策",
+   "company": "",
+   "title": "提高谷歌广告的质量：使用 LLM 进行内容审核 - ai-scholar.tech",
+   "source": "ai-scholar.tech",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSDZOV1lrXzNEa3VkZ2FDNFFWSzByOGQ2UExVZXZxNy1mMVdnUXZvamJ6X0xCVHRfODAxVEstcUx3ci1lWjdnNHFNMEljNUN0QjdLSmNsT2VyTnRPTUxtOXVwWG1BRXFfc0wySGI3dFlMY3lQekEzRFc1Q1lyU1RFY1E0OWtIV1liTFRacXgyRmY5VmM?oc=5",
+   "date": "2024-05-28",
+   "summary": "提高谷歌广告的质量：使用 LLM 进行内容审核  ai-scholar.tech",
+   "body": "提高谷歌广告的质量：使用 LLM 进行内容审核  ai-scholar.tech",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nb632d601dd",
+   "category": "政策",
+   "company": "",
+   "title": "Google Ads新规砍向“广告垄断”！出海开发者这三类操作立即停手 - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1VUURTWklBSldPWm5SSTEyYzMxQ1hnV0FLNlE0aWFvRFZEWFJtTTZvVXhQa2haekRmMmhRU0RGcGVKOWc1bW12bUdBZzZZTl9JQ2VsYXdqNU1zSTVSR1Ewb1FYSnRBWGxJU3NvNEo2Tm1rRE8zdVhURg?oc=5",
+   "date": "2025-05-09",
+   "summary": "Google Ads新规砍向“广告垄断”！出海开发者这三类操作立即停手  新浪财经",
+   "body": "Google Ads新规砍向“广告垄断”！出海开发者这三类操作立即停手  新浪财经",
+   "tags": [
+    "政策",
+    "出海"
+   ]
+  },
+  {
+   "id": "nd5043d609e",
+   "category": "消费者",
+   "company": "",
+   "title": "IP Solution｜春上新趋势破局，REDLOOK助品牌长效增长 - 时尚COSMO",
+   "source": "时尚COSMO",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rNUhlRHF6VGdWUlRabGRIamJMeUNzN0szRFVOVU5yNUFvTEp0ZXVEamlIb3BxUFZ3QTBQOTV6UEF1Z3BxMnRnQVFPRDRpbWJjaDFlNHFDUkpZNXlNamc?oc=5",
+   "date": "2026-05-13",
+   "summary": "IP Solution｜春上新趋势破局，REDLOOK助品牌长效增长  时尚COSMO",
+   "body": "IP Solution｜春上新趋势破局，REDLOOK助品牌长效增长  时尚COSMO",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "nac59655055",
+   "category": "消费者",
+   "company": "",
+   "title": "种草新灵感，开辟新大陆，小红书引领游戏新趋势阵地 - 电玩巴士",
+   "source": "电玩巴士",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OejNFOC1HYlNFWWpzMFZwb1pqTkJqZFBRaEU5VTRGWU1FT2F0bUVuVFV6SS01YkhZalRyWE1JOUFVU2d0ZU8wT1F3V2FuLXhDMlE?oc=5",
+   "date": "2026-04-11",
+   "summary": "种草新灵感，开辟新大陆，小红书引领游戏新趋势阵地  电玩巴士",
+   "body": "种草新灵感，开辟新大陆，小红书引领游戏新趋势阵地  电玩巴士",
+   "tags": [
+    "消费者",
+    "种草"
+   ]
+  },
   {
    "id": "ne363e3b5fe",
    "category": "竞品",
