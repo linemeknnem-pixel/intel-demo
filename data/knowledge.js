@@ -1,11 +1,265 @@
 /* 自动生成 by scripts/ingest.py —— 请勿手改 */
 window.KB_DATA = {
  "meta": {
-  "generated": "2026-07-15",
+  "generated": "2026-07-16",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 18 条，合计 202 条"
+  "note": "新增 18 条，合计 220 条"
  },
  "items": [
+  {
+   "id": "ne55fbc2a69",
+   "category": "竞品",
+   "company": "",
+   "title": "36氪首发 | 特赞获得千万美元D1融资，从营销切入更多模块 - 36 Kr",
+   "source": "36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE92R3Y1MjVOVHR2UFlFM2xXVjF5aXVPX0R6d1dTMjBOc0pxbVhnNzlhWjkwTmEzOWh3UWpDcWlGdHJzZ1JVM2VCUUdsZ2xlUQ?oc=5",
+   "date": "2021-11-01",
+   "summary": "36氪首发 | 特赞获得千万美元D1融资，从营销切入更多模块  36 Kr",
+   "body": "36氪首发 | 特赞获得千万美元D1融资，从营销切入更多模块  36 Kr",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "n51ad660ba1",
+   "category": "竞品",
+   "company": "",
+   "title": "牛啊！天河，把最强AI大佬抢来了 - 凤凰网财经",
+   "source": "凤凰网财经",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9CRkVZZHhkZC05OW1lWlVDRnVrdC1kVjA1UlZYVkRYaGctY1FlX1JpQW54MHFpa191MnVWMXJ6d2FCWnZGUlV3T3pYWmFlako1?oc=5",
+   "date": "2026-07-15",
+   "summary": "牛啊！天河，把最强AI大佬抢来了  凤凰网财经",
+   "body": "牛啊！天河，把最强AI大佬抢来了  凤凰网财经",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "nec8172fc79",
+   "category": "行业",
+   "company": "",
+   "title": "四份重磅研究 一次看懂2026营销新趋势丨第七届媒介力学论坛火热报名中！ - 亿邦动力网",
+   "source": "亿邦动力网",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QODYwNkF5ZnFWNFRNM0VwLUowY2FTN2drY2tXUFRHeU1jQkNvODh0NFN3a1JzNG9qc1JuOTJxTGE3TTJHRnF6cGFEU1BCMWpoX2RjeWVR?oc=5",
+   "date": "2026-07-14",
+   "summary": "四份重磅研究 一次看懂2026营销新趋势丨第七届媒介力学论坛火热报名中！  亿邦动力网",
+   "body": "四份重磅研究 一次看懂2026营销新趋势丨第七届媒介力学论坛火热报名中！  亿邦动力网",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "ne7b1066b58",
+   "category": "行业",
+   "company": "",
+   "title": "四份重磅研究，一次看懂2026营销新趋势丨第七届媒介力学论坛火热报名中！ - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOY0pZU3k0cldoZVMycmpMUmJZWFBacVR1amdOcG5NWEcxRXV3QUFGOVZNMTF4MmRkVmUzMUhQaVYzTk4xV0NKcF9sTDdQWl82aVVEdkdDc2NTcUtVbzljQnVrR1MwQ1RCQk5Uc242bzJuNjlESDd3a3lpZDR0b3hzN283UHg5empEdER4S2dfWVZLdGhENnJOQzB4a1JtYWhDelJzdl8zMTlSSHlvQm5FdmtwbGhYZHVVeTJUVnRRWEU1bDk1YnpIUjJDU1RGS00?oc=5",
+   "date": "2026-07-14",
+   "summary": "四份重磅研究，一次看懂2026营销新趋势丨第七届媒介力学论坛火热报名中！  新浪财经",
+   "body": "四份重磅研究，一次看懂2026营销新趋势丨第七届媒介力学论坛火热报名中！  新浪财经",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "nc5fa0164ac",
+   "category": "行业",
+   "company": "",
+   "title": "天津：加强人工智能生成内容在广告领域的研发应用 - 观点网",
+   "source": "观点网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2c3UxcEk2Zjlpdjkyb0I1MHJzdGQxZldDT0VOS1ItRXZ2WGZIQkVyMTNWNmc5THdhUnB6NEpWdDhUUjFiX3pGbXJzYzBMQmtpRHVURnZCZWZPd3QwYlA1NDFn?oc=5",
+   "date": "2026-07-16",
+   "summary": "天津：加强人工智能生成内容在广告领域的研发应用  观点网",
+   "body": "天津：加强人工智能生成内容在广告领域的研发应用  观点网",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n86870016df",
+   "category": "行业",
+   "company": "",
+   "title": "AI赋能互联网广告，广告业正在迎来新一轮变革——专访中国广告协会会长、国际广告协会全球副主席张国华 - eeo.com.cn",
+   "source": "eeo.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oa3lDbksweTE1dE0tSUh4clZ3NTQ0aDdNbVU5QW0zVVBoenhhdllIZVBxb2tXNkEzZWRCZ1hNVlBVS2N4WkMtZ184dUcwazlzRHVvQjBJUQ?oc=5",
+   "date": "2026-07-08",
+   "summary": "AI赋能互联网广告，广告业正在迎来新一轮变革——专访中国广告协会会长、国际广告协会全球副主席张国华  eeo.com.cn",
+   "body": "AI赋能互联网广告，广告业正在迎来新一轮变革——专访中国广告协会会长、国际广告协会全球副主席张国华  eeo.com.cn",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n6d8210a8ff",
+   "category": "政策",
+   "company": "",
+   "title": "张一鸣下狠手，8600万个账号被一锅端 - 电商派",
+   "source": "电商派",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1KZVh2OENZRXQydThBU3NnTEVPLXZVYUExZ0NFejh4ZzVGYXBkaElmWERFa1ozT1JrU1RZbmFBNFN4ZTV4dFVNR1RZczdMN09GX00weVMyNTRwZVk1S29VUg?oc=5",
+   "date": "2026-07-16",
+   "summary": "张一鸣下狠手，8600万个账号被一锅端  电商派",
+   "body": "张一鸣下狠手，8600万个账号被一锅端  电商派",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nafd6fa166d",
+   "category": "政策",
+   "company": "",
+   "title": "TikTok Shop充斥AI影片 創作者、品牌與平台之間關係緊張 - 世界新聞網",
+   "source": "世界新聞網",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBqY244UUJKNkdWTWdQZVVZVXhRMWFLQmFZV1UwT3lKaWYwTTJZRVp2eC1tMFVFbEd1QjZXWWx2NzM2SC1jM1hnd2ZjaV9zNl94akhkNThONlN3WktyMjNRRmVLeXNTYkF0QWfSAWdBVV95cUxQQzUyaFJGTGhzVF92UGg1YjhSaG1iZ004cU5DSXcwU2hrSmo5akVpY25WRm1PaWdjTzZnTmRQdFNaYnNVb2k0dUxRMEFCcGpLNEhzcHlId0ltTHY5N0dYcTFNMTFwMXRv?oc=5",
+   "date": "2026-07-15",
+   "summary": "TikTok Shop充斥AI影片 創作者、品牌與平台之間關係緊張  世界新聞網",
+   "body": "TikTok Shop充斥AI影片 創作者、品牌與平台之間關係緊張  世界新聞網",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n8e3672242b",
+   "category": "政策",
+   "company": "",
+   "title": "Meta AI大战再落一子：新图像模型Muse全面接入Instagram、WhatsApp，广告商也能用 - 华尔街见闻",
+   "source": "华尔街见闻",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xRFRtSlZpYmFQc1hpTmlUaEhjMlctOGZIdFpQdU9QdlpuN3hZX18zQjdFeW9xWGp1MEU2QlZ1NnJTM3V4d2R3ejE2SEZSVEgzZWg4?oc=5",
+   "date": "2026-07-07",
+   "summary": "Meta AI大战再落一子：新图像模型Muse全面接入Instagram、WhatsApp，广告商也能用  华尔街见闻",
+   "body": "Meta AI大战再落一子：新图像模型Muse全面接入Instagram、WhatsApp，广告商也能用  华尔街见闻",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n33552b7632",
+   "category": "政策",
+   "company": "",
+   "title": "Meta股价月涨17%：AI变现路径明晰，新模型成本优势显著 - 手机网易网",
+   "source": "手机网易网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ndGkxdl94MlZOX3NIdC1KVHlTRmhNd0xxQjV6aTlaNlU2aldxbU90TXFvQVFYWjdpRkZPRWV0RWwyUTJwN3Z4THc3OG9XQ3RGUEZ2b2J4V3FXc3liSVBHU29R?oc=5",
+   "date": "2026-07-16",
+   "summary": "Meta股价月涨17%：AI变现路径明晰，新模型成本优势显著  手机网易网",
+   "body": "Meta股价月涨17%：AI变现路径明晰，新模型成本优势显著  手机网易网",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n4a27494388",
+   "category": "政策",
+   "company": "",
+   "title": "Meta发布新AI广告工具与低价智能眼镜 - 品牌方舟",
+   "source": "品牌方舟",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5HZjNtMFFyXzhRZkVyNmFmT3loZ1l3aGR0Q2NDSUdHcjNxMGw5Zkk5S0s0QnZ6emVPb1ZuRVlvaWFfdG9VQ1I4Rm9iTQ?oc=5",
+   "date": "2026-06-24",
+   "summary": "Meta发布新AI广告工具与低价智能眼镜  品牌方舟",
+   "body": "Meta发布新AI广告工具与低价智能眼镜  品牌方舟",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nae103c3d9f",
+   "category": "政策",
+   "company": "",
+   "title": "谷歌悄然更新隐私政策，用户数据将被用于AI训练，如何关闭？ - 搜狐网",
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVGxuZDlmNDJPOU03QmEzNzExOWhUc2EtbHRnM1NzVWRidnVUdzlOdTZvX3E1YzdkNnlwR003MHlTV1NDSkhobFBUUVFZQl9sS3RYN3RsX19xQ1RUeEQwS1VEMW8tbEJsUjgxb2NuZEItODh6S294YjdrdG5tSGxYX0NUbFBHM0oz?oc=5",
+   "date": "2026-07-15",
+   "summary": "谷歌悄然更新隐私政策，用户数据将被用于AI训练，如何关闭？  搜狐网",
+   "body": "谷歌悄然更新隐私政策，用户数据将被用于AI训练，如何关闭？  搜狐网",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nada9ffdcd7",
+   "category": "客户",
+   "company": "",
+   "title": "珀莱雅：百亿之后，以可持续增长的美妆生态保持经营主动权 - 新华网客户端",
+   "source": "新华网客户端",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN3VfeGdXSWFWZXBCNks3TXo2SGlSMlROSGJ4WFNIX1ZxTmx1ZnQwM3k5NnFKT2xXbUcwWlBocE1uNDNsazhGV2pJaHZOUXlHWmpHVFpOcmt6VzRpMjFtcU5RZUI1OGVqaHowUlpwWmg3TDkzdWVLSG5id1JaZ0VsRWRodVJ0LW1uWFVYTkFvLU5jMDBlQVBFU01R?oc=5",
+   "date": "2026-04-28",
+   "summary": "珀莱雅：百亿之后，以可持续增长的美妆生态保持经营主动权  新华网客户端",
+   "body": "珀莱雅：百亿之后，以可持续增长的美妆生态保持经营主动权  新华网客户端",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n3863c7a56c",
+   "category": "客户",
+   "company": "",
+   "title": "深化AI+生物研发产业布局，珀莱雅股份总经理侯亚孟出席AI中心签约仪式 - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSUwwLTRhTXA1a09VQllNdHAyYlJnTzhpMGw0Y2xLZ3ZTMjcwWXJnMG4zelFsV09uZWJoUEZJV0JFQzl2YmVwaVpTVFN4bWlDS3F2Y20zci1RZUc2MFRQV0o2NFJqaXZGOUJhbWMzUnhsTjFrcU16V0RVQnBRVm9fUFR5NmE?oc=5",
+   "date": "2026-04-15",
+   "summary": "深化AI+生物研发产业布局，珀莱雅股份总经理侯亚孟出席AI中心签约仪式  新浪财经",
+   "body": "深化AI+生物研发产业布局，珀莱雅股份总经理侯亚孟出席AI中心签约仪式  新浪财经",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n01e9e1a551",
+   "category": "客户",
+   "company": "",
+   "title": "钛镁AI成为中国商务广告协会数字营销专业委员会理事单位 - 新京报",
+   "source": "新京报",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5rdWJvQ2k5SncwMzlja0t2NmRodFhqYzFLNERuTWt5UUJjbzlyVXg4bkU4dk9fZTdZUVRNWmRGZEpOV0Y5d1pJd3dDd0ZvaGtGdnN1RVROeTM5WlJoLVI2Zlg0cVg?oc=5",
+   "date": "2026-06-02",
+   "summary": "钛镁AI成为中国商务广告协会数字营销专业委员会理事单位  新京报",
+   "body": "钛镁AI成为中国商务广告协会数字营销专业委员会理事单位  新京报",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "ne1c9e3dab6",
+   "category": "客户",
+   "company": "",
+   "title": "雅诗兰黛用AI技术，重构美妆研发全链条 - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1zdmlweGZTcXF2akpJZEV2R3VoQjZ4cVRjU0VfRUFuSEFVZEE5bm96cGQ0bmUzSWVYMUdPMUtvUXZtNmF0dEYyYzhBV1c4dGwxbWdDeWlTMy1HYS15UzB0SWhKcmF6YmQ3V1NjSDFDaXBiNFIzOU1sUw?oc=5",
+   "date": "2025-11-12",
+   "summary": "雅诗兰黛用AI技术，重构美妆研发全链条  新浪财经",
+   "body": "雅诗兰黛用AI技术，重构美妆研发全链条  新浪财经",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n98e191a2d2",
+   "category": "客户",
+   "company": "",
+   "title": "全球化成主旋律，中国企业如何乘风破局 | GTC首日干货汇总 - 白鲸出海",
+   "source": "白鲸出海",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9XbUQwRVF6a0gxaV82TW1MdnRkNUwxemRaWV92WDNpcjhQZEhpMmFXMi1ILTJHVEpOU3RzcVJZLTdMaHVGUnF4dDZTcGs?oc=5",
+   "date": "2026-04-23",
+   "summary": "全球化成主旋律，中国企业如何乘风破局 | GTC首日干货汇总  白鲸出海",
+   "body": "全球化成主旋律，中国企业如何乘风破局 | GTC首日干货汇总  白鲸出海",
+   "tags": [
+    "客户",
+    "出海"
+   ]
+  },
+  {
+   "id": "nab28a9d8c8",
+   "category": "消费者",
+   "company": "",
+   "title": "抖音生活服务：暑期“毕业游”相关订单量环比增长68%_行业动态 - 投资界",
+   "source": "投资界",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9ydzlZa1ZvQi1LSVpQeDRBZTlOVW16SHlvZ1dBeWotaHd5bnUtYTVTMElRM2haRGNVd0ZQbFZqSG1pYlo1RnhNS1UzQV8waVFLZ1RQbVhqTW0?oc=5",
+   "date": "2026-07-16",
+   "summary": "抖音生活服务：暑期“毕业游”相关订单量环比增长68%_行业动态  投资界",
+   "body": "抖音生活服务：暑期“毕业游”相关订单量环比增长68%_行业动态  投资界",
+   "tags": [
+    "消费者"
+   ]
+  },
   {
    "id": "nb922cca6b8",
    "category": "竞品",
