@@ -1,11 +1,153 @@
 /* 自动生成 by scripts/ingest.py —— 请勿手改 */
 window.KB_DATA = {
  "meta": {
-  "generated": "2026-07-17",
+  "generated": "2026-07-18",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 19 条，合计 239 条"
+  "note": "新增 10 条，合计 249 条"
  },
  "items": [
+  {
+   "id": "n5b167a5ecc",
+   "category": "竞品",
+   "company": "",
+   "title": "钛动科技李述昊：未来AI能让消费者“过上皇帝般的生活” - 凤凰网财经",
+   "source": "凤凰网财经",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBDdTlNSE93NzgzTkRYdnd4aXhPaVhMQklhaDdWMWhqcExrLUk1azRSdzhtSXl2Rkc2MWtDS0x1Y0J3SUlJNFBPVVMwS0phXzVZ?oc=5",
+   "date": "2026-07-18",
+   "summary": "钛动科技李述昊：未来AI能让消费者“过上皇帝般的生活”  凤凰网财经",
+   "body": "钛动科技李述昊：未来AI能让消费者“过上皇帝般的生活”  凤凰网财经",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "nd1969f9c40",
+   "category": "竞品",
+   "company": "",
+   "title": "赋能企业出海全链路 钛动科技在2026世界人工智能大会发布新版AI营销智能体 - 央视网",
+   "source": "央视网",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5wcnFzY1VyTkRMRDJJMG1DZnE3VUpmNlJsS0lXaXA5YXoxdjMwY0lxZDMwT2FnVE1mMWVLd1FhYVpuS3lrTWluNTZsSmRMOWtmS3BPQnNxWFN4TWtKeWtUaXRKX3hvMVZzUlYwdDd5QU0tX0xFcTBwVldn?oc=5",
+   "date": "2026-07-18",
+   "summary": "赋能企业出海全链路 钛动科技在2026世界人工智能大会发布新版AI营销智能体  央视网",
+   "body": "赋能企业出海全链路 钛动科技在2026世界人工智能大会发布新版AI营销智能体  央视网",
+   "tags": [
+    "竞品",
+    "出海"
+   ]
+  },
+  {
+   "id": "n0114b9258e",
+   "category": "竞品",
+   "company": "",
+   "title": "“验牌”WAIC|AI能帮打工人从零做跨境电商OPC？ 钛动科技创始人李述昊：可以 - QQ News",
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5heVNpd2syOE5oaFd2d3VaTHpoaHFyc0V1cHNDSjFnWkhJNS15dm5Pc0tqVmhmU3ZQTFZBS2lxb1ZVSkdhaGZLUUhyQ3RqR2o5VUNvOWtn?oc=5",
+   "date": "2026-07-18",
+   "summary": "“验牌”WAIC|AI能帮打工人从零做跨境电商OPC？ 钛动科技创始人李述昊：可以  QQ News",
+   "body": "“验牌”WAIC|AI能帮打工人从零做跨境电商OPC？ 钛动科技创始人李述昊：可以  QQ News",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "ndfe479f41e",
+   "category": "竞品",
+   "company": "",
+   "title": "能自动操作网页与Office办公软件，钛动科技用Navos 2.0把智能体塞进工作流｜2026 WAIC - 手机网易网",
+   "source": "手机网易网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9ZMWNiTGlMQzBKeGRBSzBvdHBtaGs2NEl6WGphYUEwNFpDMGpkczhEbl9iSk54ZzNNdWx5NG45bkxzdGJnUExweUZJQmFTQnNuUzlFdXZITDR5TjVnVkp5M3h3?oc=5",
+   "date": "2026-07-18",
+   "summary": "能自动操作网页与Office办公软件，钛动科技用Navos 2.0把智能体塞进工作流｜2026 WAIC  手机网易网",
+   "body": "能自动操作网页与Office办公软件，钛动科技用Navos 2.0把智能体塞进工作流｜2026 WAIC  手机网易网",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n34b1051743",
+   "category": "行业",
+   "company": "",
+   "title": "双奖认证！微播易斩获2026金梧奖两项AI大奖_行业动态 - 投资界",
+   "source": "投资界",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5kcTY1YjRoT3Z0eTBDVEVGeU9qVk5zdGhPbXoyeTV3bVF2ZmJzNTAtcTJYaXpnNlkzbUp5M0hyQzNzZHk4M2lFbmtyTWhXeFpoU3pPTGFKb2w?oc=5",
+   "date": "2026-07-13",
+   "summary": "双奖认证！微播易斩获2026金梧奖两项AI大奖_行业动态  投资界",
+   "body": "双奖认证！微播易斩获2026金梧奖两项AI大奖_行业动态  投资界",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "ne93a0eb369",
+   "category": "行业",
+   "company": "",
+   "title": "Meta推出更智能的AI图像工具，助力广告商发展 - ALM Corp",
+   "source": "ALM Corp",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYl9EUlFuVnpadkt3b2Z3QmhkeHA1S2wzdEtnaldzQ2YwS0pZc1RUTm5lb01EbHNzTnM4U0lJaUtHanRIRjRkMkFLR1pEczhuY0tUUUYwdzhfNE1aajZ1TjdVTUNIY1V6RFJHM2NTZV9sSGFhZWU1OFNrdk5TWTFmVHhGanJMRXlNM3FmTUJZbTY1YUNvVGNj?oc=5",
+   "date": "2026-07-13",
+   "summary": "Meta推出更智能的AI图像工具，助力广告商发展  ALM Corp",
+   "body": "Meta推出更智能的AI图像工具，助力广告商发展  ALM Corp",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n7c4b220627",
+   "category": "政策",
+   "company": "",
+   "title": "卖家连夜改图！欧美严查AI，最高罚5000美元 - 雨果跨境",
+   "source": "雨果跨境",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zdUhlWUQ3bGhhOWdXamw5U2kzVEVQVVE4WkM2enpZaGJyX2Vmbm1QOExTWmZIVndxODlGTlEzLWtuVHBEbVpVUVoyRzc?oc=5",
+   "date": "2026-06-22",
+   "summary": "卖家连夜改图！欧美严查AI，最高罚5000美元  雨果跨境",
+   "body": "卖家连夜改图！欧美严查AI，最高罚5000美元  雨果跨境",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n83cdcdd764",
+   "category": "客户",
+   "company": "",
+   "title": "珀莱雅(603605):珀莱雅化妆品股份有限公司2025年年度权益分派实施公告 - 中财网",
+   "source": "中财网",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1YcFZwYmhsZjJzeDNJOW9IZVdRM2dYVmJkMDEwNjR2a2FRWHYzeU5Pa1pIc3h6WDFIT3JKQUpYQTJQZkFPeXNqR0hFMElDdEFLT0hxOVhn?oc=5",
+   "date": "2026-07-15",
+   "summary": "珀莱雅(603605):珀莱雅化妆品股份有限公司2025年年度权益分派实施公告  中财网",
+   "body": "珀莱雅(603605):珀莱雅化妆品股份有限公司2025年年度权益分派实施公告  中财网",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n1c81b8e1ba",
+   "category": "消费者",
+   "company": "",
+   "title": "《2026抖音电商运动消费趋势报告》：观赛季足球相关商品成交额同比增长113% - 京报网",
+   "source": "京报网",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hQlpFSlZvZ3J0cUFNcHdUaU90eTlHTHhUbGlpZm1OWm9adEZhU2ZzcENEN1FoM3lLYi12Rm1ZX2V2VHZSeXZFMGJpcWtzRU9fc2tHUnBWdkwzeWE0WXc?oc=5",
+   "date": "2026-07-08",
+   "summary": "《2026抖音电商运动消费趋势报告》：观赛季足球相关商品成交额同比增长113%  京报网",
+   "body": "《2026抖音电商运动消费趋势报告》：观赛季足球相关商品成交额同比增长113%  京报网",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "nede6b845d1",
+   "category": "消费者",
+   "company": "",
+   "title": "[果集]：2025美食饮品行业种草洞察数据报告（小红书平台） - 发现报告",
+   "source": "发现报告",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hU2xVYUs1ZFlnLXY0RlNkQ0xUaE96aXBtbDhCSUdaSHdacnlCTmhsRjZ1c0lsMmdyamhSOTk2S0ZBQ3ZDeldYNXBrcnlvQ0Vj?oc=5",
+   "date": "2025-11-28",
+   "summary": "[果集]：2025美食饮品行业种草洞察数据报告（小红书平台）  发现报告",
+   "body": "[果集]：2025美食饮品行业种草洞察数据报告（小红书平台）  发现报告",
+   "tags": [
+    "消费者",
+    "种草"
+   ]
+  },
   {
    "id": "nc63585d4c1",
    "category": "竞品",
