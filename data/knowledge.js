@@ -1,11 +1,138 @@
 /* 自动生成 by scripts/ingest.py —— 请勿手改 */
 window.KB_DATA = {
  "meta": {
-  "generated": "2026-07-18",
+  "generated": "2026-07-19",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 10 条，合计 249 条"
+  "note": "新增 9 条，合计 258 条"
  },
  "items": [
+  {
+   "id": "n0b670d2cba",
+   "category": "竞品",
+   "company": "",
+   "title": "钛动科技发布AI营销智能体Navos 2.0 定义AI时代商业新玩法 - 证券时报",
+   "source": "证券时报",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uRlZiXzJrRjA4Zzdqczd4UDdjdktGc0FnV1dIYUp5cHY4aEdWZURmV0dqcmxIMXdaMnBtbDMyM2RBR2VJa1ZsV19odkNQemZ3LWNJbHJkQ2NCeTZ3?oc=5",
+   "date": "2026-07-19",
+   "summary": "钛动科技发布AI营销智能体Navos 2.0 定义AI时代商业新玩法  证券时报",
+   "body": "钛动科技发布AI营销智能体Navos 2.0 定义AI时代商业新玩法  证券时报",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n1c3431ae2c",
+   "category": "竞品",
+   "company": "",
+   "title": "钛动科技在WAIC发布AI营销智能体Navos 2.0 - MSN",
+   "source": "MSN",
+   "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPMllWSlptckZhUERDcFBGNHpvcFo0dkJjRWJnd19HZEgyXzRHX0ZRVlpwRXFhOHZJTjFzWkhDS0ZiSk81NmpVNkk4VDlOeWprYTA4WFY2YWJNdWd1Q0pmRC14bEVLdzJSRkVEWWdra0xjRm05ektjWExlZEM1TzdKYjAzWnRGazdHc1REeGpuMnlVb1ZqRzY2M005LXNlR3ZFZDZhZWhtcVBzZWhyVDNVUkxYOWlVQVphX0lmb2NZTjk5cDlxNld1U1UxOXFQRW1nLTJQYmJKNlo0ZEpJaVVDb05qRGRwb1VrRWJyT1MyM3BTYXJGNVFyR3NGclVsYjhz?oc=5",
+   "date": "2026-07-19",
+   "summary": "钛动科技在WAIC发布AI营销智能体Navos 2.0  MSN",
+   "body": "钛动科技在WAIC发布AI营销智能体Navos 2.0  MSN",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "nd68944c2d9",
+   "category": "竞品",
+   "company": "",
+   "title": "南方财经全媒体集团 - 南方财经",
+   "source": "南方财经",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5yamZIQUNORFBfTlJPM09lWVZDdU1nejRzSjUwR25GRUZ4ejNoQWo5SGF1MmpkSTVETDJDZFE4MVllQzFzYzBwSVZPVGVzalc3a3g0LVpKY0xGeXRoRndNYkJySlhpZlpy?oc=5",
+   "date": "2026-07-18",
+   "summary": "南方财经全媒体集团  南方财经",
+   "body": "南方财经全媒体集团  南方财经",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n0ddb76bd57",
+   "category": "竞品",
+   "company": "",
+   "title": "别让一张产品图只躺在文件夹里，钛动科技把它推成能跑的广告视频 - 中华网",
+   "source": "中华网",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9xdnR1VEIzTXM3SXBXeC1nWlJMbko5T3NPaFpyU1d1OGpGanpfVDNpZDFteVo5MGx1ZkJIZkE5WGNZekRDdEVFa19KRWUzLUV0Z0Z2RUxPWFM1bzZHaXc?oc=5",
+   "date": "2026-07-16",
+   "summary": "别让一张产品图只躺在文件夹里，钛动科技把它推成能跑的广告视频  中华网",
+   "body": "别让一张产品图只躺在文件夹里，钛动科技把它推成能跑的广告视频  中华网",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "na07e14a872",
+   "category": "竞品",
+   "company": "",
+   "title": "腾讯云助力筷子科技云架构升级，AIGC视频工作流性能提升240% - 品玩",
+   "source": "品玩",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBMTUNIcnFMRFNjaFh3U0NSaDRLdWg1VG4xNm1QUWZJRjlzQ0hYWFE5bkdqdUpuNnBOcDcyNG54NktEcWxWbEVjVQ?oc=5",
+   "date": "2024-04-17",
+   "summary": "腾讯云助力筷子科技云架构升级，AIGC视频工作流性能提升240%  品玩",
+   "body": "腾讯云助力筷子科技云架构升级，AIGC视频工作流性能提升240%  品玩",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "nfea9405ee1",
+   "category": "行业",
+   "company": "",
+   "title": "AI赋能互联网广告，广告业正在迎来新一轮变革——专访中国广告协会会长、国际广告协会全球副主席张国华 - 新浪网",
+   "source": "新浪网",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE84THN5YVEzZjhEZjRhRWNIcG5kZ0djTTlBVTZMRDVEWEZQXzdxOW1LMENuc0V4eWtlbkxXNnkzUkMyaFZCWjJ6Nk1WYWdOb005cUozRE1fUm5MY1J2ZDl3NkRwQTZaa1EzSzBoZlpQMG4zMDZENlVnMjFCMlg?oc=5",
+   "date": "2026-07-08",
+   "summary": "AI赋能互联网广告，广告业正在迎来新一轮变革——专访中国广告协会会长、国际广告协会全球副主席张国华  新浪网",
+   "body": "AI赋能互联网广告，广告业正在迎来新一轮变革——专访中国广告协会会长、国际广告协会全球副主席张国华  新浪网",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "nbac29f5eb1",
+   "category": "政策",
+   "company": "",
+   "title": "TikTok Shop充斥AI影片 AI生成將不發佣金 - 世界新聞網",
+   "source": "世界新聞網",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9JVlBtNHhCNE5yQ1B1YUJEbjhMck5VMWZRc2hiSnNsQ0pPVjI1RDZmZWJTWlJhS1NVRHVuQm5hTExPUDE1bWF2ckF0MDFWLVItd0Q4dlJKWFdvYjBBcGtibUpleFowLVVjNXfSAWdBVV95cUxOVE50WHVjMWtMLVB3dEpQYS0zMkVMZXVJcHRfMHpkQlMzaGdpSVdERG12SkRjSzZOSTJCbEdEX1lvQkJDU0VVdmtFQkVJdldMM3kwNTFoSTdNeEZTY2VaV1liR1pTWkhZ?oc=5",
+   "date": "2026-07-19",
+   "summary": "TikTok Shop充斥AI影片 AI生成將不發佣金  世界新聞網",
+   "body": "TikTok Shop充斥AI影片 AI生成將不發佣金  世界新聞網",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "naa597a87ad",
+   "category": "客户",
+   "company": "",
+   "title": "进入换挡阵痛期的珀莱雅：收购花知晓、二次冲击港股，主品牌放缓，行业竞争加剧 - 新浪网",
+   "source": "新浪网",
+   "url": "https://news.google.com/rss/articles/CBMiqwRBVV95cUxNUEs4Y3YzNnVLN1ozVk9naFlsaV9IVTdsMk5vbExJUlhyQVdYY1pNOVU1U3l2UjJvVWR5TXVQYmxYaXgwa1Q3MC1UdldEOVhvUC1rYTVzWUxFeU5uQUNUVkRIVVR5S1Uwc1NuSVBPd3NENVZKU083QWJUUF9CeEZ3XzA5YzNrMkN6UTFLenFvVTNIUGJTR2xXalVZT1ZoeVFfX1YtNXlRT1Azb3MxOFhVczlVZ3dVYy1lWmI3VXEtaDM4bjZkOVl3NU41eHJJa0VrWUtHNFI2blYyN1F2QkxmNlJLMzNMbnBNRVU3V2h5ckVSaHhCeU9zeURVMjJtQXd2eGI0d3RzYzFPSGtvSWtoMTV2QkhOYzM0MjFYRGdDeUJPZnVvY25CWjBMQlp6eVBBTGY2YjVCWmtEWVRBZ180T0FDb1NJMUJGaDhOc0YzYkU2amsyOFNMOTVCWWwxc2Y4MkRDcDNwOUdFbm1lcE15SndIaDBySlM2b21IS0lsWFItU2tKVTF2NDRRX1RaNy1jSkkxbVdiZU5la1pycmkxd1BYSGNhNEgzSXJMbGFDMGFHQ0lJRXlVeG96a09uc3ctNFQ2cFVXSnNkOE9CSlRCc2VCQXl3dGMwX0dLSkZvc1JOM0FMMC1tNVU2V1VkZ21xVVQwSm5BV091VEpxR3RoWXl2VHdjME00UENrSGNhWTZEMDU2QUVvRWlwSEt0dGFacmdmd0g3SEVHb0k?oc=5",
+   "date": "2026-07-18",
+   "summary": "进入换挡阵痛期的珀莱雅：收购花知晓、二次冲击港股，主品牌放缓，行业竞争加剧  新浪网",
+   "body": "进入换挡阵痛期的珀莱雅：收购花知晓、二次冲击港股，主品牌放缓，行业竞争加剧  新浪网",
+   "tags": [
+    "客户",
+    "收购"
+   ]
+  },
+  {
+   "id": "n2c0d6483fc",
+   "category": "消费者",
+   "company": "",
+   "title": "暑期 “慢充旅行”走热，抖音生活服务非遗游相关销售额同比增长124% - rmzxw.com.cn",
+   "source": "rmzxw.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFByU0FzWXJFRVNReW9KbkdZUUpsdHlsXzExcEVlWEJIWllBYm9INU5lMDRRNWdXVmJuNTdIbTBwbEc4ek90dmZ4dU5CYnZEYjZlOWF3OWRFT2lhWlY5Ukpaai00cU8tcVE2?oc=5",
+   "date": "2026-07-16",
+   "summary": "暑期 “慢充旅行”走热，抖音生活服务非遗游相关销售额同比增长124%  rmzxw.com.cn",
+   "body": "暑期 “慢充旅行”走热，抖音生活服务非遗游相关销售额同比增长124%  rmzxw.com.cn",
+   "tags": [
+    "消费者"
+   ]
+  },
   {
    "id": "n5b167a5ecc",
    "category": "竞品",
