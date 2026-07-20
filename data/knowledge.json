@@ -1,10 +1,183 @@
 {
  "meta": {
-  "generated": "2026-07-19",
+  "generated": "2026-07-20",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 9 条，合计 258 条"
+  "note": "新增 12 条，合计 270 条"
  },
  "items": [
+  {
+   "id": "nc8f3fdeb9d",
+   "category": "竞品",
+   "company": "",
+   "title": "钛动科技Tec-Do：从Agentic Ads到A2A，如何卡住下一代商业连接位 - 搜狐网",
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPLWhwckFrTVVNTHV6SEEtdTduNTJoaVNWVDhEellzY2VVa0tZajM4ZkRVQXJYSTA5QTB4VzBmRXlYMWFHSHo0SzVwa1doMFc4M1pURnY0V1E2SWxubFctdldTRXdhTG1EZzdvS1RxZVZFWkJFRlAzMGUtbXBxdU56bWwtcjB0bnltRFVr?oc=5",
+   "date": "2026-07-20",
+   "summary": "钛动科技Tec-Do：从Agentic Ads到A2A，如何卡住下一代商业连接位  搜狐网",
+   "body": "钛动科技Tec-Do：从Agentic Ads到A2A，如何卡住下一代商业连接位  搜狐网",
+   "tags": [
+    "竞品",
+    "Agent"
+   ]
+  },
+  {
+   "id": "n6ec304724e",
+   "category": "竞品",
+   "company": "",
+   "title": "筷子科技Kuaizi完成近亿元B轮融资，Kuaizi 5.0重构内容商业生态 - 199IT",
+   "source": "199IT",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5DRjZ2ZGRDSDVBYlVTdlQyUmVqMEF0TkE2OEdic1VkLUdfZWFRa0Z6SFN2QjJPb0FmYWFZMjI4c1JZY041eWI4N3F0bTRDNUdqTGlOWkxn?oc=5",
+   "date": "2025-06-23",
+   "summary": "筷子科技Kuaizi完成近亿元B轮融资，Kuaizi 5.0重构内容商业生态  199IT",
+   "body": "筷子科技Kuaizi完成近亿元B轮融资，Kuaizi 5.0重构内容商业生态  199IT",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "nb95ea46f69",
+   "category": "竞品",
+   "company": "",
+   "title": "美图凯辉联合领投，奥创光年完成1500万美元A+轮融资 - 凤凰网财经",
+   "source": "凤凰网财经",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91T2EzVW1nNFhBYm5DWHlQN2drdXdaV3BTbVdwVEgzOFNScFRWLS0yMzk2OUJuQm9LWlQtY3JTQUlXbm9zaERWaGpWbjlYc3Na?oc=5",
+   "date": "2024-01-29",
+   "summary": "美图凯辉联合领投，奥创光年完成1500万美元A+轮融资  凤凰网财经",
+   "body": "美图凯辉联合领投，奥创光年完成1500万美元A+轮融资  凤凰网财经",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "n11f6b6772e",
+   "category": "竞品",
+   "company": "",
+   "title": "智推时代完成数千万元天使轮融资，一年不到突破亿元ARR - qq.co",
+   "source": "qq.co",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zU2l6RE9RN2pEeW1pdGpCbHZESjlTd2E1ZVNmQ2hLT0tuOGttZlFHYkNEME5GNm1PU3JNVFNtRkFMZnVQdG5JNy1ZaXV1TUU5Tkw5SVpR?oc=5",
+   "date": "2026-07-12",
+   "summary": "智推时代完成数千万元天使轮融资，一年不到突破亿元ARR  qq.co",
+   "body": "智推时代完成数千万元天使轮融资，一年不到突破亿元ARR  qq.co",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "ndcda0e03fd",
+   "category": "行业",
+   "company": "",
+   "title": "利欧数字在WAIC 2026世界人工智能大会发出AI营销双重表达 - 手机网易网",
+   "source": "手机网易网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE92VERYQnNGOHZCb0NFQkFjLWdSLWkyTTlJaWRabndWZjZMMlZ0cl9meXN4Rk0yMFlnbUdUTnpNaUVTYWpYbUhaenQ1S3NOc0s4M01ldUJpSXhxUUxYVlpuVnFR?oc=5",
+   "date": "2026-07-20",
+   "summary": "利欧数字在WAIC 2026世界人工智能大会发出AI营销双重表达  手机网易网",
+   "body": "利欧数字在WAIC 2026世界人工智能大会发出AI营销双重表达  手机网易网",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "nfb2cb64eea",
+   "category": "政策",
+   "company": "",
+   "title": "成都汇阳投资：政策技术海外共振 AI营销行业迎来扩容周期 - news.tom.com",
+   "source": "news.tom.com",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9BMmcxSUtiRlFDdjREMUlCd3NBUjVNX1o2bjE3dEhmbXJuR0pkNnFpeGluY2J3aThqVnNWZ1VMWGRJOENIN3lqc2NGRUVVS1NfOEg0RmdB?oc=5",
+   "date": "2026-07-20",
+   "summary": "成都汇阳投资：政策技术海外共振 AI营销行业迎来扩容周期  news.tom.com",
+   "body": "成都汇阳投资：政策技术海外共振 AI营销行业迎来扩容周期  news.tom.com",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "ncebebb1b0e",
+   "category": "政策",
+   "company": "",
+   "title": "杰斐逊：通胀难降温或将加息 AI与能源冲击令美联储政策陷入两难 - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMimARBVV95cUxQSXdfVWNIU3gxQVA1Mk5DcDRrM2k1Y1pHNUpYbHZ1ckZIVzVHNUdIX3c0ZVlHbXlmTHZKdGF1UHpzUkNLY0tRZ0o4VG9RdUVtekdnNmJwSExVMXlXSXFyV3lGd205Tzd6VHdhV3ZwTTNEbkZNbG0zbzJqVm9JTlYtdWlzRXhTTlhiTDJUM0VDb29NUWRSanpnVFFaOTExQkNWeEJFOEdVc1hET3dNSHpNLXRzcjVmVjVYWU1aU1g0RjMtWjYyaTNDS0xkM1BsRjd4Y0FMS2E1ZlRFRFQ4VnNmVldsZDVXTWs1b3RfcEcwR05iWmhIdnV2WGNSb1JSLVhwaFkxdlBWNXhiY1JhWmw0anlXeUtMbDN3YW12UlRSS3dqQmNzWVYyY3NIdUxjNWh0RkxkSTF1WjlPZDJZcnN2aDRQUkREamh5ZW5GdF81WG44RE1Pa3pWUDJOZlVBQ0l5NnVsV19KX0VOU3FLRFJlakFvRUw1QVlISlgxaUd4d2Z2TTM4Nm1KS19NS0RGdFJUUk9Gek5KZXU3VmpPdFlXd2N2UkhKZzlUa1g5MjBub1Y2VnhTNktTSjhWNThrSlB2RHlfb0V3RzNIV09sR1ZLMmpvZGVIa1ctWVM4cnZpTkIwUVZ3VG5Venc5V2RZdHROSkxkN2haWWtSQ241UzRYd2ZhY1IySjNuWEpVYk40RUFPSGtscHpoRg?oc=5",
+   "date": "2026-07-17",
+   "summary": "杰斐逊：通胀难降温或将加息 AI与能源冲击令美联储政策陷入两难  新浪财经",
+   "body": "杰斐逊：通胀难降温或将加息 AI与能源冲击令美联储政策陷入两难  新浪财经",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n95e1f9128b",
+   "category": "政策",
+   "company": "",
+   "title": "Meta力推订阅服务暴露其在AI领域筹码不足 - 华尔街日报中文网",
+   "source": "华尔街日报中文网",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSzhnRkhvckZiRWMxWG1xVmpvLUhSNXZicmZmTFpHVXpXTXEwWFY5Ykp0YjBzdmtXMnA0QkdoZWU5bmVfTE4yMFpURFZOQklPU3p6YmJMdFM4TVV5RTl1QlQ2MG92bnFhMXgzT2tWRlVDZTZxVjVsbncwT1p1cGpUUGo1ckh6Z2NYa1ktb2tUaVZkQQ?oc=5",
+   "date": "2026-06-12",
+   "summary": "Meta力推订阅服务暴露其在AI领域筹码不足  华尔街日报中文网",
+   "body": "Meta力推订阅服务暴露其在AI领域筹码不足  华尔街日报中文网",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n3d7843fc86",
+   "category": "政策",
+   "company": "",
+   "title": "Google Ads关联账号连坐升级，同一法人名下所有广告账户或被一锅端 - 白鲸出海",
+   "source": "白鲸出海",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqd0lEVlJab1p2ZzRLejU2QU1COUZIdVFLdDJlaDVOQm91Y3lUOU14Qi1PNEhKWl93SU1neVVVQ2c5SjlDY0NnTlhDX0E?oc=5",
+   "date": "2025-04-27",
+   "summary": "Google Ads关联账号连坐升级，同一法人名下所有广告账户或被一锅端  白鲸出海",
+   "body": "Google Ads关联账号连坐升级，同一法人名下所有广告账户或被一锅端  白鲸出海",
+   "tags": [
+    "政策",
+    "出海"
+   ]
+  },
+  {
+   "id": "nc2e1338e79",
+   "category": "客户",
+   "company": "",
+   "title": "AI越高效，审美越重要 - thepaper.cn",
+   "source": "thepaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0RHRxVmVqNWcwSE9WRHBpcGFLZ2pNY3V2RjBtNXBVV0ktdjRYWVA2VWZpUVBKU0FBUzVySFFnNFVYbktXX1VFSjQ1VHRDNkhCdFVnUk9XVzNOZk5RNHc?oc=5",
+   "date": "2026-06-23",
+   "summary": "AI越高效，审美越重要  thepaper.cn",
+   "body": "AI越高效，审美越重要  thepaper.cn",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n2e65a20086",
+   "category": "消费者",
+   "company": "",
+   "title": "2026上半年小红书6大行业趋势：亿级互动背后，穿搭悦己、美妆疗愈走红 - 手机网易网",
+   "source": "手机网易网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9WcmZyLWp4b3ZGR054aTlIRkROSXVMVGxndzVReHRlN1lpM3ZCSGlHU3MtVmU3bkhNa0xlUUlmMG1sR1hIRjM1enNqN0RuaVJvOTFEd3ByYVAzRTNWUmVyOUpR?oc=5",
+   "date": "2026-07-20",
+   "summary": "2026上半年小红书6大行业趋势：亿级互动背后，穿搭悦己、美妆疗愈走红  手机网易网",
+   "body": "2026上半年小红书6大行业趋势：亿级互动背后，穿搭悦己、美妆疗愈走红  手机网易网",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n46b7b14fdc",
+   "category": "消费者",
+   "company": "",
+   "title": "抖音生活服务2026文旅消费趋势报告：内容激发文旅新增量 - 新华报业网",
+   "source": "新华报业网",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5YaWZQY0J3X09LX2ViQzYtVHdjRVd1SEh6MWQ1Y3RhMC04M241VjZlS2hnMDJITFFrckZsS3BhUGdrRE9OQ3U0aC1OS1FSQ0cteXJnNVpsVTNOQnlVU3VhY2RHR1hfazdkTmhz?oc=5",
+   "date": "2026-06-26",
+   "summary": "抖音生活服务2026文旅消费趋势报告：内容激发文旅新增量  新华报业网",
+   "body": "抖音生活服务2026文旅消费趋势报告：内容激发文旅新增量  新华报业网",
+   "tags": [
+    "消费者"
+   ]
+  },
   {
    "id": "n0b670d2cba",
    "category": "竞品",
