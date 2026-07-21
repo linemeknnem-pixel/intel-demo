@@ -1,10 +1,195 @@
 {
  "meta": {
-  "generated": "2026-07-20",
+  "generated": "2026-07-21",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 12 条，合计 270 条"
+  "note": "新增 13 条，合计 283 条"
  },
  "items": [
+  {
+   "id": "nae86bb4ce9",
+   "category": "竞品",
+   "company": "",
+   "title": "不只盯一次转化，钛动科技更想帮品牌把“买过一次”慢慢接成“还会回来” - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBGdTh5VjduS1dxUXBQcWhNRUh1RnlUcFFhaVpOSHgxNVJPRjhiQlRoYnZXREx4dm1mdUlKd2o5S3p2VnZidmUwOFNqZE53X09EXzNleHZjeUc3ODB0bmxUMlJwUlpsUW8yNlRKUTl3WnJWTlZVSW9DRVRTT2xrSTA?oc=5",
+   "date": "2026-07-21",
+   "summary": "不只盯一次转化，钛动科技更想帮品牌把“买过一次”慢慢接成“还会回来”  新浪财经",
+   "body": "不只盯一次转化，钛动科技更想帮品牌把“买过一次”慢慢接成“还会回来”  新浪财经",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n5a425756f1",
+   "category": "竞品",
+   "company": "",
+   "title": "专访钛动科技创始人：广东制造如何借AI跳出“微笑曲线”底端？ - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9WLU1wbDRoVUdENHViNFdpay1sTjVQd3hkcmNqSEtnV0Z1eE1hQnZzT2Qzd2dXNjNEbmZmVWh3bG1aREM0d3JYdGhoalppLTdQTTNESk5uSHNXYmplRTdtV0VvSHZvbkNIVzRsSTE0aHhROXk2Q205ZDZEOGNSMms?oc=5",
+   "date": "2026-07-19",
+   "summary": "专访钛动科技创始人：广东制造如何借AI跳出“微笑曲线”底端？  新浪财经",
+   "body": "专访钛动科技创始人：广东制造如何借AI跳出“微笑曲线”底端？  新浪财经",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "nc3d93bf201",
+   "category": "竞品",
+   "company": "",
+   "title": "股东离场，现金流承压！82%毛利率的钛动科技IPO真实成色 - 维科号",
+   "source": "维科号",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1waHgyb2hndlRXVUE3dXBzYnN2TFF5aVBDNGxBbmp3aDdtX1Q1N291X1dhVktCLWs2bjNFY1RWMFE5Ri1pbEVLQVB5djFLMGN3?oc=5",
+   "date": "2026-07-21",
+   "summary": "股东离场，现金流承压！82%毛利率的钛动科技IPO真实成色  维科号",
+   "body": "股东离场，现金流承压！82%毛利率的钛动科技IPO真实成色  维科号",
+   "tags": [
+    "竞品",
+    "IPO"
+   ]
+  },
+  {
+   "id": "n83117f55a2",
+   "category": "行业",
+   "company": "",
+   "title": "《2026年 AI 应用市场洞察报告》：竞争、商业与数字经济新格局 - 白鲸出海",
+   "source": "白鲸出海",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqaVNoWmRxeGc2WW5HUEZGX0dJNUR1WEpzOERLY1VJeW9YSWZaanFzaGx1eDZzX3J2VG43Ym1FTTNmUzhUaFR4TFRLT3k?oc=5",
+   "date": "2026-07-21",
+   "summary": "《2026年 AI 应用市场洞察报告》：竞争、商业与数字经济新格局  白鲸出海",
+   "body": "《2026年 AI 应用市场洞察报告》：竞争、商业与数字经济新格局  白鲸出海",
+   "tags": [
+    "行业",
+    "出海"
+   ]
+  },
+  {
+   "id": "nbe214cebc1",
+   "category": "行业",
+   "company": "",
+   "title": "2026年AI市场大变革：ChatGPT遇挑战，购物与广告营销格局重塑 - blog.csdn.net",
+   "source": "blog.csdn.net",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFA0b21ZMS1mZDI3b3BERnhNZlRla2tiMVJWWlpFMHNnVG1YWUVrRXFiVF9JdHVvbllyMkFaLWdaNERKNUVLMGlyUEd1QUltRjd5Y0ptUUxsSDdra05pUTFIYjdoMUFTWVBpbG1N?oc=5",
+   "date": "2026-07-21",
+   "summary": "2026年AI市场大变革：ChatGPT遇挑战，购物与广告营销格局重塑  blog.csdn.net",
+   "body": "2026年AI市场大变革：ChatGPT遇挑战，购物与广告营销格局重塑  blog.csdn.net",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n8e09dc54fb",
+   "category": "行业",
+   "company": "",
+   "title": "TikTokAI广告助手上线：跨境卖家的广告营销指南 - 财富号",
+   "source": "财富号",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pUmEwdXBnbWJCTFBpNnNOQjYtNUJ0Nzc4eTUxb21ybmlPa0dCcEJqRHRRLVlBVlcyZ0ZBNURvd2lDcktHVWNzR2h1cVpjVW5taXNtUk9xLXpKTzZlSlF1aU5JOUczd0ZvVy1z?oc=5",
+   "date": "2026-07-13",
+   "summary": "TikTokAI广告助手上线：跨境卖家的广告营销指南  财富号",
+   "body": "TikTokAI广告助手上线：跨境卖家的广告营销指南  财富号",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "ncb00950ec4",
+   "category": "行业",
+   "company": "",
+   "title": "Alphabet Q2财报前瞻：1900亿美元AI豪赌迎大考，Google Cloud还能撑起增长神话吗？ - TradingKey",
+   "source": "TradingKey",
+   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUDl5RkR6ZFEzSWpxcDExNHM0V0V1b1lhNHF5RXFBbHNtR3hLM1R2Q3ktZlN4dTNZRFFRQjl0RVpSMG5zZWJYM2xJdE96RHpTR19IXzdZUnpBdUIycGhPSjRsY2pHMUdfQmJWSmg3U2xqdmVYZEg3UUtGVnRJekE3dzNIXzRHaWRPZWZ5YWgxTG9URGQwa1doOEY1SmtaM2c5OGt2NEE5SnVnVXc3X3c?oc=5",
+   "date": "2026-07-19",
+   "summary": "Alphabet Q2财报前瞻：1900亿美元AI豪赌迎大考，Google Cloud还能撑起增长神话吗？  TradingKey",
+   "body": "Alphabet Q2财报前瞻：1900亿美元AI豪赌迎大考，Google Cloud还能撑起增长神话吗？  TradingKey",
+   "tags": [
+    "行业",
+    "财报"
+   ]
+  },
+  {
+   "id": "n22c6b18194",
+   "category": "政策",
+   "company": "",
+   "title": "从 6 月 T86 彻底作废到 7 月 CPSC 强制申报，美国 POD 全面进入本土履约时代 - 搜狐网",
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRzlBNEZLNndEYlVOVXhvT1hSRGFpa0pISWstWnFpcjl6bmFRMW5tV0p4N3lleU9VZzU1Y2FCaXJnMXU2dTA3R2ltTVlwQkFKdmktV19rZk42QkN2VUZ4SzI2eWIxNVF0MGxWZUdlX1FWclFHejBsbGVpYlNLbkQteGpUR2FodWpQVFoyMA?oc=5",
+   "date": "2026-07-20",
+   "summary": "从 6 月 T86 彻底作废到 7 月 CPSC 强制申报，美国 POD 全面进入本土履约时代  搜狐网",
+   "body": "从 6 月 T86 彻底作废到 7 月 CPSC 强制申报，美国 POD 全面进入本土履约时代  搜狐网",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n3854cd7c50",
+   "category": "政策",
+   "company": "",
+   "title": "TikTok Shop欧区GMV涨8倍欧盟落地关税新政| 邦小白跨境周报- 跨境电商 - 亿邦动力网",
+   "source": "亿邦动力网",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pSndTU0lWTFc3VWN2dThuT1ZJdGRLQXdIWlQxYWUzdHA3QkctZ2M0NlhxczRCZVZGNFlNWWlFYlNENzRsZFJTamY3VjNsS0pSNVU2Z2R3?oc=5",
+   "date": "2026-06-29",
+   "summary": "TikTok Shop欧区GMV涨8倍欧盟落地关税新政| 邦小白跨境周报- 跨境电商  亿邦动力网",
+   "body": "TikTok Shop欧区GMV涨8倍欧盟落地关税新政| 邦小白跨境周报- 跨境电商  亿邦动力网",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n1c060ef76b",
+   "category": "政策",
+   "company": "",
+   "title": "Meta广告引擎EBITDA利润率62%，华尔街却还在担心AI投入？ - 手机网易网",
+   "source": "手机网易网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9oWUlqNWw4TlNZUGpiNjJ1blFDMEpmM3RyU1ljWGdMWFp2UURmcTB0RkR3UGRMLTljS19PbUhXNm1FcGpYZ3ViRkhMbFJ5eV9jdnphYlhYNXJmSm1UN3I5LTRR?oc=5",
+   "date": "2026-07-21",
+   "summary": "Meta广告引擎EBITDA利润率62%，华尔街却还在担心AI投入？  手机网易网",
+   "body": "Meta广告引擎EBITDA利润率62%，华尔街却还在担心AI投入？  手机网易网",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n7e03fc9439",
+   "category": "政策",
+   "company": "",
+   "title": "OpenAI隐私政策更新及ChatGPT广告扩展：面向用户、营销人员和企业的2026年完整指南 - ALM Corp",
+   "source": "ALM Corp",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaVNTWVptLWlBRm9mdmFoYzRBZVp0SFpWdGV1MFVYckpQaGZIXzl1R19COTZLNHhJTFgxSUJmYTdLT25zX0dsQTZ0V2k4MGZKMC1JalZ2VUFCQUU4TnBmVkJJYTlPX2syT2JHdkp1WWJNWjBaSXBRV29fZTBmZUdsU3VhNA?oc=5",
+   "date": "2026-05-30",
+   "summary": "OpenAI隐私政策更新及ChatGPT广告扩展：面向用户、营销人员和企业的2026年完整指南  ALM Corp",
+   "body": "OpenAI隐私政策更新及ChatGPT广告扩展：面向用户、营销人员和企业的2026年完整指南  ALM Corp",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nc0e1d66bdf",
+   "category": "客户",
+   "company": "",
+   "title": "品牌研发集结上海｜雅诗兰黛、香奈儿、联合利华、珀莱雅、科蒂、安利...新技术发布- 会议专区 - 生物谷",
+   "source": "生物谷",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFA1Z3pwRk9GRVk5Qi1GWk5md1UtZ2Z5eTZsZ1NPb2pCYjlwNFhEeW5KVGU2c2N1NFhVLVI3S19xOWNHT1VoV3E3SngxZzBodE80X01zX3d3R3BCZmhl?oc=5",
+   "date": "2026-06-23",
+   "summary": "品牌研发集结上海｜雅诗兰黛、香奈儿、联合利华、珀莱雅、科蒂、安利...新技术发布- 会议专区  生物谷",
+   "body": "品牌研发集结上海｜雅诗兰黛、香奈儿、联合利华、珀莱雅、科蒂、安利...新技术发布- 会议专区  生物谷",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n746277f9ef",
+   "category": "客户",
+   "company": "",
+   "title": "自然堂跨入「50亿俱乐部」：国货美妆如何穿越周期？ - 维科号",
+   "source": "维科号",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAybHdhUWlpXzg1b254NWkyVHd3MFFwY3h1UFFyc1EzT09vUUZrUUk0aTZkaFo2X1h4VWN2c3ozQ09vbHd5RVhwbjdEQkRTRFJfWGE2bW5Ubw?oc=5",
+   "date": "2026-06-18",
+   "summary": "自然堂跨入「50亿俱乐部」：国货美妆如何穿越周期？  维科号",
+   "body": "自然堂跨入「50亿俱乐部」：国货美妆如何穿越周期？  维科号",
+   "tags": [
+    "客户"
+   ]
+  },
   {
    "id": "nc8f3fdeb9d",
    "category": "竞品",
