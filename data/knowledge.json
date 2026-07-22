@@ -1,10 +1,212 @@
 {
  "meta": {
-  "generated": "2026-07-21",
+  "generated": "2026-07-22",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 13 条，合计 283 条"
+  "note": "新增 14 条，合计 297 条"
  },
  "items": [
+  {
+   "id": "n4f7cc7a5aa",
+   "category": "竞品",
+   "company": "",
+   "title": "钛动科技Tec-Do：从Agentic Ads到A2A，如何卡住下一代商业连接位 - Sohu",
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xTlRUOTh2Y2xkR0tDeU8yaDlIQzE2eFI0b3dwQjBFLWtucGMxS3p4WG5nWVB2WmFuX2M2UHh3UDVqWkxaMG5xdTNrbl92Zzg3LXc?oc=5",
+   "date": "2026-07-20",
+   "summary": "钛动科技Tec-Do：从Agentic Ads到A2A，如何卡住下一代商业连接位  Sohu",
+   "body": "钛动科技Tec-Do：从Agentic Ads到A2A，如何卡住下一代商业连接位  Sohu",
+   "tags": [
+    "竞品",
+    "Agent"
+   ]
+  },
+  {
+   "id": "nfb3ba1823d",
+   "category": "竞品",
+   "company": "",
+   "title": "钛动科技在WAIC发布AI营销智能体Navos 2.0 - msn.com",
+   "source": "msn.com",
+   "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNVFVPTEZXNWUtYWowVXI5OGxZMHk0a0ZqMkY0a2F6WDNJN2Q1M29QU3RuX0hQMnk4d2N5SkF1V1lvSUl5dzlsVkpQemNZSXJ6WVhtTV9jcG1uN0dyTTQ2a2tLMFVURU8xRGl0eVVZUDEtSnd3amJjUC1aMmYzNXhEQ1BLTXQ5bkJ0dEFKR0NBOVlVdlRwZFJfUU1GZ183Y3UtSjZwc19pdFBzVWRGQnRBdnBnQV9xZnNFTjh0UFJXV1J5MFVIb1B2WVRUUnNreVpHbk5GdHpNX25hZ2tMZGVQYnRUSVdqYTZ1Z05ONHJial90aEZXMHJuVEd2cVZERndhb0VRTkEtdGdkT2pyc0N6OHFHN05ZbmFZdmR3al9ld3hiSy14S05RVkNlT1pjT2IzekszbE5ybXlWZHA2cXllUHNVeGtSczFYR09RemJLMnp2U3VKWUFESGhrQU1VN0lVVWxkUVNSRTA1Qk1vRDdjZGxfMjl4TnVvdHFFTGVVLV9BSjZZMUprYTU1N05obTcxU2MtRWhMQQ?oc=5",
+   "date": "2026-07-20",
+   "summary": "钛动科技在WAIC发布AI营销智能体Navos 2.0  msn.com",
+   "body": "钛动科技在WAIC发布AI营销智能体Navos 2.0  msn.com",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n85a55990f1",
+   "category": "竞品",
+   "company": "",
+   "title": "钛动科技转道港交所，出海AI营销龙头迎资本大考 - 东方财富",
+   "source": "东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtVG5Cdy1zem1STVN4WnNNV2F1MEdLd3A3WjIyUmF2a1dhUjBlUExrX01RUGxlRlpmdmtiM3MyalIyMHBiWk5CVW55NF9uc0pXQWVleVRlQ2szOElLeXZmdQ?oc=5",
+   "date": "2026-03-18",
+   "summary": "钛动科技转道港交所，出海AI营销龙头迎资本大考  东方财富",
+   "body": "钛动科技转道港交所，出海AI营销龙头迎资本大考  东方财富",
+   "tags": [
+    "竞品",
+    "出海"
+   ]
+  },
+  {
+   "id": "n83e05f96be",
+   "category": "竞品",
+   "company": "",
+   "title": "国内 AI 公司奥创光年完成1500万美元A+轮融资，美图、凯辉基金联合领投 - Sohu",
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoMnZhYUdWSFBRdVNRRExYcGtxWTUxbG44SVRLM2tFZG5Ub2JpODBMOVNYYWx0UDQzXzI5Mzd0dGVlRURpVC1QenVHOExaUVRh?oc=5",
+   "date": "2024-01-29",
+   "summary": "国内 AI 公司奥创光年完成1500万美元A+轮融资，美图、凯辉基金联合领投  Sohu",
+   "body": "国内 AI 公司奥创光年完成1500万美元A+轮融资，美图、凯辉基金联合领投  Sohu",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "na48617e29d",
+   "category": "竞品",
+   "company": "",
+   "title": "按朱啸虎的标准，选一家值得投资的AIGC企业有多难？ - 36Kr",
+   "source": "36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1hT2tsUVI4RlZPYzlRbkgtV01JLThhdGM5UzhNNGdsMml6QkdZY3h6UVRGR0xmX0lEU1c0UmI4RmdWd21UbHNZTmY2QWFiUQ?oc=5",
+   "date": "2023-07-09",
+   "summary": "按朱啸虎的标准，选一家值得投资的AIGC企业有多难？  36Kr",
+   "body": "按朱啸虎的标准，选一家值得投资的AIGC企业有多难？  36Kr",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n6b7781c348",
+   "category": "竞品",
+   "company": "",
+   "title": "凯辉创新基金启动「AI助力计划」 - Cathay Capital",
+   "source": "Cathay Capital",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTVo0cXFrV05JZFRTS2pYMG5zY0ROMng4TDBKME45a0RndG44MzdoaGd0VlBfMDBfeTZ5b2h6elVZOVAtcVAxRTVaa1g0QnpIV2lVSDczZ1dRaDA4RGFjeUJweXdTTlc2b0hZUmk4bGNkMGR2eV85UklkemdDd0xRaXQwS0t5WEhuelp6NnBCWmJUbTh0RkhSZGhOMGdTbXZjN1FrTWlxMW5xWk5DV3lZUnJYRVJsZ0g3VmY0cUpjZDN5emE5cEp5NkFydFFqOFFNcjFmMUlLNFN5NVJvNGhuSGxjclYyYzNZT3pZSUlQTWhnR19a?oc=5",
+   "date": "2024-03-15",
+   "summary": "凯辉创新基金启动「AI助力计划」  Cathay Capital",
+   "body": "凯辉创新基金启动「AI助力计划」  Cathay Capital",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n378e449317",
+   "category": "竞品",
+   "company": "",
+   "title": "PureblueAI清蓝完成数千万元天使轮融资 - 投中",
+   "source": "投中",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE45R0t6dVVCbVlSZDdqUWZhUk8yb0lQNkhhTXV1ejg0RFNrLUNvd0t0YV83M1I2YVlPcEVpTGlpLUZNaWU4XzUtRlhQLTg3cVhNZDZUdkVMeWhvZ3dBOG81TTE3d005bzF4LUtQMnl3?oc=5",
+   "date": "2026-03-03",
+   "summary": "PureblueAI清蓝完成数千万元天使轮融资  投中",
+   "body": "PureblueAI清蓝完成数千万元天使轮融资  投中",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "n4ec1a82a33",
+   "category": "行业",
+   "company": "",
+   "title": "重磅发布｜NEXGROW汽车AIGC平台上线，一键生成专业汽车营销视频 - 中华网科技频道",
+   "source": "中华网科技频道",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MT29vRzBVTVMtRU5hdmJIcEk2VHRoRWNEbVBoSzJHVXVOX0Q0NFZMVk53bE9rc3U3c3JLVlNzS0huSTZZdWVCcGNCOHpZUVVjaXVvWXVSUmctcl9hRncxbHp1Rk05OVBPUzFYQVdWOTF3Zl81UUE?oc=5",
+   "date": "2026-04-20",
+   "summary": "重磅发布｜NEXGROW汽车AIGC平台上线，一键生成专业汽车营销视频  中华网科技频道",
+   "body": "重磅发布｜NEXGROW汽车AIGC平台上线，一键生成专业汽车营销视频  中华网科技频道",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "nf4efbbf5f9",
+   "category": "行业",
+   "company": "",
+   "title": "谷歌为广告新增人工智能披露工具 - ALM Corp",
+   "source": "ALM Corp",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55YkgzYmpFbVpPOGY2M2xSZGlZLUdjQ01sUlFzZXhMdWU5UHVfYXVwVlZsOVg2VV9aaThNNFFkWS1qQ0RNVnFxVHQ1bXJqUVViaE1lQkxFZnJLMUVJZWRxR2dfTEpNN3FsQnFXYXZnSlg?oc=5",
+   "date": "2026-07-22",
+   "summary": "谷歌为广告新增人工智能披露工具  ALM Corp",
+   "body": "谷歌为广告新增人工智能披露工具  ALM Corp",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n6b47472018",
+   "category": "行业",
+   "company": "",
+   "title": "[Affectiva]：2025年生成式AI与情感AI的融合：人工智能在广告领域的颠覆性影响研究报告 - 发现报告",
+   "source": "发现报告",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE15eWNjaGVWaThhdXI3a1VIdnpqM0lFRWk3MnQ1TmdaNlBDeGJKYWZ3WUE4QUZFcG9lcGJnMnlZZ0c4T3k2WUdxZ2dYWQ?oc=5",
+   "date": "2026-07-21",
+   "summary": "[Affectiva]：2025年生成式AI与情感AI的融合：人工智能在广告领域的颠覆性影响研究报告  发现报告",
+   "body": "[Affectiva]：2025年生成式AI与情感AI的融合：人工智能在广告领域的颠覆性影响研究报告  发现报告",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n042aebc7d3",
+   "category": "客户",
+   "company": "",
+   "title": "九四智能斩获2026非凡奖“最佳美妆行业智能导购奖”，以对话式AI驱动美妆营收倍增 - 中华网",
+   "source": "中华网",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1ndEoxdk9UQlNtaFBGQVFEUklFYjZ4MXdpSGhKUEwwZ2lka1FRNm8wTktBVWNzSG5Na0R4TTVOQzBsZXE2cDBrQnlTaXVDdXJpTS1DQzVwTXNERTNsaXZpWFpWQXNWX1d2T2pjNQ?oc=5",
+   "date": "2026-07-22",
+   "summary": "九四智能斩获2026非凡奖“最佳美妆行业智能导购奖”，以对话式AI驱动美妆营收倍增  中华网",
+   "body": "九四智能斩获2026非凡奖“最佳美妆行业智能导购奖”，以对话式AI驱动美妆营收倍增  中华网",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "ncb37c85ee0",
+   "category": "客户",
+   "company": "",
+   "title": "2026年美妆行业GEO服务商推荐清单与深度测评指南 - e0734.com",
+   "source": "e0734.com",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VdXI0bGpqcjExS19aeTRvYmZyN3BndXE0TTEtcjA0WGFxcjZZcjdoanFac3d4TDlQU0VYYmo2ZXBNLXh3M1EzdndmTTFBZ2M0ajFLd0gwakp2M3RSRWZfeTM3eU8?oc=5",
+   "date": "2026-07-22",
+   "summary": "2026年美妆行业GEO服务商推荐清单与深度测评指南  e0734.com",
+   "body": "2026年美妆行业GEO服务商推荐清单与深度测评指南  e0734.com",
+   "tags": [
+    "客户",
+    "GEO"
+   ]
+  },
+  {
+   "id": "n70a4cdfeeb",
+   "category": "客户",
+   "company": "",
+   "title": "2026年美妆行业GEO服务商排名TOP6：全面评测 - 邢台网",
+   "source": "邢台网",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9kZkxnbEpEWDIwMUlqbGFzS2pPR0RuaVpZMk81RFFiU3RST3N5UVQ3RnZQSWRKTkkyU21YMzB5OEpHN0p1V1J1T3ZJMWtRZEd1SGFKT3BnUnNpN2UxNnM1dWYwOExkUQ?oc=5",
+   "date": "2026-07-21",
+   "summary": "2026年美妆行业GEO服务商排名TOP6：全面评测  邢台网",
+   "body": "2026年美妆行业GEO服务商排名TOP6：全面评测  邢台网",
+   "tags": [
+    "客户",
+    "GEO"
+   ]
+  },
+  {
+   "id": "ne44abaaefd",
+   "category": "客户",
+   "company": "",
+   "title": "AI短剧成本降至十分之一，美妆品牌为何开始“去AI化”？ - Jiemian.com",
+   "source": "Jiemian.com",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyWG9SLXA5MjVDMXcwWkNpaF9DWWcwZTh6YUVsd2hkZ1lDQmZEdDhkalRPM3B6XzM5b2J2X1NDQ2FJMnpJQjlWZEdBTzE5SGVtTEFzSWNR?oc=5",
+   "date": "2026-06-25",
+   "summary": "AI短剧成本降至十分之一，美妆品牌为何开始“去AI化”？  Jiemian.com",
+   "body": "AI短剧成本降至十分之一，美妆品牌为何开始“去AI化”？  Jiemian.com",
+   "tags": [
+    "客户"
+   ]
+  },
   {
    "id": "nae86bb4ce9",
    "category": "竞品",
