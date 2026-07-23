@@ -1,11 +1,166 @@
 /* 自动生成 by scripts/ingest.py —— 请勿手改 */
 window.KB_DATA = {
  "meta": {
-  "generated": "2026-07-22",
+  "generated": "2026-07-23",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 14 条，合计 297 条"
+  "note": "新增 11 条，合计 308 条"
  },
  "items": [
+  {
+   "id": "n29ae854a57",
+   "category": "竞品",
+   "company": "",
+   "title": "AI赋能供应链数字化升级，筷子科技携视频商业智能体系统亮相链博会 - nfplus.nfnews.com",
+   "source": "nfplus.nfnews.com",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQy02eTFsZXRLV0NkZWI1ZjdIdXZLUnA3ek95MzFSenFsVDktaHdxUnExTEl5U2NMOC1Dd1RQZklfZV9fdFA3VEQ2S19xTEhmekFKUDVZZTRxaU44VGQ5blNhTGFvRjBjLVVZb253ZjFxSWR6VnhVQzI0TjJBZi0wYmJBVG5Mb3pDN0s1aVB1amtSaG1NTE9PaGdxbXNKTGxnSEk3TGF2QVo3bDF1dS1pWWt4d0hmeVdpNkFFaTVCOXNVMlR2TThBNXBhbTYzdDlN?oc=5",
+   "date": "2026-06-29",
+   "summary": "AI赋能供应链数字化升级，筷子科技携视频商业智能体系统亮相链博会  nfplus.nfnews.com",
+   "body": "AI赋能供应链数字化升级，筷子科技携视频商业智能体系统亮相链博会  nfplus.nfnews.com",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "na827004392",
+   "category": "行业",
+   "company": "",
+   "title": "OpenAI：从采访辅助到广告销售，多家媒体已用生成AI变革新闻生产 - 手机网易网",
+   "source": "手机网易网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWS0FMNWdUenVzT09zVXVDai1TXzVWTVQ2RWZRcjdYdEx2T2Y2OVBtVFZKUFIzWWRsd3VRRG8xcWdKZDNhRTZSakpXSFZNVnREaExMSElRa3U4RHBYbU1mQ19B?oc=5",
+   "date": "2026-07-23",
+   "summary": "OpenAI：从采访辅助到广告销售，多家媒体已用生成AI变革新闻生产  手机网易网",
+   "body": "OpenAI：从采访辅助到广告销售，多家媒体已用生成AI变革新闻生产  手机网易网",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "nd2d3f0f1dc",
+   "category": "政策",
+   "company": "",
+   "title": "国内做Meta广告开户的正规代理商有哪些？2026年选对官方渠道，少踩90%的坑_行业动态 - 投资界",
+   "source": "投资界",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wMGlaQVZ6UUxJTHJrbTlXZFc2WVgtb1A2UDd4cXRwQmF5TmszUW5XeEpoa2JENjRLRDhwcGx2RXl1QU1LUm9Rel8yNTNSaTlkRm5qcWZDMS0?oc=5",
+   "date": "2026-07-23",
+   "summary": "国内做Meta广告开户的正规代理商有哪些？2026年选对官方渠道，少踩90%的坑_行业动态  投资界",
+   "body": "国内做Meta广告开户的正规代理商有哪些？2026年选对官方渠道，少踩90%的坑_行业动态  投资界",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n327039788e",
+   "category": "政策",
+   "company": "",
+   "title": "易点天下明天7月6日周一走势分析！预计易点天下周一小幅低开，然后快速翻红收复失地 - 财富号",
+   "source": "财富号",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqZUtQYVctaHZ2VVpYUDJtNjJMbUNPT001ajNCQm41aDltNmRucjdYUldrMVJFTXdLVXhNaVU0Y0RKTFdvLUwwWXpzNlFTYXFlZWhTd0hxbkRJMFRwUlpkNl8tbzR5amtLemk0?oc=5",
+   "date": "2026-07-05",
+   "summary": "易点天下明天7月6日周一走势分析！预计易点天下周一小幅低开，然后快速翻红收复失地  财富号",
+   "body": "易点天下明天7月6日周一走势分析！预计易点天下周一小幅低开，然后快速翻红收复失地  财富号",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n0ee493136a",
+   "category": "政策",
+   "company": "",
+   "title": "Meta推出樂觀視角的AI廣告活動，探討科技與人類未來| 乌克兰新闻 - Межа. Новини України.",
+   "source": "Межа. Новини України.",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wV21BYkRXOTJ1SnJPR3B4d2ExZmQxaTg4MzduQjVKUmVKaVdHQWV0Vm5rMUltTWxaWkEzOXZiWHlscERhLTRuS0Z5bkx3VnE0cTM3T2x4MkVIb3h5VVAtMVhwdw?oc=5",
+   "date": "2026-07-23",
+   "summary": "Meta推出樂觀視角的AI廣告活動，探討科技與人類未來| 乌克兰新闻  Межа. Новини України.",
+   "body": "Meta推出樂觀視角的AI廣告活動，探討科技與人類未來| 乌克兰新闻  Межа. Новини України.",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nab836817e0",
+   "category": "政策",
+   "company": "",
+   "title": "Meta 在 Instagram 上线几天后便移除了其 AI 混音功能。 - ALM Corp",
+   "source": "ALM Corp",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVMklXZ0pvNjNHN0RoTWpaU05vNEJ6NHdEaEE0eXM1el82Sjh4bWJvdmJjNTk2dHJmQTF2cGpNTzBlazlodFpIS3hmTnV1MFlpTk9RUlhFRWFIX1lYWkRXMXFSVTVoV1ZIZG01SVR2c1FpT3IxalBZYXF3WQ?oc=5",
+   "date": "2026-07-22",
+   "summary": "Meta 在 Instagram 上线几天后便移除了其 AI 混音功能。  ALM Corp",
+   "body": "Meta 在 Instagram 上线几天后便移除了其 AI 混音功能。  ALM Corp",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n573cfa13c1",
+   "category": "政策",
+   "company": "",
+   "title": "Google：自7月21日起，针对政策决定的申诉选项将不再适用于超过6个月的Google Ads账户——网站 - 富途牛牛",
+   "source": "富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSi1NTm9GUGhSVlkyRzVaWDEwVEg5ZzdfZWdkdHVwSWZGaHFCb1NBTTUzdGFCaHhiQVFSa0ZzUUZENkhNUWF2cHNfOTJZS3E3RjlXdm12c0ttelhsYUNLbzdDcjdQaWJOWXJqWkphay1nVW8yenJLOVRmQlo5LVV0NVNSWTdTRERmNmN3SXlzV1NuOEpqWGZMOVZtOXo5Zw?oc=5",
+   "date": "2026-07-21",
+   "summary": "Google：自7月21日起，针对政策决定的申诉选项将不再适用于超过6个月的Google Ads账户——网站  富途牛牛",
+   "body": "Google：自7月21日起，针对政策决定的申诉选项将不再适用于超过6个月的Google Ads账户——网站  富途牛牛",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nebecb9277b",
+   "category": "政策",
+   "company": "",
+   "title": "谷歌(GOOG.US)：自7月21日起使用超过6个月的Google Ads账户将不再提供针对部分政策决定的申诉选项。 - Bitget",
+   "source": "Bitget",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GVVZERTVfeGtGemJUQlpGRGt4Ukd1d3RzYU9pV2hrbG9yNV9MY2FuNzJWNXJuQUcwbk1YdmtXSVFOZVRFZEw0T05mLXptd3JZVmdyejhXTmhqRVg1UjV0VUIwTXc2QVdjT0pR0gFrQVVfeXFMT0ZVVkRFNV94a0Z6YlRCWkZEa3hSR3V3dHNhT2lXaGtsb3I1X0xjYW43MlY1cm5BRzBuTVh2a1dJUU5lVEVkTDRPTmYtem13cllWZ3J6OFdOaGpFWDVSNXRVQjBNdzZBV2NPSlE?oc=5",
+   "date": "2026-07-21",
+   "summary": "谷歌(GOOG.US)：自7月21日起使用超过6个月的Google Ads账户将不再提供针对部分政策决定的申诉选项。  Bitget",
+   "body": "谷歌(GOOG.US)：自7月21日起使用超过6个月的Google Ads账户将不再提供针对部分政策决定的申诉选项。  Bitget",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n78bc9f52e3",
+   "category": "客户",
+   "company": "",
+   "title": "调查：76%的00后，买美妆前先问AI - 36 Kr",
+   "source": "36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBscTNQcE1nVGxCbG9ENGRRTEVhVWNCYXJqajNQM1FTRXhoQTdzcjd0YUJvWGtrTE1TbW45RENMYlo2Rm1JZ2d4QmxsSXZ6Zw?oc=5",
+   "date": "2026-07-23",
+   "summary": "调查：76%的00后，买美妆前先问AI  36 Kr",
+   "body": "调查：76%的00后，买美妆前先问AI  36 Kr",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n86ea233f0d",
+   "category": "消费者",
+   "company": "",
+   "title": "抖音电商：上半年户外产业带商品累计售出超10亿单 - 电商派",
+   "source": "电商派",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pNDloRlJ6NlQyYm9ycFAxd21iVDdZcTJwTFcwZGY0UUF2d2RUeHFXb3ZwTXlWSWVzQXlVcmdzZDhFS1F5M0Q5cWlLWjBUYUx2UnNGZnJnUzRFR3NJSjAtcw?oc=5",
+   "date": "2026-07-23",
+   "summary": "抖音电商：上半年户外产业带商品累计售出超10亿单  电商派",
+   "body": "抖音电商：上半年户外产业带商品累计售出超10亿单  电商派",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n917b3928eb",
+   "category": "消费者",
+   "company": "",
+   "title": "直播电商打开户外消费新增量，抖音电商产业带商品半年售出超10亿单 - 手机网易网",
+   "source": "手机网易网",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSOHN5dkpvdnBBWWxSNWl1NlZTQlJWNUpKekp4VkxGNE9qa2l0VGpPelNacWRJQTdDQ0Q4Y1J2VTdNcnRUejZqZXpyZlNYLWZJb1pQZndLdUFEV1ZwVHZVMzRQZkQ?oc=5",
+   "date": "2026-07-23",
+   "summary": "直播电商打开户外消费新增量，抖音电商产业带商品半年售出超10亿单  手机网易网",
+   "body": "直播电商打开户外消费新增量，抖音电商产业带商品半年售出超10亿单  手机网易网",
+   "tags": [
+    "消费者",
+    "直播"
+   ]
+  },
   {
    "id": "n4f7cc7a5aa",
    "category": "竞品",
