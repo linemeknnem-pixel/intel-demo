@@ -1,10 +1,195 @@
 {
  "meta": {
-  "generated": "2026-07-23",
+  "generated": "2026-07-24",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 11 条，合计 308 条"
+  "note": "新增 13 条，合计 321 条"
  },
  "items": [
+  {
+   "id": "nf38b66f8bc",
+   "category": "竞品",
+   "company": "",
+   "title": "特赞科技Tezign 创始人及CEO 范凌在2023 世界人工智能大会AIGC 产业论坛的发言：人工智能与产业想象力 - 极客公园",
+   "source": "极客公园",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBRT1prdHNQNlVzMGNKb0J5dHd3d0NGQ1JQcmpNNVVXTGJsXzdFX2FXc0ZLMUNMUXoyLUZZNFBMZ3lxOGhjVUNHZkJLUzk?oc=5",
+   "date": "2023-07-09",
+   "summary": "特赞科技Tezign 创始人及CEO 范凌在2023 世界人工智能大会AIGC 产业论坛的发言：人工智能与产业想象力  极客公园",
+   "body": "特赞科技Tezign 创始人及CEO 范凌在2023 世界人工智能大会AIGC 产业论坛的发言：人工智能与产业想象力  极客公园",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "nf5c8a1dff3",
+   "category": "竞品",
+   "company": "",
+   "title": "证监会三问AI黑马钛动科技：股权、募资、外资准入合规待解 - 凤凰网",
+   "source": "凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PSmEwTnE4VVFQcjNHZGxTX01hZVZQUVRfQ3M1T1o5OEVhUVBCZXY0S0lHZXhUS1RDRzh3RTFsak9BLXV6VjczVk9XeEJrZmVG?oc=5",
+   "date": "2026-07-24",
+   "summary": "证监会三问AI黑马钛动科技：股权、募资、外资准入合规待解  凤凰网",
+   "body": "证监会三问AI黑马钛动科技：股权、募资、外资准入合规待解  凤凰网",
+   "tags": [
+    "竞品",
+    "合规"
+   ]
+  },
+  {
+   "id": "n043ad4ecd8",
+   "category": "竞品",
+   "company": "",
+   "title": "稳居全球顶尖水平！钛动科技自研专业模型再获SuperCLUE权威认可 - 财富号",
+   "source": "财富号",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52VERFS0pndmhJWU9FYktMd25qNWd1S01RS3dCcE9kS19WLUcwakx1cVYzbEtQZlp2anZaLTVERmlBWk5SME5WckJxVkQ1SmNlajQ3Zk1hN1hHbHRhd2VvWldSUkhvUF9IUXdJ?oc=5",
+   "date": "2026-07-24",
+   "summary": "稳居全球顶尖水平！钛动科技自研专业模型再获SuperCLUE权威认可  财富号",
+   "body": "稳居全球顶尖水平！钛动科技自研专业模型再获SuperCLUE权威认可  财富号",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n5e2dc3d339",
+   "category": "竞品",
+   "company": "",
+   "title": "证监会三问钛动科技背后：毛利率82%及其资产负债表上的“堰塞湖” - 凤凰网",
+   "source": "凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yMDJvUkdqaTNocFFqODFGUFNRdG5tbTlLMG44M2JuLU0wZWNLMTh1c1NtWVltYVBXVmUtcWc4UWc0MnNSb1dKaA?oc=5",
+   "date": "2026-07-24",
+   "summary": "证监会三问钛动科技背后：毛利率82%及其资产负债表上的“堰塞湖”  凤凰网",
+   "body": "证监会三问钛动科技背后：毛利率82%及其资产负债表上的“堰塞湖”  凤凰网",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n123cc140e3",
+   "category": "竞品",
+   "company": "",
+   "title": "「PureblueAI清蓝」完成数千万元天使轮融资，发布首款AI口碑营销数字员工- 极新 - 极新",
+   "source": "极新",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZllaUnZEaExpdGJTNW13MU5OTjNNdHVxLXdjdDBmSnhka3BfcllneHp0YmlfYkNyYnBaR1YzZzFYTlVxV2FlbExkemRTS0hHblBIcGhVVDVtRV9HVWhnZk85a014OE1oNGx3b3BXNUxXNGZhb2dVTE5jRE1vZTlqNzNXSVFLTXJob0VqYjJDMjRZVXdU?oc=5",
+   "date": "2026-07-22",
+   "summary": "「PureblueAI清蓝」完成数千万元天使轮融资，发布首款AI口碑营销数字员工- 极新  极新",
+   "body": "「PureblueAI清蓝」完成数千万元天使轮融资，发布首款AI口碑营销数字员工- 极新  极新",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "n38dffb11ff",
+   "category": "行业",
+   "company": "",
+   "title": "AI数字分身赛道全面爆发 新流量时代重塑广告营销｜星戌影业正式签约顶流数字网红某梦贞贞 - 中华网科技频道",
+   "source": "中华网科技频道",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vYnRmUmlYV2Y2aVVJWWZ4ZjdOODdvUl9UMHpCUGo4c3B6UnQ2dk5jeExweVNYbkgyY1V2RExuaFhfbXNLMGNmcnROVko1S3BaUGtNaGNHRElpUzNVSVJYR1lpN1A5ZkZpUUxHV0R3?oc=5",
+   "date": "2026-07-24",
+   "summary": "AI数字分身赛道全面爆发 新流量时代重塑广告营销｜星戌影业正式签约顶流数字网红某梦贞贞  中华网科技频道",
+   "body": "AI数字分身赛道全面爆发 新流量时代重塑广告营销｜星戌影业正式签约顶流数字网红某梦贞贞  中华网科技频道",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n0d18002b64",
+   "category": "政策",
+   "company": "",
+   "title": "AI工具一键匹配热搜词！助力跨境POP商家抢占TikTok Shop美区年中促高曝光 - 雨果跨境",
+   "source": "雨果跨境",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BdlhhOHJDU3J3WFJySW9waVd2OTdyVk0wM1lIeWZTMWdiWkFYN2p3RzJMVEVNcjJwNHhYZ0VaMlFUMF9QWkR1T3ZGUFg?oc=5",
+   "date": "2026-06-18",
+   "summary": "AI工具一键匹配热搜词！助力跨境POP商家抢占TikTok Shop美区年中促高曝光  雨果跨境",
+   "body": "AI工具一键匹配热搜词！助力跨境POP商家抢占TikTok Shop美区年中促高曝光  雨果跨境",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n5dafb67907",
+   "category": "政策",
+   "company": "",
+   "title": "Meta从AWS挖走芯片大将：AI野心藏不住了，股价还便宜19% - 手机网易网",
+   "source": "手机网易网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45ODFrVUxlN1FEb2UxN0MtV0ZiSzEtSUptRmNHMWRYbFRkcU1oN3JuMnIxRWhHYVpEbXptcW5VOGppQmo2cFkteVBpSzNLYlFMSDNhRDFESk9XWVdXN1BndkNn?oc=5",
+   "date": "2026-07-21",
+   "summary": "Meta从AWS挖走芯片大将：AI野心藏不住了，股价还便宜19%  手机网易网",
+   "body": "Meta从AWS挖走芯片大将：AI野心藏不住了，股价还便宜19%  手机网易网",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nb3e5979d96",
+   "category": "政策",
+   "company": "",
+   "title": "Meta(META.US)发布自研AI图像模型Muse Image 挑战OpenAI、谷歌(GOOGL.US)同类产品 - finance.sina.com.cn",
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FX2kzNF9oRm04MF9WWTFzTFd3T0d3U2xvbmhjeXFLd3ZaZEFURGxkNHJkZmpncWRUeVJhdG9WeVBsREhMaHZFT0pjRmhIYTBBVTV6WWtjM1YwWkhvdUdsTkNDWU5QMHlqWXJac0MxYw?oc=5",
+   "date": "2026-07-08",
+   "summary": "Meta(META.US)发布自研AI图像模型Muse Image 挑战OpenAI、谷歌(GOOGL.US)同类产品  finance.sina.com.cn",
+   "body": "Meta(META.US)发布自研AI图像模型Muse Image 挑战OpenAI、谷歌(GOOGL.US)同类产品  finance.sina.com.cn",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n31d639f90f",
+   "category": "政策",
+   "company": "",
+   "title": "Google Play 7月政策大更新，应用没登记可能被移除，匿名聊天禁向儿童开放 - Enjoy出海",
+   "source": "Enjoy出海",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nTUFKQUw4bDBUQTY1dk1pRHlhRVZhMjlzUXZxcmh4bF8zWm80alNtWVRmdE5wNFRYaDBTY3BWYUMtTklCcnNlem5iN3ZCOFlsQmJHUW9GTEpUUQ?oc=5",
+   "date": "2026-07-24",
+   "summary": "Google Play 7月政策大更新，应用没登记可能被移除，匿名聊天禁向儿童开放  Enjoy出海",
+   "body": "Google Play 7月政策大更新，应用没登记可能被移除，匿名聊天禁向儿童开放  Enjoy出海",
+   "tags": [
+    "政策",
+    "出海"
+   ]
+  },
+  {
+   "id": "n798690ae7b",
+   "category": "客户",
+   "company": "",
+   "title": "定制妆容、改造场景、打造配方……头部美妆集团如何玩转AI - finance.sina.com.cn",
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZk5mY3dsNXdDell6OGZKQU9RQW9ad3Y3TWxldDVhNVV6RTRseGx5aC1wSk9nbVBQd3o2WlpjNEF0VVZ4bUlYYUwwTE9iVkpRN1BUb2lCMEtUck9yYl9od0hNWjloX2RBZnRYSmRsZWJ5VGhlTU5OcWU2ZWpWbGRWckk1eEo4bVRzM0NoMGRuT1lTWnlZSUIxS0VaVHNjTEI5TUVPdnVnWTQyeDNQS3FxNG1B?oc=5",
+   "date": "2026-07-24",
+   "summary": "定制妆容、改造场景、打造配方……头部美妆集团如何玩转AI  finance.sina.com.cn",
+   "body": "定制妆容、改造场景、打造配方……头部美妆集团如何玩转AI  finance.sina.com.cn",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n436485b211",
+   "category": "消费者",
+   "company": "",
+   "title": "汽车营销转向用户生活场景，小红书专家在2026中国汽车论坛阐述新趋势 - 网通社",
+   "source": "网通社",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EYXlEclNmcEpXY0VFRGp4dWVmR3k2SGh5ZzZiTkRweXVpbFoyT2NRbXRjdGxFdXJYalZiQUtXMUh4RERsMEY2OVRYbHpDYmRtY3lVUkl0WV9xdDA?oc=5",
+   "date": "2026-07-24",
+   "summary": "汽车营销转向用户生活场景，小红书专家在2026中国汽车论坛阐述新趋势  网通社",
+   "body": "汽车营销转向用户生活场景，小红书专家在2026中国汽车论坛阐述新趋势  网通社",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n083f1e877f",
+   "category": "消费者",
+   "company": "",
+   "title": "从卖房间到卖假期，抖音生活服务“心动榜”如何改写酒店增长逻辑 - 新京报",
+   "source": "新京报",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EZlpOdUxweDBIaEVJSHN5Z2dsb1BQZFEwR3Q2dGVheGpHZjRTaUNsT0JqVnRXclJiNzNBblFJQ3doZWt3amVfOE5nSGxnelNPMk01djhka0lqSDFock4zVURn?oc=5",
+   "date": "2026-07-17",
+   "summary": "从卖房间到卖假期，抖音生活服务“心动榜”如何改写酒店增长逻辑  新京报",
+   "body": "从卖房间到卖假期，抖音生活服务“心动榜”如何改写酒店增长逻辑  新京报",
+   "tags": [
+    "消费者"
+   ]
+  },
   {
    "id": "n29ae854a57",
    "category": "竞品",
