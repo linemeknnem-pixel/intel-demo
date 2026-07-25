@@ -1,11 +1,140 @@
 /* 自动生成 by scripts/ingest.py —— 请勿手改 */
 window.KB_DATA = {
  "meta": {
-  "generated": "2026-07-24",
+  "generated": "2026-07-25",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 13 条，合计 321 条"
+  "note": "新增 9 条，合计 330 条"
  },
  "items": [
+  {
+   "id": "n853356d1fb",
+   "category": "竞品",
+   "company": "",
+   "title": "港股AI上市潮再添新军！钛动科技递表港交所 卡位Multi-Agent第一股 - 财联社",
+   "source": "财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA5X1ZfMEs2U2RfcWxPQnM4bkp1N1Z2WjdNSi1YZTE2R2h1WDFNcW1aVzhXQi1oOXg2MjZxbUVXcEJ5c3h0R1R6RQ?oc=5",
+   "date": "2026-03-02",
+   "summary": "港股AI上市潮再添新军！钛动科技递表港交所 卡位Multi-Agent第一股  财联社",
+   "body": "港股AI上市潮再添新军！钛动科技递表港交所 卡位Multi-Agent第一股  财联社",
+   "tags": [
+    "竞品",
+    "Agent"
+   ]
+  },
+  {
+   "id": "n298dc2b78f",
+   "category": "竞品",
+   "company": "",
+   "title": "筷子科技亮相火山引擎Force原动力大会，探讨AI驱动品牌增长新路径- 业界 - 亿邦动力",
+   "source": "亿邦动力",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkLXJmbDJ4QmZLRjlDWVRyeUl6X2ZRWXdDMW13TFVhazR3QUtKYUVaYmZ3ZnBYQWtkMEV2VkxJeDY3TW10UHQ3WEE1dmcxVUMxMDlWV2FR?oc=5",
+   "date": "2026-06-30",
+   "summary": "筷子科技亮相火山引擎Force原动力大会，探讨AI驱动品牌增长新路径- 业界  亿邦动力",
+   "body": "筷子科技亮相火山引擎Force原动力大会，探讨AI驱动品牌增长新路径- 业界  亿邦动力",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n1633f617d8",
+   "category": "行业",
+   "company": "",
+   "title": "四份重磅研究，一次看懂2026营销新趋势丨第七届媒介力学论坛火热报名中！ - 白鲸出海",
+   "source": "白鲸出海",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kaW5DM2lrWVNtTjZlVUFtSy1XTF9UZ0lDcGxDRnBRY1U4UUZwZmMyWDd6VTNjbXhuVllyU2NkWHpfZ0V1UXh6ZzNwY3M?oc=5",
+   "date": "2026-07-14",
+   "summary": "四份重磅研究，一次看懂2026营销新趋势丨第七届媒介力学论坛火热报名中！  白鲸出海",
+   "body": "四份重磅研究，一次看懂2026营销新趋势丨第七届媒介力学论坛火热报名中！  白鲸出海",
+   "tags": [
+    "行业",
+    "出海"
+   ]
+  },
+  {
+   "id": "n394816ecad",
+   "category": "行业",
+   "company": "",
+   "title": "人工智能广告评估，激发您的 HI 和创意效率 - Ipsos",
+   "source": "Ipsos",
+   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWDY3WE5TYS1JRzJqVzZiRG4yTWMzNk0tV29WZ1BaRWhxcHE4QjlsNHJ4YnIybE5rY3dzZk9sWlZXejJaTjNJUDg0bFVIQXJhLUtZaHY4M0RWT25hVllEdEN6aTBYdnE5eGZISWdkOVEySThzcW4yTFJBTHhSVWF4Ti1fVE1MXzNnYXBLOW9LcWVWUGx2UlRBX0Z4X0RKX0loa2c?oc=5",
+   "date": "2026-07-01",
+   "summary": "人工智能广告评估，激发您的 HI 和创意效率  Ipsos",
+   "body": "人工智能广告评估，激发您的 HI 和创意效率  Ipsos",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n690967ea3e",
+   "category": "政策",
+   "company": "",
+   "title": "Google Play 7月政策大更新，应用没登记可能被移除，匿名聊天禁向儿童开放 - 白鲸出海",
+   "source": "白鲸出海",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tVFVIMF9Hd1J0Mk12MVdVXzgwUWstTUxWSGNpamNnS3NNSDl5dkd5MlZlN0x4cU5aZ1VjVTFIZ0VaVm5wRVJCakJfTWc?oc=5",
+   "date": "2026-07-24",
+   "summary": "Google Play 7月政策大更新，应用没登记可能被移除，匿名聊天禁向儿童开放  白鲸出海",
+   "body": "Google Play 7月政策大更新，应用没登记可能被移除，匿名聊天禁向儿童开放  白鲸出海",
+   "tags": [
+    "政策",
+    "出海"
+   ]
+  },
+  {
+   "id": "n4385f19a87",
+   "category": "客户",
+   "company": "",
+   "title": "侯亚孟代表珀莱雅股份签署战略合作备忘录，布局AI生物智能体美妆应用 - 手机新浪网",
+   "source": "手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOQzRtUTBIUXpvS21IYlVvVEdHU0xVNDhNZVZmSWlNbVVpbTVfemEtd21FYk5IV0tsOWVqQkZ4TFZTZVJKOTFFdUdWNEo1bmsyVGZnMFB3WGpwaC1oc0VqeGRJLWZPbW14S1M1OTl4VzFOaFBGd1haUExabE13MnV1SzFkeG92M29XbkJsQjFvWmdRTzdabUdfc1FHQ3hFcnk2ZVJaMFRDXy1oQ28ta1lJRXgwUTFpRmhhTTJsTHRZQlJRbzFQM2ppTlRvOFlsRm9Wb05FRHk5TlFmeWk0TGxMNjlHbWxUTDNVbzlMaE9qaDRCaUpITlF2emtpaWF2U0RTbW9UZzhJeHQ5Z2k0VFZSTXR2V1lsSkZ2S1FwbkxDdFN6cnJIQVNHcDhGQjg5Z1hpV1Bnai1DalRBeGt4UGJRcmRjOEg2dVgtbk16eE9xa2VEVnhhLVNJZHM5NHl5bjFNdElhdUpyOEx1SlU?oc=5",
+   "date": "2026-07-22",
+   "summary": "侯亚孟代表珀莱雅股份签署战略合作备忘录，布局AI生物智能体美妆应用  手机新浪网",
+   "body": "侯亚孟代表珀莱雅股份签署战略合作备忘录，布局AI生物智能体美妆应用  手机新浪网",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n65e0442be9",
+   "category": "客户",
+   "company": "",
+   "title": "定制妆容、改造场景、打造配方……头部美妆集团如何玩转AI - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYlFzZjZZa0tUMWRvbWhySFl3d3h4MDBLU1loU1Btc0lDdkVVN1V3UFVBdW4tQlhhYmpWUHZuQlN0alQxcFAzRndkSFFhcHlIRVk1c19PSG5Kb1NaWnNLVUhkUlNWY0FmRWxyOFlmV25KNUdPNk5LeUxvVmZiN1hmRkY3U3JQbGowN1hQTmY1RHlqZw?oc=5",
+   "date": "2026-07-25",
+   "summary": "定制妆容、改造场景、打造配方……头部美妆集团如何玩转AI  新浪财经",
+   "body": "定制妆容、改造场景、打造配方……头部美妆集团如何玩转AI  新浪财经",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n1ec21aebb1",
+   "category": "消费者",
+   "company": "",
+   "title": "数字平台赋能传统商圈焕新升级，青岛这条百年街区要再创示范 - 青岛日报",
+   "source": "青岛日报",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hRVdNeHFYQ1p0TV9BVWxrQW1hNlphQmFiR1ItMUlwOERGQ1NQYW5KcWc3SG1FeW1PQjlHUDFmRWFJdXUzcmo5M3R6b21JZVc4Z1JfTzN1ZVg?oc=5",
+   "date": "2026-07-25",
+   "summary": "数字平台赋能传统商圈焕新升级，青岛这条百年街区要再创示范  青岛日报",
+   "body": "数字平台赋能传统商圈焕新升级，青岛这条百年街区要再创示范  青岛日报",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n77cb4ab7ad",
+   "category": "消费者",
+   "company": "",
+   "title": "2026抖音生活服务浪漫青岛嗨吃畅游季”启动仪式举行 - 半岛网",
+   "source": "半岛网",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPb3ZGVDFONnU0TEtGM1ZrenpDM2pNeTlLa1VUaXJEdW1HZW85V0ExcV9uUDY5RllWY1NzV0NLRFdfdHk5QktyQkZIS3NlSFRDX0FFcnlwSHE?oc=5",
+   "date": "2026-07-25",
+   "summary": "2026抖音生活服务浪漫青岛嗨吃畅游季”启动仪式举行  半岛网",
+   "body": "2026抖音生活服务浪漫青岛嗨吃畅游季”启动仪式举行  半岛网",
+   "tags": [
+    "消费者"
+   ]
+  },
   {
    "id": "nf38b66f8bc",
    "category": "竞品",
