@@ -1,10 +1,139 @@
 {
  "meta": {
-  "generated": "2026-07-26",
+  "generated": "2026-07-27",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 11 条，合计 341 条"
+  "note": "新增 9 条，合计 350 条"
  },
  "items": [
+  {
+   "id": "nae63be2c0b",
+   "category": "竞品",
+   "company": "",
+   "title": "AI赋能供应链数字化升级，筷子科技携视频商业智能体系统亮相链博会 - Sohu",
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1JNkE3dnZFUHVhRXhJVExqbUxVaTY1ZVBsQWZkQWJfWUltckgxMmpqU1BXQlRFOUU0RFpPN2lHVUNCV0hlZVRhTHdVc0I5WXNSSW56Yndn?oc=5",
+   "date": "2026-06-29",
+   "summary": "AI赋能供应链数字化升级，筷子科技携视频商业智能体系统亮相链博会  Sohu",
+   "body": "AI赋能供应链数字化升级，筷子科技携视频商业智能体系统亮相链博会  Sohu",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n9be601a6d1",
+   "category": "竞品",
+   "company": "",
+   "title": "Mogic AI 赋能电商平台实战案例： 电商平台“托管”模式下“一人万店”的AI解决方案- 业界 - 亿邦动力网",
+   "source": "亿邦动力网",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1adlVpS3JaVzdTYVVOQnVOMUZxbmtQb2tBR2Vaci1pbFg0MlJ0cThWVV8xdUYzRlNwb19OVXN0ZUxRTG5oQVlSR0pkakVnMEVTd0pNZlN3?oc=5",
+   "date": "2024-04-12",
+   "summary": "Mogic AI 赋能电商平台实战案例： 电商平台“托管”模式下“一人万店”的AI解决方案- 业界  亿邦动力网",
+   "body": "Mogic AI 赋能电商平台实战案例： 电商平台“托管”模式下“一人万店”的AI解决方案- 业界  亿邦动力网",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n2afd5b5ae3",
+   "category": "行业",
+   "company": "",
+   "title": "2026年AI大模型营销公司推荐：智达明远领跑精准获客 - Jiemian.com",
+   "source": "Jiemian.com",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1zRjg5Z2RPQ0VTTUVGenB1NzRBTWdzZnFyTUxpaTlLRzNYVDkxdVZ2bnVxRnNBbDhld0FnNTNzX3hQME84cHhKMjVaQUFFX3dwdjhsR0l5RnY?oc=5",
+   "date": "2026-06-10",
+   "summary": "2026年AI大模型营销公司推荐：智达明远领跑精准获客  Jiemian.com",
+   "body": "2026年AI大模型营销公司推荐：智达明远领跑精准获客  Jiemian.com",
+   "tags": [
+    "行业",
+    "大模型"
+   ]
+  },
+  {
+   "id": "n847c6a333d",
+   "category": "行业",
+   "company": "",
+   "title": "AI 驱动智能广告发展：头部平台引领营销新范式 - Sohu",
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ybkpybkFQUzhtU1lnWFN0Z3QxTU5pNXI5emV6dWxsSzlnNkVjTUxQLUJJTmQ0eHprV0JjVVZBRllqdFJ3cmxKWERCNkZuRkwzNjhB?oc=5",
+   "date": "2026-04-23",
+   "summary": "AI 驱动智能广告发展：头部平台引领营销新范式  Sohu",
+   "body": "AI 驱动智能广告发展：头部平台引领营销新范式  Sohu",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "nb6d7ab414e",
+   "category": "政策",
+   "company": "",
+   "title": "TikTok单月分账破亿，2026短剧出海都在卷什么？ - QQ News",
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90bmJaVm5JTDM0cFduVnU3UmlTNWdRd2dXWWVGcEh3R3V5MVhSZHg4QW1TYjlnN29qa3NPeExlem0tVG5KVUloYVIycFNEVUlyZHNYcjZR?oc=5",
+   "date": "2026-07-11",
+   "summary": "TikTok单月分账破亿，2026短剧出海都在卷什么？  QQ News",
+   "body": "TikTok单月分账破亿，2026短剧出海都在卷什么？  QQ News",
+   "tags": [
+    "政策",
+    "出海"
+   ]
+  },
+  {
+   "id": "n5b9657602d",
+   "category": "政策",
+   "company": "",
+   "title": "AI资本支出成绩单将至：微软亚马逊拼云计算 Meta拼广告 - 东方财富",
+   "source": "东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKNEdBM3VNS3VmRXdPMldyOEJuenhRZld3dWZaVWpUUzQySGFnSEVPNFNjWFV2SlhHWlNwbzVRNENWWkdOQnpmUTBZVHhTcTRBcWR1WjZSazNGN2haZjJOS1BDQQ?oc=5",
+   "date": "2026-07-27",
+   "summary": "AI资本支出成绩单将至：微软亚马逊拼云计算 Meta拼广告  东方财富",
+   "body": "AI资本支出成绩单将至：微软亚马逊拼云计算 Meta拼广告  东方财富",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n68feb80bc4",
+   "category": "政策",
+   "company": "",
+   "title": "财报前瞻 | Meta(META.US)广告引擎轰鸣、“卖算力”开辟变现新路，AI资本支出再迎“信任票时刻” - finance.sina.com.cn",
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1qLUR0X0tvci14Z0tfTzFoX0NNVTFqQWRhSVN5cGh5STdYX3QyemJqb1ZNaGhUTDFmUEwtaEotbXBOTk96ZHNfWTFqeFE3Q3FOZXhMTU9rZVZnam0tRWl1bE5YaUhFU2M2Nkp2QlRrYw?oc=5",
+   "date": "2026-07-27",
+   "summary": "财报前瞻 | Meta(META.US)广告引擎轰鸣、“卖算力”开辟变现新路，AI资本支出再迎“信任票时刻”  finance.sina.com.cn",
+   "body": "财报前瞻 | Meta(META.US)广告引擎轰鸣、“卖算力”开辟变现新路，AI资本支出再迎“信任票时刻”  finance.sina.com.cn",
+   "tags": [
+    "政策",
+    "财报"
+   ]
+  },
+  {
+   "id": "n2e44029fe1",
+   "category": "政策",
+   "company": "",
+   "title": "Google Ads 政策更新：更多广告，新规则 - finance.sina.com.cn",
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rSnEzTW9MRmcwY2IxM29xOGNqTndndlRuSVE0Y0pQaWJTczdpcl93MWx4NlhfQkUwekpyMkxqdEtEZmNCT2RURzV3V2hPcWJFX0xZY3NFRFJrbVVHY1F1YVNKdU41UlNYMHhRNTRiTQ?oc=5",
+   "date": "2025-04-02",
+   "summary": "Google Ads 政策更新：更多广告，新规则  finance.sina.com.cn",
+   "body": "Google Ads 政策更新：更多广告，新规则  finance.sina.com.cn",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n6065fab637",
+   "category": "客户",
+   "company": "",
+   "title": "美妆观察｜美妆也开始卷AI？怎么卷？ - 潮新闻",
+   "source": "潮新闻",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8xYzY0NlYxRjhBeHJOVUl5RFR0OTlCTk93aks2clk5WjE0czJDbzZ2SktOWUJGT3FHUTQtM0tBaEdXQnl2UUhsbjNkdWIwMjhXV3BrQVFSWQ?oc=5",
+   "date": "2026-04-02",
+   "summary": "美妆观察｜美妆也开始卷AI？怎么卷？  潮新闻",
+   "body": "美妆观察｜美妆也开始卷AI？怎么卷？  潮新闻",
+   "tags": [
+    "客户"
+   ]
+  },
   {
    "id": "ndb4ac54344",
    "category": "竞品",
