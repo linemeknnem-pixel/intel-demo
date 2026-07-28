@@ -1,11 +1,315 @@
 /* 自动生成 by scripts/ingest.py —— 请勿手改 */
 window.KB_DATA = {
  "meta": {
-  "generated": "2026-07-27",
+  "generated": "2026-07-28",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 9 条，合计 350 条"
+  "note": "新增 21 条，合计 371 条"
  },
  "items": [
+  {
+   "id": "n5ed282003a",
+   "category": "竞品",
+   "company": "",
+   "title": "证监会三问钛动科技背后：毛利率82%及其资产负债表上的“堰塞湖” - 凤凰财经",
+   "source": "凤凰财经",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9aRHUtdUlEcU16VTZBcWxMQUpjS2tUMzRZVkozSGdxX1FhNDhpbURkN2ZSdzhON0dzV3N2UE9mcnpCSlE2d0xPeVNRd2pVVzhf?oc=5",
+   "date": "2026-07-24",
+   "summary": "证监会三问钛动科技背后：毛利率82%及其资产负债表上的“堰塞湖”  凤凰财经",
+   "body": "证监会三问钛动科技背后：毛利率82%及其资产负债表上的“堰塞湖”  凤凰财经",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n496882e10f",
+   "category": "竞品",
+   "company": "",
+   "title": "钛动科技携Navos 2.0登陆2026 ChinaJoy，亮相BTOB【W3-B101展位】 - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeEc2aWdVWWFVY3NHaDlULW5YejVtS1NGUTdWWEFPblBjdVBKa0tmX2tLYUc3UkpsRjdCdnQ1VmNtNzZ1dmtEQk82cjk3V0pwR2l2QUxyWW5VUFJhM1VoNko2dWFfckxpY0FmcUY0Tkpmdm9uQ3BmTXNzVV8yTzd6ZUZ4Vlo?oc=5",
+   "date": "2026-07-26",
+   "summary": "钛动科技携Navos 2.0登陆2026 ChinaJoy，亮相BTOB【W3-B101展位】  新浪财经",
+   "body": "钛动科技携Navos 2.0登陆2026 ChinaJoy，亮相BTOB【W3-B101展位】  新浪财经",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n92896a92dd",
+   "category": "竞品",
+   "company": "",
+   "title": "1500万美元A+轮融资，奥创光年如何用AI重塑营销？ - 维科号",
+   "source": "维科号",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBETkhwOEhtdk8zWDI4cGpjVVNMZGNKVkZhcXVHWlRfRVBwSFNWMHZmekZRaEtERVV4N25PcEtYSUZkT0JLVzdSaWJidVZ3cG8?oc=5",
+   "date": "2024-02-19",
+   "summary": "1500万美元A+轮融资，奥创光年如何用AI重塑营销？  维科号",
+   "body": "1500万美元A+轮融资，奥创光年如何用AI重塑营销？  维科号",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "nfb46cee613",
+   "category": "行业",
+   "company": "",
+   "title": "快手AIGC营销素材三季度消耗金额超30亿元 - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeUJETl9HWGVxNkdFZkZSa25rbjkwMnM0Wl9HbjRFYmxRNDdyTW9HTGFjSGZsc3AzZUhibkgtUEVVQTFBWWd5RmJhcC1DUUUyR3FkcW01UmloejJudlpwQThJWUJwNTlLTEU2U0RpempHaGROTFdhcU5mT3puTDB5U1ZnbXA?oc=5",
+   "date": "2025-11-19",
+   "summary": "快手AIGC营销素材三季度消耗金额超30亿元  新浪财经",
+   "body": "快手AIGC营销素材三季度消耗金额超30亿元  新浪财经",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "nf489498e1c",
+   "category": "行业",
+   "company": "",
+   "title": "智达明远AI亮剑双盛会|破解获客难、成本高痛点，做懂企业需求的AI营销获客公司 - 京报网",
+   "source": "京报网",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DR1BUdDdYU0R0V2RLU2h0RDFOS2xxSmRmZGhkNk90U1lkVEpoSjMzQ2pxTGZlMGhrbkJjeDBsWllWU3NrNzdXU0ZwSkVUUmVKMVFCbkdaeTlKUHBrMUE?oc=5",
+   "date": "2026-05-20",
+   "summary": "智达明远AI亮剑双盛会|破解获客难、成本高痛点，做懂企业需求的AI营销获客公司  京报网",
+   "body": "智达明远AI亮剑双盛会|破解获客难、成本高痛点，做懂企业需求的AI营销获客公司  京报网",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n9668803001",
+   "category": "政策",
+   "company": "",
+   "title": "TikTok Shop美区物流政策更新卖家集体破防- 跨境电商 - 亿邦动力网",
+   "source": "亿邦动力网",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51MlI2WlVHN3RSX0hnbkVUMnN5cnRLUzI5NkpYcW1rRzRYM19WUTlnQmRyekRlWWZ1WnRWRkw0aHltSFA2S2RCdFNUWWFJZFljY3RqbXhR?oc=5",
+   "date": "2026-01-10",
+   "summary": "TikTok Shop美区物流政策更新卖家集体破防- 跨境电商  亿邦动力网",
+   "body": "TikTok Shop美区物流政策更新卖家集体破防- 跨境电商  亿邦动力网",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nc41d38ea1f",
+   "category": "政策",
+   "company": "",
+   "title": "TikTok 将在英国推出无广告模式，每月 3.99 英镑 - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LVFhmaE82b0FuWVdoZ3pqRWthaVZhUUZ2TFA1Y1N4d0JDUGlXQ0t6UGR3eGN6dXE5bXBNRW1sRmRSRjBKbzJ0ODFpcFU1eFJLam12aFk5RktsNHJneWx0YkNqTzhJcUZmQ1ZXYjBQTlRoYUZaVXY0X2RwR0YwNms?oc=5",
+   "date": "2026-05-11",
+   "summary": "TikTok 将在英国推出无广告模式，每月 3.99 英镑  新浪财经",
+   "body": "TikTok 将在英国推出无广告模式，每月 3.99 英镑  新浪财经",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n7ab65cbf03",
+   "category": "政策",
+   "company": "",
+   "title": "Meta财报前瞻：广告引擎能否跑赢AI资本支出？ - Moomoo",
+   "source": "Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR0xHQVVEUUo1VGUzdU1veGNza0xwbGE5UUUyNFNBdlV5bjhRTi1QYTNwU1cyOGUwWUlwTmpyZ1doSnpYcXJrZ2lBUlUzUXlsdS1DMXFKNUx3cmdCdFUtVEJWcTJCS0lFenA1N3FNdV9Wc2QxbHhUcXZjd3hnUU5oUHBFcWw0UGltd292YW1hY0Voa1d6bVlYdG5TZVJMV0lMbUNiam9oX2Z1SDdGcW94UXVhQnM?oc=5",
+   "date": "2026-07-28",
+   "summary": "Meta财报前瞻：广告引擎能否跑赢AI资本支出？  Moomoo",
+   "body": "Meta财报前瞻：广告引擎能否跑赢AI资本支出？  Moomoo",
+   "tags": [
+    "政策",
+    "财报"
+   ]
+  },
+  {
+   "id": "n56de50c5a0",
+   "category": "政策",
+   "company": "",
+   "title": "一图展望丨Meta 2026年Q2财报前瞻 广告韧性与AI支出博弈 资本开支指引成核心变量 - 东方财富",
+   "source": "东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wMDhVWEpsc1lMTnhHamFhZm9BV201aWc1ZUxVOVZVbmRiMTJaeEpjUzhoSW1zRV96Y0lvNmJ0bmRBQkhGU3pHWVFOZkZ1bGlfcnJvaXpIYjl2NmFwQkllbmtfbw?oc=5",
+   "date": "2026-07-28",
+   "summary": "一图展望丨Meta 2026年Q2财报前瞻 广告韧性与AI支出博弈 资本开支指引成核心变量  东方财富",
+   "body": "一图展望丨Meta 2026年Q2财报前瞻 广告韧性与AI支出博弈 资本开支指引成核心变量  东方财富",
+   "tags": [
+    "政策",
+    "财报"
+   ]
+  },
+  {
+   "id": "n3546ee8fb9",
+   "category": "政策",
+   "company": "",
+   "title": "Meta Q2财报前瞻：营收或超600亿美元，千亿美元AI资本投入成最大考验 - FX168财经",
+   "source": "FX168财经",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UQU9BeW5Xb0diWlozY18zbHRYTXQyTWtTSXdWY29zNWlZeFM5cXdDNlNQeEcyVlI5V2ZmVlJzTjE3NzExYzZvNmRVNXRadElPdWIw?oc=5",
+   "date": "2026-07-28",
+   "summary": "Meta Q2财报前瞻：营收或超600亿美元，千亿美元AI资本投入成最大考验  FX168财经",
+   "body": "Meta Q2财报前瞻：营收或超600亿美元，千亿美元AI资本投入成最大考验  FX168财经",
+   "tags": [
+    "政策",
+    "财报"
+   ]
+  },
+  {
+   "id": "ndebe24191e",
+   "category": "政策",
+   "company": "",
+   "title": "AI资本支出成绩单将至：微软亚马逊拼云计算，Meta拼广告 - 36Kr",
+   "source": "36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuTEJrUW9fWDF4VXV5Z3J1cE9qZG1JaVJ0ekNsRXVqa2JDMUh2N2tkUVlheGNaZ0daT3dMTnFvNWFoWFh4R3Y3d2FTMmJtQQ?oc=5",
+   "date": "2026-07-26",
+   "summary": "AI资本支出成绩单将至：微软亚马逊拼云计算，Meta拼广告  36Kr",
+   "body": "AI资本支出成绩单将至：微软亚马逊拼云计算，Meta拼广告  36Kr",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n9c74f0236b",
+   "category": "政策",
+   "company": "",
+   "title": "本周美股财报前瞻：微软、Meta、苹果和亚马逊迎来AI投入与美联储双重考验 - PANews",
+   "source": "PANews",
+   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQnV4MjloLTVyX1FNRDNqbzFNdFg2ellEWEFmQVZFNVhmelpieHlkUnA4WnYyNVp6N0ZaM3pBZGJLMVE2TGw4QUZvbnBHLUROX0Z2bXlQOWdXN2NiWkhrSjJCOXhBVmNyNWxaUWpzTlVIYTZzVUVXaThJMlAtQm5HREJKemsxUQ?oc=5",
+   "date": "2026-07-28",
+   "summary": "本周美股财报前瞻：微软、Meta、苹果和亚马逊迎来AI投入与美联储双重考验  PANews",
+   "body": "本周美股财报前瞻：微软、Meta、苹果和亚马逊迎来AI投入与美联储双重考验  PANews",
+   "tags": [
+    "政策",
+    "财报"
+   ]
+  },
+  {
+   "id": "nea7bbbf1b1",
+   "category": "政策",
+   "company": "",
+   "title": "Google Ads 实时政策审核：将数小时的等待缩短至几秒钟 - ALM Corp",
+   "source": "ALM Corp",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sY05CUUNqNHQ0MWFpRFhPdVVDdFgxRXlfMHBDeFQ4YzBmRXVjQ2Vlek5tNFRjT3dPakdBcUxtRHYtdWZ4aWxSa1EwWFpueDF6cHgwU1Q2dFl1SWZaZUptSGNSMnpCSmllSmZhTm5MaUNxemZsYnc?oc=5",
+   "date": "2026-05-27",
+   "summary": "Google Ads 实时政策审核：将数小时的等待缩短至几秒钟  ALM Corp",
+   "body": "Google Ads 实时政策审核：将数小时的等待缩短至几秒钟  ALM Corp",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n9655c0e0fd",
+   "category": "政策",
+   "company": "",
+   "title": "Google AI出击：40%减少无效广告流量，反欺诈进入实时攻防时代 - eeo.com.cn",
+   "source": "eeo.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1VRU9mcEdkX1dLNHkyOGVTOThqek1hRXhGYmVzXzBnVDNiNTMwY2NrU2ZVSVJGM0pwaDZDRDZhQkU1bTg3NTVNWFdhcjVLN3RqTThSRWxLSQ?oc=5",
+   "date": "2025-08-14",
+   "summary": "Google AI出击：40%减少无效广告流量，反欺诈进入实时攻防时代  eeo.com.cn",
+   "body": "Google AI出击：40%减少无效广告流量，反欺诈进入实时攻防时代  eeo.com.cn",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n901cd115f8",
+   "category": "政策",
+   "company": "",
+   "title": "Google Ads 数据保留政策更新 2026：37 个月期限、API 错误、BigQuery 风险以及广告主需要采取的措施 - ALM Corp",
+   "source": "ALM Corp",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE45T2FmWHNuUDhhMzNiQkZUUVNkYXNDaDl3aWxidG40Z3JQZWpSaThadC1BNEMxeHFDdDFjUjN3Sk83dDNnLTRjT3dEbzZMNkExRms1cy0wRkFvWVMyRDR5SXVDRld6N09GaW1hZUlHaUJQUkdhZWk1cA?oc=5",
+   "date": "2026-05-05",
+   "summary": "Google Ads 数据保留政策更新 2026：37 个月期限、API 错误、BigQuery 风险以及广告主需要采取的措施  ALM Corp",
+   "body": "Google Ads 数据保留政策更新 2026：37 个月期限、API 错误、BigQuery 风险以及广告主需要采取的措施  ALM Corp",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nad78c97a41",
+   "category": "政策",
+   "company": "",
+   "title": "电商晚报：小红书上线AI内容强制标识亚马逊英国站德国站将收节假日高峰配送费- 栏目 - 亿邦动力网",
+   "source": "亿邦动力网",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE12OEt5YTVVdkpNZ1VONFl1eWFmMk5pdG1kTFNBNXp6b2V4RnBzdkowWG1RUVNKU1RqVGwxRzhxRm15QXE2YzRoaHdDSzRtV09XY3hFbGt3?oc=5",
+   "date": "2025-09-01",
+   "summary": "电商晚报：小红书上线AI内容强制标识亚马逊英国站德国站将收节假日高峰配送费- 栏目  亿邦动力网",
+   "body": "电商晚报：小红书上线AI内容强制标识亚马逊英国站德国站将收节假日高峰配送费- 栏目  亿邦动力网",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n0c6e04b96f",
+   "category": "客户",
+   "company": "",
+   "title": "珀莱雅：董事方玉友减持计划完成，减持股份约665万股 - 每日经济新闻",
+   "source": "每日经济新闻",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SR29JbjhQRjhHeld0cDhIay1iY2NlTDRJcGhDNDI5TlhyR0dDYkhpOXF4YTViSFMzeGtVYjUyajEzc3JaSzdQZFZFd1o1ZGVvVFhTLUhaRjZsY0NOTVFyZ1hDRWVaUQ?oc=5",
+   "date": "2026-06-07",
+   "summary": "珀莱雅：董事方玉友减持计划完成，减持股份约665万股  每日经济新闻",
+   "body": "珀莱雅：董事方玉友减持计划完成，减持股份约665万股  每日经济新闻",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n6b874a73a6",
+   "category": "客户",
+   "company": "",
+   "title": "AI电商GEO从“品宣”到“生意”：小锣号网络让美妆品牌成为AI的“首选答案” - 中华网科技频道",
+   "source": "中华网科技频道",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1yYzFFSDZVa2lZMDNqUktLNE4xQXlVeTRPQnBXTGp5em9ZQi1pVkhNYWtCM2MwVGF6N2tkTWZBMDZBR0VwdWRidVpSUEY1T2R6dXBlQk5rN2F0UUtpZWRYZ3k2cTE2eVJIVThDOG1n?oc=5",
+   "date": "2026-07-28",
+   "summary": "AI电商GEO从“品宣”到“生意”：小锣号网络让美妆品牌成为AI的“首选答案”  中华网科技频道",
+   "body": "AI电商GEO从“品宣”到“生意”：小锣号网络让美妆品牌成为AI的“首选答案”  中华网科技频道",
+   "tags": [
+    "客户",
+    "GEO"
+   ]
+  },
+  {
+   "id": "n8a63e3ca18",
+   "category": "客户",
+   "company": "",
+   "title": "出海品牌AI Agent解决方案服务商QuickCEP完成新一轮融资- 跨境电商 - 亿邦动力网",
+   "source": "亿邦动力网",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9wOUJQYU5lOUdzZWt1R0lqLUx0V1E5NHllU3NiZXdrLW9Wb0poWktJbVl2cWYzcmxnbnJxbHZQaUlyb2RNY0NrcVVnSExTTTE3MTA3b1dB?oc=5",
+   "date": "2025-11-28",
+   "summary": "出海品牌AI Agent解决方案服务商QuickCEP完成新一轮融资- 跨境电商  亿邦动力网",
+   "body": "出海品牌AI Agent解决方案服务商QuickCEP完成新一轮融资- 跨境电商  亿邦动力网",
+   "tags": [
+    "客户",
+    "融资",
+    "出海",
+    "Agent"
+   ]
+  },
+  {
+   "id": "n2caad097ca",
+   "category": "客户",
+   "company": "",
+   "title": "探索珠海品牌出海新路径！“助力解锁DTC品牌出海”活动举行 - 珠海网",
+   "source": "珠海网",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91R2NMaGcwY3NxVGZmVG9JbUtmZzFlZU1kVVlNX3doYlBjRElwNFZiVFp2aDB2bXhfbVNxMnAtVTNSUHprMGZlUnFOM09iUzFDRmJndnhCWUFKeHp1RHJROHlFUnM1bzVHSVlnSVdBUUdxVlEySEtN?oc=5",
+   "date": "2024-06-22",
+   "summary": "探索珠海品牌出海新路径！“助力解锁DTC品牌出海”活动举行  珠海网",
+   "body": "探索珠海品牌出海新路径！“助力解锁DTC品牌出海”活动举行  珠海网",
+   "tags": [
+    "客户",
+    "出海"
+   ]
+  },
+  {
+   "id": "n8d5bd06d4e",
+   "category": "消费者",
+   "company": "",
+   "title": "抖音电商发布2026轻户外生活消费趋势：上半年户外产业带商品售出超10亿单 - 手机网易网",
+   "source": "手机网易网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jaXFEaGFBdk1uVnNuMnFGRjRqcXlfMkF4aTIyeENvSVpiME1tVVFuWlNJTE9keEQzOWxEV1JvblZOUU12d1RHT0prWlY5WjlhdEp5eDZibnRJZk1Ja3ROd1pR?oc=5",
+   "date": "2026-07-23",
+   "summary": "抖音电商发布2026轻户外生活消费趋势：上半年户外产业带商品售出超10亿单  手机网易网",
+   "body": "抖音电商发布2026轻户外生活消费趋势：上半年户外产业带商品售出超10亿单  手机网易网",
+   "tags": [
+    "消费者"
+   ]
+  },
   {
    "id": "nae63be2c0b",
    "category": "竞品",
