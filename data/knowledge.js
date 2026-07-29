@@ -1,9 +1,9 @@
 /* 自动生成 by scripts/ingest.py —— 请勿手改 */
 window.KB_DATA = {
  "meta": {
-  "generated": "2026-07-28",
+  "generated": "2026-07-29",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 21 条，合计 371 条"
+  "note": "新增 0 条，合计 371 条"
  },
  "items": [
   {
