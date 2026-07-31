@@ -1,11 +1,328 @@
 /* 自动生成 by scripts/ingest.py —— 请勿手改 */
 window.KB_DATA = {
  "meta": {
-  "generated": "2026-07-30",
+  "generated": "2026-07-31",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 25 条，合计 396 条"
+  "note": "新增 22 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "n600681bdd4",
+   "category": "竞品",
+   "company": "",
+   "title": "被投企业 | 靖亚资本被投企业特赞完成D1轮融资，成内容科技独角兽 - 阿里云创新中心",
+   "source": "阿里云创新中心",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16ZEo5TGNKUEh5ZW9UdHRNMGJKMWxKZjZ4Y0Q5M2xjX1A0bHU3YWVnaU5Zb1FVRHpfelNJNUNVaTRuUU92eVEzVHZQZTFPNk02NjN0Y010Zw?oc=5",
+   "date": "2021-11-02",
+   "summary": "被投企业 | 靖亚资本被投企业特赞完成D1轮融资，成内容科技独角兽  阿里云创新中心",
+   "body": "被投企业 | 靖亚资本被投企业特赞完成D1轮融资，成内容科技独角兽  阿里云创新中心",
+   "tags": [
+    "竞品",
+    "融资",
+    "独角兽"
+   ]
+  },
+  {
+   "id": "nfa4bea26b6",
+   "category": "竞品",
+   "company": "",
+   "title": "ChinaJoy首日火热开场！钛动科技亮出泛娱乐AI增长新解法 - Sohu",
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZmd0LXV2V0IyZWkxTEg1TDVvOUxhWXNDa0JQYnJxOXJqTE5HUldZdjFQaVFlTnQyNktfRmhDckpGSjg1eGN2d0h5Mlp5d0NiODFpRlQ1VGNFTW5xLVJ1eC1yWkpRblpPZVJsT3UzanBhMXBKYTc1YTc5cXpuNzZmaHdhWEV5eDlLSnFLRw?oc=5",
+   "date": "2026-07-31",
+   "summary": "ChinaJoy首日火热开场！钛动科技亮出泛娱乐AI增长新解法  Sohu",
+   "body": "ChinaJoy首日火热开场！钛动科技亮出泛娱乐AI增长新解法  Sohu",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n1f95421d2b",
+   "category": "竞品",
+   "company": "",
+   "title": "「筷子科技Kuaizi」完成近亿元B轮融资 - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoMjNqc3pMdkxrVUsteG9BbTlXUWVFMWxQbU5YdUUzN0ZSc0xxWF9kX0kySDYtWnJtVEVLQVo1SHZ0dVladmxxek4wdW8zazJGX0RuQzBibmNmclZHZDlhNHZYMV9iWVd6Y3JRc2lNeHJYanRON05VYXM2aVpqcG8?oc=5",
+   "date": "2025-06-24",
+   "summary": "「筷子科技Kuaizi」完成近亿元B轮融资  新浪财经",
+   "body": "「筷子科技Kuaizi」完成近亿元B轮融资  新浪财经",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "ndabad4395b",
+   "category": "行业",
+   "company": "",
+   "title": "AI 赋能 IP 动画营销新叙事！阿里妈妈 AIGC×长隆以科技绘就童真世界想象力 - 极客公园",
+   "source": "极客公园",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UbHZhNlZBTnlZS0JUOTlOSGtMRHQ3c3BSWkJfU2lidjB2OGVYX0ljOGJLNHRmaFVJaFRvSkNZX1ZmcnVSdWRXTl9hNVE?oc=5",
+   "date": "2025-10-10",
+   "summary": "AI 赋能 IP 动画营销新叙事！阿里妈妈 AIGC×长隆以科技绘就童真世界想象力  极客公园",
+   "body": "AI 赋能 IP 动画营销新叙事！阿里妈妈 AIGC×长隆以科技绘就童真世界想象力  极客公园",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n060922e956",
+   "category": "行业",
+   "company": "",
+   "title": "《GEO AI营销行业报告2025》精要版（解读一） - 雪球",
+   "source": "雪球",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qMklyZjFfV2ZyUTRoWVl3VUhUcFFWSVVObHkzVy1xNjdoOGpWNzFIUVZyVlJoR3c2WEFibUMxN2R6Mm9JN012QWtCRjNDUl9K?oc=5",
+   "date": "2025-12-04",
+   "summary": "《GEO AI营销行业报告2025》精要版（解读一）  雪球",
+   "body": "《GEO AI营销行业报告2025》精要版（解读一）  雪球",
+   "tags": [
+    "行业",
+    "GEO"
+   ]
+  },
+  {
+   "id": "n854b6e728a",
+   "category": "行业",
+   "company": "",
+   "title": "广告公司的变身......拍电影,还做 AI 咨询 - 매일경제",
+   "source": "매일경제",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DUG5aN2xvV1R5S2lQdWhCOURsS1RZdzM3OERIbkJydkpCRGt4eDhiaTZzTmU4NnUza19BLUxpQ2QycHBackRLMk5ZaVB4S3ByMC1v?oc=5",
+   "date": "2026-07-28",
+   "summary": "广告公司的变身......拍电影,还做 AI 咨询  매일경제",
+   "body": "广告公司的变身......拍电影,还做 AI 咨询  매일경제",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n78f03629df",
+   "category": "政策",
+   "company": "",
+   "title": "美国首部数字人广告法案生效！商家不标注AI生成提醒将被罚款- 跨境电商 - 亿邦动力网",
+   "source": "亿邦动力网",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZSk84THpVei1jNE0wMmRVWmRqX0FVUWRQSlAyeVR2ZXZ5endqelNMWC1zQmFuWTJELWt3bUpTSUswbnZDOFNBYVIyVVBzWHo4WU9VLVNR?oc=5",
+   "date": "2026-06-09",
+   "summary": "美国首部数字人广告法案生效！商家不标注AI生成提醒将被罚款- 跨境电商  亿邦动力网",
+   "body": "美国首部数字人广告法案生效！商家不标注AI生成提醒将被罚款- 跨境电商  亿邦动力网",
+   "tags": [
+    "政策",
+    "数字人"
+   ]
+  },
+  {
+   "id": "neb86cbd067",
+   "category": "政策",
+   "company": "",
+   "title": "长春净月高新区一OPC项目成爆款 - QQ News",
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BN19MeHdTemZBZzRraTdyb1VvaGhndDQ1MnJwemQwQXctRmZxRmNBR2dyUVZVNVVKNFZoVlh3Z0hzdGZkT1BLTkl4Q2RTR2kzeU5kZm93?oc=5",
+   "date": "2026-07-01",
+   "summary": "长春净月高新区一OPC项目成爆款  QQ News",
+   "body": "长春净月高新区一OPC项目成爆款  QQ News",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n8b81b04df1",
+   "category": "政策",
+   "company": "",
+   "title": "Meta 发布 AI 驱动的广告新产品，移动应用与游戏出海迈入“AI 原生”时代 - 白鲸出海",
+   "source": "白鲸出海",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1BR1FJcEV6NTc2ZFJQREJfVzZXbkwtLWR1S2NaVHhhempEQWR0S1ZxV0pNNXpVV1oteDI5UzY5RGs2TUdyTmFqdHE2VWU?oc=5",
+   "date": "2026-07-31",
+   "summary": "Meta 发布 AI 驱动的广告新产品，移动应用与游戏出海迈入“AI 原生”时代  白鲸出海",
+   "body": "Meta 发布 AI 驱动的广告新产品，移动应用与游戏出海迈入“AI 原生”时代  白鲸出海",
+   "tags": [
+    "政策",
+    "出海"
+   ]
+  },
+  {
+   "id": "n5430aedf1e",
+   "category": "政策",
+   "company": "",
+   "title": "海外研选 | 高盛：Meta广告业务已验证AI价值 巨额资本开支仍是主要压力 - 东方财富",
+   "source": "东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE54YXBHTHFnekFJT0FRLTdzTHhLcXZ0emxjNE9vVEpWMnVMOVdBcW1PVnZxRk14S0tFaUpEVE55b3I0U2I5dWU5SlVkTl92enJvMkp6Y3A1TC1YeWNKdnFTTEJjQQ?oc=5",
+   "date": "2026-07-30",
+   "summary": "海外研选 | 高盛：Meta广告业务已验证AI价值 巨额资本开支仍是主要压力  东方财富",
+   "body": "海外研选 | 高盛：Meta广告业务已验证AI价值 巨额资本开支仍是主要压力  东方财富",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n3d018b71c7",
+   "category": "政策",
+   "company": "",
+   "title": "自由现金流暴跌91%，Meta的AI豪赌有多贵？ - 文学城",
+   "source": "文学城",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5BOVBORWx1emZVZ09iMjNPdjJGT2htSEJhdVoyMnpLOUFuMHljZVZXNk82SlpBakpBUHA4TFhXaExoS0JxcG55UGxlclA2TzJYcDhTYUVmY2FDUk10Tkc3dk9YeHV4OF9J?oc=5",
+   "date": "2026-07-31",
+   "summary": "自由现金流暴跌91%，Meta的AI豪赌有多贵？  文学城",
+   "body": "自由现金流暴跌91%，Meta的AI豪赌有多贵？  文学城",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nb7399fc594",
+   "category": "政策",
+   "company": "",
+   "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻 - 华尔街见闻",
+   "source": "华尔街见闻",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YTnJaeGx1OFUtemdQNWVhanNLTnJIUTJBRkstSjIzMmdWY0IzYW9JS2VmSTVGVjhieEhDc0tMVlhzRXJWSkQ5c0Zha3N6dGYwWjJF?oc=5",
+   "date": "2026-07-29",
+   "summary": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻  华尔街见闻",
+   "body": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻  华尔街见闻",
+   "tags": [
+    "政策",
+    "财报"
+   ]
+  },
+  {
+   "id": "nd2af96bf34",
+   "category": "政策",
+   "company": "",
+   "title": "Meta最新财报出炉，XR业务亏损46.19亿，AI眼镜增势明显 - VR陀螺",
+   "source": "VR陀螺",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFAtRFdialk0WnYyMGdQMEhyMmJBX3p5b3hQeEI5V0Z0Z1k1YzJ2YzRXcnlSOXhGR1F4MTB6N0J1OGtsTFdXdUk3ejVkWQ?oc=5",
+   "date": "2026-07-30",
+   "summary": "Meta最新财报出炉，XR业务亏损46.19亿，AI眼镜增势明显  VR陀螺",
+   "body": "Meta最新财报出炉，XR业务亏损46.19亿，AI眼镜增势明显  VR陀螺",
+   "tags": [
+    "政策",
+    "财报"
+   ]
+  },
+  {
+   "id": "n57280807b3",
+   "category": "政策",
+   "company": "",
+   "title": "财报前瞻 | Meta广告引擎轰鸣、“卖算力”开辟变现新路，AI资本支出再迎“信任票时刻” 港美股资讯 - hstong.com",
+   "source": "hstong.com",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9OTkJGZ2JFSGV4QmlCd3pPU1F2TV80TU1QdHM3NzFub3VNcXc3REtZdWtnTmpWNzBDYTJVU0VRci1PaU5TTzFvRjFUMF9HZWJxclV2aEZBZzcwNWhWV1RIaXZB?oc=5",
+   "date": "2026-07-27",
+   "summary": "财报前瞻 | Meta广告引擎轰鸣、“卖算力”开辟变现新路，AI资本支出再迎“信任票时刻” 港美股资讯  hstong.com",
+   "body": "财报前瞻 | Meta广告引擎轰鸣、“卖算力”开辟变现新路，AI资本支出再迎“信任票时刻” 港美股资讯  hstong.com",
+   "tags": [
+    "政策",
+    "财报"
+   ]
+  },
+  {
+   "id": "nba7f6de78c",
+   "category": "政策",
+   "company": "",
+   "title": "谷歌强力出击应对“AI投毒”问题 - 36Kr",
+   "source": "36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1SRzE5Vkt4c24zcEN5bWdSdFhndWUyYmdoWk55Y0lvOURKeUQxUmVtakpQeWp1U1lhOEFsUWtpRTRaVlR0UjNYU2NqLXJDNUtrT0pN?oc=5",
+   "date": "2026-05-25",
+   "summary": "谷歌强力出击应对“AI投毒”问题  36Kr",
+   "body": "谷歌强力出击应对“AI投毒”问题  36Kr",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nb5acd3c609",
+   "category": "客户",
+   "company": "",
+   "title": "麦肯锡：53%中国消费者愿接受AI美妆指导 电商2030年占全球美妆销售33% - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE53TFljR0Uyc2wwak5ldFI5eWVGTXRvSmpLRmh1T3BqMlp4Y05UVnNiQmFzYkJPU25ubHBhVzNaajVTWTJXYjdfVU4wOEw0MW14LWNxaUJOVkp1TjhxVGJEVlkwN204MEpHMktSbEYzaXF3bFNzYlk0aFJESzF5QQ?oc=5",
+   "date": "2026-07-30",
+   "summary": "麦肯锡：53%中国消费者愿接受AI美妆指导 电商2030年占全球美妆销售33%  新浪财经",
+   "body": "麦肯锡：53%中国消费者愿接受AI美妆指导 电商2030年占全球美妆销售33%  新浪财经",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n6db0126c00",
+   "category": "消费者",
+   "company": "",
+   "title": "2026年3月|小红书医美行业月报发布！最新趋势与营销洞察 - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZTEFNaHFzSGlIc09xWXpEb2pHb3JDblNFdmZaN0tHeFkxREs5cGstc3BjOHVhY25nOVRrU1REc0xuT2JIQ0VUaW9TeURaUVQzR2dYZTZIQ0NuM0VNZk1ndElvS29qZjNhU3BBQ2hkWEtoU0ZDek92VlQxemV6cmM?oc=5",
+   "date": "2026-07-13",
+   "summary": "2026年3月|小红书医美行业月报发布！最新趋势与营销洞察  新浪财经",
+   "body": "2026年3月|小红书医美行业月报发布！最新趋势与营销洞察  新浪财经",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n7578962d70",
+   "category": "消费者",
+   "company": "",
+   "title": "小红书官方来珠海“传经送宝”！这场活动干货满满 - 珠海网",
+   "source": "珠海网",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9tLWZqcGxuOFRTSVpCMmZpRjFxaFJ1S1h0VHVWa1VRWnk4OVplY3BRNE9Ebk5rT2JZOENfTlpNOGJ3ZnRTbnBIRUFtWVhHSDdMVzVjaENveGZnMzNqeWRCR2g0V2xZck8wQXd4LUZ0dGNtQXdhYWhB?oc=5",
+   "date": "2026-06-05",
+   "summary": "小红书官方来珠海“传经送宝”！这场活动干货满满  珠海网",
+   "body": "小红书官方来珠海“传经送宝”！这场活动干货满满  珠海网",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n987df7b23a",
+   "category": "消费者",
+   "company": "",
+   "title": "奢游国际受邀 2026 小红书文旅峰会丨与行业大咖共谈高品质旅行新趋势 - 中国日报网",
+   "source": "中国日报网",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YTTk4VmhIcm5IcDk1ZmotN0ZWRXUwbGt0MVF3MzduWmprX2dfTFUzSE1xSy1KMU5GQ1Y4UXRmY1pzVkM1aHlqaFlDekc3ekpJTHh2aTg2Tm9URGl3UWdwRFFyTTNVd1pNaGVsdTJPQkxIQ0ZqaXZYMGJGTXE?oc=5",
+   "date": "2026-04-27",
+   "summary": "奢游国际受邀 2026 小红书文旅峰会丨与行业大咖共谈高品质旅行新趋势  中国日报网",
+   "body": "奢游国际受邀 2026 小红书文旅峰会丨与行业大咖共谈高品质旅行新趋势  中国日报网",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n5eadb634c7",
+   "category": "消费者",
+   "company": "",
+   "title": "抖音电商：上半年户外产业带商品累计售出超10亿单- 快讯 - 亿邦动力网",
+   "source": "亿邦动力网",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE8tM2FOcTdEaEhaSmNzWWJlX2NuV2lQSWc5c3VmYk9PZzN4dEVOLV9GazFSQVJ5dE0wNlhnSGcyQ3Y0VnNPRzM4Wnd5S2ZMZ09CVkNZYUtRMzM?oc=5",
+   "date": "2026-07-23",
+   "summary": "抖音电商：上半年户外产业带商品累计售出超10亿单- 快讯  亿邦动力网",
+   "body": "抖音电商：上半年户外产业带商品累计售出超10亿单- 快讯  亿邦动力网",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n83de739d5d",
+   "category": "消费者",
+   "company": "",
+   "title": "国货香氛想用线香赶超国际品牌 - Jiemian.com",
+   "source": "Jiemian.com",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9nY2IydnFSRXNsTG53SldsYXRkUjZXbC1jMkVUUTJ3bGVtWEo2anAwVWtWZThoRWw5Zmk3UkRXeXZMR3RXSGJDdkp2TldRNjYwelNzZmJ3?oc=5",
+   "date": "2026-07-21",
+   "summary": "国货香氛想用线香赶超国际品牌  Jiemian.com",
+   "body": "国货香氛想用线香赶超国际品牌  Jiemian.com",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n2b285a44eb",
+   "category": "消费者",
+   "company": "",
+   "title": "2026年的美妆趋势，都藏在年轻人让自己“更好”的愿望里 - 中华网生活",
+   "source": "中华网生活",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqS1JMYVJFOC14N0pqenVucWdLUEE3RVZxQUdQaFZoVzl6TUZvSXQ1YXZSNFl3a0E3UG9BN1kwTWlVS2YwV3pXSWlDNjlNOXhPWG5FcnJONEFkaE5oc3ZPNjRybw?oc=5",
+   "date": "2026-03-31",
+   "summary": "2026年的美妆趋势，都藏在年轻人让自己“更好”的愿望里  中华网生活",
+   "body": "2026年的美妆趋势，都藏在年轻人让自己“更好”的愿望里  中华网生活",
+   "tags": [
+    "消费者"
+   ]
+  },
   {
    "id": "nc840a9468a",
    "category": "竞品",
@@ -5427,263 +5744,6 @@ window.KB_DATA = {
    "tags": [
     "消费者",
     "种草"
-   ]
-  },
-  {
-   "id": "n6c2bcdac21",
-   "category": "消费者",
-   "company": "",
-   "title": "最高“年薪”100万！小红书要抢B站？ - thepaper.cn",
-   "source": "thepaper.cn",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ieWtfd1RRZ0NoWnRlUG1hVFZwUGVYVkJBbThRVGVnekUyX1ByLVhUYzNjR2hoaXVCOWdvTGI1SjlhbTJSQk1xbFp5OUloczgzX3RpUDcxdjFLTmNWQWc?oc=5",
-   "date": "2026-05-28",
-   "summary": "最高“年薪”100万！小红书要抢B站？  thepaper.cn",
-   "body": "最高“年薪”100万！小红书要抢B站？  thepaper.cn",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n92fbf4daa5",
-   "category": "消费者",
-   "company": "",
-   "title": "月活破4亿、时长同比增长43% 小红书加码中长视频赛道 - 财联社",
-   "source": "财联社",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4xZDFiVFVPS19Kdi1sRXc3cUlBWG9WSmp3S3hVRzNYS09qQ0l5dTIyWXVMNnB6RWFSVVkyMmFtNU1lekFPSWlhdw?oc=5",
-   "date": "2026-05-27",
-   "summary": "月活破4亿、时长同比增长43% 小红书加码中长视频赛道  财联社",
-   "body": "月活破4亿、时长同比增长43% 小红书加码中长视频赛道  财联社",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n35d37f788f",
-   "category": "消费者",
-   "company": "",
-   "title": "Z世代金融新趋势，《小红书金融行业白皮书》发布 - CBNData-第一财经商业数据中心",
-   "source": "CBNData-第一财经商业数据中心",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xcDZIWmVLRTJuV1lSOGVBY2JaOVhJbF82TGt3UVZMdWlEVHpxNjRXWkRfUDV3YURCZDdIbTFMS1FpMVV3QVRXRmpwaTFsd3JkNzJ5cw?oc=5",
-   "date": "2026-03-13",
-   "summary": "Z世代金融新趋势，《小红书金融行业白皮书》发布  CBNData-第一财经商业数据中心",
-   "body": "Z世代金融新趋势，《小红书金融行业白皮书》发布  CBNData-第一财经商业数据中心",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n274c8a2ca9",
-   "category": "消费者",
-   "company": "",
-   "title": "小红书2026年度居住趋势：正在向“全龄友好”转变 - AgeClub",
-   "source": "AgeClub",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBBMUpLamZTRHdOUFU4VklkeUVrZ2NVVDVvY2ZpVk1oZVZSMnlJSDNTS1VRR0F2S1NKS2Q5dmNpc1BxclY3NHZUZUxqTk5FdkZzQzVLMjB3?oc=5",
-   "date": "2026-04-28",
-   "summary": "小红书2026年度居住趋势：正在向“全龄友好”转变  AgeClub",
-   "body": "小红书2026年度居住趋势：正在向“全龄友好”转变  AgeClub",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n7158fec45b",
-   "category": "消费者",
-   "company": "",
-   "title": "《2026抖音电商运动消费趋势报告》：过去一年运动消费成交额增长38%，日常化趋势明显- 中国日报网 - China Daily",
-   "source": "China Daily",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeDZUcGhyYUI1RVZCX2JtT2s3S2pPeGJ0VnNYbnN1UkRtdzFyVDhWcy1CdFhMb3ZyM2g5VmVPYnB2Q2RJWmpUZWxqWURRSzhjTXRDd25fR1ZFNUxIaDhsWmhyUFlXV01zUDRIcTV3V1owVUxUUnpTel85R3lDZ0FDNDZZTQ?oc=5",
-   "date": "2026-07-08",
-   "summary": "《2026抖音电商运动消费趋势报告》：过去一年运动消费成交额增长38%，日常化趋势明显- 中国日报网  China Daily",
-   "body": "《2026抖音电商运动消费趋势报告》：过去一年运动消费成交额增长38%，日常化趋势明显- 中国日报网  China Daily",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n158c2bfe94",
-   "category": "消费者",
-   "company": "",
-   "title": "抖音生活服务：“刷到就出发” 成出行新趋势，酒店以内容经营承接城市流量 - news.cnair.com",
-   "source": "news.cnair.com",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9wcW1QUkVUZlJGZU9FSm5Hd1N3elVGcUhlVnZfdTJYQktxVzJYSzhsWkhkWjIydG0xdkMzYlh5MWROM3JvWnhPMjhXc3RyQkFaYjZTUA?oc=5",
-   "date": "2026-07-13",
-   "summary": "抖音生活服务：“刷到就出发” 成出行新趋势，酒店以内容经营承接城市流量  news.cnair.com",
-   "body": "抖音生活服务：“刷到就出发” 成出行新趋势，酒店以内容经营承接城市流量  news.cnair.com",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "nee1cf76ab2",
-   "category": "消费者",
-   "company": "",
-   "title": "抖音生活服务2026文旅消费趋势报告：AI重塑用户体验，升级商家经营_行业动态 - 投资界",
-   "source": "投资界",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82QUQwMWRrdWFTNG8zNHlGd1diVnJLMDhVbUhDUWZwTkl1VFpBQ0hEUHZKdktudlJ4V0JRRVhUZTJxS3gxNGxENm1pSEk2LXR3OW9VaXlNSFQ?oc=5",
-   "date": "2026-06-26",
-   "summary": "抖音生活服务2026文旅消费趋势报告：AI重塑用户体验，升级商家经营_行业动态  投资界",
-   "body": "抖音生活服务2026文旅消费趋势报告：AI重塑用户体验，升级商家经营_行业动态  投资界",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "nbcc4f9a9e3",
-   "category": "消费者",
-   "company": "",
-   "title": "抖音电商发布《2026抖音电商运动消费趋势报告》 - DoNews",
-   "source": "DoNews",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPYUhOeWdwN3JNXzU3M2FENkpKeXZXZVBwcWJYYTdPX3FqRHhxY1p1MTdNcml2dHB1b2JONzY3QnNPZ3U0VEpMV0xzY0NiREZZNE1RWWM4RVVYTXlOSVE?oc=5",
-   "date": "2026-07-08",
-   "summary": "抖音电商发布《2026抖音电商运动消费趋势报告》  DoNews",
-   "body": "抖音电商发布《2026抖音电商运动消费趋势报告》  DoNews",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n993bef9e9e",
-   "category": "消费者",
-   "company": "",
-   "title": "抖音电商报告：世界杯观赛季足球商品成交额同比涨逾一倍 - 中国网",
-   "source": "中国网",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUTG82dEF5WUlmQ2VYMVJ2Q09iOVNGRFI3enpuVWxOVGVLa3BWQTlEdnNabEZYT1JfckVMSDNXbmpFMXpraDJJTEYyX3lzaURacFBFejRQMXFSZ2ZON0pYbllLMEJoenlQM3gyZElJYw?oc=5",
-   "date": "2026-07-07",
-   "summary": "抖音电商报告：世界杯观赛季足球商品成交额同比涨逾一倍  中国网",
-   "body": "抖音电商报告：世界杯观赛季足球商品成交额同比涨逾一倍  中国网",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n09b3f9c803",
-   "category": "消费者",
-   "company": "",
-   "title": "2026春夏抖音电商时尚消费趋势报告 - 发现报告",
-   "source": "发现报告",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ma1NIanZZM1VCQmczTk1DTzN3WTZySUktWUlNcnExazFOLTc2dWRXcTE1RjVHZ2ZrZFVkdVJ6QkxGUXBLdC1pdWJmWWItbmxW?oc=5",
-   "date": "2026-01-09",
-   "summary": "2026春夏抖音电商时尚消费趋势报告  发现报告",
-   "body": "2026春夏抖音电商时尚消费趋势报告  发现报告",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "nf061a5154e",
-   "category": "消费者",
-   "company": "",
-   "title": "《2026抖音电商粽子消费趋势报告》：近30天内累计卖出822万单 - 新浪财经",
-   "source": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBETGVQYU5NZVloZjlYZzJhSGNQZGxNUHN2UTNCajlMTGtvdkd6cGhucWFPQUZIR0R6TU15LWJYQWpQY2lqaVMwd3RiUG5wSXdqMlRQWGlOSklDU0RkUWdKNHFiVy1JNjZLQVlURkhfNEc5MVFXOXFnOA?oc=5",
-   "date": "2026-06-18",
-   "summary": "《2026抖音电商粽子消费趋势报告》：近30天内累计卖出822万单  新浪财经",
-   "body": "《2026抖音电商粽子消费趋势报告》：近30天内累计卖出822万单  新浪财经",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "nb9152a2dad",
-   "category": "消费者",
-   "company": "",
-   "title": "2026抖音电商运动消费趋势报告正式发布 - 电商派",
-   "source": "电商派",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZWHhTZ2Vxc29lY0hPY3VxYXQ4RWx0TVBlRmxCVmt6a2gzNTNlUnIzX1RyajZ2TlFfSWxUMnpiSkI0STR5NHY4RWluTkM5UkNlbXlsRmFJXzVndExDZTcyRA?oc=5",
-   "date": "2026-07-06",
-   "summary": "2026抖音电商运动消费趋势报告正式发布  电商派",
-   "body": "2026抖音电商运动消费趋势报告正式发布  电商派",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n47527c897b",
-   "category": "消费者",
-   "company": "",
-   "title": "种草情报局|小红书宠物营销,6月趋势洞察 - 流媒体网",
-   "source": "流媒体网",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tTjkwOVhHWGFtUktnNTNxS1dJc2IzZEI4R0tCczBJTXFkMzNKU1FqSlBIRmtrcTVmUy1hazFMLUVTQ3NFdENFUDRORzM3WnFVQ1JyaWlTbUFLbmM?oc=5",
-   "date": "2026-06-24",
-   "summary": "种草情报局|小红书宠物营销,6月趋势洞察  流媒体网",
-   "body": "种草情报局|小红书宠物营销,6月趋势洞察  流媒体网",
-   "tags": [
-    "消费者",
-    "种草"
-   ]
-  },
-  {
-   "id": "n13341ed39b",
-   "category": "消费者",
-   "company": "",
-   "title": "线上种草 线下奔赴 特色内容驱动“体验式旅行” - 大河网",
-   "source": "大河网",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBteTNhMmVNYkJhUlFUUDR4WVZzVTlsTWpRYUxWODNGQWVubktVdFRGTmRLYks5Sm9BRUpxd29wSy1lYXVEQnJ1YUljSWhXQ1NFMXlvdTYwOA?oc=5",
-   "date": "2026-06-19",
-   "summary": "线上种草 线下奔赴 特色内容驱动“体验式旅行”  大河网",
-   "body": "线上种草 线下奔赴 特色内容驱动“体验式旅行”  大河网",
-   "tags": [
-    "消费者",
-    "种草"
-   ]
-  },
-  {
-   "id": "nbe157479d4",
-   "category": "消费者",
-   "company": "",
-   "title": "不只种草，更能履约，抖音生活服务做实本地生意全链路 - 风闻",
-   "source": "风闻",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MR0FFbDhMOXN3M09SYXh4eFBvM1YyS1JjNl90NG13V0lIU2Z4UWdYYjllTmJ0QlZwQnY0VVE4am82aGlSUk1VMUlHSWNLNHBFT1pZTDRFNDRBS3c?oc=5",
-   "date": "2026-04-21",
-   "summary": "不只种草，更能履约，抖音生活服务做实本地生意全链路  风闻",
-   "body": "不只种草，更能履约，抖音生活服务做实本地生意全链路  风闻",
-   "tags": [
-    "消费者",
-    "种草"
-   ]
-  },
-  {
-   "id": "n97ae7c7e0b",
-   "category": "消费者",
-   "company": "",
-   "title": "2026年，小红书打响文旅种草下半场 - 环球旅讯",
-   "source": "环球旅讯",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5GRmZFTmVNR25xVURyU2IwRGFxY251MUEzY19pQ2Q3bUNUNF9Xb2ZqWkhyUGR1MklTc0tTaGdyel9UVTZyem1ua0dmYXlBQXhu?oc=5",
-   "date": "2026-01-27",
-   "summary": "2026年，小红书打响文旅种草下半场  环球旅讯",
-   "body": "2026年，小红书打响文旅种草下半场  环球旅讯",
-   "tags": [
-    "消费者",
-    "种草"
-   ]
-  },
-  {
-   "id": "n56caadcfe6",
-   "category": "消费者",
-   "company": "",
-   "title": "曝光量27亿次，「世界杯」全场景种草解码 - itopmarketing.com",
-   "source": "itopmarketing.com",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93dUg1a0s2Ykw3WnE3Qk1QdXhhNENzTWVmbl9yLUVrejlvT1lvYlZmR3BvUXhXc0w0OVNVVTFxbmZzMHR5TmNtTE0yOFZuNGFO?oc=5",
-   "date": "2026-06-17",
-   "summary": "曝光量27亿次，「世界杯」全场景种草解码  itopmarketing.com",
-   "body": "曝光量27亿次，「世界杯」全场景种草解码  itopmarketing.com",
-   "tags": [
-    "消费者",
-    "种草"
-   ]
-  },
-  {
-   "id": "n204b4eb2fe",
-   "category": "消费者",
-   "company": "",
-   "title": "2025「家场景」美学趋势发布，引领家居「微迭代」风向 - 中国日报网",
-   "source": "中国日报网",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NdWUyMlZqaEdWbFJ5R0tDbmNDNXlOdTBwME5ZVlZjQVdhZGZQb3MtOW5USjdCYmM4SVFrZTRKVkpUUXN6MzRNYVJKZGRTbk5BU0lKZmgzRHJWWTUyejdqeGFDbl9OODVTR0pGRWc2TWhjVExCX0NmLW9wN0k?oc=5",
-   "date": "2025-10-31",
-   "summary": "2025「家场景」美学趋势发布，引领家居「微迭代」风向  中国日报网",
-   "body": "2025「家场景」美学趋势发布，引领家居「微迭代」风向  中国日报网",
-   "tags": [
-    "消费者"
    ]
   }
  ]
