@@ -1,11 +1,241 @@
 /* 自动生成 by scripts/ingest.py —— 请勿手改 */
 window.KB_DATA = {
  "meta": {
-  "generated": "2026-07-31",
+  "generated": "2026-08-01",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 22 条，合计 400 条"
+  "note": "新增 16 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "nafc00303fe",
+   "category": "竞品",
+   "company": "",
+   "title": "钛动科技李述昊：未来AI能让消费者“过上皇帝般的生活” - 21财经",
+   "source": "21财经",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMXZSbVQ1bUxMVWhXNUhydk53Q0JJbWpRbEJXaU5ZUE95Z09rQl93djVnQ2xUTVRhQXExRUNycUwwaEpWY0lTdGEySkRtSno3Rk5PWDdBMjNEQTh5aVhER0xQZnNuNjlLSWZvZ1lpSWhUd3l0QldEbFRNNE1HTjBVR0JmcUl3ekZZLWVSQQ?oc=5",
+   "date": "2026-07-18",
+   "summary": "钛动科技李述昊：未来AI能让消费者“过上皇帝般的生活”  21财经",
+   "body": "钛动科技李述昊：未来AI能让消费者“过上皇帝般的生活”  21财经",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "nf85e1df039",
+   "category": "行业",
+   "company": "",
+   "title": "AI营销专家灵狐研判618风向七大趋势八大策略赋能品牌实战破局- 业界 - 亿邦动力网",
+   "source": "亿邦动力网",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yUDNKbUxqOUVBZkxlZGZtcm5IZlBKZ2xNenFiMnYyaTRGazE3bVA1SktKN0U4OUlfZktYNkN0bHhUQ1ozYTR0b3NfaGRkZkNOYmF6ZW13?oc=5",
+   "date": "2026-06-05",
+   "summary": "AI营销专家灵狐研判618风向七大趋势八大策略赋能品牌实战破局- 业界  亿邦动力网",
+   "body": "AI营销专家灵狐研判618风向七大趋势八大策略赋能品牌实战破局- 业界  亿邦动力网",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n0a10d11f39",
+   "category": "行业",
+   "company": "",
+   "title": "美AI巨头也玩起嘲讽“友商”？Anthropic超级碗广告讽刺ChatGPT广告多 - 财联社",
+   "source": "财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKSnRmNWRYWU5hek5ocVNzaEVjQUowLTFHZGxxamRVRWVYV1g4MWtpZ3VwUXFSaHdjQ1VJMFI3WWJsdUdVb3VkQw?oc=5",
+   "date": "2026-02-05",
+   "summary": "美AI巨头也玩起嘲讽“友商”？Anthropic超级碗广告讽刺ChatGPT广告多  财联社",
+   "body": "美AI巨头也玩起嘲讽“友商”？Anthropic超级碗广告讽刺ChatGPT广告多  财联社",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n6381313c54",
+   "category": "行业",
+   "company": "",
+   "title": "给你的答案可能是广告！315晚会曝光AI大模型被投毒，专家：AI大模型投毒是新型不正当竞争【附生成式AI行业市场分析】 - 前瞻网",
+   "source": "前瞻网",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1zSW1LZk9CZVNiTHZIN3RGLVo2VWo3TkxFWVZlczhTSzNteHNLbVhMeGhsT2dYZ2MyZmJiNXdIcDZuUk5sUGx3d2x5R05vTjd0OFB1SjZKM1liSHV6WS1WZmt6eVRHNW54T1E?oc=5",
+   "date": "2026-03-17",
+   "summary": "给你的答案可能是广告！315晚会曝光AI大模型被投毒，专家：AI大模型投毒是新型不正当竞争【附生成式AI行业市场分析】  前瞻网",
+   "body": "给你的答案可能是广告！315晚会曝光AI大模型被投毒，专家：AI大模型投毒是新型不正当竞争【附生成式AI行业市场分析】  前瞻网",
+   "tags": [
+    "行业",
+    "大模型"
+   ]
+  },
+  {
+   "id": "nfb9e5488f2",
+   "category": "政策",
+   "company": "",
+   "title": "亚马逊进入OpenAI广告体系；Meta升级直播购物；Shopee接入ChatGPT丨跨境电商周报 - 亿邦动力网",
+   "source": "亿邦动力网",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wU3RTT21ORGNjdnVNa011QW9jVXNrTTg2TlpRQUc0RkUxWF9wYjg1VG9oaWZGYnliX3JMaGlhMEV0NnlaOFNpWVFkY1N1Skp3V3dFRFV3?oc=5",
+   "date": "2026-06-28",
+   "summary": "亚马逊进入OpenAI广告体系；Meta升级直播购物；Shopee接入ChatGPT丨跨境电商周报  亿邦动力网",
+   "body": "亚马逊进入OpenAI广告体系；Meta升级直播购物；Shopee接入ChatGPT丨跨境电商周报  亿邦动力网",
+   "tags": [
+    "政策",
+    "直播"
+   ]
+  },
+  {
+   "id": "na64bc3c718",
+   "category": "政策",
+   "company": "",
+   "title": "扎克伯格研判AI产业下一周期：押注个人智能体 - 手机新浪网",
+   "source": "手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOMFUyQjlOVGNJZ2NJcG94UlFuZy1zYkNkYkx2dmNBYk5mY1lndXRvaEhiUW8zS01WanRfNVV1cnVhc25UTzhhWUV0SkE4LUptdFEwWjZ1R1BPMnFhdDdRa3k5bkR0dy1Hc0R0OWhVTFlleUkxYWNYNUZJRktobFkwM1hZNE1RRlVTVm1sVU1B?oc=5",
+   "date": "2026-08-01",
+   "summary": "扎克伯格研判AI产业下一周期：押注个人智能体  手机新浪网",
+   "body": "扎克伯格研判AI产业下一周期：押注个人智能体  手机新浪网",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nbfe9bff832",
+   "category": "政策",
+   "company": "",
+   "title": "Alphabet因政策违规回滚谷歌地球中AI图像生成功能 - 富途牛牛",
+   "source": "富途牛牛",
+   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdTJRNElOWkdzN2ltaFcwRjNNcE9yRmV6dGpValZyLVkwVXhRa3JGYXhzVjc2VXJqV3Z6VU1QWlFRRHh3YlhaUi1CcWZUMGlEMUdlQXBJOTRpa3B4VFlYZlNad2hRVzVRdkNHRm9KMXM5QzJLXzJRSm5RN0tBdXZ2MEVWUnM5cUY5VTMwNVF6Z2xPdVFtaFo3WlVKaGR5bVR5cmo4?oc=5",
+   "date": "2026-08-01",
+   "summary": "Alphabet因政策违规回滚谷歌地球中AI图像生成功能  富途牛牛",
+   "body": "Alphabet因政策违规回滚谷歌地球中AI图像生成功能  富途牛牛",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n92fbf4daa5",
+   "category": "消费者",
+   "company": "",
+   "title": "月活破4亿、时长同比增长43% 小红书加码中长视频赛道 - 财联社",
+   "source": "财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4xZDFiVFVPS19Kdi1sRXc3cUlBWG9WSmp3S3hVRzNYS09qQ0l5dTIyWXVMNnB6RWFSVVkyMmFtNU1lekFPSWlhdw?oc=5",
+   "date": "2026-05-27",
+   "summary": "月活破4亿、时长同比增长43% 小红书加码中长视频赛道  财联社",
+   "body": "月活破4亿、时长同比增长43% 小红书加码中长视频赛道  财联社",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n6c2bcdac21",
+   "category": "消费者",
+   "company": "",
+   "title": "最高“年薪”100万！小红书要抢B站？ - thepaper.cn",
+   "source": "thepaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1ieWtfd1RRZ0NoWnRlUG1hVFZwUGVYVkJBbThRVGVnekUyX1ByLVhUYzNjR2hoaXVCOWdvTGI1SjlhbTJSQk1xbFp5OUloczgzX3RpUDcxdjFLTmNWQWc?oc=5",
+   "date": "2026-05-28",
+   "summary": "最高“年薪”100万！小红书要抢B站？  thepaper.cn",
+   "body": "最高“年薪”100万！小红书要抢B站？  thepaper.cn",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n35d37f788f",
+   "category": "消费者",
+   "company": "",
+   "title": "Z世代金融新趋势，《小红书金融行业白皮书》发布 - CBNData-第一财经商业数据中心",
+   "source": "CBNData-第一财经商业数据中心",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xcDZIWmVLRTJuV1lSOGVBY2JaOVhJbF82TGt3UVZMdWlEVHpxNjRXWkRfUDV3YURCZDdIbTFMS1FpMVV3QVRXRmpwaTFsd3JkNzJ5cw?oc=5",
+   "date": "2026-03-13",
+   "summary": "Z世代金融新趋势，《小红书金融行业白皮书》发布  CBNData-第一财经商业数据中心",
+   "body": "Z世代金融新趋势，《小红书金融行业白皮书》发布  CBNData-第一财经商业数据中心",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n9642cc1561",
+   "category": "消费者",
+   "company": "",
+   "title": "抖音生活服务“五一”消费数据：上海、北京、成都团购消费领先 - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi3wRBVV95cUxOeVBBQzIzM3p5ZWpaNHR2UVNDLVJWNnRxRmJnUmNGQVVDX1VybmxlQVVvZnZYb21GREhsWVZZUXZnR3dSZlI0b1VISk1pTnNMYlczdnN5Vk10ek9yU3dRTGtVSV94UFptZHVFd29MZnlYckRpN2xXMUJodUpnWkExWEZ4dWpwT2VWNllEWEs5b2E2RGNsRFdkZUNyeUlPdkhUUHVYWV9wM0lnd1hPYnczOVhsamdrako1VHVwUGhoSVMwTUdGbmsyTDU4Y3pRVG5fOHhnemVLbjdUdklpWUYzdkRvTDJyVmsyYnZOemJlQmU4UjF2TlZqZE4ta0dDdWJoM2ZLeUJ3c2t2UVpJcUtHSFFqU19XbGEtdGg3QmZ5UkU1ZmxpREpjcGl6MzN1UGZ1MlMzOU9rbU5ZWVRLc21NUmcwQTVkX19VTTJJVDNRYUtacFNuc3ZlUXZJd3g5ekx1dnE0RWl1cmxvOEVBTjYyU1ZKNmxldzNqUXZvcjBQVjlleXpTV3FKVjdRcm1QSXd3TjlfYm5UV2hHenZER1ZSVWJtLWsyZ0E2LXJiSkNWbzYxVDJCbjJSQjN4SVZpSk5TLU1OR281bnMyWkJHTS1VQVhQbHBCQ0NVVVlaMmhPdjdhOThZeVR3Z1o2eldWV2N4MkhjZERGU1o5QTlUdmkxc0g4SW5jcWg4Z0FjdFZ4SVE1TUNQTnplN09RbWQtUG53bTZ5ZU1Cb2dlbFpCT2J0RHIxQnZlX1Nod2ZUVW1yLWpMOE02TXVBdjlOZjhQYzZ0MWJWVHhMUEV3RzFVVEpr?oc=5",
+   "date": "2026-07-31",
+   "summary": "抖音生活服务“五一”消费数据：上海、北京、成都团购消费领先  新浪财经",
+   "body": "抖音生活服务“五一”消费数据：上海、北京、成都团购消费领先  新浪财经",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n09b3f9c803",
+   "category": "消费者",
+   "company": "",
+   "title": "2026春夏抖音电商时尚消费趋势报告 - 发现报告",
+   "source": "发现报告",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ma1NIanZZM1VCQmczTk1DTzN3WTZySUktWUlNcnExazFOLTc2dWRXcTE1RjVHZ2ZrZFVkdVJ6QkxGUXBLdC1pdWJmWWItbmxW?oc=5",
+   "date": "2026-01-09",
+   "summary": "2026春夏抖音电商时尚消费趋势报告  发现报告",
+   "body": "2026春夏抖音电商时尚消费趋势报告  发现报告",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n47527c897b",
+   "category": "消费者",
+   "company": "",
+   "title": "种草情报局|小红书宠物营销,6月趋势洞察 - v.lmtw.com",
+   "source": "v.lmtw.com",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tTjkwOVhHWGFtUktnNTNxS1dJc2IzZEI4R0tCczBJTXFkMzNKU1FqSlBIRmtrcTVmUy1hazFMLUVTQ3NFdENFUDRORzM3WnFVQ1JyaWlTbUFLbmM?oc=5",
+   "date": "2026-06-24",
+   "summary": "种草情报局|小红书宠物营销,6月趋势洞察  v.lmtw.com",
+   "body": "种草情报局|小红书宠物营销,6月趋势洞察  v.lmtw.com",
+   "tags": [
+    "消费者",
+    "种草"
+   ]
+  },
+  {
+   "id": "nb1f2132c30",
+   "category": "消费者",
+   "company": "",
+   "title": "抖音电商“2026春上新”收官：趋势内容与直播带动春季新品消费增长- 中国日报网 - China Daily",
+   "source": "China Daily",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM1hCMmo5WENQUlpIOFNGdmxlRlMwUG00dHBZUlJHN1ZxTTNNenk0MHZTUGFTS1hLSy15VG4tdzJGd19JbndRQVB5QTYyejNvNVpzMTdwS3lIcmhRRktxeUwxeEhnTUlSRGM3bk1yVWtmbDZPUUtxNU9QQTRDLWNaS2d6dw?oc=5",
+   "date": "2026-04-10",
+   "summary": "抖音电商“2026春上新”收官：趋势内容与直播带动春季新品消费增长- 中国日报网  China Daily",
+   "body": "抖音电商“2026春上新”收官：趋势内容与直播带动春季新品消费增长- 中国日报网  China Daily",
+   "tags": [
+    "消费者",
+    "直播"
+   ]
+  },
+  {
+   "id": "nbe157479d4",
+   "category": "消费者",
+   "company": "",
+   "title": "不只种草，更能履约，抖音生活服务做实本地生意全链路 - 风闻",
+   "source": "风闻",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MR0FFbDhMOXN3M09SYXh4eFBvM1YyS1JjNl90NG13V0lIU2Z4UWdYYjllTmJ0QlZwQnY0VVE4am82aGlSUk1VMUlHSWNLNHBFT1pZTDRFNDRBS3c?oc=5",
+   "date": "2026-04-21",
+   "summary": "不只种草，更能履约，抖音生活服务做实本地生意全链路  风闻",
+   "body": "不只种草，更能履约，抖音生活服务做实本地生意全链路  风闻",
+   "tags": [
+    "消费者",
+    "种草"
+   ]
+  },
+  {
+   "id": "n97ae7c7e0b",
+   "category": "消费者",
+   "company": "",
+   "title": "2026年，小红书打响文旅种草下半场 - 环球旅讯",
+   "source": "环球旅讯",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5GRmZFTmVNR25xVURyU2IwRGFxY251MUEzY19pQ2Q3bUNUNF9Xb2ZqWkhyUGR1MklTc0tTaGdyel9UVTZyem1ua0dmYXlBQXhu?oc=5",
+   "date": "2026-01-27",
+   "summary": "2026年，小红书打响文旅种草下半场  环球旅讯",
+   "body": "2026年，小红书打响文旅种草下半场  环球旅讯",
+   "tags": [
+    "消费者",
+    "种草"
+   ]
+  },
   {
    "id": "n600681bdd4",
    "category": "竞品",
@@ -5510,240 +5740,6 @@ window.KB_DATA = {
    "tags": [
     "客户",
     "IPO"
-   ]
-  },
-  {
-   "id": "nc88cd43898",
-   "category": "客户",
-   "company": "",
-   "title": "“6·18”美妆赛道新信号：功效翻倍、外资霸榜、AI重构 - thepaper.cn",
-   "source": "thepaper.cn",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE02ZEg3aHRPQWREblB2aU9IcEJlTENRdllWOGJ1QjBHM0ExSExXZS1HcDdjNUpjVTZSb1lvd1JwalY2V1VuV0VsYjJQTnNscm8tZHFlN2ZzNFdTcGhja3c?oc=5",
-   "date": "2026-06-23",
-   "summary": "“6·18”美妆赛道新信号：功效翻倍、外资霸榜、AI重构  thepaper.cn",
-   "body": "“6·18”美妆赛道新信号：功效翻倍、外资霸榜、AI重构  thepaper.cn",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "n5c41e24085",
-   "category": "客户",
-   "company": "",
-   "title": "欧莱雅在2026VivaTech科技展智启\"未来美妆新征程\" - 美通社",
-   "source": "美通社",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9rbkVrT0FtN0dNcXF6emh1UDJabzB4dklSdUxBT3d3SnhIVDh2VFF3WWQxdnRCemxzV3Nob01laFZDU292OFE4UEdjTWtRVUpTblY4ZDlHYw?oc=5",
-   "date": "2026-07-01",
-   "summary": "欧莱雅在2026VivaTech科技展智启\"未来美妆新征程\"  美通社",
-   "body": "欧莱雅在2026VivaTech科技展智启\"未来美妆新征程\"  美通社",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "nbe6aaaac22",
-   "category": "客户",
-   "company": "",
-   "title": "氧气科技入选《2026中国GEO服务商采购指南》，成为AI搜索标杆服务商 - 中华网",
-   "source": "中华网",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UZHFfdU13eHYwQ3FXQUFuaC0yT2swME1NNkpIRnk1V2NDNlNmaXZPbjQ0UERsc1k3Q3dpRWtHemVqd2lydllQNWs5cjAxcUg3NWY5ei1rQnhraEhBeEE?oc=5",
-   "date": "2026-06-26",
-   "summary": "氧气科技入选《2026中国GEO服务商采购指南》，成为AI搜索标杆服务商  中华网",
-   "body": "氧气科技入选《2026中国GEO服务商采购指南》，成为AI搜索标杆服务商  中华网",
-   "tags": [
-    "客户",
-    "GEO",
-    "AI搜索"
-   ]
-  },
-  {
-   "id": "n859cee7920",
-   "category": "客户",
-   "company": "",
-   "title": "[青眼情报]：2025中国化妆品年鉴 - 发现报告",
-   "source": "发现报告",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuN3daWDlGSHhGdk11cnRZTnJ0cmx2MGltMzVoT3NRTEd1R0ZXVGJqT2RibVNXTTNWamxLYURnNkMtYUFOVkZoYm15dXJudmFt?oc=5",
-   "date": "2026-02-06",
-   "summary": "[青眼情报]：2025中国化妆品年鉴  发现报告",
-   "body": "[青眼情报]：2025中国化妆品年鉴  发现报告",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "n119b25401c",
-   "category": "客户",
-   "company": "",
-   "title": "主流出海联盟营销SaaS平台横向：功能、定价、适配品牌全方位对比指南 - Binance",
-   "source": "Binance",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5teFRoTlBESW03NERnMXA5LUlnX1Jqc2xfWVo5VlE2RDFiR3J6RDF6b1M3R1MyeEYtemtrNjE0aVhRcjZSSFc1SFNmN254bzVEMXNSdHE5WFhucG40QWNHNzR0c3U?oc=5",
-   "date": "2026-07-07",
-   "summary": "主流出海联盟营销SaaS平台横向：功能、定价、适配品牌全方位对比指南  Binance",
-   "body": "主流出海联盟营销SaaS平台横向：功能、定价、适配品牌全方位对比指南  Binance",
-   "tags": [
-    "客户",
-    "出海"
-   ]
-  },
-  {
-   "id": "n38623d9a04",
-   "category": "客户",
-   "company": "",
-   "title": "易点天下「可见性峰会」圆满收官，以GEO+GEM构筑AI时代品牌全球化护城河 - 雷峰网",
-   "source": "雷峰网",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sME1nWXBsNktpZUxyYVJLcmhmVnVWUHM2eXpqMkphajN4SmpCQzVBRmEtQkpyamVxdTJuRkpraG95NXFrT3ZIQkZBRUpXZ1RuQ1BGdFIyMm8xaVlvaHFkS25Gdm9SalBpcU1ITk5abWtmdXVLam9z?oc=5",
-   "date": "2026-03-08",
-   "summary": "易点天下「可见性峰会」圆满收官，以GEO+GEM构筑AI时代品牌全球化护城河  雷峰网",
-   "body": "易点天下「可见性峰会」圆满收官，以GEO+GEM构筑AI时代品牌全球化护城河  雷峰网",
-   "tags": [
-    "客户",
-    "GEO"
-   ]
-  },
-  {
-   "id": "nf24cd9853f",
-   "category": "客户",
-   "company": "",
-   "title": "聚焦细分赛道：GTC2026 Shenzhen分会场议程大曝光 - 白鲸出海",
-   "source": "白鲸出海",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9OTEV6M213VnYwN0NpcEc1Vm1lbGQwZGw1UHdvX1hlUFd4WVRLcFR1ZDBQTDZTZVNLQnRjalBua0lEZkFoRzlYbENUeUM?oc=5",
-   "date": "2026-04-13",
-   "summary": "聚焦细分赛道：GTC2026 Shenzhen分会场议程大曝光  白鲸出海",
-   "body": "聚焦细分赛道：GTC2026 Shenzhen分会场议程大曝光  白鲸出海",
-   "tags": [
-    "客户",
-    "出海"
-   ]
-  },
-  {
-   "id": "n24c9f72a18",
-   "category": "客户",
-   "company": "",
-   "title": "从30000+跨境出海人的奔赴到170+企业的选择——GTC2026 Shenzhen即将启幕 - 量子位",
-   "source": "量子位",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsVnBhVGxkYTdzR2VEUzQxaWpjTTVubERoREpyTVl4dXp3dmNKSk1ublZqQXl2RktkSlpSaVpfTnNfVkE2YnFid1F3VXpSeFdRMkN6Rg?oc=5",
-   "date": "2026-04-03",
-   "summary": "从30000+跨境出海人的奔赴到170+企业的选择——GTC2026 Shenzhen即将启幕  量子位",
-   "body": "从30000+跨境出海人的奔赴到170+企业的选择——GTC2026 Shenzhen即将启幕  量子位",
-   "tags": [
-    "客户",
-    "出海"
-   ]
-  },
-  {
-   "id": "n2af2189628",
-   "category": "客户",
-   "company": "",
-   "title": "活动｜2026 福布斯中国DTC跨境影响力品牌评选盛典圆满落幕 - 福布斯中国",
-   "source": "福布斯中国",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1RG9tcGktZnU3MWJRWDFFZ21Pc0hROVdwbTJuX1lNa3BKa0lYOXNzNXBRUGowbzVITTgzVk1WVmFua2s2Q21NdHdKNjNkX0k?oc=5",
-   "date": "2026-05-27",
-   "summary": "活动｜2026 福布斯中国DTC跨境影响力品牌评选盛典圆满落幕  福布斯中国",
-   "body": "活动｜2026 福布斯中国DTC跨境影响力品牌评选盛典圆满落幕  福布斯中国",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "n6e97a0a49a",
-   "category": "客户",
-   "company": "",
-   "title": "[小U出海]：2025年AI+出海产业报告 - 发现报告",
-   "source": "发现报告",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBXbTdUenlpOElPQWppNFFCNGs5SDJia1hGdDFGbGM3SzhpN25HczdjYTlKQlpaUjNzdnkxZktZMmFOQXlzN3R3TkwxNkZYZzlj?oc=5",
-   "date": "2025-07-21",
-   "summary": "[小U出海]：2025年AI+出海产业报告  发现报告",
-   "body": "[小U出海]：2025年AI+出海产业报告  发现报告",
-   "tags": [
-    "客户",
-    "出海"
-   ]
-  },
-  {
-   "id": "n589e8975df",
-   "category": "客户",
-   "company": "",
-   "title": "【报名开启】Wati受邀出席Shopify官方大会｜9.19深圳共探AI赋能独立站增长新路径 - 中华网",
-   "source": "中华网",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1heGVHQ0Ftdkk5NElhRVRMR1VUVFZCT194aWU4RXlsc0g5S3dSX19IVUtjUHRCWllUbzlPLXNkYlFfUjg3eDNwS05Ob3MwTWhfNW9ZUGZJT29PRk9PUzJKU2JDZlhKQmlRYzhueQ?oc=5",
-   "date": "2025-08-25",
-   "summary": "【报名开启】Wati受邀出席Shopify官方大会｜9.19深圳共探AI赋能独立站增长新路径  中华网",
-   "body": "【报名开启】Wati受邀出席Shopify官方大会｜9.19深圳共探AI赋能独立站增长新路径  中华网",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "nc528051a5a",
-   "category": "客户",
-   "company": "",
-   "title": "DTC风向已变！2025年出海的9个流量破圈技巧 - 品牌方舟",
-   "source": "品牌方舟",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9YNlhDY0RraDlrZzZjNHY2Y3lOTjd0VmZDLUdTeUZ3WDJIRC1SVjZHeUJpWm15bXFhVld0d1JaS0pWcF9iZ19DTTN0UQ?oc=5",
-   "date": "2025-07-18",
-   "summary": "DTC风向已变！2025年出海的9个流量破圈技巧  品牌方舟",
-   "body": "DTC风向已变！2025年出海的9个流量破圈技巧  品牌方舟",
-   "tags": [
-    "客户",
-    "出海"
-   ]
-  },
-  {
-   "id": "nabf1b43891",
-   "category": "消费者",
-   "company": "",
-   "title": "2026小红书运动户外行业场景趋势与用户决策报告 - 财富号",
-   "source": "财富号",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pSUpaRnZVNVFxOW5FQk51VkZTenNOT1ZtQUt5S3BkSjRxc2xtZUs2cTBqQ3dDT1BoUGt5allpY0c5UGpnSXB1azhLNmg0UGMzRVVfXzlaZmJGTHo5OG9lR2g3MWFHNFVabHNv?oc=5",
-   "date": "2026-07-10",
-   "summary": "2026小红书运动户外行业场景趋势与用户决策报告  财富号",
-   "body": "2026小红书运动户外行业场景趋势与用户决策报告  财富号",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n1082532ef8",
-   "category": "消费者",
-   "company": "",
-   "title": "飞猪、小红书“五一”出行趋势：7成用户基于兴趣选目的地，体验型商品增速超大盘 - 环球旅讯",
-   "source": "环球旅讯",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oMnRHMGpCS0RDcWFvaVBXaE5oUEpIbl94djdKb0xQU3Zqd3c0NFY3c1dzRkRXbWp5MGN4V2dCUXE3QzlMakJRcUtLaVV6aTNaT09KSQ?oc=5",
-   "date": "2026-05-06",
-   "summary": "飞猪、小红书“五一”出行趋势：7成用户基于兴趣选目的地，体验型商品增速超大盘  环球旅讯",
-   "body": "飞猪、小红书“五一”出行趋势：7成用户基于兴趣选目的地，体验型商品增速超大盘  环球旅讯",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n38a0cbccd9",
-   "category": "消费者",
-   "company": "",
-   "title": "《2026小红书文旅兴趣出游种草指南》发布：在「兴趣」里看见文旅生意的新入口 - 中国网海丝频道",
-   "source": "中国网海丝频道",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95by1KMXh0OU9RUXh2UDdwM2JiN1pjSnhETDBHQXVBRUJrNGl5RWs0cXA1UjJLc2NWd3E1bjIwUGphMHFPaU5OUzlzWVAwanhTTjU0bktyR0p1eEFhTEhtbUZKWTBmQQ?oc=5",
-   "date": "2026-01-27",
-   "summary": "《2026小红书文旅兴趣出游种草指南》发布：在「兴趣」里看见文旅生意的新入口  中国网海丝频道",
-   "body": "《2026小红书文旅兴趣出游种草指南》发布：在「兴趣」里看见文旅生意的新入口  中国网海丝频道",
-   "tags": [
-    "消费者",
-    "种草"
-   ]
-  },
-  {
-   "id": "n1f9efa7ef7",
-   "category": "消费者",
-   "company": "",
-   "title": "小红书灵犀亮相央视：种草成为「需求引领供给」新路径 - 中国日报网",
-   "source": "中国日报网",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XTjdCeDRfbjNMa0pRdzhpWEcyOV9rTHpIZGMyTkw0ZjZZU2VxWEJNSEdSTmUxY2hzbmhuUzZabUJlRUZFeVliM0lDTGFOZ2plZkhsWThTaW1tb25obG0xWndhUkNITHVrTEVVNmVmcnFFYmY4UHpOc2pVQkw?oc=5",
-   "date": "2026-03-04",
-   "summary": "小红书灵犀亮相央视：种草成为「需求引领供给」新路径  中国日报网",
-   "body": "小红书灵犀亮相央视：种草成为「需求引领供给」新路径  中国日报网",
-   "tags": [
-    "消费者",
-    "种草"
    ]
   }
  ]
