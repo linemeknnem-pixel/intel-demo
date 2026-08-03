@@ -1,11 +1,239 @@
 /* 自动生成 by scripts/ingest.py —— 请勿手改 */
 window.KB_DATA = {
  "meta": {
-  "generated": "2026-08-02",
+  "generated": "2026-08-03",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 17 条，合计 400 条"
+  "note": "新增 16 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "ne4ee9087d8",
+   "category": "行业",
+   "company": "",
+   "title": "AI营销概念龙头+AIGC开发者大会将举行，该公司有望爆发！ - QQ News",
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vaGo4ZFdUcW9TZUE4MTFNSXJOdjE4ajdWa2ZlTmJrTTR2emV3MW5nUzRDaEFpb0dYUnVSNHFublJkcFNTelAyekFvMVZBWUJQelpIemt3?oc=5",
+   "date": "2026-01-12",
+   "summary": "AI营销概念龙头+AIGC开发者大会将举行，该公司有望爆发！  QQ News",
+   "body": "AI营销概念龙头+AIGC开发者大会将举行，该公司有望爆发！  QQ News",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "nb302170efb",
+   "category": "行业",
+   "company": "",
+   "title": "2026 AI问答营销行业深度研究：主流厂商对比与发展趋势 - 手机新浪网",
+   "source": "手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9Ka29Pd1kwZzhpanNYbmZ6MnhvSmJsdXMyV0VwUjV5Y2kwSmY5eG9BcEkycjllczFQNG03aUlhalhBNU9lM2FVRDBoN3hMMTFqR3o0MXNWNXg5dDBkT0hOZ2xTVV9RdlZFdmtqMnhlRDNydw?oc=5",
+   "date": "2026-08-03",
+   "summary": "2026 AI问答营销行业深度研究：主流厂商对比与发展趋势  手机新浪网",
+   "body": "2026 AI问答营销行业深度研究：主流厂商对比与发展趋势  手机新浪网",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "na05f06c776",
+   "category": "行业",
+   "company": "",
+   "title": "世界杯球赛怎么买携全链路AI营销引擎亮相2026全球数字营销峰会，定义智能增长新范式-TGBUS - 电玩巴士",
+   "source": "电玩巴士",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9vdjdac1l4MFh3T2RqSWRUU0M5VWlMQWRWNjF3Vko0aUUwSUtaM1htLU9LNXd1dFdqM04xZ212TWg1ZGttSk9IRkdrUE1OVG5Ddk9NUHVRMmdVZjMz?oc=5",
+   "date": "2026-08-02",
+   "summary": "世界杯球赛怎么买携全链路AI营销引擎亮相2026全球数字营销峰会，定义智能增长新范式-TGBUS  电玩巴士",
+   "body": "世界杯球赛怎么买携全链路AI营销引擎亮相2026全球数字营销峰会，定义智能增长新范式-TGBUS  电玩巴士",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n1457c57090",
+   "category": "行业",
+   "company": "",
+   "title": "刘双舟：构建“法律+技术”双轨监管体系应对广告业变革 - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5qZVphVFZsSUJFRUNjZ2NSbHBNWnc5MHl0bmJUd0MxUUJUX1dvRk1PLWxCVXh1a1lDQVpiOE45VmlkaTBqS21tLWV4bnU1SDBLMzVpSUNYekExSDE3enRqSjFzQ3V2VjJYQndvMmxaaFI1OW4zWThlMzZOanU?oc=5",
+   "date": "2026-08-03",
+   "summary": "刘双舟：构建“法律+技术”双轨监管体系应对广告业变革  新浪财经",
+   "body": "刘双舟：构建“法律+技术”双轨监管体系应对广告业变革  新浪财经",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "na34d91f4e2",
+   "category": "行业",
+   "company": "",
+   "title": "中广协霍焰：合规已成行业必答题，行业自律要跑在前面 - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1yaEFwT2tYdzRTUFVuN2NGWWlMclYwbG1oeGRCRVlZQnJFS0NQbm1sNXByX0JKRXBBOFBDOEFjQkpDQlpPTUkwVUlwZnJidC1nbzAzWmkzR0M3aG5sWi0wbG9GVDJjSmVDM00zTXY0UFNsbzVvTFZmdlpZTVY?oc=5",
+   "date": "2026-08-03",
+   "summary": "中广协霍焰：合规已成行业必答题，行业自律要跑在前面  新浪财经",
+   "body": "中广协霍焰：合规已成行业必答题，行业自律要跑在前面  新浪财经",
+   "tags": [
+    "行业",
+    "合规"
+   ]
+  },
+  {
+   "id": "ndc03a18d9a",
+   "category": "政策",
+   "company": "",
+   "title": "Meta要靠订阅“回血”？推出AI聊天机器人付费服务，股价盘中拉升超3% - finance.sina.com.cn",
+   "source": "finance.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5fcWU3ZGlBLWE0ZWJXRmUwcVNKbHNfdEwyZ1BHUS1ZQ1AyeUtzTjdMTTBwNDhNVEQtdDZTV1JuMXNOOWd0WGFoTDBGYXV4Mk9vM0RBRVNJTHJaRFJEQktpcU44aWZvM0N0U2NqLUY5R2ZlczAzMmpyZQ?oc=5",
+   "date": "2026-07-31",
+   "summary": "Meta要靠订阅“回血”？推出AI聊天机器人付费服务，股价盘中拉升超3%  finance.sina.com.cn",
+   "body": "Meta要靠订阅“回血”？推出AI聊天机器人付费服务，股价盘中拉升超3%  finance.sina.com.cn",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n0862f416f2",
+   "category": "政策",
+   "company": "",
+   "title": "扎克伯格：Meta企业AI机遇远不止智能体-AI应用 - 至顶网",
+   "source": "至顶网",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBQY3hZdG9mSk5JSEplN0xhdnllUHAxYTJuaFZMS3VMZlBhQUl2UGtSUnh3bC1jTHNCWlVHQ2RLVGtQa1Q4dEdrWDcxN09LWXFIemhsZ3hTRmV6SzE5eDgtWE5OZWNDZ1p4bGRHVkpNRQ?oc=5",
+   "date": "2026-07-30",
+   "summary": "扎克伯格：Meta企业AI机遇远不止智能体-AI应用  至顶网",
+   "body": "扎克伯格：Meta企业AI机遇远不止智能体-AI应用  至顶网",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "ne47ab423e2",
+   "category": "政策",
+   "company": "",
+   "title": "Google Ads 的新篇章：2026 年服务条款全面修订 - ALM Corp",
+   "source": "ALM Corp",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWElhRU5uTjF0VWZKNk5DcEJIYkZaT3VWS1ZNaXFJVHN5RndHcXV5N18tSmtOa01YRFNmSndOc3FSOEg3WTlxRlliUmVZbWQxMkZsOG5rT3JPMDhIU1MzWWZwaDYzVzU0VUZiVXJBWXB4QmZ5WF9TRGdwSFE2VEtEQzJFQQ?oc=5",
+   "date": "2026-06-04",
+   "summary": "Google Ads 的新篇章：2026 年服务条款全面修订  ALM Corp",
+   "body": "Google Ads 的新篇章：2026 年服务条款全面修订  ALM Corp",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n4db3902ece",
+   "category": "政策",
+   "company": "",
+   "title": "苹果清退低质App、Google Play加码AI搜索｜Enjoy出海政策周报 - Enjoy出海",
+   "source": "Enjoy出海",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9PQ0JGU1Awcm96ZGJMR2JWcWlMQ1puYURJTnBLWnhXLTRDUzBKX1d3S2VzbzNsa1p4RzdpSnJaSUp3T2tKTVRtVmR2R2ZOM1ZwYVJKYTBQZF9HQQ?oc=5",
+   "date": "2026-06-16",
+   "summary": "苹果清退低质App、Google Play加码AI搜索｜Enjoy出海政策周报  Enjoy出海",
+   "body": "苹果清退低质App、Google Play加码AI搜索｜Enjoy出海政策周报  Enjoy出海",
+   "tags": [
+    "政策",
+    "出海",
+    "AI搜索"
+   ]
+  },
+  {
+   "id": "n53780ea9df",
+   "category": "客户",
+   "company": "",
+   "title": "AI赋能千行百业一线观察｜AI深度渗透美妆产业链 驱动行业智能变革 - 新华网",
+   "source": "新华网",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYjdwRVdEZ1NfM2JEbFBJZ0s5Z1lySGtyakpFZnVjQlB2akh4Ym16U25DcTQtVjNpbDIwOVI0X3lzUHZLU1FreGNkUWR2clBzaDBJdC1ZUklYWWxFQmtkbENDemdFZmNkSnd0b3BjMFkwSmUycmV2WHFDVGNWNnZTUG9R?oc=5",
+   "date": "2026-04-27",
+   "summary": "AI赋能千行百业一线观察｜AI深度渗透美妆产业链 驱动行业智能变革  新华网",
+   "body": "AI赋能千行百业一线观察｜AI深度渗透美妆产业链 驱动行业智能变革  新华网",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n429fd50e8c",
+   "category": "客户",
+   "company": "",
+   "title": "探访珀莱雅，侯亚孟等校友共议AI重构经营与用户价值增长路径 - 中华网科技频道",
+   "source": "中华网科技频道",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yVjNpMEVtWllna2NOVnJHdG5HUWxLNUVtSGd6NnZhdDFrT3VtakUzX215ODhCUjVyQXh6ejJ3amJhbURyRlhEYlAyTHU3TnA5MTk2cWd6eUhWcHJERGdyOENPa2VzeUhad0N0aFRB?oc=5",
+   "date": "2026-04-07",
+   "summary": "探访珀莱雅，侯亚孟等校友共议AI重构经营与用户价值增长路径  中华网科技频道",
+   "body": "探访珀莱雅，侯亚孟等校友共议AI重构经营与用户价值增长路径  中华网科技频道",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "na900caa2ce",
+   "category": "客户",
+   "company": "",
+   "title": "行业对谈|珀莱雅首席科学官黄虎：从线粒体抗衰到多领域融合，预见美妆科研新趋势 - 新华网",
+   "source": "新华网",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT2Y3WTlPb0RmdHc2dDFDcU5NQXlhMHBzbDE3SzlITEV0ZE9wMFFwVHpNdW93M1V2X2xFRGppVTVxM2wxZjJfRWFRZ2d6YVJDQTFScTRQZ1d6Z0t1MDJWU2w5MURzYVRxYWF1X0ptdUVmRVo2NlMzMTZjcnIzLUdzb2dn?oc=5",
+   "date": "2025-09-29",
+   "summary": "行业对谈|珀莱雅首席科学官黄虎：从线粒体抗衰到多领域融合，预见美妆科研新趋势  新华网",
+   "body": "行业对谈|珀莱雅首席科学官黄虎：从线粒体抗衰到多领域融合，预见美妆科研新趋势  新华网",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n859cee7920",
+   "category": "客户",
+   "company": "",
+   "title": "[青眼情报]：2025中国化妆品年鉴 - 发现报告",
+   "source": "发现报告",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuN3daWDlGSHhGdk11cnRZTnJ0cmx2MGltMzVoT3NRTEd1R0ZXVGJqT2RibVNXTTNWamxLYURnNkMtYUFOVkZoYm15dXJudmFt?oc=5",
+   "date": "2026-02-06",
+   "summary": "[青眼情报]：2025中国化妆品年鉴  发现报告",
+   "body": "[青眼情报]：2025中国化妆品年鉴  发现报告",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n7dd21abbf7",
+   "category": "客户",
+   "company": "",
+   "title": "DTC品牌出海靠什么“行稳致远”？GTC2026 Shenzhen这场活动为您解答 - baijing.cn",
+   "source": "baijing.cn",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE02MzNRTHB1NFlVX19KZTFxQ3VjZFloS1F6WWNFaU1CRUJjSTE2NVAwMHlJeFE4U21laENmRzFlQU1xNThPZlFvWnIwMzU?oc=5",
+   "date": "2026-04-20",
+   "summary": "DTC品牌出海靠什么“行稳致远”？GTC2026 Shenzhen这场活动为您解答  baijing.cn",
+   "body": "DTC品牌出海靠什么“行稳致远”？GTC2026 Shenzhen这场活动为您解答  baijing.cn",
+   "tags": [
+    "客户",
+    "出海"
+   ]
+  },
+  {
+   "id": "n993bef9e9e",
+   "category": "消费者",
+   "company": "",
+   "title": "抖音电商报告：世界杯观赛季足球商品成交额同比涨逾一倍 - 中国网",
+   "source": "中国网",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBUTG82dEF5WUlmQ2VYMVJ2Q09iOVNGRFI3enpuVWxOVGVLa3BWQTlEdnNabEZYT1JfckVMSDNXbmpFMXpraDJJTEYyX3lzaURacFBFejRQMXFSZ2ZON0pYbllLMEJoenlQM3gyZElJYw?oc=5",
+   "date": "2026-07-07",
+   "summary": "抖音电商报告：世界杯观赛季足球商品成交额同比涨逾一倍  中国网",
+   "body": "抖音电商报告：世界杯观赛季足球商品成交额同比涨逾一倍  中国网",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n204b4eb2fe",
+   "category": "消费者",
+   "company": "",
+   "title": "2025「家场景」美学趋势发布，引领家居「微迭代」风向 - 中国日报网",
+   "source": "中国日报网",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NdWUyMlZqaEdWbFJ5R0tDbmNDNXlOdTBwME5ZVlZjQVdhZGZQb3MtOW5USjdCYmM4SVFrZTRKVkpUUXN6MzRNYVJKZGRTbk5BU0lKZmgzRHJWWTUyejdqeGFDbl9OODVTR0pGRWc2TWhjVExCX0NmLW9wN0k?oc=5",
+   "date": "2025-10-31",
+   "summary": "2025「家场景」美学趋势发布，引领家居「微迭代」风向  中国日报网",
+   "body": "2025「家场景」美学趋势发布，引领家居「微迭代」风向  中国日报网",
+   "tags": [
+    "消费者"
+   ]
+  },
   {
    "id": "n9f4d5a4b5c",
    "category": "竞品",
@@ -5511,234 +5739,6 @@ window.KB_DATA = {
    "date": "2026-04-04",
    "summary": "我一个人，用AI，把生意做到了海外  21财经",
    "body": "我一个人，用AI，把生意做到了海外  21财经",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "ne62873fa32",
-   "category": "政策",
-   "company": "",
-   "title": "TikTok单月分账破亿，2026短剧出海都在卷什么？ - thepaper.cn",
-   "source": "thepaper.cn",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNSG55cm9lYlRpYlpmVG42cGVqS3czWF8zMW5zNURzRGkyb3FzTFBzZi12R1M3V1BsNGttRUVSSjBEVmdKaGs5TWhlQmpMM2ZGaXVoSk9KRW1MR2hxUGc?oc=5",
-   "date": "2026-05-26",
-   "summary": "TikTok单月分账破亿，2026短剧出海都在卷什么？  thepaper.cn",
-   "body": "TikTok单月分账破亿，2026短剧出海都在卷什么？  thepaper.cn",
-   "tags": [
-    "政策",
-    "出海"
-   ]
-  },
-  {
-   "id": "n85004ac7d9",
-   "category": "政策",
-   "company": "",
-   "title": "小红书出海电商业务Redshop来了；TikTok Shop欧洲版图将扩容丨跨境电商周报 - 亿邦动力网",
-   "source": "亿邦动力网",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBwbmFGMEhFWjJ2eHdNeThkbGZiQmFudElQZk95YUF1bnEtQVZ6SC1tZ1N0Zm5namdWV1JEZ1JhQ3M0NWlwam5hd3pPUkRGc21iUlRFc1VB?oc=5",
-   "date": "2026-04-19",
-   "summary": "小红书出海电商业务Redshop来了；TikTok Shop欧洲版图将扩容丨跨境电商周报  亿邦动力网",
-   "body": "小红书出海电商业务Redshop来了；TikTok Shop欧洲版图将扩容丨跨境电商周报  亿邦动力网",
-   "tags": [
-    "政策",
-    "出海"
-   ]
-  },
-  {
-   "id": "n694e5ce88c",
-   "category": "政策",
-   "company": "",
-   "title": "卖家连夜改图，欧美严查AI，最高罚5000美元 - 白鲸出海",
-   "source": "白鲸出海",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5bEJxOEFad1lITVRuOERuR0wyRlZqTG93b19faGxncDUzelhpVy1FUjFBU1RRb085NDZkWVFUS2t3ZHROUU5wS3dpdFE?oc=5",
-   "date": "2026-06-23",
-   "summary": "卖家连夜改图，欧美严查AI，最高罚5000美元  白鲸出海",
-   "body": "卖家连夜改图，欧美严查AI，最高罚5000美元  白鲸出海",
-   "tags": [
-    "政策",
-    "出海"
-   ]
-  },
-  {
-   "id": "n3df5ebd4b0",
-   "category": "政策",
-   "company": "",
-   "title": "2025出海盘点：社交出海大年，成也AI败也AI - 投中",
-   "source": "投中",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5FV0FudWQxZm9GcjZhbldvdHlSWjZ0a3lrMGllUG5uNXpybFV0YXEyaVExai1hV0tyX2sybUNhNVFicnFYbVRsRlA0Nnp4eDJtYUFyeFVSRGMzQWNkdEtNNDNIaXlraktRNTdiaw?oc=5",
-   "date": "2026-01-14",
-   "summary": "2025出海盘点：社交出海大年，成也AI败也AI  投中",
-   "body": "2025出海盘点：社交出海大年，成也AI败也AI  投中",
-   "tags": [
-    "政策",
-    "出海"
-   ]
-  },
-  {
-   "id": "nc7e64d86a7",
-   "category": "政策",
-   "company": "",
-   "title": "TikTok 将 AI 视频生成功能添加到 Symphony：Dreamina Seedance 2.0 对广告商意味着什么 - ALM Corp",
-   "source": "ALM Corp",
-   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeG1PQ1lFeEhVMEFaMkJ2dXdOMWY4Wkd4SWpoeGRXdnNmWThEbTlTdU1xaDU4a2l6b2JSNFVWOUZvY3NSUEFYdVNJaHNyM05WR09aaEZyY1pzTWVQMjRDMC15Z01YLUJvS2ZrQ2tpWkduVUx0OWpfSzJzYXQ4ZmUyY1ZUNU45VmtzN0JQM1Q1QTJramc?oc=5",
-   "date": "2026-04-14",
-   "summary": "TikTok 将 AI 视频生成功能添加到 Symphony：Dreamina Seedance 2.0 对广告商意味着什么  ALM Corp",
-   "body": "TikTok 将 AI 视频生成功能添加到 Symphony：Dreamina Seedance 2.0 对广告商意味着什么  ALM Corp",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "n1f8a584360",
-   "category": "政策",
-   "company": "",
-   "title": "TikTok开放短剧合作:首发或独家最高20倍激励！ - 流媒体网",
-   "source": "流媒体网",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5PNGZGdjZRa1lObXVnMDFYOWVYc28yRDBoMzVrYVZoTHVSc21WWVNRb3IwV01TdDhCLU9weGhPYm11UDU2b3I1RUJDZW5XdlRDVTkyMHFDbXVabmM?oc=5",
-   "date": "2026-01-05",
-   "summary": "TikTok开放短剧合作:首发或独家最高20倍激励！  流媒体网",
-   "body": "TikTok开放短剧合作:首发或独家最高20倍激励！  流媒体网",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "nfd4cf60a22",
-   "category": "政策",
-   "company": "",
-   "title": "Meta有意出售AI算力 分析人士警告：云业务利润率远逊广告 - 财联社",
-   "source": "财联社",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBNNHNLWlRsNXQzdzlhNXJBOFR2NW4tLW1lYlgtRTlVekVmYmJXb1lyWl8yN2hYUG82eG1FWXp1RFhtVlZ3VGN4dQ?oc=5",
-   "date": "2026-07-02",
-   "summary": "Meta有意出售AI算力 分析人士警告：云业务利润率远逊广告  财联社",
-   "body": "Meta有意出售AI算力 分析人士警告：云业务利润率远逊广告  财联社",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "nda686247c4",
-   "category": "政策",
-   "company": "",
-   "title": "[10.2024] 元宇宙概念: Meta的营业收入一瞥 - 循环广告营收和亏损变化 - Moomoo",
-   "source": "Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWVNrb3Y3YUZGRzV2cU5lM2RaQTF2M2dRR0t0blVXLVBzbEgwSEtoOUppazJfUG1VSEJKVDBwN25Gc1NRWGI0eV9ubVBmTGN1T3VYNkhvTmxYeEhKNWxzNFRiS1ZQMFVLeDVvZF9ZTF9qb0FZTjloVmxzZ0k5Y0VRa3I2aEpCWGlCRDRKZ2JfTDNXcnpCcGxfbzdjZ0QxUXdtbFZ6UmxEUnZqdzVtMnYtc1dRV2gzSThraUY0a2V3U2QzYnRWZ0hBcm91RUVncFJzYWpjdnVtS1BGaTBiTUl2LQ?oc=5",
-   "date": "2026-07-09",
-   "summary": "[10.2024] 元宇宙概念: Meta的营业收入一瞥 - 循环广告营收和亏损变化  Moomoo",
-   "body": "[10.2024] 元宇宙概念: Meta的营业收入一瞥 - 循环广告营收和亏损变化  Moomoo",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "nef87c081e0",
-   "category": "政策",
-   "company": "",
-   "title": "Meta“卖算力”震动AI市场：算力过剩 还是过度恐慌？ - 东方财富",
-   "source": "东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzclZ2RUkyMERKOEtSQXk0RDBicVlKczlCR0FUNzFtaHdoQnhhcWJzVHg2Q0trZTQzQnJDdkJ4NVZIdjhIc2V5ejg5OHBfVmMzODd6a09MN28tcWdpejRnTA?oc=5",
-   "date": "2026-07-02",
-   "summary": "Meta“卖算力”震动AI市场：算力过剩 还是过度恐慌？  东方财富",
-   "body": "Meta“卖算力”震动AI市场：算力过剩 还是过度恐慌？  东方财富",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "n05a73288fb",
-   "category": "政策",
-   "company": "",
-   "title": "Meta推出AI图像生成模型 接入聊天机器人和Instagram - 新浪财经",
-   "source": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNdUlWbjU4cDk1TGdwWXhub0lvSGgzWS1Ca3FLMFFfeVpsUGpzTGN3TlZMZThSU3g4SE9XcDFvWXk2bUgtTEZYSEQ3MmJfUkFfeGJBdC1tNHkwVFFqNnRVVG1fbWJua1lZXzNrWXlhQ3F6LTB3SVJPUC1MWkVCZEdDSjJyN1A4ZUhLWlBVUE14OE14QTBUdWFBS2s0eG9FbE5OT2lTOHNQRWg4MWJoX1JmYTRmVksxUEM3OUtwOVEyckNXZ3lSS2g0azllNVZvZDBRRVdxZGpoaFdGOHh1YzZQTmxaYjBlSDBRZElJbTUzV09JNU5pV3ZJeXJESUNsWWk0MER0el8xYzFRQQ?oc=5",
-   "date": "2026-07-08",
-   "summary": "Meta推出AI图像生成模型 接入聊天机器人和Instagram  新浪财经",
-   "body": "Meta推出AI图像生成模型 接入聊天机器人和Instagram  新浪财经",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "n58d5d156f8",
-   "category": "政策",
-   "company": "",
-   "title": "AI变现只是开始？大摩大幅上调Meta目标价：Q2广告收入有望首超谷歌搜索 - 华尔街见闻",
-   "source": "华尔街见闻",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14S1h4NXBnQTFNb29lSXJrcXA1TzN6clVQOThtWGpkZEtEaW5uM3k1cmdVOG85LXAxOTRoQU1DYlZlbUp6bmdBc0IzM1RwYUp1M2tN?oc=5",
-   "date": "2026-01-30",
-   "summary": "AI变现只是开始？大摩大幅上调Meta目标价：Q2广告收入有望首超谷歌搜索  华尔街见闻",
-   "body": "AI变现只是开始？大摩大幅上调Meta目标价：Q2广告收入有望首超谷歌搜索  华尔街见闻",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "n4dd40a09ad",
-   "category": "政策",
-   "company": "",
-   "title": "Meta推出AI图像生成模型Muse Image，深化广告业务AI布局 - NAI500",
-   "source": "NAI500",
-   "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOUm1TNVozRFdBTWtyVWh5Y3VBbnA4X1VRMi1YMFBkNFNHdE1UVkdkekJBLW8wOFhOTng3akNIcG91SExkS01YaGFGaU1EaUl4bWJlWU8yM2J0OFRQVHFiZmxGSTZCWDNSMUhXVXFuemcwSWh4S3RkZmE3dHYxSjUzZEFYV09aOGc1ZlZ6Zjc1cVlIdVdHNXN0cnJ1VXg3UFV4a3RFOU45MHU1bFNnbE9SOG5LZ0M2TXg0YnVFZ1ZrNnpZNnQ4ZnJQSHlKWUhSRlRieldOOFJUU1hhZ3BEN2dmUTl5eVpjNzYzR3ZFNFpVc051Sk5vNUZGSW1VTC12RWU3NncxdzJubWg1cWxiM1NzcDVaZGM4emYwWjZja0lNNFA2QjZTQkJjd0pENXdQeTExNV9uNw?oc=5",
-   "date": "2026-07-08",
-   "summary": "Meta推出AI图像生成模型Muse Image，深化广告业务AI布局  NAI500",
-   "body": "Meta推出AI图像生成模型Muse Image，深化广告业务AI布局  NAI500",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "nd0329f4640",
-   "category": "政策",
-   "company": "",
-   "title": "Meta AI再落重磅布局 新图像模型Muse全面接入Instagram与WhatsApp 开放广告商商用 - 36Kr",
-   "source": "36Kr",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KMTdLMjVUOE44LW1oenJ5Sy03SlhzYlhGT0lMYW1zQjFrWkxwbnpOWDBoejVuUWhEYjVXMWRsSjMxTnhjZlRzRWFhNG43bG1rS2FR?oc=5",
-   "date": "2026-07-07",
-   "summary": "Meta AI再落重磅布局 新图像模型Muse全面接入Instagram与WhatsApp 开放广告商商用  36Kr",
-   "body": "Meta AI再落重磅布局 新图像模型Muse全面接入Instagram与WhatsApp 开放广告商商用  36Kr",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "naa05fa5100",
-   "category": "政策",
-   "company": "",
-   "title": "Meta发布自研AI图像模型Muse Image 挑战OpenAI、谷歌同类产品 - qq.com",
-   "source": "qq.com",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9JUEw0VVZUdzNvenBTbnVMQm9kNGdpWDJJXzZobTRfNFFVaDJBaHZaY3A2QlJ1d2Z3TDM2ekIxWmh6QTJKTFBEbW1BYmgwSERqZDVaMEdB?oc=5",
-   "date": "2026-07-07",
-   "summary": "Meta发布自研AI图像模型Muse Image 挑战OpenAI、谷歌同类产品  qq.com",
-   "body": "Meta发布自研AI图像模型Muse Image 挑战OpenAI、谷歌同类产品  qq.com",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "n7b8ca98328",
-   "category": "政策",
-   "company": "",
-   "title": "谷歌更新年龄估算广告政策，缩小了限制范围 - ALM Corp",
-   "source": "ALM Corp",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUXN3SUZpazlzM0pNSHhTSEJNSC1zWlAtQ0cwYUx3U2s5M3p4amVsc1QxYm1GbjVta2xHczRMMXRiWU42SjdMOTVZVlRFWkZOcHprSDJ3M20zakZKc0F3TVZCb0ZxUFNsUTVzV3htOXNGSndVaTRsY0FlTnVfSVN1Yy0xVGdKV1FQTGNmc0ZacWF4LWpOOUN1SE13NVFLUVZqLV9j?oc=5",
-   "date": "2026-07-02",
-   "summary": "谷歌更新年龄估算广告政策，缩小了限制范围  ALM Corp",
-   "body": "谷歌更新年龄估算广告政策，缩小了限制范围  ALM Corp",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "n1356fb2f62",
-   "category": "政策",
-   "company": "",
-   "title": "谷歌对「AI投毒」重拳出击 - 投资界",
-   "source": "投资界",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50VUdLalZfTjM2Y3ZHWGhINkxjdU9qYWxjMUNWX1ZnZjFaVVlwc0lrX2poQmhNOU00VDQyc1Bha2lQdjNnZXpFUmtDRXR3WlBZQk9lUFFR?oc=5",
-   "date": "2026-05-25",
-   "summary": "谷歌对「AI投毒」重拳出击  投资界",
-   "body": "谷歌对「AI投毒」重拳出击  投资界",
    "tags": [
     "政策"
    ]
