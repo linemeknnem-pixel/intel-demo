@@ -1,10 +1,377 @@
 {
  "meta": {
-  "generated": "2026-08-05",
+  "generated": "2026-08-07",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 22 条，合计 400 条"
+  "note": "新增 25 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "n688a8d0b30",
+   "category": "竞品",
+   "company": "",
+   "title": "特赞科技GEA亮相WAIC 2026，“数字成林”展现 Agentic AI 规模化落地图景 - 广州日报新花城",
+   "source": "广州日报新花城",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMHFjU1RyaHlVd2x0bzJ4UGsxNEFFUTVNV0Y4Z0FCTjk0dHdNQ3RqUFZSUW5VOTM4SGNFcFZxOE9VbFJSbzVtWkFhazdwRkZtZ1JmZGdIaFdGZzYyWGNxTUx0RU9LeUNJZmxGeGp5Vlg0YVAzUmIybEtqRTJwRVZCbkFVOVNzcUtTRnc?oc=5",
+   "date": "2026-07-20",
+   "summary": "特赞科技GEA亮相WAIC 2026，“数字成林”展现 Agentic AI 规模化落地图景  广州日报新花城",
+   "body": "特赞科技GEA亮相WAIC 2026，“数字成林”展现 Agentic AI 规模化落地图景  广州日报新花城",
+   "tags": [
+    "竞品",
+    "Agent"
+   ]
+  },
+  {
+   "id": "n3b69637381",
+   "category": "竞品",
+   "company": "",
+   "title": "钛动科技发布AI营销智能体Navos 2.0 定义AI时代商业新玩法 - stcn.com",
+   "source": "stcn.com",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxdnFSSDlMNHdRQ3Q4Z0tHajB2S3BIOW4tYkFxWE1Md1ZjOWY1a2RYekNWbTRyeWJJRTNlWWhJUEhwb1FDMlFqcnlhQjM1WFduOTJqN1NlMA?oc=5",
+   "date": "2026-07-19",
+   "summary": "钛动科技发布AI营销智能体Navos 2.0 定义AI时代商业新玩法  stcn.com",
+   "body": "钛动科技发布AI营销智能体Navos 2.0 定义AI时代商业新玩法  stcn.com",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "nbe77af8594",
+   "category": "竞品",
+   "company": "",
+   "title": "筷子科技与上影集团达成战略合作，共筑AI影视智能体与数字人版权基础设施 - cn.chinadaily.com.cn",
+   "source": "cn.chinadaily.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JUU96aTNXSExqWTF1NzVZbDVwQVVaU1VfZFJ5ZW0tcG5CVEVKYVBpNDN1NWlJTGVaS291NDQzdlcyMGo4WEFqaF85Ykd3bW5xelMtZTltQ1lmM3Q1Nl9YcnNOVWM1NURONHQxYjJYUDlFUGNwSHAzcmNrcw?oc=5",
+   "date": "2026-06-12",
+   "summary": "筷子科技与上影集团达成战略合作，共筑AI影视智能体与数字人版权基础设施  cn.chinadaily.com.cn",
+   "body": "筷子科技与上影集团达成战略合作，共筑AI影视智能体与数字人版权基础设施  cn.chinadaily.com.cn",
+   "tags": [
+    "竞品",
+    "数字人"
+   ]
+  },
+  {
+   "id": "n13c542ac9a",
+   "category": "竞品",
+   "company": "",
+   "title": "2026年短视频矩阵视频混剪软件工具商业分析报告 - 中华网科技频道",
+   "source": "中华网科技频道",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE42UE8zSEVmckVORm8wVmU5NjVfbEo0Yzg1SXkzX255SHBFYnpnNk1wTVdDMC1MQjVKX3YyQmNmVi1DemF0c2RVSEd4TVRmRGd1RmlZcGlBNXNiREFnOTZfTHdjZmNWcWlsTVZ0NWNueDdnVm44YXc?oc=5",
+   "date": "2026-04-25",
+   "summary": "2026年短视频矩阵视频混剪软件工具商业分析报告  中华网科技频道",
+   "body": "2026年短视频矩阵视频混剪软件工具商业分析报告  中华网科技频道",
+   "tags": [
+    "竞品",
+    "短视频"
+   ]
+  },
+  {
+   "id": "ne04f9d91d7",
+   "category": "竞品",
+   "company": "",
+   "title": "AI内容商业应用智能体平台「筷子科技Kuaizi」完成近亿元B轮融资 - news.pedaily.cn",
+   "source": "news.pedaily.cn",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oRnpDbkpiUVlIa2o1S0RrLUVpSDBURFlNS2pNRkNQcGZyN1N3ekZrVjJHQWVqOTk1bFlQNWpfbzlCRlJoeGdZSndSM1ZjVFNwdWo5eEx3?oc=5",
+   "date": "2025-06-23",
+   "summary": "AI内容商业应用智能体平台「筷子科技Kuaizi」完成近亿元B轮融资  news.pedaily.cn",
+   "body": "AI内容商业应用智能体平台「筷子科技Kuaizi」完成近亿元B轮融资  news.pedaily.cn",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "n670d185603",
+   "category": "竞品",
+   "company": "",
+   "title": "文旅融合新玩法！筷子科技陈万锋：AI商业编导来给景区讲故事 - 21财经",
+   "source": "21财经",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaW5aWXhUVVR0TkpLQmhpOVBCVEdUZEZxRmVneVp0dXZLLXEtWGtyV1BTd3NoMmtWZFNNTUh1M01jdGVlNHJZcnV4Y043cGdWb2QxdF9BUUxmTE53amZaT2VpeEZQMjhDRUlJaUxUSWQ1UHhxVDg5aXpZSm5iSDlZZURIbDNBSFhqdWxMSg?oc=5",
+   "date": "2024-11-21",
+   "summary": "文旅融合新玩法！筷子科技陈万锋：AI商业编导来给景区讲故事  21财经",
+   "body": "文旅融合新玩法！筷子科技陈万锋：AI商业编导来给景区讲故事  21财经",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n867aaf675d",
+   "category": "竞品",
+   "company": "",
+   "title": "一键成片，内容商业AIGC视频应用平台「筷子科技」完成近5000万元B1轮融资｜36氪首发 - 36 Kr",
+   "source": "36 Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xaVAzaG5ERGtSNlJFUkkzRk1PRU1LV1hqbTF6R005T19EdkhUUVk4N202WUh1ajFOeWVlNklqWTJDX2pXQWtaLVVjRUtFZw?oc=5",
+   "date": "2024-04-11",
+   "summary": "一键成片，内容商业AIGC视频应用平台「筷子科技」完成近5000万元B1轮融资｜36氪首发  36 Kr",
+   "body": "一键成片，内容商业AIGC视频应用平台「筷子科技」完成近5000万元B1轮融资｜36氪首发  36 Kr",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "nbdb4797468",
+   "category": "竞品",
+   "company": "",
+   "title": "腾讯云助力筷子科技云架构升级，AIGC视频工作流性能提升240% - 雷峰网",
+   "source": "雷峰网",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5vWTRBazNqcTJUWkNXcjN1MGppU2F5YmJuTnU1dXdST2RKRlNYdnYzQUgyc3VRa1ZJUTVLc21XYmhvTDF0M3ZNV0RDSU1XQWdvbmtnUVNmTlhrY1M4ek5hLTVpdnlmNkFSUmxCbHF6ajRzM09J?oc=5",
+   "date": "2024-04-16",
+   "summary": "腾讯云助力筷子科技云架构升级，AIGC视频工作流性能提升240%  雷峰网",
+   "body": "腾讯云助力筷子科技云架构升级，AIGC视频工作流性能提升240%  雷峰网",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n2977fd8ba1",
+   "category": "竞品",
+   "company": "",
+   "title": "AI+SaaS制作内容 让商家既省钱又赚钱？ - 亿邦动力网",
+   "source": "亿邦动力网",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBESWN3QnJPd3RZX3lVdFhJZVRYd2ZFSWlxTmlMQ1p6YkFzODY3ZWtSMTA4X2JyWEQxWHZMSHpwRWRwMDQzX2k0Skl4eWZyclRERjA3Tnhn?oc=5",
+   "date": "2025-04-10",
+   "summary": "AI+SaaS制作内容 让商家既省钱又赚钱？  亿邦动力网",
+   "body": "AI+SaaS制作内容 让商家既省钱又赚钱？  亿邦动力网",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "ne675697c66",
+   "category": "竞品",
+   "company": "",
+   "title": "凯辉基金领投「奥创光年」千万美元A轮融资 - cathaycapital.com",
+   "source": "cathaycapital.com",
+   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPS1A2R05oVXNUbnY2S015d1RFZ0xvTjBuNVFMR3J4cFZJenNHbjVHdGxvZDREVGgwbXY1TGZOMTBXLXlKdE9TZmtkdFJWbXNDOVpFeUliQ19JX0Y0ZWNGMV9vRDRDb19nZG4tcE5UdlltTXdmcG5sNjlJX3ZrdDJjQ0RDRzhXeFdOdURJREY3MkM4Rnh6Y3gwX1paZTJfLWpCSnhLemwyQVBtOFZYUjhPS1JHQmY0dTR6aVIwNUpTeFVkMFZ1Z05QU0FxbHdGSG11M3MzdVZsdHQxU3NsbVJzeWNDcU4wU0JreW1ib1ItdVhJT2NGVlh6T3ZmaXRIXzVwNmhfdW1fTUhUM0xhbzFvYkNCa25zV1NEMDRGUkJRaEdzMTJCUGZMVlUwV2xfUlE?oc=5",
+   "date": "2023-08-09",
+   "summary": "凯辉基金领投「奥创光年」千万美元A轮融资  cathaycapital.com",
+   "body": "凯辉基金领投「奥创光年」千万美元A轮融资  cathaycapital.com",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "n9c99dade23",
+   "category": "竞品",
+   "company": "",
+   "title": "AI全链路营销公司奥创光年，再获1500万美元A+轮融资 - 极客公园",
+   "source": "极客公园",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBuU24yeEVhSVNTZURicThCQ1BYcll4ZENBOXpJLWw4TXNrWnpNUTVaUnZJMUctODhxM3VkUGJfMGR2MEpiYWFUYy1OTlM?oc=5",
+   "date": "2024-01-28",
+   "summary": "AI全链路营销公司奥创光年，再获1500万美元A+轮融资  极客公园",
+   "body": "AI全链路营销公司奥创光年，再获1500万美元A+轮融资  极客公园",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "n0ea4223630",
+   "category": "竞品",
+   "company": "",
+   "title": "奥创光年内容洞察报告抖音食品行业高CTR视频趋势分析- 业界 - 亿邦动力网",
+   "source": "亿邦动力网",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04MndmUERraXBaakR4Njl6OUpuNVNTNWJZY3hIRHB1M3FEZ2xyMUdtUF9kNzQ1VXFDX3ZHSkpqVThaXzVZdW45aVE5UDhYVHEyZXYzUnZ3?oc=5",
+   "date": "2024-03-29",
+   "summary": "奥创光年内容洞察报告抖音食品行业高CTR视频趋势分析- 业界  亿邦动力网",
+   "body": "奥创光年内容洞察报告抖音食品行业高CTR视频趋势分析- 业界  亿邦动力网",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n3f7bdfc5b3",
+   "category": "竞品",
+   "company": "",
+   "title": "融资丨PureblueAI清蓝完成数千万元天使轮融资 - cyzone.cn",
+   "source": "cyzone.cn",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE5vbEVFSnpBbnNZa2ZrR1lxSDJoZy1RYXh0Q19NNzBJdk95Y19mV0Q2MlZMa2lQNW1YOERiMjQ0ZXUwLWxVOXlXZGt3?oc=5",
+   "date": "2026-03-08",
+   "summary": "融资丨PureblueAI清蓝完成数千万元天使轮融资  cyzone.cn",
+   "body": "融资丨PureblueAI清蓝完成数千万元天使轮融资  cyzone.cn",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "n978785ba8f",
+   "category": "竞品",
+   "company": "",
+   "title": "PallasAI 完成数千万元融资，发布行业首款 GEO 产品化 AI Agent - 智源社区",
+   "source": "智源社区",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUVjB1MmJ0LWV3MWg2YmN5UlVMWHd3SVhLaWcyd2NXZ0FHdzBveEM3LTF4SWY0MHJjZWctU0NkaTM5RUVabGRRZA?oc=5",
+   "date": "2026-02-07",
+   "summary": "PallasAI 完成数千万元融资，发布行业首款 GEO 产品化 AI Agent  智源社区",
+   "body": "PallasAI 完成数千万元融资，发布行业首款 GEO 产品化 AI Agent  智源社区",
+   "tags": [
+    "竞品",
+    "融资",
+    "Agent",
+    "GEO"
+   ]
+  },
+  {
+   "id": "nc6e6fddabd",
+   "category": "竞品",
+   "company": "",
+   "title": "全球人工智能平台MAI完成2500万美元种子轮融资 推出旗舰产品“营销AI Agent” - 亿邦动力网",
+   "source": "亿邦动力网",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA3NFg4VGdMUWpQS3J3S1NfWm5SX0xfQ1dmLWt5QjVHYXNBZlFKMEhqNVlUOEFnc295UnJHWTBvMGM2bVJPSy1IVnZGZEYyOGMwMmMxMEFn?oc=5",
+   "date": "2025-10-28",
+   "summary": "全球人工智能平台MAI完成2500万美元种子轮融资 推出旗舰产品“营销AI Agent”  亿邦动力网",
+   "body": "全球人工智能平台MAI完成2500万美元种子轮融资 推出旗舰产品“营销AI Agent”  亿邦动力网",
+   "tags": [
+    "竞品",
+    "融资",
+    "Agent"
+   ]
+  },
+  {
+   "id": "ndca51751e9",
+   "category": "竞品",
+   "company": "",
+   "title": "PureblueAI清蓝完成数千万元天使轮融资 并发布AI口碑营销数字员工 - 品玩",
+   "source": "品玩",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA2U05tVzYzQ1BJcDRiWXB2aWk5bGlzQnd5cHIzM0l3S0o4TFpkeVU1U1NfN3BabG1yRXlRWmJocktRYXNQelBsWg?oc=5",
+   "date": "2026-03-04",
+   "summary": "PureblueAI清蓝完成数千万元天使轮融资 并发布AI口碑营销数字员工  品玩",
+   "body": "PureblueAI清蓝完成数千万元天使轮融资 并发布AI口碑营销数字员工  品玩",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "naf175bfb4d",
+   "category": "竞品",
+   "company": "",
+   "title": "物自体科技完成数千万元Pre-A轮融资 - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9GaF84RWVtcTFJRldvczg2RDFlZV9xMFBWb0pSZm5WU3ZRQ2xjdlZyLVdUQmtjaDE0eWczTmJTYzQyLVlCeHRsTTlxRVh0a2IwRDhIRHBvUnhYUVQ4MFVnM0lFQ05jYkxfZXJIbEl0WkJvekRJM3piVG9Icw?oc=5",
+   "date": "2026-01-15",
+   "summary": "物自体科技完成数千万元Pre-A轮融资  新浪财经",
+   "body": "物自体科技完成数千万元Pre-A轮融资  新浪财经",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "nba82145f1d",
+   "category": "行业",
+   "company": "",
+   "title": "“女生洗澡，大叔进来搓澡”？苏泊尔AI广告太“辣眼睛”，全部下架！ - 新浪网",
+   "source": "新浪网",
+   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1jQ0hMQllMS3IyMmVyeHFLT0R3WUFzb05jZlc5X0IxZWdpX0hkUm5lZ1NIWnhyQk5QdzFFWjM1WFg5NFFjS05OOG1ibTF3QXhWRWI4dk1qM0NfVkJiR29oQW42YWQ1XzZfRUVSUjRqLUNjNENoRC1pOXpxZkVaUQ?oc=5",
+   "date": "2026-08-06",
+   "summary": "“女生洗澡，大叔进来搓澡”？苏泊尔AI广告太“辣眼睛”，全部下架！  新浪网",
+   "body": "“女生洗澡，大叔进来搓澡”？苏泊尔AI广告太“辣眼睛”，全部下架！  新浪网",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n35f1531b76",
+   "category": "行业",
+   "company": "",
+   "title": "中广协霍焰：合规已成行业必答题，行业自律要跑在前面 - 搜狐网",
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMVhzZU9IbUFSQTJ0RlNmay1HcGVJSDd3UDV1a25vLTFpUUpiQ3ZGM0l4R05ST3JySnE3bFNVZ1hHTW1zSjB3NjlYQnRuSVk3SVllVUVKUFp3TEFxTm9CVVN1RWlESnI0WjZsWS1NelRUX0UyMTZjZE5SVWFDNWdNSE16bjlpdUFz?oc=5",
+   "date": "2026-08-03",
+   "summary": "中广协霍焰：合规已成行业必答题，行业自律要跑在前面  搜狐网",
+   "body": "中广协霍焰：合规已成行业必答题，行业自律要跑在前面  搜狐网",
+   "tags": [
+    "行业",
+    "合规"
+   ]
+  },
+  {
+   "id": "n06b2fe3f82",
+   "category": "政策",
+   "company": "",
+   "title": "出一款爆一款！这些深圳3C“黑科技”新品在TikTok Shop美区C位出圈！ - 雨果跨境",
+   "source": "雨果跨境",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8tZXF0dmZlbEw2cjQtalNtQU1hdllDZkYwcnRJMnFDMlQwQ2p1cnlhZUM0MjFFT05uaDdZTkxVRXR6SHVYWjlQOVd0WEs?oc=5",
+   "date": "2026-08-04",
+   "summary": "出一款爆一款！这些深圳3C“黑科技”新品在TikTok Shop美区C位出圈！  雨果跨境",
+   "body": "出一款爆一款！这些深圳3C“黑科技”新品在TikTok Shop美区C位出圈！  雨果跨境",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nb0395a7737",
+   "category": "政策",
+   "company": "",
+   "title": "YouTube 的全新 AI 标签：2026 年 5 月更新及其对您意味着什么 - ALM Corp",
+   "source": "ALM Corp",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE41dzRzbFJ2SmQ2VFg5bkRlTURBYmt6Z19HazUweHQ1TXlUOWQzbUZWSjFfOGp0R1JnRVBIRVJTUDRrSnR5UG8wNVU1OUpOMWZKTmFTRmI5X2pDTFhLdEg1QnVWR3RMdFRkTHBHNDI1RDJVRlE?oc=5",
+   "date": "2026-05-28",
+   "summary": "YouTube 的全新 AI 标签：2026 年 5 月更新及其对您意味着什么  ALM Corp",
+   "body": "YouTube 的全新 AI 标签：2026 年 5 月更新及其对您意味着什么  ALM Corp",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n1f050a157b",
+   "category": "客户",
+   "company": "",
+   "title": "九四智能斩获2026非凡奖“最佳美妆行业智能导购奖”，以对话式AI驱动美妆营收倍增 - 中华网科技频道",
+   "source": "中华网科技频道",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCX2pJUVlBZU1lbFJCM3A2eHpsNGZqeVNmbHB0X1FWYkNrSU5GZzVINExQR2dUbUtXUVR1WXUtaU8wM0FYdHhrNkVXWjlYTHdFVk5tbUdjUG5kczJtS3VucExUNEJVRi0wWXpDRk8ycnNDcl9WZFE?oc=5",
+   "date": "2026-07-22",
+   "summary": "九四智能斩获2026非凡奖“最佳美妆行业智能导购奖”，以对话式AI驱动美妆营收倍增  中华网科技频道",
+   "body": "九四智能斩获2026非凡奖“最佳美妆行业智能导购奖”，以对话式AI驱动美妆营收倍增  中华网科技频道",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "nc5e4a9de7a",
+   "category": "客户",
+   "company": "",
+   "title": "释放商业AI“超能力”：SAP助力中国企业构建全球智能运营体系 - news.qq.com",
+   "source": "news.qq.com",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hQmJGcDVtbzBsZUZPSHluSWtXTmhBODRhUjZEVzZ6dWdMazY2eGl0M2VkZ3Riemw1MnNJV2dWamppU3A3WU56aGdCRThydnhyYXpndm5n?oc=5",
+   "date": "2026-03-20",
+   "summary": "释放商业AI“超能力”：SAP助力中国企业构建全球智能运营体系  news.qq.com",
+   "body": "释放商业AI“超能力”：SAP助力中国企业构建全球智能运营体系  news.qq.com",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n0371302724",
+   "category": "客户",
+   "company": "",
+   "title": "打破DTC品牌使用AI的错误认知，AI到底该怎么用？ - 品牌方舟",
+   "source": "品牌方舟",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9STWhRanV0bWtXVXRGRkNMbG5oNjBCUlVEZWlVNjNWeFBLS1UzTk1LUmxCRzdyaERtb1FlSFVRWnctLVVkQktYZ1hzbw?oc=5",
+   "date": "2025-10-01",
+   "summary": "打破DTC品牌使用AI的错误认知，AI到底该怎么用？  品牌方舟",
+   "body": "打破DTC品牌使用AI的错误认知，AI到底该怎么用？  品牌方舟",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n56caadcfe6",
+   "category": "消费者",
+   "company": "",
+   "title": "曝光量27亿次，「世界杯」全场景种草解码 - itopmarketing.com",
+   "source": "itopmarketing.com",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93dUg1a0s2Ykw3WnE3Qk1QdXhhNENzTWVmbl9yLUVrejlvT1lvYlZmR3BvUXhXc0w0OVNVVTFxbmZzMHR5TmNtTE0yOFZuNGFO?oc=5",
+   "date": "2026-06-17",
+   "summary": "曝光量27亿次，「世界杯」全场景种草解码  itopmarketing.com",
+   "body": "曝光量27亿次，「世界杯」全场景种草解码  itopmarketing.com",
+   "tags": [
+    "消费者",
+    "种草"
+   ]
+  },
   {
    "id": "n890217042d",
    "category": "竞品",
@@ -5369,367 +5736,6 @@
    "body": "Temu美区投流缩减但月活稳增；速卖通在五国上线本地配送丨跨境电商周报  亿邦动力网",
    "tags": [
     "政策"
-   ]
-  },
-  {
-   "id": "nea317b0a06",
-   "category": "政策",
-   "company": "",
-   "title": "钛动科技赴港IPO：年营收破亿美金，冲刺“出海AI引擎第一股” - 17173",
-   "source": "17173",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ycTRYckF6OXhDenMzY0lQNFR1OUNkMXA0UzU2SDRPYnlSMlpaa0htQWV2SUFuVG1LWHcwQjgtOVBaQkdhNVdOTFZoOEdOV1E4YkpqZVY3M2N6a2NuREkydUpTZEY?oc=5",
-   "date": "2026-03-03",
-   "summary": "钛动科技赴港IPO：年营收破亿美金，冲刺“出海AI引擎第一股”  17173",
-   "body": "钛动科技赴港IPO：年营收破亿美金，冲刺“出海AI引擎第一股”  17173",
-   "tags": [
-    "政策",
-    "出海",
-    "IPO"
-   ]
-  },
-  {
-   "id": "na588c725e0",
-   "category": "政策",
-   "company": "",
-   "title": "Meta推出AI购物工具，可生成商品搭配方案 - 品牌方舟",
-   "source": "品牌方舟",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1ZNnAyOTFneERRVTFfZVhxNGxvTTltRjIweTVxYVRPU185TnczRlprYTExdWtMSUl3RGNRcDB6c2Q1T0hsM01yTThycw?oc=5",
-   "date": "2026-07-10",
-   "summary": "Meta推出AI购物工具，可生成商品搭配方案  品牌方舟",
-   "body": "Meta推出AI购物工具，可生成商品搭配方案  品牌方舟",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "n33e8414666",
-   "category": "客户",
-   "company": "",
-   "title": "护肤不做无用功，珀莱雅双抗面膜美白特证版助力打造透亮肌肤 - news.tom.com",
-   "source": "news.tom.com",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wZDdOdGUtMWd6dGlZdHFUV0JwdnNIa3h4SXNPeHV3dnlHTW1XQVJTOU1GMHJjUC1oS05paVVmZndNaE5TQ19wZk1JaGx1WjVlSEx6MzNB?oc=5",
-   "date": "2026-06-25",
-   "summary": "护肤不做无用功，珀莱雅双抗面膜美白特证版助力打造透亮肌肤  news.tom.com",
-   "body": "护肤不做无用功，珀莱雅双抗面膜美白特证版助力打造透亮肌肤  news.tom.com",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "nd85848ae4a",
-   "category": "客户",
-   "company": "",
-   "title": "“容貌歧视”+“反科学” AI短剧病态带货 - qq.com",
-   "source": "qq.com",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9iQnR1WUNSZ2p2TTBYN29UbzFWekJnTVpKbUx6SnNvaDFqcmMyWmRqaGFnZWpvUTRVQzZTRFR0TjJzZ0RWR0t2QkhWbWlrcUZZQWp4SF9nMA?oc=5",
-   "date": "2026-06-18",
-   "summary": "“容貌歧视”+“反科学” AI短剧病态带货  qq.com",
-   "body": "“容貌歧视”+“反科学” AI短剧病态带货  qq.com",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "ndf5cc66cd4",
-   "category": "客户",
-   "company": "",
-   "title": "易点天下「可见性峰会」圆满收官，以GEO+GEM构筑AI时代品牌全球化护城河 - 新浪财经",
-   "source": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DNFFVNkpkUVkxeE1ZajVMMHlyb1VrVjRGZlpMdjNmLUZ0MERDQlZIdUtmV284OHYwR3o1Sll6dEszXzhCclRKWlg3dE5PYWFMbFZ4SzVvRm0yVTZBRjFvcTNWNzdOMGt5bnU2ZlFoelR0QllxZnE3bW1feHVna0E?oc=5",
-   "date": "2026-03-08",
-   "summary": "易点天下「可见性峰会」圆满收官，以GEO+GEM构筑AI时代品牌全球化护城河  新浪财经",
-   "body": "易点天下「可见性峰会」圆满收官，以GEO+GEM构筑AI时代品牌全球化护城河  新浪财经",
-   "tags": [
-    "客户",
-    "GEO"
-   ]
-  },
-  {
-   "id": "n3f40bbdef0",
-   "category": "消费者",
-   "company": "",
-   "title": "《2026小红书年度居住趋势》发布：“适我主义”成为居住新风向 - 京报网",
-   "source": "京报网",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QM1Zva1l4YmE1c1dtcFZhSEVPZ0w0UVo5NTdjUUJ6SlI3RmNaR3U5MUdybWJwdFhPT19MdHlGX1FiSnA5Yy0tWGw3WG5PZkIxUUMxME9zVXlZV0txYmc?oc=5",
-   "date": "2026-04-24",
-   "summary": "《2026小红书年度居住趋势》发布：“适我主义”成为居住新风向  京报网",
-   "body": "《2026小红书年度居住趋势》发布：“适我主义”成为居住新风向  京报网",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "nfb5e6acd59",
-   "category": "消费者",
-   "company": "",
-   "title": "抖音生活服务：“刷到就出发” 成出行新趋势，酒店以内容经营承接城市流量 - CSDN",
-   "source": "CSDN",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LcVQ4WXZVVEZITjJ1SlNka2swVVAxR0ZZeFlZVmswNWVsNXgwR01vSmxHSDY5Nk96TzVwWExvMGVJTExsS2xNZG9nWXB2WmlCck54WlBjMEN4QUViQ2c?oc=5",
-   "date": "2026-07-13",
-   "summary": "抖音生活服务：“刷到就出发” 成出行新趋势，酒店以内容经营承接城市流量  CSDN",
-   "body": "抖音生活服务：“刷到就出发” 成出行新趋势，酒店以内容经营承接城市流量  CSDN",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n263347193d",
-   "category": "消费者",
-   "company": "",
-   "title": "《抖音苹果消费趋势报告》：平台双月带动苹果销售额同比增长29% - 新华报业网",
-   "source": "新华报业网",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBSczFiekxrYkpDUm9NNDBYR3Zid0liMUVZNkdTd2dKS0VPUmNPaGNRcTlKZ3JIUmVKVTNQRTI0VmlzSllyVE4xYWYxQ3owb0lpS0lrME5EZjdWS3c0SVkwQkFmVzFtUktmZmVz?oc=5",
-   "date": "2026-01-20",
-   "summary": "《抖音苹果消费趋势报告》：平台双月带动苹果销售额同比增长29%  新华报业网",
-   "body": "《抖音苹果消费趋势报告》：平台双月带动苹果销售额同比增长29%  新华报业网",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n4a63dc6a80",
-   "category": "竞品",
-   "company": "",
-   "title": "特赞科技创始人范凌：“我一直想做的事情就是把科技带到创意领域里” - sh.chinanews.com.cn",
-   "source": "sh.chinanews.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PRUJrN1pqdU1DMWlwZk5yMzZOc1RuTzRVLUZtclFKaEl5LWZpQ1F5WkdKZ0hoWUJXNjh3SmFyOWRrTXhwd2pCbjl1VnM0dkg1NkpyaWJNalZnbGQwVmNuYzlvdjI2X2NtSmZHVQ?oc=5",
-   "date": "2025-04-30",
-   "summary": "特赞科技创始人范凌：“我一直想做的事情就是把科技带到创意领域里”  sh.chinanews.com.cn",
-   "body": "特赞科技创始人范凌：“我一直想做的事情就是把科技带到创意领域里”  sh.chinanews.com.cn",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "n6caded7d5a",
-   "category": "竞品",
-   "company": "",
-   "title": "特赞科技Tezign获评全球权威分析机构Gartner中国生成式人工智能原生应用Cool Vendor｜线性被投企业 - 新浪财经",
-   "source": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBSMlU0MmRSUk9wWWpJT1lUc21VTjZ0bTFSUEM3a21vN0ZoSkRPZFNHQTlzbExfekVHRXY1Y0IwTHZVeUs1dU41eUVYc1Q1ZzFqcnQ5QURYT1d5cHBaUDRyNUx2R3NpLTVJQksxcVpzZ3NxVm9zdnc?oc=5",
-   "date": "2025-01-17",
-   "summary": "特赞科技Tezign获评全球权威分析机构Gartner中国生成式人工智能原生应用Cool Vendor｜线性被投企业  新浪财经",
-   "body": "特赞科技Tezign获评全球权威分析机构Gartner中国生成式人工智能原生应用Cool Vendor｜线性被投企业  新浪财经",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "n87855af2e4",
-   "category": "竞品",
-   "company": "",
-   "title": "被投企业 | 特赞完成1亿美元C轮融资，首次发布内容体验数字平台 - 阿里云创新中心",
-   "source": "阿里云创新中心",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5R0dkWGtpV1dlZHNUZG51YlRnVnNEa3BleFBRMkRLN1MtVFZRam5ZWEFBT0NDR294cG5WVm5GVFR5bWlmZWxlUkhDTnU1aTR6YVczRWNwYw?oc=5",
-   "date": "2024-04-09",
-   "summary": "被投企业 | 特赞完成1亿美元C轮融资，首次发布内容体验数字平台  阿里云创新中心",
-   "body": "被投企业 | 特赞完成1亿美元C轮融资，首次发布内容体验数字平台  阿里云创新中心",
-   "tags": [
-    "竞品",
-    "融资"
-   ]
-  },
-  {
-   "id": "nf22060c808",
-   "category": "竞品",
-   "company": "",
-   "title": "特赞科技将举办“ 数字设计：AIGC 创建者大会”：5大内容形式，100+ 场活动，200+分享嘉宾，全天内容盛宴 - 新浪新闻_手机新浪网",
-   "source": "新浪新闻_手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFN3IxOUhzaEpUMFdwRTlZdGNnZG1GallOWHBvRWg0aVJiQjFMaVdxMlJZQU9DYi1LbWdwcUN3dHRJWkV5R3FYZFQyNUJCQXVuREVhYUhmVnlSVGpVaXlGQVktVjNfc2FTQVpVT1A2NTZHVTdZQk9ReA?oc=5",
-   "date": "2023-04-25",
-   "summary": "特赞科技将举办“ 数字设计：AIGC 创建者大会”：5大内容形式，100+ 场活动，200+分享嘉宾，全天内容盛宴  新浪新闻_手机新浪网",
-   "body": "特赞科技将举办“ 数字设计：AIGC 创建者大会”：5大内容形式，100+ 场活动，200+分享嘉宾，全天内容盛宴  新浪新闻_手机新浪网",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "ne663d1769c",
-   "category": "竞品",
-   "company": "",
-   "title": "特赞完成近千万美金 B 轮融资 赫斯特资本领投，红杉、 线性等跟投 - 美通社",
-   "source": "美通社",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBaTU9YeGY4TWJiY3lEcl9DaEhVYW5faTNPamVRc3FsWmk0Y2lBOTN4YmFJdVZUanBURnlHVnU4aEJNOFoyU2dSdmVqV2V3WHNCVXRoYlpIcw?oc=5",
-   "date": "2018-04-16",
-   "summary": "特赞完成近千万美金 B 轮融资 赫斯特资本领投，红杉、 线性等跟投  美通社",
-   "body": "特赞完成近千万美金 B 轮融资 赫斯特资本领投，红杉、 线性等跟投  美通社",
-   "tags": [
-    "竞品",
-    "融资"
-   ]
-  },
-  {
-   "id": "n9e40c437a5",
-   "category": "竞品",
-   "company": "",
-   "title": "特赞发布数据智能产品Tezign Mind :进击创意资产数据化，从1到100 - 动点科技",
-   "source": "动点科技",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lelNySTlRbjVVTFFVMWFDZkxkOC1YdXMxSGM3SnBwakdlOXp2Q29QaVNpS3RkMUFTNGF1d3hGcGVYTENTcXBMV1gtUmFqNzMxUTkwX2tOeUJOYVFadU56dVZR?oc=5",
-   "date": "2018-08-15",
-   "summary": "特赞发布数据智能产品Tezign Mind :进击创意资产数据化，从1到100  动点科技",
-   "body": "特赞发布数据智能产品Tezign Mind :进击创意资产数据化，从1到100  动点科技",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "nacd181fb23",
-   "category": "竞品",
-   "company": "",
-   "title": "融资丨内容科技公司特赞获得1亿美元C2轮融资，淡马锡领投 - 创业邦",
-   "source": "创业邦",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE94ajJMdFluODhnellZVUY2eFdIVDZpMEZvZjdDc0tHc1RfV3E3VTRZd0RVQVR0S2VhcEROY2FxZkZ1YWpTQmNNLUl3?oc=5",
-   "date": "2023-10-17",
-   "summary": "融资丨内容科技公司特赞获得1亿美元C2轮融资，淡马锡领投  创业邦",
-   "body": "融资丨内容科技公司特赞获得1亿美元C2轮融资，淡马锡领投  创业邦",
-   "tags": [
-    "竞品",
-    "融资"
-   ]
-  },
-  {
-   "id": "n624824a69a",
-   "category": "竞品",
-   "company": "",
-   "title": "特赞完成D1轮融资，成为超10亿美元估值的内容科技独角兽 - 电子工程专辑",
-   "source": "电子工程专辑",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rcW5UYkpHcm01NXZRbWp2akRSVFNiaExZdFRuVGQ3R0wwN2ZJTzE3REFMOFV3OGNJXzhXcFQ3bEp3ZmtLVmNURTdITlp2OGxjalE?oc=5",
-   "date": "2021-11-03",
-   "summary": "特赞完成D1轮融资，成为超10亿美元估值的内容科技独角兽  电子工程专辑",
-   "body": "特赞完成D1轮融资，成为超10亿美元估值的内容科技独角兽  电子工程专辑",
-   "tags": [
-    "竞品",
-    "融资",
-    "独角兽"
-   ]
-  },
-  {
-   "id": "n8b9d26a98a",
-   "category": "竞品",
-   "company": "",
-   "title": "亚太首家！钛动科技拿下ChatGPT Ads官方认证合作 - 搜狐网",
-   "source": "搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVnY2Z3VKMkl5cWVKck1FZUlYZlB3bldrdS1iTFNHYUhTVWwwRUhoMjlUX0NELXlnamM0aEt5bG9Ka3o4aGVyTWZINDQ0V0RRRTlfYnNBaWRlOTJBZ09TTXZKaFBOeEhZNEVNeWJuZEM3b3pCdE5PTFdoWnZ5N1BJYW9ONGlyZlNXaFZzVg?oc=5",
-   "date": "2026-07-13",
-   "summary": "亚太首家！钛动科技拿下ChatGPT Ads官方认证合作  搜狐网",
-   "body": "亚太首家！钛动科技拿下ChatGPT Ads官方认证合作  搜狐网",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "n49e8af6a8a",
-   "category": "竞品",
-   "company": "",
-   "title": "全球首批！钛动科技成为 ChatGPT Ads 官方认证合作伙伴 - 飞象网",
-   "source": "飞象网",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9tM3VxaDlVUjhlWklaOFl2V0NTVnN0TGhBWW5XeERqc3BaTThTVzhUcVBWSDRUcGZ2NTZjdGlSUXpEX2RPMkUwMDd5aw?oc=5",
-   "date": "2026-07-10",
-   "summary": "全球首批！钛动科技成为 ChatGPT Ads 官方认证合作伙伴  飞象网",
-   "body": "全球首批！钛动科技成为 ChatGPT Ads 官方认证合作伙伴  飞象网",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "n7e6bfd299d",
-   "category": "竞品",
-   "company": "",
-   "title": "OpenAI引爆戛纳背后，钛动科技(Tec-Do)的流量保卫战 - 新浪财经",
-   "source": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQm1ST2ZhNnRDajVPbnpfdXNjRXpCckd0bGtwOG5icHBmcUs1Yk5ia3ZUT1ZXLXo4blpHMGVOVTZNa3FOVm5BaTI5dm5WX2NYVHlOV3ZKRE8xaTUtbjh0bnFxaklzeDVPSmRYVW1NX3BSaGI0Vy1UTUFnS1UtTFdFVHBEd1gybGtLbi1KMDZXbw?oc=5",
-   "date": "2026-07-09",
-   "summary": "OpenAI引爆戛纳背后，钛动科技(Tec-Do)的流量保卫战  新浪财经",
-   "body": "OpenAI引爆戛纳背后，钛动科技(Tec-Do)的流量保卫战  新浪财经",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "n424bee972e",
-   "category": "竞品",
-   "company": "",
-   "title": "钛动科技Tec-Do，递交IPO招股书，拟赴香港上市，中金公司、摩根大通联席保荐 - 新浪财经",
-   "source": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PX2liemVSVEdtU0hPaU1lRmZPWk5HbFRxVl9xNTFSc3BWWk9CWldlQ2xYZm1YNFhBaUg4UjVoaFNmdGJJRVA4NjVmS3pRSEhKbzVLeWVURG5ST0lueENYWkVJTjE0TW9HZG9vUFhCTnE1SzdGV3c?oc=5",
-   "date": "2026-02-28",
-   "summary": "钛动科技Tec-Do，递交IPO招股书，拟赴香港上市，中金公司、摩根大通联席保荐  新浪财经",
-   "body": "钛动科技Tec-Do，递交IPO招股书，拟赴香港上市，中金公司、摩根大通联席保荐  新浪财经",
-   "tags": [
-    "竞品",
-    "IPO"
-   ]
-  },
-  {
-   "id": "nedd0fc8bf0",
-   "category": "竞品",
-   "company": "",
-   "title": "工具再多不如链路一通，钛动科技把出海中台搭成信息流动的管道 - 中华网",
-   "source": "中华网",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9CSTMwZXREcVJuTWZRVVpFazVlcDQzb2k3YVlQMnJfd002QUZObUFuZWhLRk4wOGNQZ3VvbWNwUXFYUmxfdWN1SDJqRU5jVDhseUNCWTBGQ1dQU0RRR1E?oc=5",
-   "date": "2026-07-08",
-   "summary": "工具再多不如链路一通，钛动科技把出海中台搭成信息流动的管道  中华网",
-   "body": "工具再多不如链路一通，钛动科技把出海中台搭成信息流动的管道  中华网",
-   "tags": [
-    "竞品",
-    "出海"
-   ]
-  },
-  {
-   "id": "naa22f26bc3",
-   "category": "竞品",
-   "company": "",
-   "title": "钛动科技转道港交所，出海AI营销龙头迎资本大考 - 21财经",
-   "source": "21财经",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWkRKTHhVTDMzalFZYW9JWHdVSGlQN3U0UExPc3pRdzlCOGI5aEZvb0V1WnFmcUV4a3FpSlVBRWYxbXVKVUlwU1NKeTcwRXo0RXVvYmFVcHltelktMUlVXzMxWTRqSXBkV2N0WVRxSmhZeUlKT21OQmQ0ZEprd3hCSk9hRUJnUnNwYzFnYmtrZw?oc=5",
-   "date": "2026-03-18",
-   "summary": "钛动科技转道港交所，出海AI营销龙头迎资本大考  21财经",
-   "body": "钛动科技转道港交所，出海AI营销龙头迎资本大考  21财经",
-   "tags": [
-    "竞品",
-    "出海"
-   ]
-  },
-  {
-   "id": "nb2dd35b1bc",
-   "category": "竞品",
-   "company": "",
-   "title": "钛动科技递表港交所 - 央视网",
-   "source": "央视网",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Hc09FQTFUZnhQVGtpcm9NSVFadmNwNWhnSXpzS3VwRlVwcnNiU1UyLXNHYnowV1hNVHB2SmxpMFBXZ3RMVzk4bm01RFFTR0JUdy1zd2tfMEtBTTFlOGpXTGJlZ2thSFhISjdLMW5BWVNMQzZJY3hOREF3?oc=5",
-   "date": "2026-02-27",
-   "summary": "钛动科技递表港交所  央视网",
-   "body": "钛动科技递表港交所  央视网",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "nec54a98541",
-   "category": "竞品",
-   "company": "",
-   "title": "可灵撕开AI视频定价天花板，效果营销迎来新估值，钛动科技（Tec-Do）反被看好？ - 搜狐网",
-   "source": "搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbHgzZlo5aTBlWWJQcnRLdlpwVFdmRFBDTnphZVNDSkNoaWd0dHpyRDZueWJqcTFpdnlPX3dlMUJDekQyaHY3SkFPeDNCTXJzejliamJfcWxaSC14b3dQNDl5NXhNalpVZGE5Zjl2Vmx1bWF4MHRkemw1OW1sUkdTUHl6ajQ1U2JR?oc=5",
-   "date": "2026-07-13",
-   "summary": "可灵撕开AI视频定价天花板，效果营销迎来新估值，钛动科技（Tec-Do）反被看好？  搜狐网",
-   "body": "可灵撕开AI视频定价天花板，效果营销迎来新估值，钛动科技（Tec-Do）反被看好？  搜狐网",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "nb18a81ef1f",
-   "category": "竞品",
-   "company": "",
-   "title": "环球人物 - 人民日报",
-   "source": "人民日报",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3TEtuVmw1MkFlMWVRRnVMZ1I0UDNaSUpqRTRvMFBrcFFYa290N2hGdGNCNmFVWGZtSzBaanM0QXVaWWwzMEY2NWREZzRqenhvaENXX0QyOXVrZUVueUkyZ1FNVURXV2JDREVINzRJTGhrblBISFVn?oc=5",
-   "date": "2026-05-16",
-   "summary": "环球人物  人民日报",
-   "body": "环球人物  人民日报",
-   "tags": [
-    "竞品"
    ]
   }
  ]
