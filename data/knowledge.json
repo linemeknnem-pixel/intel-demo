@@ -1,10 +1,274 @@
 {
  "meta": {
-  "generated": "2026-08-14",
+  "generated": "2026-08-15",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 28 条，合计 400 条"
+  "note": "新增 18 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "nf0f00350b6",
+   "category": "竞品",
+   "company": "",
+   "title": "如果你不相信内容的力量，请不要点开 - 极客公园",
+   "source": "极客公园",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBCS3d4MG1CYTkwaDR3SzZOS052U0c1eS1PcWxNZkZoR0tyN003SkZsZ0xKeVhaQlM4ZHdocENNaGpfZjZiNVp5cnd5Tlo?oc=5",
+   "date": "2021-06-04",
+   "summary": "如果你不相信内容的力量，请不要点开  极客公园",
+   "body": "如果你不相信内容的力量，请不要点开  极客公园",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "nb406f1d36e",
+   "category": "竞品",
+   "company": "",
+   "title": "特赞科技正式发布「主观世界模型」，推出面向消费者理解的新一代AI基础框架 - 凤凰网科技",
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Ja3dKZ2d2dVFkOGtiQnB6Y0V3Rk96QkJFTTd4R0RnTnl3WlFWeE1oUHQxaF9LRElmOGVfbGhnWlZ1RlUxMktzSzJVaG8?oc=5",
+   "date": "2026-06-16",
+   "summary": "特赞科技正式发布「主观世界模型」，推出面向消费者理解的新一代AI基础框架  凤凰网科技",
+   "body": "特赞科技正式发布「主观世界模型」，推出面向消费者理解的新一代AI基础框架  凤凰网科技",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n0b670d2cba",
+   "category": "竞品",
+   "company": "",
+   "title": "钛动科技发布AI营销智能体Navos 2.0 定义AI时代商业新玩法 - 证券时报",
+   "source": "证券时报",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uRlZiXzJrRjA4Zzdqczd4UDdjdktGc0FnV1dIYUp5cHY4aEdWZURmV0dqcmxIMXdaMnBtbDMyM2RBR2VJa1ZsV19odkNQemZ3LWNJbHJkQ2NCeTZ3?oc=5",
+   "date": "2026-07-19",
+   "summary": "钛动科技发布AI营销智能体Navos 2.0 定义AI时代商业新玩法  证券时报",
+   "body": "钛动科技发布AI营销智能体Navos 2.0 定义AI时代商业新玩法  证券时报",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n2f635e1f64",
+   "category": "竞品",
+   "company": "",
+   "title": "跨境电商Meta账户哪家代理更稳定？Navos（钛动科技）以资质+AI筑牢投放底盘 - 凤凰网科技",
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ybnVuWm1rVnpsXzY3eWNwZktSdUh2UkdWM3JWWkUxclBiMTdXYk5ycUh2LTVUaldIMVVjU1FnRDNMMHZqY25hWnBpY2Y?oc=5",
+   "date": "2026-08-14",
+   "summary": "跨境电商Meta账户哪家代理更稳定？Navos（钛动科技）以资质+AI筑牢投放底盘  凤凰网科技",
+   "body": "跨境电商Meta账户哪家代理更稳定？Navos（钛动科技）以资质+AI筑牢投放底盘  凤凰网科技",
+   "tags": [
+    "竞品",
+    "投放"
+   ]
+  },
+  {
+   "id": "n15c02ec3ba",
+   "category": "竞品",
+   "company": "",
+   "title": "AI 营销自动化平台 Gradial 完成 6500 万美元 C 轮融资，Insight Partners 领投 - CryptoRank",
+   "source": "CryptoRank",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SRGxRb0UtV1pKcDh0elhaZ2UzZWlISV9jcXk4XzQ5cHdmWTlEZWxhWTBaU1pLVUJIT3JraVd6b3g2aUlZLTdOakhjY2l1OU1qMkpsZXJ2X0s?oc=5",
+   "date": "2026-08-14",
+   "summary": "AI 营销自动化平台 Gradial 完成 6500 万美元 C 轮融资，Insight Partners 领投  CryptoRank",
+   "body": "AI 营销自动化平台 Gradial 完成 6500 万美元 C 轮融资，Insight Partners 领投  CryptoRank",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "n862718d6ea",
+   "category": "竞品",
+   "company": "",
+   "title": "不到一年ARR破亿元，GEO厂商智推时代获数千万元天使轮融资 | 甲子光年 - thepaper.cn",
+   "source": "thepaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE0ybmI2eEFZSmhUakxlLUJ4R0dVazlkdV9QSDg0RU8zMXMtdjhVY1c1RTdEX1dfQy1MQU9Rb0hNMkt5WEpMbHBWMVpvNHQyT2Vaa2Y3M1RMMGRDNm41WHc?oc=5",
+   "date": "2026-07-10",
+   "summary": "不到一年ARR破亿元，GEO厂商智推时代获数千万元天使轮融资 | 甲子光年  thepaper.cn",
+   "body": "不到一年ARR破亿元，GEO厂商智推时代获数千万元天使轮融资 | 甲子光年  thepaper.cn",
+   "tags": [
+    "竞品",
+    "融资",
+    "GEO"
+   ]
+  },
+  {
+   "id": "nc341b8f06b",
+   "category": "竞品",
+   "company": "",
+   "title": "AI旅行服务平台「玩点旅行」完成超亿元Pre-A轮融资 - 投资界",
+   "source": "投资界",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LLXM2TzJ2RldfSE9YUzdhcTFGRU1JZXFfaFNCek1DaXpnbDVCMzViSmhVSDB4S2dLcFNsWXV0UVY4S1hNV2MzQVNJemk2c212WUJxQjVB?oc=5",
+   "date": "2026-06-09",
+   "summary": "AI旅行服务平台「玩点旅行」完成超亿元Pre-A轮融资  投资界",
+   "body": "AI旅行服务平台「玩点旅行」完成超亿元Pre-A轮融资  投资界",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "nc4e547f7ec",
+   "category": "行业",
+   "company": "",
+   "title": "AI赋能营销全链路 剧星传媒发布“星河AI全链路工作台2.0” - 新华网上海频道",
+   "source": "新华网上海频道",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YbDJrV3k5UW1tYUJFSVZQd3dHbE1DUXJ3TEFCMEhKRkp6MWtsQUlXS1JqRlU2UVJDRDhGNWFQRjZ5b1gwT1NCclBLNTloSi1weFpBUkhxMnlqYUpGbzl0TjNudVY1V1hsWnk3YVlCN2dua0hM?oc=5",
+   "date": "2026-06-13",
+   "summary": "AI赋能营销全链路 剧星传媒发布“星河AI全链路工作台2.0”  新华网上海频道",
+   "body": "AI赋能营销全链路 剧星传媒发布“星河AI全链路工作台2.0”  新华网上海频道",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n7b3a754743",
+   "category": "行业",
+   "company": "",
+   "title": "中广协霍焰：合规已成行业必答题，行业自律要跑在前面 - 奥一网",
+   "source": "奥一网",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9McDBtbXNGM1VnWUtQWTJ1emd5T0lMVGxwX2ItNmJ6cXA3WmYzcHhDLW85ODR0NVlUNi14WlF0SnJOTEtFeEcxVDhfNkhtbFBHMXpiR19NMENYYlAwQXVIVnF0UmU0Zw?oc=5",
+   "date": "2026-08-03",
+   "summary": "中广协霍焰：合规已成行业必答题，行业自律要跑在前面  奥一网",
+   "body": "中广协霍焰：合规已成行业必答题，行业自律要跑在前面  奥一网",
+   "tags": [
+    "行业",
+    "合规"
+   ]
+  },
+  {
+   "id": "n2b2e7eb587",
+   "category": "政策",
+   "company": "",
+   "title": "2026 Meta投放全面迭代：一刀流落幕，AI精细化+合规开户成跨境电商增长标配 - 凤凰网科技",
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9kekhINGNidFV0NzZVSktxQmtlTkVGdm15dzBReHpZWVlmc0FsQkluMlAyT2hDUW85LTRWbGtlUzQ3MThCTjhlRHFPZk0?oc=5",
+   "date": "2026-08-13",
+   "summary": "2026 Meta投放全面迭代：一刀流落幕，AI精细化+合规开户成跨境电商增长标配  凤凰网科技",
+   "body": "2026 Meta投放全面迭代：一刀流落幕，AI精细化+合规开户成跨境电商增长标配  凤凰网科技",
+   "tags": [
+    "政策",
+    "合规",
+    "投放"
+   ]
+  },
+  {
+   "id": "nfd4cf60a22",
+   "category": "政策",
+   "company": "",
+   "title": "Meta有意出售AI算力 分析人士警告：云业务利润率远逊广告 - 财联社",
+   "source": "财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBNNHNLWlRsNXQzdzlhNXJBOFR2NW4tLW1lYlgtRTlVekVmYmJXb1lyWl8yN2hYUG82eG1FWXp1RFhtVlZ3VGN4dQ?oc=5",
+   "date": "2026-07-02",
+   "summary": "Meta有意出售AI算力 分析人士警告：云业务利润率远逊广告  财联社",
+   "body": "Meta有意出售AI算力 分析人士警告：云业务利润率远逊广告  财联社",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "naa8ce858a3",
+   "category": "政策",
+   "company": "",
+   "title": "海外漫剧调查:被骗稿、价格腰斩、政策稳、不爆单靠走量 - v.lmtw.com",
+   "source": "v.lmtw.com",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9sQmVoOXM5Rk5CNXduRmItOEpURWE4TENseHZWdG1FcUpmUUw1UGR2NmpCa2wwV0NRcDhtdnFBZjRTakl0MGR5V3FUVHNpakJpVEJ2dFlkSEVmZTA?oc=5",
+   "date": "2026-07-03",
+   "summary": "海外漫剧调查:被骗稿、价格腰斩、政策稳、不爆单靠走量  v.lmtw.com",
+   "body": "海外漫剧调查:被骗稿、价格腰斩、政策稳、不爆单靠走量  v.lmtw.com",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "ne343f13d61",
+   "category": "客户",
+   "company": "",
+   "title": "花知晓高管“珀莱雅化” - 北京商报",
+   "source": "北京商报",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE82NEhGaGxWWXhfRk9vMWUyZnVMV0ZhNDRJNF9SVmFYeWJuMTlsX0pzV1dtMDhrMFc4U3BFR1NiS2pwRHRCU1EwaWN0Z09XVWJBanRycjlqZ05nWUFsT3c?oc=5",
+   "date": "2026-07-21",
+   "summary": "花知晓高管“珀莱雅化”  北京商报",
+   "body": "花知晓高管“珀莱雅化”  北京商报",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n5b362f826c",
+   "category": "客户",
+   "company": "",
+   "title": "2026年美妆行业GEO服务商十强实测推荐清单 - 邢台网",
+   "source": "邢台网",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB5NmZ1RjlFMFF4UUhYdHNvM3BmQjhoendHOTFCRlZoeVFFRW5EVHB1NEZZQ2tHWVJuZk1Gd0hfVnhDRzlnLUNSMG1GcnZtV01BY2NIdlJOYzFMMVVUdTdxcEFCLW9vUQ?oc=5",
+   "date": "2026-08-03",
+   "summary": "2026年美妆行业GEO服务商十强实测推荐清单  邢台网",
+   "body": "2026年美妆行业GEO服务商十强实测推荐清单  邢台网",
+   "tags": [
+    "客户",
+    "GEO"
+   ]
+  },
+  {
+   "id": "n00457eac7a",
+   "category": "消费者",
+   "company": "",
+   "title": "《2026抖音电商粽子消费趋势报告》：近30天内累计卖出822万单 - 搜狐网",
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE82TC1ZZ2F6TXVkcGN5N0dSR3V0RFR1WllVVGtJU2pvX2NwZ3VpaFdhZUswMUxrbFl1ZmxnSHRJR3R6dmpBM0N0dzdWdGR5ZXNGVlE?oc=5",
+   "date": "2026-06-18",
+   "summary": "《2026抖音电商粽子消费趋势报告》：近30天内累计卖出822万单  搜狐网",
+   "body": "《2026抖音电商粽子消费趋势报告》：近30天内累计卖出822万单  搜狐网",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "na69b92cd29",
+   "category": "消费者",
+   "company": "",
+   "title": "皇廷赌博网如何借助内容种草与场景联动实现用户增长与品效合一 - womenofchina.com",
+   "source": "womenofchina.com",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5hMmRUN0ppaW83dkVfaGtTY0J5VVdkT280aV9uX0NkOVJyZU40bjFMTmRXM2JaWkM0YjdRSGNneEctcVpZN29ycHNIdjBIZWRndzNsZzJOc3ZDX2dj?oc=5",
+   "date": "2026-08-11",
+   "summary": "皇廷赌博网如何借助内容种草与场景联动实现用户增长与品效合一  womenofchina.com",
+   "body": "皇廷赌博网如何借助内容种草与场景联动实现用户增长与品效合一  womenofchina.com",
+   "tags": [
+    "消费者",
+    "种草"
+   ]
+  },
+  {
+   "id": "n85955ba78b",
+   "category": "消费者",
+   "company": "",
+   "title": "不只种草，更能履约，抖音生活服务做实本地生意全链路 - 潮新闻客户端",
+   "source": "潮新闻客户端",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lbzhvTGZsaV9KendiU1hXVVpFYnk0U3V3aktsNW9aNGR4WDc4cEhLVmhhSVo5LXpiSU8tSW1uZVFha2xFSmc1c2F2M0NOT3dsOU80MndfbXM1M2t4WGYyMWlxTlZ3WERHUjhpM2lJdzVwcEU?oc=5",
+   "date": "2026-04-21",
+   "summary": "不只种草，更能履约，抖音生活服务做实本地生意全链路  潮新闻客户端",
+   "body": "不只种草，更能履约，抖音生活服务做实本地生意全链路  潮新闻客户端",
+   "tags": [
+    "消费者",
+    "种草"
+   ]
+  },
+  {
+   "id": "nede6b845d1",
+   "category": "消费者",
+   "company": "",
+   "title": "[果集]：2025美食饮品行业种草洞察数据报告（小红书平台） - 发现报告",
+   "source": "发现报告",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9hU2xVYUs1ZFlnLXY0RlNkQ0xUaE96aXBtbDhCSUdaSHdacnlCTmhsRjZ1c0lsMmdyamhSOTk2S0ZBQ3ZDeldYNXBrcnlvQ0Vj?oc=5",
+   "date": "2025-11-28",
+   "summary": "[果集]：2025美食饮品行业种草洞察数据报告（小红书平台）  发现报告",
+   "body": "[果集]：2025美食饮品行业种草洞察数据报告（小红书平台）  发现报告",
+   "tags": [
+    "消费者",
+    "种草"
+   ]
+  },
   {
    "id": "n32daa6cf1c",
    "category": "竞品",
@@ -5506,261 +5770,6 @@
    "body": "AI工具一键匹配热搜词！助力跨境POP商家抢占TikTok Shop美区年中促高曝光  雨果跨境",
    "tags": [
     "政策"
-   ]
-  },
-  {
-   "id": "n5dafb67907",
-   "category": "政策",
-   "company": "",
-   "title": "Meta从AWS挖走芯片大将：AI野心藏不住了，股价还便宜19% - 手机网易网",
-   "source": "手机网易网",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE45ODFrVUxlN1FEb2UxN0MtV0ZiSzEtSUptRmNHMWRYbFRkcU1oN3JuMnIxRWhHYVpEbXptcW5VOGppQmo2cFkteVBpSzNLYlFMSDNhRDFESk9XWVdXN1BndkNn?oc=5",
-   "date": "2026-07-21",
-   "summary": "Meta从AWS挖走芯片大将：AI野心藏不住了，股价还便宜19%  手机网易网",
-   "body": "Meta从AWS挖走芯片大将：AI野心藏不住了，股价还便宜19%  手机网易网",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "nb3e5979d96",
-   "category": "政策",
-   "company": "",
-   "title": "Meta(META.US)发布自研AI图像模型Muse Image 挑战OpenAI、谷歌(GOOGL.US)同类产品 - finance.sina.com.cn",
-   "source": "finance.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1FX2kzNF9oRm04MF9WWTFzTFd3T0d3U2xvbmhjeXFLd3ZaZEFURGxkNHJkZmpncWRUeVJhdG9WeVBsREhMaHZFT0pjRmhIYTBBVTV6WWtjM1YwWkhvdUdsTkNDWU5QMHlqWXJac0MxYw?oc=5",
-   "date": "2026-07-08",
-   "summary": "Meta(META.US)发布自研AI图像模型Muse Image 挑战OpenAI、谷歌(GOOGL.US)同类产品  finance.sina.com.cn",
-   "body": "Meta(META.US)发布自研AI图像模型Muse Image 挑战OpenAI、谷歌(GOOGL.US)同类产品  finance.sina.com.cn",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "n31d639f90f",
-   "category": "政策",
-   "company": "",
-   "title": "Google Play 7月政策大更新，应用没登记可能被移除，匿名聊天禁向儿童开放 - Enjoy出海",
-   "source": "Enjoy出海",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1nTUFKQUw4bDBUQTY1dk1pRHlhRVZhMjlzUXZxcmh4bF8zWm80alNtWVRmdE5wNFRYaDBTY3BWYUMtTklCcnNlem5iN3ZCOFlsQmJHUW9GTEpUUQ?oc=5",
-   "date": "2026-07-24",
-   "summary": "Google Play 7月政策大更新，应用没登记可能被移除，匿名聊天禁向儿童开放  Enjoy出海",
-   "body": "Google Play 7月政策大更新，应用没登记可能被移除，匿名聊天禁向儿童开放  Enjoy出海",
-   "tags": [
-    "政策",
-    "出海"
-   ]
-  },
-  {
-   "id": "n798690ae7b",
-   "category": "客户",
-   "company": "",
-   "title": "定制妆容、改造场景、打造配方……头部美妆集团如何玩转AI - finance.sina.com.cn",
-   "source": "finance.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZk5mY3dsNXdDell6OGZKQU9RQW9ad3Y3TWxldDVhNVV6RTRseGx5aC1wSk9nbVBQd3o2WlpjNEF0VVZ4bUlYYUwwTE9iVkpRN1BUb2lCMEtUck9yYl9od0hNWjloX2RBZnRYSmRsZWJ5VGhlTU5OcWU2ZWpWbGRWckk1eEo4bVRzM0NoMGRuT1lTWnlZSUIxS0VaVHNjTEI5TUVPdnVnWTQyeDNQS3FxNG1B?oc=5",
-   "date": "2026-07-24",
-   "summary": "定制妆容、改造场景、打造配方……头部美妆集团如何玩转AI  finance.sina.com.cn",
-   "body": "定制妆容、改造场景、打造配方……头部美妆集团如何玩转AI  finance.sina.com.cn",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "n436485b211",
-   "category": "消费者",
-   "company": "",
-   "title": "汽车营销转向用户生活场景，小红书专家在2026中国汽车论坛阐述新趋势 - 网通社",
-   "source": "网通社",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EYXlEclNmcEpXY0VFRGp4dWVmR3k2SGh5ZzZiTkRweXVpbFoyT2NRbXRjdGxFdXJYalZiQUtXMUh4RERsMEY2OVRYbHpDYmRtY3lVUkl0WV9xdDA?oc=5",
-   "date": "2026-07-24",
-   "summary": "汽车营销转向用户生活场景，小红书专家在2026中国汽车论坛阐述新趋势  网通社",
-   "body": "汽车营销转向用户生活场景，小红书专家在2026中国汽车论坛阐述新趋势  网通社",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n083f1e877f",
-   "category": "消费者",
-   "company": "",
-   "title": "从卖房间到卖假期，抖音生活服务“心动榜”如何改写酒店增长逻辑 - 新京报",
-   "source": "新京报",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1EZlpOdUxweDBIaEVJSHN5Z2dsb1BQZFEwR3Q2dGVheGpHZjRTaUNsT0JqVnRXclJiNzNBblFJQ3doZWt3amVfOE5nSGxnelNPMk01djhka0lqSDFock4zVURn?oc=5",
-   "date": "2026-07-17",
-   "summary": "从卖房间到卖假期，抖音生活服务“心动榜”如何改写酒店增长逻辑  新京报",
-   "body": "从卖房间到卖假期，抖音生活服务“心动榜”如何改写酒店增长逻辑  新京报",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n29ae854a57",
-   "category": "竞品",
-   "company": "",
-   "title": "AI赋能供应链数字化升级，筷子科技携视频商业智能体系统亮相链博会 - nfplus.nfnews.com",
-   "source": "nfplus.nfnews.com",
-   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQy02eTFsZXRLV0NkZWI1ZjdIdXZLUnA3ek95MzFSenFsVDktaHdxUnExTEl5U2NMOC1Dd1RQZklfZV9fdFA3VEQ2S19xTEhmekFKUDVZZTRxaU44VGQ5blNhTGFvRjBjLVVZb253ZjFxSWR6VnhVQzI0TjJBZi0wYmJBVG5Mb3pDN0s1aVB1amtSaG1NTE9PaGdxbXNKTGxnSEk3TGF2QVo3bDF1dS1pWWt4d0hmeVdpNkFFaTVCOXNVMlR2TThBNXBhbTYzdDlN?oc=5",
-   "date": "2026-06-29",
-   "summary": "AI赋能供应链数字化升级，筷子科技携视频商业智能体系统亮相链博会  nfplus.nfnews.com",
-   "body": "AI赋能供应链数字化升级，筷子科技携视频商业智能体系统亮相链博会  nfplus.nfnews.com",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "na827004392",
-   "category": "行业",
-   "company": "",
-   "title": "OpenAI：从采访辅助到广告销售，多家媒体已用生成AI变革新闻生产 - 手机网易网",
-   "source": "手机网易网",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBWS0FMNWdUenVzT09zVXVDai1TXzVWTVQ2RWZRcjdYdEx2T2Y2OVBtVFZKUFIzWWRsd3VRRG8xcWdKZDNhRTZSakpXSFZNVnREaExMSElRa3U4RHBYbU1mQ19B?oc=5",
-   "date": "2026-07-23",
-   "summary": "OpenAI：从采访辅助到广告销售，多家媒体已用生成AI变革新闻生产  手机网易网",
-   "body": "OpenAI：从采访辅助到广告销售，多家媒体已用生成AI变革新闻生产  手机网易网",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "nd2d3f0f1dc",
-   "category": "政策",
-   "company": "",
-   "title": "国内做Meta广告开户的正规代理商有哪些？2026年选对官方渠道，少踩90%的坑_行业动态 - 投资界",
-   "source": "投资界",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5wMGlaQVZ6UUxJTHJrbTlXZFc2WVgtb1A2UDd4cXRwQmF5TmszUW5XeEpoa2JENjRLRDhwcGx2RXl1QU1LUm9Rel8yNTNSaTlkRm5qcWZDMS0?oc=5",
-   "date": "2026-07-23",
-   "summary": "国内做Meta广告开户的正规代理商有哪些？2026年选对官方渠道，少踩90%的坑_行业动态  投资界",
-   "body": "国内做Meta广告开户的正规代理商有哪些？2026年选对官方渠道，少踩90%的坑_行业动态  投资界",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "n327039788e",
-   "category": "政策",
-   "company": "",
-   "title": "易点天下明天7月6日周一走势分析！预计易点天下周一小幅低开，然后快速翻红收复失地 - 财富号",
-   "source": "财富号",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBqZUtQYVctaHZ2VVpYUDJtNjJMbUNPT001ajNCQm41aDltNmRucjdYUldrMVJFTXdLVXhNaVU0Y0RKTFdvLUwwWXpzNlFTYXFlZWhTd0hxbkRJMFRwUlpkNl8tbzR5amtLemk0?oc=5",
-   "date": "2026-07-05",
-   "summary": "易点天下明天7月6日周一走势分析！预计易点天下周一小幅低开，然后快速翻红收复失地  财富号",
-   "body": "易点天下明天7月6日周一走势分析！预计易点天下周一小幅低开，然后快速翻红收复失地  财富号",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "n0ee493136a",
-   "category": "政策",
-   "company": "",
-   "title": "Meta推出樂觀視角的AI廣告活動，探討科技與人類未來| 乌克兰新闻 - Межа. Новини України.",
-   "source": "Межа. Новини України.",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8wV21BYkRXOTJ1SnJPR3B4d2ExZmQxaTg4MzduQjVKUmVKaVdHQWV0Vm5rMUltTWxaWkEzOXZiWHlscERhLTRuS0Z5bkx3VnE0cTM3T2x4MkVIb3h5VVAtMVhwdw?oc=5",
-   "date": "2026-07-23",
-   "summary": "Meta推出樂觀視角的AI廣告活動，探討科技與人類未來| 乌克兰新闻  Межа. Новини України.",
-   "body": "Meta推出樂觀視角的AI廣告活動，探討科技與人類未來| 乌克兰新闻  Межа. Новини України.",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "nab836817e0",
-   "category": "政策",
-   "company": "",
-   "title": "Meta 在 Instagram 上线几天后便移除了其 AI 混音功能。 - ALM Corp",
-   "source": "ALM Corp",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBVMklXZ0pvNjNHN0RoTWpaU05vNEJ6NHdEaEE0eXM1el82Sjh4bWJvdmJjNTk2dHJmQTF2cGpNTzBlazlodFpIS3hmTnV1MFlpTk9RUlhFRWFIX1lYWkRXMXFSVTVoV1ZIZG01SVR2c1FpT3IxalBZYXF3WQ?oc=5",
-   "date": "2026-07-22",
-   "summary": "Meta 在 Instagram 上线几天后便移除了其 AI 混音功能。  ALM Corp",
-   "body": "Meta 在 Instagram 上线几天后便移除了其 AI 混音功能。  ALM Corp",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "n573cfa13c1",
-   "category": "政策",
-   "company": "",
-   "title": "Google：自7月21日起，针对政策决定的申诉选项将不再适用于超过6个月的Google Ads账户——网站 - 富途牛牛",
-   "source": "富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSi1NTm9GUGhSVlkyRzVaWDEwVEg5ZzdfZWdkdHVwSWZGaHFCb1NBTTUzdGFCaHhiQVFSa0ZzUUZENkhNUWF2cHNfOTJZS3E3RjlXdm12c0ttelhsYUNLbzdDcjdQaWJOWXJqWkphay1nVW8yenJLOVRmQlo5LVV0NVNSWTdTRERmNmN3SXlzV1NuOEpqWGZMOVZtOXo5Zw?oc=5",
-   "date": "2026-07-21",
-   "summary": "Google：自7月21日起，针对政策决定的申诉选项将不再适用于超过6个月的Google Ads账户——网站  富途牛牛",
-   "body": "Google：自7月21日起，针对政策决定的申诉选项将不再适用于超过6个月的Google Ads账户——网站  富途牛牛",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "nebecb9277b",
-   "category": "政策",
-   "company": "",
-   "title": "谷歌(GOOG.US)：自7月21日起使用超过6个月的Google Ads账户将不再提供针对部分政策决定的申诉选项。 - Bitget",
-   "source": "Bitget",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9GVVZERTVfeGtGemJUQlpGRGt4Ukd1d3RzYU9pV2hrbG9yNV9MY2FuNzJWNXJuQUcwbk1YdmtXSVFOZVRFZEw0T05mLXptd3JZVmdyejhXTmhqRVg1UjV0VUIwTXc2QVdjT0pR0gFrQVVfeXFMT0ZVVkRFNV94a0Z6YlRCWkZEa3hSR3V3dHNhT2lXaGtsb3I1X0xjYW43MlY1cm5BRzBuTVh2a1dJUU5lVEVkTDRPTmYtem13cllWZ3J6OFdOaGpFWDVSNXRVQjBNdzZBV2NPSlE?oc=5",
-   "date": "2026-07-21",
-   "summary": "谷歌(GOOG.US)：自7月21日起使用超过6个月的Google Ads账户将不再提供针对部分政策决定的申诉选项。  Bitget",
-   "body": "谷歌(GOOG.US)：自7月21日起使用超过6个月的Google Ads账户将不再提供针对部分政策决定的申诉选项。  Bitget",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "n78bc9f52e3",
-   "category": "客户",
-   "company": "",
-   "title": "调查：76%的00后，买美妆前先问AI - 36 Kr",
-   "source": "36 Kr",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBscTNQcE1nVGxCbG9ENGRRTEVhVWNCYXJqajNQM1FTRXhoQTdzcjd0YUJvWGtrTE1TbW45RENMYlo2Rm1JZ2d4QmxsSXZ6Zw?oc=5",
-   "date": "2026-07-23",
-   "summary": "调查：76%的00后，买美妆前先问AI  36 Kr",
-   "body": "调查：76%的00后，买美妆前先问AI  36 Kr",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "n86ea233f0d",
-   "category": "消费者",
-   "company": "",
-   "title": "抖音电商：上半年户外产业带商品累计售出超10亿单 - 电商派",
-   "source": "电商派",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pNDloRlJ6NlQyYm9ycFAxd21iVDdZcTJwTFcwZGY0UUF2d2RUeHFXb3ZwTXlWSWVzQXlVcmdzZDhFS1F5M0Q5cWlLWjBUYUx2UnNGZnJnUzRFR3NJSjAtcw?oc=5",
-   "date": "2026-07-23",
-   "summary": "抖音电商：上半年户外产业带商品累计售出超10亿单  电商派",
-   "body": "抖音电商：上半年户外产业带商品累计售出超10亿单  电商派",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n917b3928eb",
-   "category": "消费者",
-   "company": "",
-   "title": "直播电商打开户外消费新增量，抖音电商产业带商品半年售出超10亿单 - 手机网易网",
-   "source": "手机网易网",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSOHN5dkpvdnBBWWxSNWl1NlZTQlJWNUpKekp4VkxGNE9qa2l0VGpPelNacWRJQTdDQ0Q4Y1J2VTdNcnRUejZqZXpyZlNYLWZJb1pQZndLdUFEV1ZwVHZVMzRQZkQ?oc=5",
-   "date": "2026-07-23",
-   "summary": "直播电商打开户外消费新增量，抖音电商产业带商品半年售出超10亿单  手机网易网",
-   "body": "直播电商打开户外消费新增量，抖音电商产业带商品半年售出超10亿单  手机网易网",
-   "tags": [
-    "消费者",
-    "直播"
-   ]
-  },
-  {
-   "id": "n4f7cc7a5aa",
-   "category": "竞品",
-   "company": "",
-   "title": "钛动科技Tec-Do：从Agentic Ads到A2A，如何卡住下一代商业连接位 - Sohu",
-   "source": "Sohu",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9xTlRUOTh2Y2xkR0tDeU8yaDlIQzE2eFI0b3dwQjBFLWtucGMxS3p4WG5nWVB2WmFuX2M2UHh3UDVqWkxaMG5xdTNrbl92Zzg3LXc?oc=5",
-   "date": "2026-07-20",
-   "summary": "钛动科技Tec-Do：从Agentic Ads到A2A，如何卡住下一代商业连接位  Sohu",
-   "body": "钛动科技Tec-Do：从Agentic Ads到A2A，如何卡住下一代商业连接位  Sohu",
-   "tags": [
-    "竞品",
-    "Agent"
    ]
   }
  ]
