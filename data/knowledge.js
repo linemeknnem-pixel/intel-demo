@@ -1,11 +1,212 @@
 /* 自动生成 by scripts/ingest.py —— 请勿手改 */
 window.KB_DATA = {
  "meta": {
-  "generated": "2026-08-15",
+  "generated": "2026-08-16",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 18 条，合计 400 条"
+  "note": "新增 14 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "n1da0dd0dff",
+   "category": "竞品",
+   "company": "",
+   "title": "2026AI营销新范式：短视频矩阵与GEO的双轮驱动与商业重构 - 中华网",
+   "source": "中华网",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBReUN2TXE1ZnJaMTYzTU1oWS1vSzZxcHVUeTdYUkFjbXItdmxwZkJLY2R1Y1dRSkN6NS04dVI1bXdlNUE5ZFRTazRlUFotZ25ta3NTOEt3cE1UXzZHT2lLc09wQlptRGptSVVMMw?oc=5",
+   "date": "2026-03-07",
+   "summary": "2026AI营销新范式：短视频矩阵与GEO的双轮驱动与商业重构  中华网",
+   "body": "2026AI营销新范式：短视频矩阵与GEO的双轮驱动与商业重构  中华网",
+   "tags": [
+    "竞品",
+    "短视频",
+    "GEO"
+   ]
+  },
+  {
+   "id": "n83e05f96be",
+   "category": "竞品",
+   "company": "",
+   "title": "国内 AI 公司奥创光年完成1500万美元A+轮融资，美图、凯辉基金联合领投 - 搜狐网",
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoMnZhYUdWSFBRdVNRRExYcGtxWTUxbG44SVRLM2tFZG5Ub2JpODBMOVNYYWx0UDQzXzI5Mzd0dGVlRURpVC1QenVHOExaUVRh?oc=5",
+   "date": "2024-01-29",
+   "summary": "国内 AI 公司奥创光年完成1500万美元A+轮融资，美图、凯辉基金联合领投  搜狐网",
+   "body": "国内 AI 公司奥创光年完成1500万美元A+轮融资，美图、凯辉基金联合领投  搜狐网",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "n6b7781c348",
+   "category": "竞品",
+   "company": "",
+   "title": "凯辉创新基金启动「AI助力计划」 - Cathay Capital",
+   "source": "Cathay Capital",
+   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTVo0cXFrV05JZFRTS2pYMG5zY0ROMng4TDBKME45a0RndG44MzdoaGd0VlBfMDBfeTZ5b2h6elVZOVAtcVAxRTVaa1g0QnpIV2lVSDczZ1dRaDA4RGFjeUJweXdTTlc2b0hZUmk4bGNkMGR2eV85UklkemdDd0xRaXQwS0t5WEhuelp6NnBCWmJUbTh0RkhSZGhOMGdTbXZjN1FrTWlxMW5xWk5DV3lZUnJYRVJsZ0g3VmY0cUpjZDN5emE5cEp5NkFydFFqOFFNcjFmMUlLNFN5NVJvNGhuSGxjclYyYzNZT3pZSUlQTWhnR19a?oc=5",
+   "date": "2024-03-15",
+   "summary": "凯辉创新基金启动「AI助力计划」  Cathay Capital",
+   "body": "凯辉创新基金启动「AI助力计划」  Cathay Capital",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n6fd9d829f3",
+   "category": "竞品",
+   "company": "",
+   "title": "物自体科技完成数千万元Pre-A轮融资 - 新浪网",
+   "source": "新浪网",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRWFNWnctSWltS19qZFN4QnhWN3p3OVlxbUdCdWI0TWZJeDdQbXNjY3FVNTRYYW1jOHZ3NzJwNU9zcHZFbTZGdEowMzkybWdwRXlreldEdkNzV0ROSlNBVTVfSGNyWm9YMnh3SVhoa0J5dFlONHozTGphVGowWGY1elU5VExLbEl6YllCSVNlVlVsQ1pFTjFTQWtObDVGREtxYVNXZkZSQ3E0NnF2eWtEY2g1T2k?oc=5",
+   "date": "2026-01-15",
+   "summary": "物自体科技完成数千万元Pre-A轮融资  新浪网",
+   "body": "物自体科技完成数千万元Pre-A轮融资  新浪网",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "n264e8f1b41",
+   "category": "行业",
+   "company": "",
+   "title": "优德网站_游戏资讯_Liftoff：生成式AI将广告创意迭代周期从18天缩短至1天 - womenofchina.com",
+   "source": "womenofchina.com",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBEUm1kbEpjcXBkT2dNcXBjaTdBMGVtcUY3Rk9vN0Q1enJoV0VKYVRTQm03RHduendfMkdnTm54bGwteXJFRGh5U2xEV01uX3RJNHA2SGJ0VTgzUQ?oc=5",
+   "date": "2026-08-15",
+   "summary": "优德网站_游戏资讯_Liftoff：生成式AI将广告创意迭代周期从18天缩短至1天  womenofchina.com",
+   "body": "优德网站_游戏资讯_Liftoff：生成式AI将广告创意迭代周期从18天缩短至1天  womenofchina.com",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "nd72c5df29d",
+   "category": "行业",
+   "company": "",
+   "title": "刘双舟：构建“法律+技术”双轨监管体系应对广告业变革 - 新浪网",
+   "source": "新浪网",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPbFlqZEtQZDd3M1BEWTdWOEdQVkFCRHJmY2VFUG9nOUdTMHhTYzVPV2p1WmM0anBVZmNteHBsUXNpYU1ReTM3blNCRzY0bWZ0ZjlDR3NOdEJqX0FzRlkta05UZFpaR1htZmxuSmlmUExvcHNDdHN5RGE2VUF2OFdDQWItN0E3d0xLUWNfVmpENU9vNmpPZDVhQlpUUGZkelZuRVZHZjlxcTZSZ2M2NkhabmJsLXowV0hQQUNoWUJlQmd6ZUpnRWtBNjF2QnFET2l2d0gyTENn?oc=5",
+   "date": "2026-08-10",
+   "summary": "刘双舟：构建“法律+技术”双轨监管体系应对广告业变革  新浪网",
+   "body": "刘双舟：构建“法律+技术”双轨监管体系应对广告业变革  新浪网",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "nd42f066495",
+   "category": "政策",
+   "company": "",
+   "title": "省广集团AI应用超级黑马？ - 财富号",
+   "source": "财富号",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5sMjVUWEFxTjZ3QTFSblRVX0kzcDVVZFN5VFlMeUFtbjF2enBoTmJjS2xDVzN6ZndhTEk3UGNNbUdEdXo2UkM4aFl5R3c3blhVWS1UNVFUam5FR3FFaVdDTXNZS3FaX0R5b3pr?oc=5",
+   "date": "2026-08-13",
+   "summary": "省广集团AI应用超级黑马？  财富号",
+   "body": "省广集团AI应用超级黑马？  财富号",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n9b44c1ce8e",
+   "category": "政策",
+   "company": "",
+   "title": "省广集团：借抖音东风起飞 - 财富号",
+   "source": "财富号",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPNWZod0dxcDVYX2dZNnd2ZU5vU3ZucEJiQVZMQ2dtUDkyV0FTREJLM2htU1Rmbmc2U1BUZVNDUXM0eklCdHZGLWVMTm1VNS04R3FONXYyMmhHZHdkV3A1ck8zWk05RTdpaWlDWW9kYURRcFQyOHI4NGRpRWZBTXFsaDJsOXJIMlBHUERVbVlZZGZETEg2a2s0blVhODZhSUpYeDA4Y19HQWlHN3l5emExdFkyWmlobjdHN3NmNkM0QWtzSVI1c1hVZTZkOVZlTVJCdjBNMHVHcTBUenF4UHZnSDNGNzI1WnlscE96NloxaVFKb0o2WWVIeFl5UnVpWjVRc2c?oc=5",
+   "date": "2026-08-14",
+   "summary": "省广集团：借抖音东风起飞  财富号",
+   "body": "省广集团：借抖音东风起飞  财富号",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nef87c081e0",
+   "category": "政策",
+   "company": "",
+   "title": "Meta“卖算力”震动AI市场：算力过剩 还是过度恐慌？ - 东方财富",
+   "source": "东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzclZ2RUkyMERKOEtSQXk0RDBicVlKczlCR0FUNzFtaHdoQnhhcWJzVHg2Q0trZTQzQnJDdkJ4NVZIdjhIc2V5ejg5OHBfVmMzODd6a09MN28tcWdpejRnTA?oc=5",
+   "date": "2026-07-02",
+   "summary": "Meta“卖算力”震动AI市场：算力过剩 还是过度恐慌？  东方财富",
+   "body": "Meta“卖算力”震动AI市场：算力过剩 还是过度恐慌？  东方财富",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nf39c85f93e",
+   "category": "政策",
+   "company": "",
+   "title": "Meta现在最值得看的，可能不是它又把AI模型做到多强，而是AI... - OKX",
+   "source": "OKX",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9iSUNVYUhrLTB3aTZHczd3YWlzNTJUNHlsWmpXREFvN2tfeVZmcDFqLUtMRERtSFFPSmNpZDBvZTZpYXlTaTI5WHU3TUV2U3BBbFBsMGhVbDhKVl9TS29wSzFKNFY?oc=5",
+   "date": "2026-08-14",
+   "summary": "Meta现在最值得看的，可能不是它又把AI模型做到多强，而是AI...  OKX",
+   "body": "Meta现在最值得看的，可能不是它又把AI模型做到多强，而是AI...  OKX",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n3d7843fc86",
+   "category": "政策",
+   "company": "",
+   "title": "Google Ads关联账号连坐升级，同一法人名下所有广告账户或被一锅端 - 白鲸出海",
+   "source": "白鲸出海",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBqd0lEVlJab1p2ZzRLejU2QU1COUZIdVFLdDJlaDVOQm91Y3lUOU14Qi1PNEhKWl93SU1neVVVQ2c5SjlDY0NnTlhDX0E?oc=5",
+   "date": "2025-04-27",
+   "summary": "Google Ads关联账号连坐升级，同一法人名下所有广告账户或被一锅端  白鲸出海",
+   "body": "Google Ads关联账号连坐升级，同一法人名下所有广告账户或被一锅端  白鲸出海",
+   "tags": [
+    "政策",
+    "出海"
+   ]
+  },
+  {
+   "id": "n6ebfc5d28c",
+   "category": "客户",
+   "company": "",
+   "title": "自然堂跨入「50亿俱乐部」：国货美妆如何穿越周期？ - 财经号",
+   "source": "财经号",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oY2JkNTVfOWN1QUczck5ER1JUUE1Qa1lxcVBCRDlJMjlnaUliYTRDRk12NGhyZGpMbGdHQU9wSGZvOVJrVUZRX1pCbjRnSUlYNzVjdmdJa0c3cnBRVXhhU3VienM0RVc0NHJR?oc=5",
+   "date": "2026-06-18",
+   "summary": "自然堂跨入「50亿俱乐部」：国货美妆如何穿越周期？  财经号",
+   "body": "自然堂跨入「50亿俱乐部」：国货美妆如何穿越周期？  财经号",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "ne44abaaefd",
+   "category": "客户",
+   "company": "",
+   "title": "AI短剧成本降至十分之一，美妆品牌为何开始“去AI化”？ - Jiemian.com",
+   "source": "Jiemian.com",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyWG9SLXA5MjVDMXcwWkNpaF9DWWcwZTh6YUVsd2hkZ1lDQmZEdDhkalRPM3B6XzM5b2J2X1NDQ2FJMnpJQjlWZEdBTzE5SGVtTEFzSWNR?oc=5",
+   "date": "2026-06-25",
+   "summary": "AI短剧成本降至十分之一，美妆品牌为何开始“去AI化”？  Jiemian.com",
+   "body": "AI短剧成本降至十分之一，美妆品牌为何开始“去AI化”？  Jiemian.com",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "ne283764704",
+   "category": "消费者",
+   "company": "",
+   "title": "《2026抖音电商运动消费趋势报告》：县域成交额同比增长40%，运动消费向更广市场延伸 - rmzxw.com.cn",
+   "source": "rmzxw.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE85TXpqTy1xS2VmOEJhbDRyNmxuWlpaMlV0SnZXZ0h2R3dvRFVwOWo4WHFkVl84QWh0Tk85UDZPVGRIbjZRSTNwNXJOWXo0c1JVdVFwVTVpT013SmN2eWJJ?oc=5",
+   "date": "2026-07-08",
+   "summary": "《2026抖音电商运动消费趋势报告》：县域成交额同比增长40%，运动消费向更广市场延伸  rmzxw.com.cn",
+   "body": "《2026抖音电商运动消费趋势报告》：县域成交额同比增长40%，运动消费向更广市场延伸  rmzxw.com.cn",
+   "tags": [
+    "消费者"
+   ]
+  },
   {
    "id": "nf0f00350b6",
    "category": "竞品",
@@ -5571,206 +5772,6 @@ window.KB_DATA = {
    "body": "筷子科技亮相火山引擎Force原动力大会，探讨AI驱动品牌增长新路径- 业界  亿邦动力",
    "tags": [
     "竞品"
-   ]
-  },
-  {
-   "id": "n1633f617d8",
-   "category": "行业",
-   "company": "",
-   "title": "四份重磅研究，一次看懂2026营销新趋势丨第七届媒介力学论坛火热报名中！ - 白鲸出海",
-   "source": "白鲸出海",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1kaW5DM2lrWVNtTjZlVUFtSy1XTF9UZ0lDcGxDRnBRY1U4UUZwZmMyWDd6VTNjbXhuVllyU2NkWHpfZ0V1UXh6ZzNwY3M?oc=5",
-   "date": "2026-07-14",
-   "summary": "四份重磅研究，一次看懂2026营销新趋势丨第七届媒介力学论坛火热报名中！  白鲸出海",
-   "body": "四份重磅研究，一次看懂2026营销新趋势丨第七届媒介力学论坛火热报名中！  白鲸出海",
-   "tags": [
-    "行业",
-    "出海"
-   ]
-  },
-  {
-   "id": "n394816ecad",
-   "category": "行业",
-   "company": "",
-   "title": "人工智能广告评估，激发您的 HI 和创意效率 - Ipsos",
-   "source": "Ipsos",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWDY3WE5TYS1JRzJqVzZiRG4yTWMzNk0tV29WZ1BaRWhxcHE4QjlsNHJ4YnIybE5rY3dzZk9sWlZXejJaTjNJUDg0bFVIQXJhLUtZaHY4M0RWT25hVllEdEN6aTBYdnE5eGZISWdkOVEySThzcW4yTFJBTHhSVWF4Ti1fVE1MXzNnYXBLOW9LcWVWUGx2UlRBX0Z4X0RKX0loa2c?oc=5",
-   "date": "2026-07-01",
-   "summary": "人工智能广告评估，激发您的 HI 和创意效率  Ipsos",
-   "body": "人工智能广告评估，激发您的 HI 和创意效率  Ipsos",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n690967ea3e",
-   "category": "政策",
-   "company": "",
-   "title": "Google Play 7月政策大更新，应用没登记可能被移除，匿名聊天禁向儿童开放 - 白鲸出海",
-   "source": "白鲸出海",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tVFVIMF9Hd1J0Mk12MVdVXzgwUWstTUxWSGNpamNnS3NNSDl5dkd5MlZlN0x4cU5aZ1VjVTFIZ0VaVm5wRVJCakJfTWc?oc=5",
-   "date": "2026-07-24",
-   "summary": "Google Play 7月政策大更新，应用没登记可能被移除，匿名聊天禁向儿童开放  白鲸出海",
-   "body": "Google Play 7月政策大更新，应用没登记可能被移除，匿名聊天禁向儿童开放  白鲸出海",
-   "tags": [
-    "政策",
-    "出海"
-   ]
-  },
-  {
-   "id": "n4385f19a87",
-   "category": "客户",
-   "company": "",
-   "title": "侯亚孟代表珀莱雅股份签署战略合作备忘录，布局AI生物智能体美妆应用 - 手机新浪网",
-   "source": "手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMi6wJBVV95cUxOQzRtUTBIUXpvS21IYlVvVEdHU0xVNDhNZVZmSWlNbVVpbTVfemEtd21FYk5IV0tsOWVqQkZ4TFZTZVJKOTFFdUdWNEo1bmsyVGZnMFB3WGpwaC1oc0VqeGRJLWZPbW14S1M1OTl4VzFOaFBGd1haUExabE13MnV1SzFkeG92M29XbkJsQjFvWmdRTzdabUdfc1FHQ3hFcnk2ZVJaMFRDXy1oQ28ta1lJRXgwUTFpRmhhTTJsTHRZQlJRbzFQM2ppTlRvOFlsRm9Wb05FRHk5TlFmeWk0TGxMNjlHbWxUTDNVbzlMaE9qaDRCaUpITlF2emtpaWF2U0RTbW9UZzhJeHQ5Z2k0VFZSTXR2V1lsSkZ2S1FwbkxDdFN6cnJIQVNHcDhGQjg5Z1hpV1Bnai1DalRBeGt4UGJRcmRjOEg2dVgtbk16eE9xa2VEVnhhLVNJZHM5NHl5bjFNdElhdUpyOEx1SlU?oc=5",
-   "date": "2026-07-22",
-   "summary": "侯亚孟代表珀莱雅股份签署战略合作备忘录，布局AI生物智能体美妆应用  手机新浪网",
-   "body": "侯亚孟代表珀莱雅股份签署战略合作备忘录，布局AI生物智能体美妆应用  手机新浪网",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "n65e0442be9",
-   "category": "客户",
-   "company": "",
-   "title": "定制妆容、改造场景、打造配方……头部美妆集团如何玩转AI - 新浪财经",
-   "source": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYlFzZjZZa0tUMWRvbWhySFl3d3h4MDBLU1loU1Btc0lDdkVVN1V3UFVBdW4tQlhhYmpWUHZuQlN0alQxcFAzRndkSFFhcHlIRVk1c19PSG5Kb1NaWnNLVUhkUlNWY0FmRWxyOFlmV25KNUdPNk5LeUxvVmZiN1hmRkY3U3JQbGowN1hQTmY1RHlqZw?oc=5",
-   "date": "2026-07-25",
-   "summary": "定制妆容、改造场景、打造配方……头部美妆集团如何玩转AI  新浪财经",
-   "body": "定制妆容、改造场景、打造配方……头部美妆集团如何玩转AI  新浪财经",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "n1ec21aebb1",
-   "category": "消费者",
-   "company": "",
-   "title": "数字平台赋能传统商圈焕新升级，青岛这条百年街区要再创示范 - 青岛日报",
-   "source": "青岛日报",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1hRVdNeHFYQ1p0TV9BVWxrQW1hNlphQmFiR1ItMUlwOERGQ1NQYW5KcWc3SG1FeW1PQjlHUDFmRWFJdXUzcmo5M3R6b21JZVc4Z1JfTzN1ZVg?oc=5",
-   "date": "2026-07-25",
-   "summary": "数字平台赋能传统商圈焕新升级，青岛这条百年街区要再创示范  青岛日报",
-   "body": "数字平台赋能传统商圈焕新升级，青岛这条百年街区要再创示范  青岛日报",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n77cb4ab7ad",
-   "category": "消费者",
-   "company": "",
-   "title": "2026抖音生活服务浪漫青岛嗨吃畅游季”启动仪式举行 - 半岛网",
-   "source": "半岛网",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBPb3ZGVDFONnU0TEtGM1ZrenpDM2pNeTlLa1VUaXJEdW1HZW85V0ExcV9uUDY5RllWY1NzV0NLRFdfdHk5QktyQkZIS3NlSFRDX0FFcnlwSHE?oc=5",
-   "date": "2026-07-25",
-   "summary": "2026抖音生活服务浪漫青岛嗨吃畅游季”启动仪式举行  半岛网",
-   "body": "2026抖音生活服务浪漫青岛嗨吃畅游季”启动仪式举行  半岛网",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "nf38b66f8bc",
-   "category": "竞品",
-   "company": "",
-   "title": "特赞科技Tezign 创始人及CEO 范凌在2023 世界人工智能大会AIGC 产业论坛的发言：人工智能与产业想象力 - 极客公园",
-   "source": "极客公园",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBRT1prdHNQNlVzMGNKb0J5dHd3d0NGQ1JQcmpNNVVXTGJsXzdFX2FXc0ZLMUNMUXoyLUZZNFBMZ3lxOGhjVUNHZkJLUzk?oc=5",
-   "date": "2023-07-09",
-   "summary": "特赞科技Tezign 创始人及CEO 范凌在2023 世界人工智能大会AIGC 产业论坛的发言：人工智能与产业想象力  极客公园",
-   "body": "特赞科技Tezign 创始人及CEO 范凌在2023 世界人工智能大会AIGC 产业论坛的发言：人工智能与产业想象力  极客公园",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "nf5c8a1dff3",
-   "category": "竞品",
-   "company": "",
-   "title": "证监会三问AI黑马钛动科技：股权、募资、外资准入合规待解 - 凤凰网",
-   "source": "凤凰网",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PSmEwTnE4VVFQcjNHZGxTX01hZVZQUVRfQ3M1T1o5OEVhUVBCZXY0S0lHZXhUS1RDRzh3RTFsak9BLXV6VjczVk9XeEJrZmVG?oc=5",
-   "date": "2026-07-24",
-   "summary": "证监会三问AI黑马钛动科技：股权、募资、外资准入合规待解  凤凰网",
-   "body": "证监会三问AI黑马钛动科技：股权、募资、外资准入合规待解  凤凰网",
-   "tags": [
-    "竞品",
-    "合规"
-   ]
-  },
-  {
-   "id": "n043ad4ecd8",
-   "category": "竞品",
-   "company": "",
-   "title": "稳居全球顶尖水平！钛动科技自研专业模型再获SuperCLUE权威认可 - 财富号",
-   "source": "财富号",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE52VERFS0pndmhJWU9FYktMd25qNWd1S01RS3dCcE9kS19WLUcwakx1cVYzbEtQZlp2anZaLTVERmlBWk5SME5WckJxVkQ1SmNlajQ3Zk1hN1hHbHRhd2VvWldSUkhvUF9IUXdJ?oc=5",
-   "date": "2026-07-24",
-   "summary": "稳居全球顶尖水平！钛动科技自研专业模型再获SuperCLUE权威认可  财富号",
-   "body": "稳居全球顶尖水平！钛动科技自研专业模型再获SuperCLUE权威认可  财富号",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "n5e2dc3d339",
-   "category": "竞品",
-   "company": "",
-   "title": "证监会三问钛动科技背后：毛利率82%及其资产负债表上的“堰塞湖” - 凤凰网",
-   "source": "凤凰网",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4yMDJvUkdqaTNocFFqODFGUFNRdG5tbTlLMG44M2JuLU0wZWNLMTh1c1NtWVltYVBXVmUtcWc4UWc0MnNSb1dKaA?oc=5",
-   "date": "2026-07-24",
-   "summary": "证监会三问钛动科技背后：毛利率82%及其资产负债表上的“堰塞湖”  凤凰网",
-   "body": "证监会三问钛动科技背后：毛利率82%及其资产负债表上的“堰塞湖”  凤凰网",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "n123cc140e3",
-   "category": "竞品",
-   "company": "",
-   "title": "「PureblueAI清蓝」完成数千万元天使轮融资，发布首款AI口碑营销数字员工- 极新 - 极新",
-   "source": "极新",
-   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZllaUnZEaExpdGJTNW13MU5OTjNNdHVxLXdjdDBmSnhka3BfcllneHp0YmlfYkNyYnBaR1YzZzFYTlVxV2FlbExkemRTS0hHblBIcGhVVDVtRV9HVWhnZk85a014OE1oNGx3b3BXNUxXNGZhb2dVTE5jRE1vZTlqNzNXSVFLTXJob0VqYjJDMjRZVXdU?oc=5",
-   "date": "2026-07-22",
-   "summary": "「PureblueAI清蓝」完成数千万元天使轮融资，发布首款AI口碑营销数字员工- 极新  极新",
-   "body": "「PureblueAI清蓝」完成数千万元天使轮融资，发布首款AI口碑营销数字员工- 极新  极新",
-   "tags": [
-    "竞品",
-    "融资"
-   ]
-  },
-  {
-   "id": "n38dffb11ff",
-   "category": "行业",
-   "company": "",
-   "title": "AI数字分身赛道全面爆发 新流量时代重塑广告营销｜星戌影业正式签约顶流数字网红某梦贞贞 - 中华网科技频道",
-   "source": "中华网科技频道",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1vYnRmUmlYV2Y2aVVJWWZ4ZjdOODdvUl9UMHpCUGo4c3B6UnQ2dk5jeExweVNYbkgyY1V2RExuaFhfbXNLMGNmcnROVko1S3BaUGtNaGNHRElpUzNVSVJYR1lpN1A5ZkZpUUxHV0R3?oc=5",
-   "date": "2026-07-24",
-   "summary": "AI数字分身赛道全面爆发 新流量时代重塑广告营销｜星戌影业正式签约顶流数字网红某梦贞贞  中华网科技频道",
-   "body": "AI数字分身赛道全面爆发 新流量时代重塑广告营销｜星戌影业正式签约顶流数字网红某梦贞贞  中华网科技频道",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n0d18002b64",
-   "category": "政策",
-   "company": "",
-   "title": "AI工具一键匹配热搜词！助力跨境POP商家抢占TikTok Shop美区年中促高曝光 - 雨果跨境",
-   "source": "雨果跨境",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9BdlhhOHJDU3J3WFJySW9waVd2OTdyVk0wM1lIeWZTMWdiWkFYN2p3RzJMVEVNcjJwNHhYZ0VaMlFUMF9QWkR1T3ZGUFg?oc=5",
-   "date": "2026-06-18",
-   "summary": "AI工具一键匹配热搜词！助力跨境POP商家抢占TikTok Shop美区年中促高曝光  雨果跨境",
-   "body": "AI工具一键匹配热搜词！助力跨境POP商家抢占TikTok Shop美区年中促高曝光  雨果跨境",
-   "tags": [
-    "政策"
    ]
   }
  ]
