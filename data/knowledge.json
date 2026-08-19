@@ -1,10 +1,141 @@
 {
  "meta": {
-  "generated": "2026-08-18",
+  "generated": "2026-08-19",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 15 条，合计 400 条"
+  "note": "新增 9 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "nb2dd35b1bc",
+   "category": "竞品",
+   "company": "",
+   "title": "钛动科技递表港交所 - 央视网",
+   "source": "央视网",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Hc09FQTFUZnhQVGtpcm9NSVFadmNwNWhnSXpzS3VwRlVwcnNiU1UyLXNHYnowV1hNVHB2SmxpMFBXZ3RMVzk4bm01RFFTR0JUdy1zd2tfMEtBTTFlOGpXTGJlZ2thSFhISjdLMW5BWVNMQzZJY3hOREF3?oc=5",
+   "date": "2026-02-27",
+   "summary": "钛动科技递表港交所  央视网",
+   "body": "钛动科技递表港交所  央视网",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n38c0b91a4b",
+   "category": "竞品",
+   "company": "",
+   "title": "发现独角兽 | 大品牌短视频出自AI之手？奥创光年用科学打造了营销新模式 - qq.com",
+   "source": "qq.com",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iLV9xLXlteUxsS1ZSR2xZTDFPbncwVmhLMFhjc0FMVjFfT3lSb1c4S0hWZXFEekp4OGRFWF9ySlpDVkQ3MjFvQ0NBMlkyOTlHYTRtNmVHWQ?oc=5",
+   "date": "2024-02-21",
+   "summary": "发现独角兽 | 大品牌短视频出自AI之手？奥创光年用科学打造了营销新模式  qq.com",
+   "body": "发现独角兽 | 大品牌短视频出自AI之手？奥创光年用科学打造了营销新模式  qq.com",
+   "tags": [
+    "竞品",
+    "独角兽",
+    "短视频"
+   ]
+  },
+  {
+   "id": "n680fb4189a",
+   "category": "行业",
+   "company": "",
+   "title": "快手：二季度AIGC短视频营销消耗同比增超70% - 东方财富",
+   "source": "东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE55bjNRXzVhRjJ4ZkhGc2FhQURFRDRLa0JDU0ZGc3FMVi1FSGt3UFBDZkdVeUgwQXVmclR4VnVTczd0eTR5Mi1VSjN4eFBPYjJBSUJRcnJHYUFCdzM2LUE2b1l4YmJWUQ?oc=5",
+   "date": "2026-08-19",
+   "summary": "快手：二季度AIGC短视频营销消耗同比增超70%  东方财富",
+   "body": "快手：二季度AIGC短视频营销消耗同比增超70%  东方财富",
+   "tags": [
+    "行业",
+    "短视频"
+   ]
+  },
+  {
+   "id": "n408a568c6d",
+   "category": "行业",
+   "company": "",
+   "title": "快手Q2线上营销服务收入达206亿元 AIGC短视频营销消耗同比增超70% - ebrun.com",
+   "source": "ebrun.com",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0zNXRIVmtKTUcxb3FVWkREMjVPd21QdWZHN3kwb0VYdjlVdlA3akJBV0JVZmVSRml3RWV1bWIyMXhwck9NLVdFaV8yTkkzcm5LNUNFdjhOS3A?oc=5",
+   "date": "2026-08-19",
+   "summary": "快手Q2线上营销服务收入达206亿元 AIGC短视频营销消耗同比增超70%  ebrun.com",
+   "body": "快手Q2线上营销服务收入达206亿元 AIGC短视频营销消耗同比增超70%  ebrun.com",
+   "tags": [
+    "行业",
+    "短视频"
+   ]
+  },
+  {
+   "id": "n87e0515cd7",
+   "category": "客户",
+   "company": "",
+   "title": "调查 | AI渗透电商全链路，红利还是陷阱？ - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE4wdG1ubHQ3aVZQYU54dXlWSThJbURjVy0zMFdpWHZoSG9Eb0VNT1Y4cUdEX0hRR2VVVTBXcDJxeXZHemtMMDlTRTV1MXc2a1hma19yRDlaMFRCekhrQlpYV1VOWkcwRXNTcnZyNXQ4RkZtRnpwYnc?oc=5",
+   "date": "2026-07-01",
+   "summary": "调查 | AI渗透电商全链路，红利还是陷阱？  新浪财经",
+   "body": "调查 | AI渗透电商全链路，红利还是陷阱？  新浪财经",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "nc0201c9ec6",
+   "category": "客户",
+   "company": "",
+   "title": "新媒体，找新榜 - 新榜",
+   "source": "新榜",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mRWs3X0JMaEQzRzJOSnJzQTRUUldMc2xTOXkxVmdTbFNLZmgtRUk3MDJCRFhYZ2dCbzRZc3g3WlFRWEMzM0xFSGh4VG8xeTBDSXFwUlNR?oc=5",
+   "date": "2026-08-18",
+   "summary": "新媒体，找新榜  新榜",
+   "body": "新媒体，找新榜  新榜",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "ndf5cc66cd4",
+   "category": "客户",
+   "company": "",
+   "title": "易点天下「可见性峰会」圆满收官，以GEO+GEM构筑AI时代品牌全球化护城河 - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DNFFVNkpkUVkxeE1ZajVMMHlyb1VrVjRGZlpMdjNmLUZ0MERDQlZIdUtmV284OHYwR3o1Sll6dEszXzhCclRKWlg3dE5PYWFMbFZ4SzVvRm0yVTZBRjFvcTNWNzdOMGt5bnU2ZlFoelR0QllxZnE3bW1feHVna0E?oc=5",
+   "date": "2026-03-08",
+   "summary": "易点天下「可见性峰会」圆满收官，以GEO+GEM构筑AI时代品牌全球化护城河  新浪财经",
+   "body": "易点天下「可见性峰会」圆满收官，以GEO+GEM构筑AI时代品牌全球化护城河  新浪财经",
+   "tags": [
+    "客户",
+    "GEO"
+   ]
+  },
+  {
+   "id": "n2a488f77f3",
+   "category": "消费者",
+   "company": "",
+   "title": "抖音电商发布26年宠物消费报告：县域工厂成交额超九成 - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlaEtqTWdpbzc3ZjZ5ZV9MdFdtZEJSeDFXODc5aS00TEF1MHJzRk5La1F0MnZXbzAxNVdNLS1sLXZiWlNtMFlvUVFLNA?oc=5",
+   "date": "2026-08-19",
+   "summary": "抖音电商发布26年宠物消费报告：县域工厂成交额超九成  新浪财经",
+   "body": "抖音电商发布26年宠物消费报告：县域工厂成交额超九成  新浪财经",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n9dee1a066f",
+   "category": "消费者",
+   "company": "",
+   "title": "2026抖音电商宠物消费数据报告：495个县域产业带在抖音电商成交破亿 - 搜狐网",
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQjh3SFpoRE84TjdHWXR6Z1hDeC00WUxQVUJYY1lkMFhlQWZmRm54WjdiXy1fOE1tc0lTMjNObGtSeGl4dE9XUVBzb3J3VU5kem5xMm44U2c1Yl9SbzMydkdNZ3EwLVZNSXdhM3FmdVhhVTBnek1UTm9yaFZYNlB0MTc1dDN1ZWt2Rk1IcQ?oc=5",
+   "date": "2026-08-19",
+   "summary": "2026抖音电商宠物消费数据报告：495个县域产业带在抖音电商成交破亿  搜狐网",
+   "body": "2026抖音电商宠物消费数据报告：495个县域产业带在抖音电商成交破亿  搜狐网",
+   "tags": [
+    "消费者"
+   ]
+  },
   {
    "id": "n853356d1fb",
    "category": "竞品",
@@ -5635,136 +5766,6 @@
    "body": "钛动科技携Navos 2.0登陆2026 ChinaJoy，亮相BTOB【W3-B101展位】  新浪财经",
    "tags": [
     "竞品"
-   ]
-  },
-  {
-   "id": "n92896a92dd",
-   "category": "竞品",
-   "company": "",
-   "title": "1500万美元A+轮融资，奥创光年如何用AI重塑营销？ - 维科号",
-   "source": "维科号",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBETkhwOEhtdk8zWDI4cGpjVVNMZGNKVkZhcXVHWlRfRVBwSFNWMHZmekZRaEtERVV4N25PcEtYSUZkT0JLVzdSaWJidVZ3cG8?oc=5",
-   "date": "2024-02-19",
-   "summary": "1500万美元A+轮融资，奥创光年如何用AI重塑营销？  维科号",
-   "body": "1500万美元A+轮融资，奥创光年如何用AI重塑营销？  维科号",
-   "tags": [
-    "竞品",
-    "融资"
-   ]
-  },
-  {
-   "id": "nfb46cee613",
-   "category": "行业",
-   "company": "",
-   "title": "快手AIGC营销素材三季度消耗金额超30亿元 - 新浪财经",
-   "source": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNeUJETl9HWGVxNkdFZkZSa25rbjkwMnM0Wl9HbjRFYmxRNDdyTW9HTGFjSGZsc3AzZUhibkgtUEVVQTFBWWd5RmJhcC1DUUUyR3FkcW01UmloejJudlpwQThJWUJwNTlLTEU2U0RpempHaGROTFdhcU5mT3puTDB5U1ZnbXA?oc=5",
-   "date": "2025-11-19",
-   "summary": "快手AIGC营销素材三季度消耗金额超30亿元  新浪财经",
-   "body": "快手AIGC营销素材三季度消耗金额超30亿元  新浪财经",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "nf489498e1c",
-   "category": "行业",
-   "company": "",
-   "title": "智达明远AI亮剑双盛会|破解获客难、成本高痛点，做懂企业需求的AI营销获客公司 - 京报网",
-   "source": "京报网",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DR1BUdDdYU0R0V2RLU2h0RDFOS2xxSmRmZGhkNk90U1lkVEpoSjMzQ2pxTGZlMGhrbkJjeDBsWllWU3NrNzdXU0ZwSkVUUmVKMVFCbkdaeTlKUHBrMUE?oc=5",
-   "date": "2026-05-20",
-   "summary": "智达明远AI亮剑双盛会|破解获客难、成本高痛点，做懂企业需求的AI营销获客公司  京报网",
-   "body": "智达明远AI亮剑双盛会|破解获客难、成本高痛点，做懂企业需求的AI营销获客公司  京报网",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n9668803001",
-   "category": "政策",
-   "company": "",
-   "title": "TikTok Shop美区物流政策更新卖家集体破防- 跨境电商 - 亿邦动力网",
-   "source": "亿邦动力网",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE51MlI2WlVHN3RSX0hnbkVUMnN5cnRLUzI5NkpYcW1rRzRYM19WUTlnQmRyekRlWWZ1WnRWRkw0aHltSFA2S2RCdFNUWWFJZFljY3RqbXhR?oc=5",
-   "date": "2026-01-10",
-   "summary": "TikTok Shop美区物流政策更新卖家集体破防- 跨境电商  亿邦动力网",
-   "body": "TikTok Shop美区物流政策更新卖家集体破防- 跨境电商  亿邦动力网",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "nc41d38ea1f",
-   "category": "政策",
-   "company": "",
-   "title": "TikTok 将在英国推出无广告模式，每月 3.99 英镑 - 新浪财经",
-   "source": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LVFhmaE82b0FuWVdoZ3pqRWthaVZhUUZ2TFA1Y1N4d0JDUGlXQ0t6UGR3eGN6dXE5bXBNRW1sRmRSRjBKbzJ0ODFpcFU1eFJLam12aFk5RktsNHJneWx0YkNqTzhJcUZmQ1ZXYjBQTlRoYUZaVXY0X2RwR0YwNms?oc=5",
-   "date": "2026-05-11",
-   "summary": "TikTok 将在英国推出无广告模式，每月 3.99 英镑  新浪财经",
-   "body": "TikTok 将在英国推出无广告模式，每月 3.99 英镑  新浪财经",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "n7ab65cbf03",
-   "category": "政策",
-   "company": "",
-   "title": "Meta财报前瞻：广告引擎能否跑赢AI资本支出？ - Moomoo",
-   "source": "Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPR0xHQVVEUUo1VGUzdU1veGNza0xwbGE5UUUyNFNBdlV5bjhRTi1QYTNwU1cyOGUwWUlwTmpyZ1doSnpYcXJrZ2lBUlUzUXlsdS1DMXFKNUx3cmdCdFUtVEJWcTJCS0lFenA1N3FNdV9Wc2QxbHhUcXZjd3hnUU5oUHBFcWw0UGltd292YW1hY0Voa1d6bVlYdG5TZVJMV0lMbUNiam9oX2Z1SDdGcW94UXVhQnM?oc=5",
-   "date": "2026-07-28",
-   "summary": "Meta财报前瞻：广告引擎能否跑赢AI资本支出？  Moomoo",
-   "body": "Meta财报前瞻：广告引擎能否跑赢AI资本支出？  Moomoo",
-   "tags": [
-    "政策",
-    "财报"
-   ]
-  },
-  {
-   "id": "n56de50c5a0",
-   "category": "政策",
-   "company": "",
-   "title": "一图展望丨Meta 2026年Q2财报前瞻 广告韧性与AI支出博弈 资本开支指引成核心变量 - 东方财富",
-   "source": "东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1wMDhVWEpsc1lMTnhHamFhZm9BV201aWc1ZUxVOVZVbmRiMTJaeEpjUzhoSW1zRV96Y0lvNmJ0bmRBQkhGU3pHWVFOZkZ1bGlfcnJvaXpIYjl2NmFwQkllbmtfbw?oc=5",
-   "date": "2026-07-28",
-   "summary": "一图展望丨Meta 2026年Q2财报前瞻 广告韧性与AI支出博弈 资本开支指引成核心变量  东方财富",
-   "body": "一图展望丨Meta 2026年Q2财报前瞻 广告韧性与AI支出博弈 资本开支指引成核心变量  东方财富",
-   "tags": [
-    "政策",
-    "财报"
-   ]
-  },
-  {
-   "id": "n3546ee8fb9",
-   "category": "政策",
-   "company": "",
-   "title": "Meta Q2财报前瞻：营收或超600亿美元，千亿美元AI资本投入成最大考验 - FX168财经",
-   "source": "FX168财经",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1UQU9BeW5Xb0diWlozY18zbHRYTXQyTWtTSXdWY29zNWlZeFM5cXdDNlNQeEcyVlI5V2ZmVlJzTjE3NzExYzZvNmRVNXRadElPdWIw?oc=5",
-   "date": "2026-07-28",
-   "summary": "Meta Q2财报前瞻：营收或超600亿美元，千亿美元AI资本投入成最大考验  FX168财经",
-   "body": "Meta Q2财报前瞻：营收或超600亿美元，千亿美元AI资本投入成最大考验  FX168财经",
-   "tags": [
-    "政策",
-    "财报"
-   ]
-  },
-  {
-   "id": "ndebe24191e",
-   "category": "政策",
-   "company": "",
-   "title": "AI资本支出成绩单将至：微软亚马逊拼云计算，Meta拼广告 - 36Kr",
-   "source": "36Kr",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBuTEJrUW9fWDF4VXV5Z3J1cE9qZG1JaVJ0ekNsRXVqa2JDMUh2N2tkUVlheGNaZ0daT3dMTnFvNWFoWFh4R3Y3d2FTMmJtQQ?oc=5",
-   "date": "2026-07-26",
-   "summary": "AI资本支出成绩单将至：微软亚马逊拼云计算，Meta拼广告  36Kr",
-   "body": "AI资本支出成绩单将至：微软亚马逊拼云计算，Meta拼广告  36Kr",
-   "tags": [
-    "政策"
    ]
   }
  ]
