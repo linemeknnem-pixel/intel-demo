@@ -1,11 +1,198 @@
 /* 自动生成 by scripts/ingest.py —— 请勿手改 */
 window.KB_DATA = {
  "meta": {
-  "generated": "2026-08-21",
+  "generated": "2026-08-22",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 21 条，合计 400 条"
+  "note": "新增 13 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "n6e31186736",
+   "category": "竞品",
+   "company": "",
+   "title": "特赞：我们远不止是一家设计服务公司，还是一家人工智能科技公司|创业 - 动点科技",
+   "source": "动点科技",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHNHJLVTBDY2ZNaGJ4V0xBcktXNDFEMW5PT0lzY3hyX1FwZk5MZ1Z1RFVZMXU0YndoZnU0UWlVVV8xU05pTndjLTQ4cUdGbFBpSmZGX19VSnNpdENndGdB?oc=5",
+   "date": "2018-09-20",
+   "summary": "特赞：我们远不止是一家设计服务公司，还是一家人工智能科技公司|创业  动点科技",
+   "body": "特赞：我们远不止是一家设计服务公司，还是一家人工智能科技公司|创业  动点科技",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "naa2925732f",
+   "category": "竞品",
+   "company": "",
+   "title": "钛动科技宣布完成新一轮融资 - 财联社",
+   "source": "财联社",
+   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcXdvdFRldXh1WU1EcDB3X29JaHFURngwX0REcjcwRGZoalkxai05WUV3U09qQnV4ZjRZVW94bnB1RXhIRXduMjFQZzlwU2NNbHNDZGhMTHd3aEt1VTVITmxLSFBEZUFfN2x0VjRDb2loYnY0dVp3N3hyV2g3MUs1SHAxdzNVYWNiT0hzWEFGVUhKcUhZRGJmYldrTTlnVG9hQ1RIQ2wyZEhwQTAzejBiRXh6cWlEYm5waXlEczZRX0FPaXFVUTdNcEFSeUM4dw?oc=5",
+   "date": "2026-08-20",
+   "summary": "钛动科技宣布完成新一轮融资  财联社",
+   "body": "钛动科技宣布完成新一轮融资  财联社",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "n0bc2d494f1",
+   "category": "竞品",
+   "company": "",
+   "title": "首发| 钛动科技完成新一轮融资：全球豪门投一位阿里前员工 - 手机新浪网",
+   "source": "手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNWXFJZHZEVWFhLWtobVdzdlE1MWlTRURtdDFNT3ZyeWNyMG5yRXhaS1YzNDdSQmV6RkJXTTVwb0llXzNhbWVwdHJ3ZTNHZWJDZzB0S044UU9DOEp5YW02U0hGS0NnT0c5WnZqNm5uMlpzYnBnakNTVHdGVmY2aGd5LU1ZSlFsY0U5RVk5LVFETWhoRFBFTTJxN0tFT0VjOXlwZWdOVEpZUjFmazFUNlNLYjREVmZYYVJENVllaEVhRk5nTFNEbFdrTmJuZUdScmIycm11T2lYZ2NjSmRBZjBubGVKUjJVUzNvcU51TjViaHZ4Tm1yVU1FVHJlR0J5ZzQzYlNaQXk3d0xPTF9tV0d2RHlkN1lNd0N3cnd6TlpLNmI3VmhSa1Z5bklmNWllSWdSWkpsbGhzR1hqamlwNUNud1ZvVUVsVWx6YkREaS1EQWVLUGpIVFhHWlloYmFHb25jbmtidlloZmZMc01WTGNoeg?oc=5",
+   "date": "2026-08-20",
+   "summary": "首发| 钛动科技完成新一轮融资：全球豪门投一位阿里前员工  手机新浪网",
+   "body": "首发| 钛动科技完成新一轮融资：全球豪门投一位阿里前员工  手机新浪网",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "nc2d768c06e",
+   "category": "竞品",
+   "company": "",
+   "title": "钛动科技创始人李述昊：AI+产业是广东下个黄金十年的最大机会 - 21财经",
+   "source": "21财经",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZjlaaTI4Mm5IYnplQmY4enZTc29LdndHblltc3VLVWhka3NmNDhMYVJYSHl5Z3IzOWRyX0tNTVNEQWZ1akdULWtzaVh4OGxscjJPUnBsSGdod0lCV2phRklLVmVKRHpsOElWa1JWbkR4ckU2TmJkUVBFQVdwdVVGVUMxM19landQdThKdllEVQ?oc=5",
+   "date": "2026-03-17",
+   "summary": "钛动科技创始人李述昊：AI+产业是广东下个黄金十年的最大机会  21财经",
+   "body": "钛动科技创始人李述昊：AI+产业是广东下个黄金十年的最大机会  21财经",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "nae1b08bc20",
+   "category": "竞品",
+   "company": "",
+   "title": "国际资本重仓广州AI标的，钛动科技完成新一轮融资 - t.cj.sina.cn",
+   "source": "t.cj.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jZzhpeHBsd0lvZjVCRnV5ZGNvbzZuRDRXN2xsMy03RGptdTRKX1hKaGRZemhTam82cHR0eU1zYVAxYmF3UVllYm41RFFZSFUyQ2JTSDB0Z3BkTWVVTlFUSndwSXp1eXh4T3FaRng3SlR5OTFTM3lsdGVITTVQYjA?oc=5",
+   "date": "2026-08-20",
+   "summary": "国际资本重仓广州AI标的，钛动科技完成新一轮融资  t.cj.sina.cn",
+   "body": "国际资本重仓广州AI标的，钛动科技完成新一轮融资  t.cj.sina.cn",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "nec8a5506b4",
+   "category": "竞品",
+   "company": "",
+   "title": "广州这家ChatGPT技术供应商，拿下新融资！ - 搜狐网",
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVmpNVUlhLTVuX3ZZeFJKR0V3Mms0azlmWTF5MjBqbmlrTU5QS2RxV2VpQVRZNW84Y0NqeFpiQkQzR2ViYXFrV0o0NDJ1S3BLUVMwVlJQS2ZTV3BSUkhXeXdJUWxQR3IzSFViLVNhaW1MWHgwWDZkallDbF9DR3hrNng4RE5Yd3NI?oc=5",
+   "date": "2026-08-20",
+   "summary": "广州这家ChatGPT技术供应商，拿下新融资！  搜狐网",
+   "body": "广州这家ChatGPT技术供应商，拿下新融资！  搜狐网",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "n11f6b6772e",
+   "category": "竞品",
+   "company": "",
+   "title": "智推时代完成数千万元天使轮融资，一年不到突破亿元ARR - QQ News",
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zU2l6RE9RN2pEeW1pdGpCbHZESjlTd2E1ZVNmQ2hLT0tuOGttZlFHYkNEME5GNm1PU3JNVFNtRkFMZnVQdG5JNy1ZaXV1TUU5Tkw5SVpR?oc=5",
+   "date": "2026-07-13",
+   "summary": "智推时代完成数千万元天使轮融资，一年不到突破亿元ARR  QQ News",
+   "body": "智推时代完成数千万元天使轮融资，一年不到突破亿元ARR  QQ News",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "n736fc33092",
+   "category": "行业",
+   "company": "",
+   "title": "揭AI伪装之幕，明广告执法之径——烟台大学“法眼识广”实践队调研纪实 - 中华网",
+   "source": "中华网",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGZ2p0Rzc3RjA4N19sZWRuOEplZUs3NFozODI2azc4SDlwVXB0NzlrYnRBZW9aTnRtVm5tRFFqVEZSb3NKNF9qS3JETU9ZSURpM2ljQVMwM05KUUlXT3c?oc=5",
+   "date": "2026-08-22",
+   "summary": "揭AI伪装之幕，明广告执法之径——烟台大学“法眼识广”实践队调研纪实  中华网",
+   "body": "揭AI伪装之幕，明广告执法之径——烟台大学“法眼识广”实践队调研纪实  中华网",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "naf60ac0f37",
+   "category": "行业",
+   "company": "",
+   "title": "9393体育在线登录_游戏资讯_Liftoff：生成式AI将广告创意迭代周期从18天缩短至1天 - womenofchina.com",
+   "source": "womenofchina.com",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKRk5lYXZvSHU0WHZGT3g0QnFldDU0M2NuMU1ZX3VwdFAwSUZnTVZWdzJZeVdLT1YtZmwtZ1JHQmhOOVFkZFhuUF9OcTRDdUhteWdEVnJGQjJhSWx3ZHhwSXdHc2pLbVozYi1N?oc=5",
+   "date": "2026-08-17",
+   "summary": "9393体育在线登录_游戏资讯_Liftoff：生成式AI将广告创意迭代周期从18天缩短至1天  womenofchina.com",
+   "body": "9393体育在线登录_游戏资讯_Liftoff：生成式AI将广告创意迭代周期从18天缩短至1天  womenofchina.com",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "nf13e69a2a0",
+   "category": "行业",
+   "company": "",
+   "title": "​AI网红“戴”美瞳，虚拟人代言不能越过真实边界|新京报快评 - 新京报",
+   "source": "新京报",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9OTjVEbEEtVmV1YTBzbzhwN3g0ZjZCMURMQ2VJR19xY3BxVGFpRVI1bXdXdHhnbUVWR3NSLXV4cjRJd0xJbmczLVg0M3owQ0RqODJ1UnhTX3h5eG9La3RXOGxlQ0o?oc=5",
+   "date": "2026-08-05",
+   "summary": "​AI网红“戴”美瞳，虚拟人代言不能越过真实边界|新京报快评  新京报",
+   "body": "​AI网红“戴”美瞳，虚拟人代言不能越过真实边界|新京报快评  新京报",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n0db63bb77c",
+   "category": "政策",
+   "company": "",
+   "title": "TikTok升级AI内容治理规则加强AI素材审核- 快讯 - 亿邦动力网",
+   "source": "亿邦动力网",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QUHhMc0xRcVp0N21QVEswVEFzNlpTUHBQY1RrYXhzZ284WWg5cF9UT2RlQVVCWXphd01ycjBYazA3MFdua0J4cnUtN0RldG9CQ1I4RU1qNVk?oc=5",
+   "date": "2026-07-13",
+   "summary": "TikTok升级AI内容治理规则加强AI素材审核- 快讯  亿邦动力网",
+   "body": "TikTok升级AI内容治理规则加强AI素材审核- 快讯  亿邦动力网",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "ne8778c2aae",
+   "category": "客户",
+   "company": "",
+   "title": "对话珀莱雅接班人侯亚孟：在新手区，学做全球品牌丨晚点周末 - 搜狐网",
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM0FuemNjNWc2ME1ERURjcy10ZjlLYUpOZnNwWlNhbUVWTEVMd2Z3NEt5NGtsRDducVNDUS1WczhxdlNWR0NMZ2FhWDY1UWNLZFBkamRvN1IzNF83RVhTRFpoTjhqbFN5ZVV6dGsxbmVnUTdLZXNYeG41bkRabUtCQkR5WnVleXEyN2h2dw?oc=5",
+   "date": "2026-08-22",
+   "summary": "对话珀莱雅接班人侯亚孟：在新手区，学做全球品牌丨晚点周末  搜狐网",
+   "body": "对话珀莱雅接班人侯亚孟：在新手区，学做全球品牌丨晚点周末  搜狐网",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "na3d650494c",
+   "category": "客户",
+   "company": "",
+   "title": "跳槽百亿美妆龙头，丸美前联席CEO吴梦任珀莱雅首席增长官 - 奥一网",
+   "source": "奥一网",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QbVF4R2pqZ3gzd0duaUs4Y2pJSGVHaGhoRVlMNExFWjdEa21CaW1aZnRTaHpqZmFtdVF4eUtwVTRNSVZhV3FOUVdzeV9URHVXczhjQzE5UUdjOGVGU0dpdW84SmJsQQ?oc=5",
+   "date": "2026-05-12",
+   "summary": "跳槽百亿美妆龙头，丸美前联席CEO吴梦任珀莱雅首席增长官  奥一网",
+   "body": "跳槽百亿美妆龙头，丸美前联席CEO吴梦任珀莱雅首席增长官  奥一网",
+   "tags": [
+    "客户"
+   ]
+  },
   {
    "id": "n81ef0f2b0a",
    "category": "竞品",
@@ -5584,197 +5771,6 @@ window.KB_DATA = {
    "body": "抖音生活服务“五一”消费数据：上海、北京、成都团购消费领先  新浪财经",
    "tags": [
     "消费者"
-   ]
-  },
-  {
-   "id": "n09b3f9c803",
-   "category": "消费者",
-   "company": "",
-   "title": "2026春夏抖音电商时尚消费趋势报告 - 发现报告",
-   "source": "发现报告",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ma1NIanZZM1VCQmczTk1DTzN3WTZySUktWUlNcnExazFOLTc2dWRXcTE1RjVHZ2ZrZFVkdVJ6QkxGUXBLdC1pdWJmWWItbmxW?oc=5",
-   "date": "2026-01-09",
-   "summary": "2026春夏抖音电商时尚消费趋势报告  发现报告",
-   "body": "2026春夏抖音电商时尚消费趋势报告  发现报告",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n47527c897b",
-   "category": "消费者",
-   "company": "",
-   "title": "种草情报局|小红书宠物营销,6月趋势洞察 - v.lmtw.com",
-   "source": "v.lmtw.com",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tTjkwOVhHWGFtUktnNTNxS1dJc2IzZEI4R0tCczBJTXFkMzNKU1FqSlBIRmtrcTVmUy1hazFMLUVTQ3NFdENFUDRORzM3WnFVQ1JyaWlTbUFLbmM?oc=5",
-   "date": "2026-06-24",
-   "summary": "种草情报局|小红书宠物营销,6月趋势洞察  v.lmtw.com",
-   "body": "种草情报局|小红书宠物营销,6月趋势洞察  v.lmtw.com",
-   "tags": [
-    "消费者",
-    "种草"
-   ]
-  },
-  {
-   "id": "nb1f2132c30",
-   "category": "消费者",
-   "company": "",
-   "title": "抖音电商“2026春上新”收官：趋势内容与直播带动春季新品消费增长- 中国日报网 - China Daily",
-   "source": "China Daily",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM1hCMmo5WENQUlpIOFNGdmxlRlMwUG00dHBZUlJHN1ZxTTNNenk0MHZTUGFTS1hLSy15VG4tdzJGd19JbndRQVB5QTYyejNvNVpzMTdwS3lIcmhRRktxeUwxeEhnTUlSRGM3bk1yVWtmbDZPUUtxNU9QQTRDLWNaS2d6dw?oc=5",
-   "date": "2026-04-10",
-   "summary": "抖音电商“2026春上新”收官：趋势内容与直播带动春季新品消费增长- 中国日报网  China Daily",
-   "body": "抖音电商“2026春上新”收官：趋势内容与直播带动春季新品消费增长- 中国日报网  China Daily",
-   "tags": [
-    "消费者",
-    "直播"
-   ]
-  },
-  {
-   "id": "nbe157479d4",
-   "category": "消费者",
-   "company": "",
-   "title": "不只种草，更能履约，抖音生活服务做实本地生意全链路 - 风闻",
-   "source": "风闻",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MR0FFbDhMOXN3M09SYXh4eFBvM1YyS1JjNl90NG13V0lIU2Z4UWdYYjllTmJ0QlZwQnY0VVE4am82aGlSUk1VMUlHSWNLNHBFT1pZTDRFNDRBS3c?oc=5",
-   "date": "2026-04-21",
-   "summary": "不只种草，更能履约，抖音生活服务做实本地生意全链路  风闻",
-   "body": "不只种草，更能履约，抖音生活服务做实本地生意全链路  风闻",
-   "tags": [
-    "消费者",
-    "种草"
-   ]
-  },
-  {
-   "id": "n97ae7c7e0b",
-   "category": "消费者",
-   "company": "",
-   "title": "2026年，小红书打响文旅种草下半场 - 环球旅讯",
-   "source": "环球旅讯",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5GRmZFTmVNR25xVURyU2IwRGFxY251MUEzY19pQ2Q3bUNUNF9Xb2ZqWkhyUGR1MklTc0tTaGdyel9UVTZyem1ua0dmYXlBQXhu?oc=5",
-   "date": "2026-01-27",
-   "summary": "2026年，小红书打响文旅种草下半场  环球旅讯",
-   "body": "2026年，小红书打响文旅种草下半场  环球旅讯",
-   "tags": [
-    "消费者",
-    "种草"
-   ]
-  },
-  {
-   "id": "n600681bdd4",
-   "category": "竞品",
-   "company": "",
-   "title": "被投企业 | 靖亚资本被投企业特赞完成D1轮融资，成内容科技独角兽 - 阿里云创新中心",
-   "source": "阿里云创新中心",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16ZEo5TGNKUEh5ZW9UdHRNMGJKMWxKZjZ4Y0Q5M2xjX1A0bHU3YWVnaU5Zb1FVRHpfelNJNUNVaTRuUU92eVEzVHZQZTFPNk02NjN0Y010Zw?oc=5",
-   "date": "2021-11-02",
-   "summary": "被投企业 | 靖亚资本被投企业特赞完成D1轮融资，成内容科技独角兽  阿里云创新中心",
-   "body": "被投企业 | 靖亚资本被投企业特赞完成D1轮融资，成内容科技独角兽  阿里云创新中心",
-   "tags": [
-    "竞品",
-    "融资",
-    "独角兽"
-   ]
-  },
-  {
-   "id": "nfa4bea26b6",
-   "category": "竞品",
-   "company": "",
-   "title": "ChinaJoy首日火热开场！钛动科技亮出泛娱乐AI增长新解法 - Sohu",
-   "source": "Sohu",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZmd0LXV2V0IyZWkxTEg1TDVvOUxhWXNDa0JQYnJxOXJqTE5HUldZdjFQaVFlTnQyNktfRmhDckpGSjg1eGN2d0h5Mlp5d0NiODFpRlQ1VGNFTW5xLVJ1eC1yWkpRblpPZVJsT3UzanBhMXBKYTc1YTc5cXpuNzZmaHdhWEV5eDlLSnFLRw?oc=5",
-   "date": "2026-07-31",
-   "summary": "ChinaJoy首日火热开场！钛动科技亮出泛娱乐AI增长新解法  Sohu",
-   "body": "ChinaJoy首日火热开场！钛动科技亮出泛娱乐AI增长新解法  Sohu",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "n1f95421d2b",
-   "category": "竞品",
-   "company": "",
-   "title": "「筷子科技Kuaizi」完成近亿元B轮融资 - 新浪财经",
-   "source": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoMjNqc3pMdkxrVUsteG9BbTlXUWVFMWxQbU5YdUUzN0ZSc0xxWF9kX0kySDYtWnJtVEVLQVo1SHZ0dVladmxxek4wdW8zazJGX0RuQzBibmNmclZHZDlhNHZYMV9iWVd6Y3JRc2lNeHJYanRON05VYXM2aVpqcG8?oc=5",
-   "date": "2025-06-24",
-   "summary": "「筷子科技Kuaizi」完成近亿元B轮融资  新浪财经",
-   "body": "「筷子科技Kuaizi」完成近亿元B轮融资  新浪财经",
-   "tags": [
-    "竞品",
-    "融资"
-   ]
-  },
-  {
-   "id": "ndabad4395b",
-   "category": "行业",
-   "company": "",
-   "title": "AI 赋能 IP 动画营销新叙事！阿里妈妈 AIGC×长隆以科技绘就童真世界想象力 - 极客公园",
-   "source": "极客公园",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UbHZhNlZBTnlZS0JUOTlOSGtMRHQ3c3BSWkJfU2lidjB2OGVYX0ljOGJLNHRmaFVJaFRvSkNZX1ZmcnVSdWRXTl9hNVE?oc=5",
-   "date": "2025-10-10",
-   "summary": "AI 赋能 IP 动画营销新叙事！阿里妈妈 AIGC×长隆以科技绘就童真世界想象力  极客公园",
-   "body": "AI 赋能 IP 动画营销新叙事！阿里妈妈 AIGC×长隆以科技绘就童真世界想象力  极客公园",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n060922e956",
-   "category": "行业",
-   "company": "",
-   "title": "《GEO AI营销行业报告2025》精要版（解读一） - 雪球",
-   "source": "雪球",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qMklyZjFfV2ZyUTRoWVl3VUhUcFFWSVVObHkzVy1xNjdoOGpWNzFIUVZyVlJoR3c2WEFibUMxN2R6Mm9JN012QWtCRjNDUl9K?oc=5",
-   "date": "2025-12-04",
-   "summary": "《GEO AI营销行业报告2025》精要版（解读一）  雪球",
-   "body": "《GEO AI营销行业报告2025》精要版（解读一）  雪球",
-   "tags": [
-    "行业",
-    "GEO"
-   ]
-  },
-  {
-   "id": "n854b6e728a",
-   "category": "行业",
-   "company": "",
-   "title": "广告公司的变身......拍电影,还做 AI 咨询 - 매일경제",
-   "source": "매일경제",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9DUG5aN2xvV1R5S2lQdWhCOURsS1RZdzM3OERIbkJydkpCRGt4eDhiaTZzTmU4NnUza19BLUxpQ2QycHBackRLMk5ZaVB4S3ByMC1v?oc=5",
-   "date": "2026-07-28",
-   "summary": "广告公司的变身......拍电影,还做 AI 咨询  매일경제",
-   "body": "广告公司的变身......拍电影,还做 AI 咨询  매일경제",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n78f03629df",
-   "category": "政策",
-   "company": "",
-   "title": "美国首部数字人广告法案生效！商家不标注AI生成提醒将被罚款- 跨境电商 - 亿邦动力网",
-   "source": "亿邦动力网",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZSk84THpVei1jNE0wMmRVWmRqX0FVUWRQSlAyeVR2ZXZ5endqelNMWC1zQmFuWTJELWt3bUpTSUswbnZDOFNBYVIyVVBzWHo4WU9VLVNR?oc=5",
-   "date": "2026-06-09",
-   "summary": "美国首部数字人广告法案生效！商家不标注AI生成提醒将被罚款- 跨境电商  亿邦动力网",
-   "body": "美国首部数字人广告法案生效！商家不标注AI生成提醒将被罚款- 跨境电商  亿邦动力网",
-   "tags": [
-    "政策",
-    "数字人"
-   ]
-  },
-  {
-   "id": "neb86cbd067",
-   "category": "政策",
-   "company": "",
-   "title": "长春净月高新区一OPC项目成爆款 - QQ News",
-   "source": "QQ News",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1BN19MeHdTemZBZzRraTdyb1VvaGhndDQ1MnJwemQwQXctRmZxRmNBR2dyUVZVNVVKNFZoVlh3Z0hzdGZkT1BLTkl4Q2RTR2kzeU5kZm93?oc=5",
-   "date": "2026-07-01",
-   "summary": "长春净月高新区一OPC项目成爆款  QQ News",
-   "body": "长春净月高新区一OPC项目成爆款  QQ News",
-   "tags": [
-    "政策"
    ]
   }
  ]
