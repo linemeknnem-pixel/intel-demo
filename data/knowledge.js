@@ -1,11 +1,281 @@
 /* 自动生成 by scripts/ingest.py —— 请勿手改 */
 window.KB_DATA = {
  "meta": {
-  "generated": "2026-08-27",
+  "generated": "2026-08-28",
   "origin": "ingest.py · Google News RSS",
   "note": "新增 19 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "n41b2299efd",
+   "category": "竞品",
+   "company": "",
+   "title": "OpenAI和全球顶尖资本，为何看中这家公司？ - 时代财经",
+   "source": "时代财经",
+   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZDZVcUdCcVpmZ1VjWEFkU3ZLMmVYaC1oYThRZmhHWUxiOVh2Z1hGWUxCaWcxa1FjR0xCdndfSnRaajNMWnZqalZhVVFjU2toSGZBNi0yTVRUUlFEYUxRYUZGZmFMZXpSR09PN2VaWmxKa1JFLWxnc1RoSjA3QlhGdHRKcHdVYXliSUVfbml2V0g?oc=5",
+   "date": "2026-08-24",
+   "summary": "OpenAI和全球顶尖资本，为何看中这家公司？  时代财经",
+   "body": "OpenAI和全球顶尖资本，为何看中这家公司？  时代财经",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n99cd790465",
+   "category": "竞品",
+   "company": "",
+   "title": "AI内容商业应用智能体平台「筷子科技Kuaizi」完成近亿元B轮融资 - 搜狐网",
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HUWlpa2FGOEZjaTVLaHVGVDVheVhqVjNQY3Y1Y2ZsS2lnS1FpTDMweWZCd1NQdURWMmJfLXVjdHY0Y1R1MnJOQTVFWkxCSndu?oc=5",
+   "date": "2025-06-23",
+   "summary": "AI内容商业应用智能体平台「筷子科技Kuaizi」完成近亿元B轮融资  搜狐网",
+   "body": "AI内容商业应用智能体平台「筷子科技Kuaizi」完成近亿元B轮融资  搜狐网",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "ne4ee9087d8",
+   "category": "行业",
+   "company": "",
+   "title": "AI营销概念龙头+AIGC开发者大会将举行，该公司有望爆发！ - QQ News",
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vaGo4ZFdUcW9TZUE4MTFNSXJOdjE4ajdWa2ZlTmJrTTR2emV3MW5nUzRDaEFpb0dYUnVSNHFublJkcFNTelAyekFvMVZBWUJQelpIemt3?oc=5",
+   "date": "2026-01-12",
+   "summary": "AI营销概念龙头+AIGC开发者大会将举行，该公司有望爆发！  QQ News",
+   "body": "AI营销概念龙头+AIGC开发者大会将举行，该公司有望爆发！  QQ News",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n574eee9249",
+   "category": "行业",
+   "company": "",
+   "title": "500亿美元只是起点：出海营销的钱到底花在哪了？——《中国出海营销行业洞察》解读一 - 36kr.com",
+   "source": "36kr.com",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zTVpnNms2LW1GLVNfdUxOVnRWZVJkVVo3MmVXNHo5ajNTV3Jia3pBaFo1cTdZMk1lTU5iSmdtWGpUNWkweGxRaHJ1SlhZZw?oc=5",
+   "date": "2026-08-26",
+   "summary": "500亿美元只是起点：出海营销的钱到底花在哪了？——《中国出海营销行业洞察》解读一  36kr.com",
+   "body": "500亿美元只是起点：出海营销的钱到底花在哪了？——《中国出海营销行业洞察》解读一  36kr.com",
+   "tags": [
+    "行业",
+    "出海"
+   ]
+  },
+  {
+   "id": "nec7912dd27",
+   "category": "行业",
+   "company": "",
+   "title": "AI主播仿新闻联播卖保健品！中消协对生成式人工智能服务发出提示↓ - 搜狐网",
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVl9nc3JocW1LU0cxMjRxWXNxcnkxbmZvRkxOb1QxaWVxQXhUMTR5Mmg3aEwzOUhiUnpUcDVpSEtoQUpRYVNSNUFUMmh6UmgyOFBYUWcxT1RUYkxvblQ3WWQyS0dvLVMyY01NN1pBZk40ZTFQOFZGX2VCUTREWXpDTWgxYUZlaGNGb3lyaA?oc=5",
+   "date": "2026-08-27",
+   "summary": "AI主播仿新闻联播卖保健品！中消协对生成式人工智能服务发出提示↓  搜狐网",
+   "body": "AI主播仿新闻联播卖保健品！中消协对生成式人工智能服务发出提示↓  搜狐网",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n60f99ad8dd",
+   "category": "行业",
+   "company": "",
+   "title": "【AIx职场变局】九成广告产出靠AI 创意人由操刀转把关 - 联合早报",
+   "source": "联合早报",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ySnRXN2d5c0djcmNGZWF2NG9TdHBBam55R2pzWUJEU25aMldEQTJpNGo2TFpvVzdfRkpSRkY1QjI5Mm9OT29JcERLb0swSjRPbjd5SmNhbFZQSU1GNlNRcFU5RTNZaHllTHVGUk1yOA?oc=5",
+   "date": "2026-08-19",
+   "summary": "【AIx职场变局】九成广告产出靠AI 创意人由操刀转把关  联合早报",
+   "body": "【AIx职场变局】九成广告产出靠AI 创意人由操刀转把关  联合早报",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "nbe768499a8",
+   "category": "政策",
+   "company": "",
+   "title": "AI成跨境电商“数字员工”，平台开始给它立规矩 - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOU284R0tIN2lOclA2d0JzRWtEbXZlTmhEaGgtcTNyNHdqZGhsVTZwV0xLTFFZM2lYci0tWU8xRHF1UXZiNnotd085RG5YbGdXdElNV2hEMkVFVXJwU214UE5mMURNZnBfWmhxRk84bngtZEhHVHJ2WWl1N1l5dS1OVTNBQ2dzRWhlanNIdmRpUF9rMmtYWjlva0o5cDloQkJkQjA4VWxOMA?oc=5",
+   "date": "2026-08-27",
+   "summary": "AI成跨境电商“数字员工”，平台开始给它立规矩  新浪财经",
+   "body": "AI成跨境电商“数字员工”，平台开始给它立规矩  新浪财经",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n1356fb2f62",
+   "category": "政策",
+   "company": "",
+   "title": "谷歌对「AI投毒」重拳出击 - 投资界",
+   "source": "投资界",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50VUdLalZfTjM2Y3ZHWGhINkxjdU9qYWxjMUNWX1ZnZjFaVVlwc0lrX2poQmhNOU00VDQyc1Bha2lQdjNnZXpFUmtDRXR3WlBZQk9lUFFR?oc=5",
+   "date": "2026-05-25",
+   "summary": "谷歌对「AI投毒」重拳出击  投资界",
+   "body": "谷歌对「AI投毒」重拳出击  投资界",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n5c7701e82a",
+   "category": "政策",
+   "company": "",
+   "title": "亚马逊AI广告全面觉醒：2025跨境运营规则被彻底改写 - 雨果跨境",
+   "source": "雨果跨境",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5QbE1zcGx2bnpqVTB2dTM0OENJYmE4TDdVWWFjRi11Um1PSmZEUXVsb0dQRGlCeV9KV2pDakNWREp5WG1PRlhFVXhLN1Q?oc=5",
+   "date": "2025-12-11",
+   "summary": "亚马逊AI广告全面觉醒：2025跨境运营规则被彻底改写  雨果跨境",
+   "body": "亚马逊AI广告全面觉醒：2025跨境运营规则被彻底改写  雨果跨境",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nc5f65974d3",
+   "category": "客户",
+   "company": "",
+   "title": "暴涨46%的珀莱雅VS暴跌78%的上美，到底谁在裸泳？ - 36kr.com",
+   "source": "36kr.com",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5VSGZCQ0JZcGRnQ1BSZTFERkhvVVBVaC0zVllnUGIyU0xzNVR0TUVMRTFxekwxZEYtWmlhdU5yZ1NnN2F2TmlNSEoyOTFYYTBV?oc=5",
+   "date": "2026-08-27",
+   "summary": "暴涨46%的珀莱雅VS暴跌78%的上美，到底谁在裸泳？  36kr.com",
+   "body": "暴涨46%的珀莱雅VS暴跌78%的上美，到底谁在裸泳？  36kr.com",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n296868f900",
+   "category": "客户",
+   "company": "",
+   "title": "百亿之后，珀莱雅开始“转场” - 中华网",
+   "source": "中华网",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YOXlFV0Vnb09aUk1TeVRQb1pqdE55d2FBOHluS25VSk1qcXQ1TDFDT1lLZ3lIWVIyaEx4eC1YbnZnRGc1SFE1Z2pUV2ZpeGpfTk8zbzRTaHdXQWRjWXc?oc=5",
+   "date": "2026-04-28",
+   "summary": "百亿之后，珀莱雅开始“转场”  中华网",
+   "body": "百亿之后，珀莱雅开始“转场”  中华网",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n78bc9f52e3",
+   "category": "客户",
+   "company": "",
+   "title": "调查：76%的00后，买美妆前先问AI - 36kr.com",
+   "source": "36kr.com",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBscTNQcE1nVGxCbG9ENGRRTEVhVWNCYXJqajNQM1FTRXhoQTdzcjd0YUJvWGtrTE1TbW45RENMYlo2Rm1JZ2d4QmxsSXZ6Zw?oc=5",
+   "date": "2026-07-23",
+   "summary": "调查：76%的00后，买美妆前先问AI  36kr.com",
+   "body": "调查：76%的00后，买美妆前先问AI  36kr.com",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "nb34b4aba5e",
+   "category": "客户",
+   "company": "",
+   "title": "“容貌歧视”+“反科学” AI短剧病态带货-南都数字报 - 奥一网",
+   "source": "奥一网",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zQXhLOFR5NXd0emRVLVpGTm9sc2JnV3ZKc012WUxtUFMwZnpYdFgyT05EUlNKNTVZYjNwQnVPa2ttd1o1NTJLRDRvbTZuYl8tQUF1d3JqdDh3VmlUcU1iMmF4Rk9uV0VoWVhCendyTmFxYUQz?oc=5",
+   "date": "2026-07-10",
+   "summary": "“容貌歧视”+“反科学” AI短剧病态带货-南都数字报  奥一网",
+   "body": "“容貌歧视”+“反科学” AI短剧病态带货-南都数字报  奥一网",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n6e31891e0e",
+   "category": "客户",
+   "company": "",
+   "title": "QuestMobile 2026年互联网广告市场半年报告：市场总规模接近3900亿元 - QQ News",
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9KQmVWODdKd1Q3dDUwb2dSMGt3VEhSTmRTYTIwMDVqWkRaV2gtdGxMX1JSdURiZnNiajg0ZTMyaUdUSXBjNGdXeEZpaWRid1ZjZDVaWWZn?oc=5",
+   "date": "2026-08-18",
+   "summary": "QuestMobile 2026年互联网广告市场半年报告：市场总规模接近3900亿元  QQ News",
+   "body": "QuestMobile 2026年互联网广告市场半年报告：市场总规模接近3900亿元  QQ News",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n859cee7920",
+   "category": "客户",
+   "company": "",
+   "title": "[青眼情报]：2025中国化妆品年鉴 - 发现报告",
+   "source": "发现报告",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBuN3daWDlGSHhGdk11cnRZTnJ0cmx2MGltMzVoT3NRTEd1R0ZXVGJqT2RibVNXTTNWamxLYURnNkMtYUFOVkZoYm15dXJudmFt?oc=5",
+   "date": "2026-02-06",
+   "summary": "[青眼情报]：2025中国化妆品年鉴  发现报告",
+   "body": "[青眼情报]：2025中国化妆品年鉴  发现报告",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n2af2189628",
+   "category": "客户",
+   "company": "",
+   "title": "活动｜2026 福布斯中国DTC跨境影响力品牌评选盛典圆满落幕 - Forbes China",
+   "source": "Forbes China",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFA1RG9tcGktZnU3MWJRWDFFZ21Pc0hROVdwbTJuX1lNa3BKa0lYOXNzNXBRUGowbzVITTgzVk1WVmFua2s2Q21NdHdKNjNkX0k?oc=5",
+   "date": "2026-05-27",
+   "summary": "活动｜2026 福布斯中国DTC跨境影响力品牌评选盛典圆满落幕  Forbes China",
+   "body": "活动｜2026 福布斯中国DTC跨境影响力品牌评选盛典圆满落幕  Forbes China",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n92c8ba049e",
+   "category": "消费者",
+   "company": "",
+   "title": "直播电商，激活495个亿元级县域宠物产业带 - 搜狐网",
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOG1iWFpMQlZPMVFqYkx4M0hRczd6VllEbGhGT3Q0Q2RlaXhHZExrQVRYSkpsMko5c3MzSlRqS1VwWHFTSW9zVTZXNXU5RXhLMjcxWUpNdWJsYVJfZDVnV1NKZnFGVl9tbF8wSkVub29jQVhIUVhnOFFERkZ0QzRSNjI1Ul9VOFF4?oc=5",
+   "date": "2026-08-27",
+   "summary": "直播电商，激活495个亿元级县域宠物产业带  搜狐网",
+   "body": "直播电商，激活495个亿元级县域宠物产业带  搜狐网",
+   "tags": [
+    "消费者",
+    "直播"
+   ]
+  },
+  {
+   "id": "nbe157479d4",
+   "category": "消费者",
+   "company": "",
+   "title": "不只种草，更能履约，抖音生活服务做实本地生意全链路 - 风闻",
+   "source": "风闻",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9MR0FFbDhMOXN3M09SYXh4eFBvM1YyS1JjNl90NG13V0lIU2Z4UWdYYjllTmJ0QlZwQnY0VVE4am82aGlSUk1VMUlHSWNLNHBFT1pZTDRFNDRBS3c?oc=5",
+   "date": "2026-04-21",
+   "summary": "不只种草，更能履约，抖音生活服务做实本地生意全链路  风闻",
+   "body": "不只种草，更能履约，抖音生活服务做实本地生意全链路  风闻",
+   "tags": [
+    "消费者",
+    "种草"
+   ]
+  },
+  {
+   "id": "n2b285a44eb",
+   "category": "消费者",
+   "company": "",
+   "title": "2026年的美妆趋势，都藏在年轻人让自己“更好”的愿望里 - 中华网生活",
+   "source": "中华网生活",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqS1JMYVJFOC14N0pqenVucWdLUEE3RVZxQUdQaFZoVzl6TUZvSXQ1YXZSNFl3a0E3UG9BN1kwTWlVS2YwV3pXSWlDNjlNOXhPWG5FcnJONEFkaE5oc3ZPNjRybw?oc=5",
+   "date": "2026-03-31",
+   "summary": "2026年的美妆趋势，都藏在年轻人让自己“更好”的愿望里  中华网生活",
+   "body": "2026年的美妆趋势，都藏在年轻人让自己“更好”的愿望里  中华网生活",
+   "tags": [
+    "消费者"
+   ]
+  },
   {
    "id": "n49e265dea6",
    "category": "竞品",
@@ -5508,280 +5778,6 @@ window.KB_DATA = {
    "body": "YouTube 的全新 AI 标签：2026 年 5 月更新及其对您意味着什么  ALM Corp",
    "tags": [
     "政策"
-   ]
-  },
-  {
-   "id": "n1f050a157b",
-   "category": "客户",
-   "company": "",
-   "title": "九四智能斩获2026非凡奖“最佳美妆行业智能导购奖”，以对话式AI驱动美妆营收倍增 - 中华网科技频道",
-   "source": "中华网科技频道",
-   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBCX2pJUVlBZU1lbFJCM3A2eHpsNGZqeVNmbHB0X1FWYkNrSU5GZzVINExQR2dUbUtXUVR1WXUtaU8wM0FYdHhrNkVXWjlYTHdFVk5tbUdjUG5kczJtS3VucExUNEJVRi0wWXpDRk8ycnNDcl9WZFE?oc=5",
-   "date": "2026-07-22",
-   "summary": "九四智能斩获2026非凡奖“最佳美妆行业智能导购奖”，以对话式AI驱动美妆营收倍增  中华网科技频道",
-   "body": "九四智能斩获2026非凡奖“最佳美妆行业智能导购奖”，以对话式AI驱动美妆营收倍增  中华网科技频道",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "nc5e4a9de7a",
-   "category": "客户",
-   "company": "",
-   "title": "释放商业AI“超能力”：SAP助力中国企业构建全球智能运营体系 - news.qq.com",
-   "source": "news.qq.com",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hQmJGcDVtbzBsZUZPSHluSWtXTmhBODRhUjZEVzZ6dWdMazY2eGl0M2VkZ3Riemw1MnNJV2dWamppU3A3WU56aGdCRThydnhyYXpndm5n?oc=5",
-   "date": "2026-03-20",
-   "summary": "释放商业AI“超能力”：SAP助力中国企业构建全球智能运营体系  news.qq.com",
-   "body": "释放商业AI“超能力”：SAP助力中国企业构建全球智能运营体系  news.qq.com",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "n0371302724",
-   "category": "客户",
-   "company": "",
-   "title": "打破DTC品牌使用AI的错误认知，AI到底该怎么用？ - 品牌方舟",
-   "source": "品牌方舟",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9STWhRanV0bWtXVXRGRkNMbG5oNjBCUlVEZWlVNjNWeFBLS1UzTk1LUmxCRzdyaERtb1FlSFVRWnctLVVkQktYZ1hzbw?oc=5",
-   "date": "2025-10-01",
-   "summary": "打破DTC品牌使用AI的错误认知，AI到底该怎么用？  品牌方舟",
-   "body": "打破DTC品牌使用AI的错误认知，AI到底该怎么用？  品牌方舟",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "n56caadcfe6",
-   "category": "消费者",
-   "company": "",
-   "title": "曝光量27亿次，「世界杯」全场景种草解码 - itopmarketing.com",
-   "source": "itopmarketing.com",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE93dUg1a0s2Ykw3WnE3Qk1QdXhhNENzTWVmbl9yLUVrejlvT1lvYlZmR3BvUXhXc0w0OVNVVTFxbmZzMHR5TmNtTE0yOFZuNGFO?oc=5",
-   "date": "2026-06-17",
-   "summary": "曝光量27亿次，「世界杯」全场景种草解码  itopmarketing.com",
-   "body": "曝光量27亿次，「世界杯」全场景种草解码  itopmarketing.com",
-   "tags": [
-    "消费者",
-    "种草"
-   ]
-  },
-  {
-   "id": "n890217042d",
-   "category": "竞品",
-   "company": "",
-   "title": "36氪首发 | 特赞获得千万美元D1融资，从营销切入更多模块 - 搜狐网",
-   "source": "搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9zelpuM2NWZXFmU1V4OVhJVWwzeUlmOVNDdlNfbkRWQzRWc0w0bjVRN1BBMGQ2MkpSOWczY1FpN29NZUM0bHgwWnl5NjNqTDJl?oc=5",
-   "date": "2021-11-02",
-   "summary": "36氪首发 | 特赞获得千万美元D1融资，从营销切入更多模块  搜狐网",
-   "body": "36氪首发 | 特赞获得千万美元D1融资，从营销切入更多模块  搜狐网",
-   "tags": [
-    "竞品",
-    "融资"
-   ]
-  },
-  {
-   "id": "na684b35995",
-   "category": "竞品",
-   "company": "",
-   "title": "股东离场，现金流承压！82%毛利率的钛动科技IPO真实成色 - 财富号",
-   "source": "财富号",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1lN2Zxang2SjVjc1c0XzZLV0V0Rzc2OTVLdENuZXN4M0QzVURLQVNuVlpmM2xkYUQ3UmFiaWtWaUxzaS1LU2lGMnJqa3l3OC1WYTRUVVI0bS12aHF3Zi1Qd3FEZUxucXRPRUZN?oc=5",
-   "date": "2026-07-21",
-   "summary": "股东离场，现金流承压！82%毛利率的钛动科技IPO真实成色  财富号",
-   "body": "股东离场，现金流承压！82%毛利率的钛动科技IPO真实成色  财富号",
-   "tags": [
-    "竞品",
-    "IPO"
-   ]
-  },
-  {
-   "id": "ne3492ef2e6",
-   "category": "行业",
-   "company": "",
-   "title": "一汽大众、伊利试水AIGC营销，超53%的广告主开始为“效率革命”买单 - jiemian.com",
-   "source": "jiemian.com",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5NVZhYzZ5YXFRT2Y4UXFreEhfSnZkQnA0Zm40M0ZKTmFKVkFPX3pBMzZXUE9LNWJ5c0lpbEtvRDVqQzYtRmhUenZDQ1ZlaWNTdzBZZnNkVGo?oc=5",
-   "date": "2025-09-29",
-   "summary": "一汽大众、伊利试水AIGC营销，超53%的广告主开始为“效率革命”买单  jiemian.com",
-   "body": "一汽大众、伊利试水AIGC营销，超53%的广告主开始为“效率革命”买单  jiemian.com",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "nae78215a70",
-   "category": "行业",
-   "company": "",
-   "title": "[易点天下&阿里云]：2026全球AI营销趋势与价值白皮书 - 发现报告",
-   "source": "发现报告",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RRlJSVlkyaXE2a08tczA3LUlHZzlZVjdJT3VSTUNEeXBQR0xveHI1OTZxVU5SVzNYNmlFc0k0X0JfQ1R0NjJmdnBKN1JuYUk3?oc=5",
-   "date": "2026-03-17",
-   "summary": "[易点天下&阿里云]：2026全球AI营销趋势与价值白皮书  发现报告",
-   "body": "[易点天下&阿里云]：2026全球AI营销趋势与价值白皮书  发现报告",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n9bf321e00c",
-   "category": "行业",
-   "company": "",
-   "title": "AI营销专家灵狐研判618风向，七大趋势八大策略赋能品牌实战破局 - 中国网",
-   "source": "中国网",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iV0JTMkFfeU4xSHVMZG0zbHM4WV8xVzhPNGdWU0lBNVNJMHE0OTdwTkJaWkpwcC1oWGQ2RE9OSWN0NlRFdkhDQ0tqd09fWFFwMW9nYkhWcXJKQlRITjV4YUNWS0kyVDZ2QlBKRUVMTQ?oc=5",
-   "date": "2026-06-15",
-   "summary": "AI营销专家灵狐研判618风向，七大趋势八大策略赋能品牌实战破局  中国网",
-   "body": "AI营销专家灵狐研判618风向，七大趋势八大策略赋能品牌实战破局  中国网",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n144fd75130",
-   "category": "行业",
-   "company": "",
-   "title": "AI营销“全链路协作”时代，利欧股份重磅发布CubSwarm多智能体系统 - 证券时报",
-   "source": "证券时报",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YaFZPa0pXOW1VQjhSeE16QXN5RkF6emhJajM2T2ZfSlNNb2JUX0lPdE9jN2YtbWpCN3BucEJWdEljUmVBeWhNVVowS1pCYmdfNU9rS2FkWGxxZmRV?oc=5",
-   "date": "2026-04-15",
-   "summary": "AI营销“全链路协作”时代，利欧股份重磅发布CubSwarm多智能体系统  证券时报",
-   "body": "AI营销“全链路协作”时代，利欧股份重磅发布CubSwarm多智能体系统  证券时报",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n3b3b5f073f",
-   "category": "行业",
-   "company": "",
-   "title": "智启无境，共擎增长：巨量引擎以AI新质生产力，助力代理商破局增长 - 新华报业网",
-   "source": "新华报业网",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82QkJieU9iOWI4bnlKRkRsTEZTZjcyVkd1TjVZTmVqWHZ1b2ZSa3JTaTNXRHRSaFJocGhGT0w3eTE4SnZPQ1Q0akVOU3dOYVBfOUE1QXBmZXdZaXZBTUdhMDlHOElha1JXY3FJ?oc=5",
-   "date": "2026-04-23",
-   "summary": "智启无境，共擎增长：巨量引擎以AI新质生产力，助力代理商破局增长  新华报业网",
-   "body": "智启无境，共擎增长：巨量引擎以AI新质生产力，助力代理商破局增长  新华报业网",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n6357f76084",
-   "category": "行业",
-   "company": "",
-   "title": "CJ2026专访Liftoff高层：通过AI技术帮助中国游戏出海 - DoNews",
-   "source": "DoNews",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5EZ0xINXhrcnVTZHJSMXlnUDh1WG1adHBkRDdYTlppc0VMY2pBQndyc213QXZZa0M2ZkdDalRLYUVuVTYtYnI3NjNrb0dueGxUVkpsOThsQ2FIWDlWamc?oc=5",
-   "date": "2026-08-05",
-   "summary": "CJ2026专访Liftoff高层：通过AI技术帮助中国游戏出海  DoNews",
-   "body": "CJ2026专访Liftoff高层：通过AI技术帮助中国游戏出海  DoNews",
-   "tags": [
-    "行业",
-    "出海"
-   ]
-  },
-  {
-   "id": "n167277748d",
-   "category": "行业",
-   "company": "",
-   "title": "刘双舟：构建“法律+技术”双轨监管体系应对广告业变革 - finance.sina.cn",
-   "source": "finance.sina.cn",
-   "url": "https://news.google.com/rss/articles/CBMixAVBVV95cUxPM3BlakZOeF9XaklBQV9xandKTEZNTUhKNDFBLWo4ZTlGQ1ZNZTg1MUZSbmpDWTl5T085NUJqWHk1Vkh0WUxPWjVMLThrRWxXNlV3cXhaU2dCLWQzSkt6UjdxTEhMdWpTTzJ6d1Z2RmVJYS15Skw5c3hETzF0SXVPcFB2WUE1dFFRdnFfVlJ5cjFnd0hOOEt0MUpSNTlfSDVFTHFwR0hrYlBFX0Rrd3dOMGQ4RV8zNEx6YlhOODJtbFRsN0duSnhmTVBmTC1EejVsU2RkX1hmbjA4Zk5NTXdxZFJocXh2TlJiOUZRaHZ1VXJFM2pkdXBUVXlNMmoxT2JXTndpMmFRZWhnVE1mX0xlTFExLUxpR2N6WmRRTUltVzJ1R0pNSXVzMzJNcmNUWVQ4aGxid2NBNk5vZnZHdVlOVWFSUGRCbWxuRWVSS1V3bzR0MDZHcFMxQjlYWTlyNzBHbkd5TlE1RzQ5b29IaWg5RHM0THlSUjF1Skc5cEgzenQtQm9yZzZVVEpFWFJLOWlZS2VDSmVJSUpzTmhJdDVVdl9QQkNtdXgwR0Q5UVNXa0JzMFZyN2F4WUR4bE9PR1g4bFYtQ041bk9lYzMweE9TaHVFa3FKS0EyS19SaEc3WEZtTHBPdzBzeVN6TGdqbGpyVVVxS05MU2MtYTVEUlkzN1drNS1ZVGhKaG9EcV9WNkVuOXE1Q0NLMmEydHV3dDNpRlIxXzdrU0tocUVGdm8xUE9BYjNTVWJvUE9LWWt1UjFuc3NzVGhLdEdCUGx6YzdqYnljcTBqSFNIeFBwNWZhSTRrc0UwRGg1bXBoTHl1OV9TNWdjWFNaRm5ncG5uc18zcExScmgzYjNRT3pRLTZwR01Kb0U1UGdfd3hRNW9sZWxsTUZMY25fdURZQlBhMlowMXFuNDd4dnBGTFpwV1ExUmROMWk?oc=5",
-   "date": "2026-08-03",
-   "summary": "刘双舟：构建“法律+技术”双轨监管体系应对广告业变革  finance.sina.cn",
-   "body": "刘双舟：构建“法律+技术”双轨监管体系应对广告业变革  finance.sina.cn",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n3f345ba42f",
-   "category": "行业",
-   "company": "",
-   "title": "Meta公布第二季度财报，广告业务拉动营收增加 - 4A广告网",
-   "source": "4A广告网",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5NVG9IbGRpV2ZUZjVqVnBaR0V5Ukx5SDQyUU5jTzdKMzV5RGZ3akx3U1liUGE4LVJtT1Yta3RYNFpBaGlYY2R6RGtPS1lpcFV6bVJOdU1iZ3ZCd0MxWVJj?oc=5",
-   "date": "2026-08-05",
-   "summary": "Meta公布第二季度财报，广告业务拉动营收增加  4A广告网",
-   "body": "Meta公布第二季度财报，广告业务拉动营收增加  4A广告网",
-   "tags": [
-    "行业",
-    "财报"
-   ]
-  },
-  {
-   "id": "n778a33811a",
-   "category": "行业",
-   "company": "",
-   "title": "中国广告协会全面启动生成式引擎优化（GEO）标准化建设工作 - 新华网客户端",
-   "source": "新华网客户端",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSnRueTlRZ29SYVhzdDdtNjZySXpUUXJiSDhaeFpwVFNxVXBjU0JnNkdHdU9xSU11SDZpcDZleHhkVlEzMHU1UXIyWmw3UVMySDdVOGhwWmhCMWo3dUhnbGppNWdSSHo0MjMtVnd6d3JZVDU5WUZjYXZ2VG5yRG9wekdwSnItX0pIeUgwNFJoWQ?oc=5",
-   "date": "2026-03-19",
-   "summary": "中国广告协会全面启动生成式引擎优化（GEO）标准化建设工作  新华网客户端",
-   "body": "中国广告协会全面启动生成式引擎优化（GEO）标准化建设工作  新华网客户端",
-   "tags": [
-    "行业",
-    "GEO"
-   ]
-  },
-  {
-   "id": "n135758d2cf",
-   "category": "行业",
-   "company": "",
-   "title": "新华社中广联“品牌与广告可信传播生态”平台启航，元聚变揭开AI可信传播新纪元 - 中华网",
-   "source": "中华网",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5OTnJWNnlLeG0tTjVMXzBKRFpxRDE5VlRuaG1kc1V6YTZBcmJTVlV4enNwOVNWc3VSbS0zQzlqY3lyOURUUVNrVkkxU25wemp6M1F6YjVzMUtOcTlZaG9PRjM5SU5NaGN5MzdqcQ?oc=5",
-   "date": "2026-07-31",
-   "summary": "新华社中广联“品牌与广告可信传播生态”平台启航，元聚变揭开AI可信传播新纪元  中华网",
-   "body": "新华社中广联“品牌与广告可信传播生态”平台启航，元聚变揭开AI可信传播新纪元  中华网",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "ne62873fa32",
-   "category": "政策",
-   "company": "",
-   "title": "TikTok单月分账破亿，2026短剧出海都在卷什么？ - thepaper.cn",
-   "source": "thepaper.cn",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBNSG55cm9lYlRpYlpmVG42cGVqS3czWF8zMW5zNURzRGkyb3FzTFBzZi12R1M3V1BsNGttRUVSSjBEVmdKaGs5TWhlQmpMM2ZGaXVoSk9KRW1MR2hxUGc?oc=5",
-   "date": "2026-05-26",
-   "summary": "TikTok单月分账破亿，2026短剧出海都在卷什么？  thepaper.cn",
-   "body": "TikTok单月分账破亿，2026短剧出海都在卷什么？  thepaper.cn",
-   "tags": [
-    "政策",
-    "出海"
-   ]
-  },
-  {
-   "id": "n7a60ff7eba",
-   "category": "政策",
-   "company": "",
-   "title": "我一个人，用AI，把生意做到了海外 - 21财经",
-   "source": "21财经",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeWJ1emRZNDRyMTlXdG0wTG03VTk0VHVBR0tYMXJycGozYzdzTkZzZjUxZlR2NHg5eC01WXNSVGxLaEJFbURyNWVVUDhrcnZsX1ZScUZhckNmcFRfSDlORzc3cDlabXNDcmg2NVVFWktqRkdPVlJJR3JWQ3BaSWZFRzN2SkxUa0FESjEwT1FOaw?oc=5",
-   "date": "2026-04-04",
-   "summary": "我一个人，用AI，把生意做到了海外  21财经",
-   "body": "我一个人，用AI，把生意做到了海外  21财经",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "n694e5ce88c",
-   "category": "政策",
-   "company": "",
-   "title": "卖家连夜改图，欧美严查AI，最高罚5000美元 - 白鲸出海",
-   "source": "白鲸出海",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5bEJxOEFad1lITVRuOERuR0wyRlZqTG93b19faGxncDUzelhpVy1FUjFBU1RRb085NDZkWVFUS2t3ZHROUU5wS3dpdFE?oc=5",
-   "date": "2026-06-23",
-   "summary": "卖家连夜改图，欧美严查AI，最高罚5000美元  白鲸出海",
-   "body": "卖家连夜改图，欧美严查AI，最高罚5000美元  白鲸出海",
-   "tags": [
-    "政策",
-    "出海"
    ]
   }
  ]
