@@ -1,10 +1,253 @@
 {
  "meta": {
-  "generated": "2026-09-10",
+  "generated": "2026-09-11",
   "origin": "ingest.py · Google News RSS",
   "note": "新增 17 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "nb364e9046a",
+   "category": "竞品",
+   "company": "",
+   "title": "ECCV上，这场研讨会首迎中国科技公司牵头！钛动科技携顶尖学者攻坚多模态AI - Sohu",
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaEsyWTJrSThzejhLU1oxcEItWjBGVTJCTzdpNi1VcGFJRDBPRV8ybVBvMUFBcGJYSWZqYTQtTEJJTFVIcWFXN2RzZ0JGZUYxTk4xRkUyUTBBV0thVHNaSnV0VWNNbGFSNDB1TXpxR0pEbDEyV1FyMnRVVTZMMlhrLTR6Q0tqbjZUQm9pOA?oc=5",
+   "date": "2026-09-11",
+   "summary": "ECCV上，这场研讨会首迎中国科技公司牵头！钛动科技携顶尖学者攻坚多模态AI  Sohu",
+   "body": "ECCV上，这场研讨会首迎中国科技公司牵头！钛动科技携顶尖学者攻坚多模态AI  Sohu",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n85a55990f1",
+   "category": "竞品",
+   "company": "",
+   "title": "钛动科技转道港交所，出海AI营销龙头迎资本大考 - 东方财富",
+   "source": "东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtVG5Cdy1zem1STVN4WnNNV2F1MEdLd3A3WjIyUmF2a1dhUjBlUExrX01RUGxlRlpmdmtiM3MyalIyMHBiWk5CVW55NF9uc0pXQWVleVRlQ2szOElLeXZmdQ?oc=5",
+   "date": "2026-03-18",
+   "summary": "钛动科技转道港交所，出海AI营销龙头迎资本大考  东方财富",
+   "body": "钛动科技转道港交所，出海AI营销龙头迎资本大考  东方财富",
+   "tags": [
+    "竞品",
+    "出海"
+   ]
+  },
+  {
+   "id": "n0a07735ce7",
+   "category": "行业",
+   "company": "",
+   "title": "AI自有光丨AIGC引发智能化营销变革 梅赛德斯-奔驰周娟：科技为营销插上翅膀 - 每日经济新闻",
+   "source": "每日经济新闻",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SMjlpOFdnZzJDVEVqc1UwbGxrSENiaFI3TlUydVBpbHF1ejlUVG04TjBQOVBwR2Rwa1k1aVltekg3NEJwREZhWW9BSEFyLS1iUjlhbXFtZnNOYThUVzdKZlRfblJPQQ?oc=5",
+   "date": "2026-04-26",
+   "summary": "AI自有光丨AIGC引发智能化营销变革 梅赛德斯-奔驰周娟：科技为营销插上翅膀  每日经济新闻",
+   "body": "AI自有光丨AIGC引发智能化营销变革 梅赛德斯-奔驰周娟：科技为营销插上翅膀  每日经济新闻",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "nd4c7aeb194",
+   "category": "行业",
+   "company": "",
+   "title": "重塑AI时代的搜索可见性与内容营销—2026年GEO生成式引擎优化行业研究报告 - AgeClub",
+   "source": "AgeClub",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBrUUFnS3h1ang5TEVQMERlQXRsM1RnMUtxUDFma2stc1VIY2prbmhaSjYwZTl6QjRIeDFWYmgxaG9uanVqaVA4dy1WRUx6VW1iMExR?oc=5",
+   "date": "2026-04-04",
+   "summary": "重塑AI时代的搜索可见性与内容营销—2026年GEO生成式引擎优化行业研究报告  AgeClub",
+   "body": "重塑AI时代的搜索可见性与内容营销—2026年GEO生成式引擎优化行业研究报告  AgeClub",
+   "tags": [
+    "行业",
+    "GEO"
+   ]
+  },
+  {
+   "id": "nfb6ba3f8f7",
+   "category": "行业",
+   "company": "",
+   "title": "AI生成广告渐普遍 消协：业者虚构效果可触法 - 联合早报",
+   "source": "联合早报",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5uaVpqbHdFR3pNckNObm13d0RqNVlwX0tjTk1vNTBEN291VzVoc1NTYm9RRnJjWFhUTFBCb2FrWTJMSU5EdEt3Ul9zNklNWmI4dXQ4YUhjNGk1NUJiRVFyWDB6dUdmbDZfbEk5bWJJZw?oc=5",
+   "date": "2026-09-11",
+   "summary": "AI生成广告渐普遍 消协：业者虚构效果可触法  联合早报",
+   "body": "AI生成广告渐普遍 消协：业者虚构效果可触法  联合早报",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "nd09a6ca8d5",
+   "category": "行业",
+   "company": "",
+   "title": "OpenAI收紧广告政策，限制生成式AI产品广告投放 - 三易生活",
+   "source": "三易生活",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56Wk41Vy1WNExoTl9FNk9nUF84UGRHRVItUHViSmtSTjM3VDVCcEdYWmxYOU1pM052NFQ5djRiYUd0Nm5EVTZjZld4a2dfZjRONzRxSkg5QmZva2JVMVh0Uy1uME12bE5t?oc=5",
+   "date": "2026-09-11",
+   "summary": "OpenAI收紧广告政策，限制生成式AI产品广告投放  三易生活",
+   "body": "OpenAI收紧广告政策，限制生成式AI产品广告投放  三易生活",
+   "tags": [
+    "行业",
+    "投放"
+   ]
+  },
+  {
+   "id": "nf758b071e2",
+   "category": "行业",
+   "company": "",
+   "title": "海外观察|IAB上调美国广告支出预测至12.3%:广告主面临的最大挑战变了 - 流媒体网",
+   "source": "流媒体网",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE44TjNBSzJTcGxrU2VaVFJ1LWlTdmJkM1E2cTRwSWN5T3JZUG5Pb3VlZ251ZmpxbGNWUFA5X1l3LTE4Skd0UFc1UlJndnRMVGk1cXhRbWpsbUp1SmM5Q0x5Sm14RmE0dVZ5clNB?oc=5",
+   "date": "2026-09-11",
+   "summary": "海外观察|IAB上调美国广告支出预测至12.3%:广告主面临的最大挑战变了  流媒体网",
+   "body": "海外观察|IAB上调美国广告支出预测至12.3%:广告主面临的最大挑战变了  流媒体网",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n5e0c6b3769",
+   "category": "行业",
+   "company": "",
+   "title": "生成式人工智能可以根据我们的性格定制广告，而且很有说服力 - Kellogg Insight",
+   "source": "Kellogg Insight",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVEwzYTE1WWxaWGs1a3llNGxnQzF4dVN0RGNHODBkR21Eamx2d1VmOHFRX3JnNHBQTk45a1FzbGhfUTZqU2xkNUMxNVk5bUdaZWRSc1l0Uk1GOENjOTJseXZfX2RZdzNPdzA2SWl5MUZ4aGFVZ0YtWTNPaVhIS1ZnZ3RnNTBUcHRyODU3V2VGQTRoWXlnb3V2dGVCb2FrTTNHZkROWGh0My12SVFKYWRfZS1hRnVBYWNmSll2eXZzY2E?oc=5",
+   "date": "2026-07-01",
+   "summary": "生成式人工智能可以根据我们的性格定制广告，而且很有说服力  Kellogg Insight",
+   "body": "生成式人工智能可以根据我们的性格定制广告，而且很有说服力  Kellogg Insight",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n0ef4fcd539",
+   "category": "政策",
+   "company": "",
+   "title": "小摩研报解读：Muse 代理排名第三，Meta 目标价 820 美元 - 深潮TechFlow",
+   "source": "深潮TechFlow",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XeHRKX3pTZmZBN2lBamxpTnk1QXlTVUVKdEZOam92QWFGdklPbWZSVkY2T3g5ZlVhOWdWQkxWOUROUU0yNDhURWhnLURSckF3a1NLOA?oc=5",
+   "date": "2026-09-11",
+   "summary": "小摩研报解读：Muse 代理排名第三，Meta 目标价 820 美元  深潮TechFlow",
+   "body": "小摩研报解读：Muse 代理排名第三，Meta 目标价 820 美元  深潮TechFlow",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n0c6e04b96f",
+   "category": "客户",
+   "company": "",
+   "title": "珀莱雅：董事方玉友减持计划完成，减持股份约665万股 - 每日经济新闻",
+   "source": "每日经济新闻",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9SR29JbjhQRjhHeld0cDhIay1iY2NlTDRJcGhDNDI5TlhyR0dDYkhpOXF4YTViSFMzeGtVYjUyajEzc3JaSzdQZFZFd1o1ZGVvVFhTLUhaRjZsY0NOTVFyZ1hDRWVaUQ?oc=5",
+   "date": "2026-06-07",
+   "summary": "珀莱雅：董事方玉友减持计划完成，减持股份约665万股  每日经济新闻",
+   "body": "珀莱雅：董事方玉友减持计划完成，减持股份约665万股  每日经济新闻",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n429fd50e8c",
+   "category": "客户",
+   "company": "",
+   "title": "探访珀莱雅，侯亚孟等校友共议AI重构经营与用户价值增长路径 - 中华网",
+   "source": "中华网",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE0yVjNpMEVtWllna2NOVnJHdG5HUWxLNUVtSGd6NnZhdDFrT3VtakUzX215ODhCUjVyQXh6ejJ3amJhbURyRlhEYlAyTHU3TnA5MTk2cWd6eUhWcHJERGdyOENPa2VzeUhad0N0aFRB?oc=5",
+   "date": "2026-04-07",
+   "summary": "探访珀莱雅，侯亚孟等校友共议AI重构经营与用户价值增长路径  中华网",
+   "body": "探访珀莱雅，侯亚孟等校友共议AI重构经营与用户价值增长路径  中华网",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n22d186df19",
+   "category": "客户",
+   "company": "",
+   "title": "自然堂、韩束等陷入AI广告争议，品牌营销投入占比较高 - 财经号",
+   "source": "财经号",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5rVTNCRUUzZ2hSVUNfZVY5RGN2d1FSOWtqUmhkdlczb1l5RjJKZHJlQjlUczQ4U0Y1dVZKckhpNUpvWUtWWTdDYVpfNjlWMEU4aEt5Y3NfLUMzN190dFZ6UnpwZUNDY2RLTGxV?oc=5",
+   "date": "2026-09-09",
+   "summary": "自然堂、韩束等陷入AI广告争议，品牌营销投入占比较高  财经号",
+   "body": "自然堂、韩束等陷入AI广告争议，品牌营销投入占比较高  财经号",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n2edb213754",
+   "category": "客户",
+   "company": "",
+   "title": "聚焦AI时代品牌全球化，优沃思传媒亮相Google 2026跨境电商领航者峰会·深圳站 - t.cj.sina.cn",
+   "source": "t.cj.sina.cn",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBiOWg4enk0RDd2TUl4NzVFOS0xRmdsMGZmbU5KMUhmMmdBYmNpcGZHZnFodkVVVmEzZFFGSERvaXBHdFpJMUtmWFhfbTA1bzJJYXZhNVFJSXZqYjhvOVpUOFozYjdaLWRTcHFwZjUzU2t6QQ?oc=5",
+   "date": "2026-09-11",
+   "summary": "聚焦AI时代品牌全球化，优沃思传媒亮相Google 2026跨境电商领航者峰会·深圳站  t.cj.sina.cn",
+   "body": "聚焦AI时代品牌全球化，优沃思传媒亮相Google 2026跨境电商领航者峰会·深圳站  t.cj.sina.cn",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n56001c1429",
+   "category": "客户",
+   "company": "",
+   "title": "IFA2026观察：当全球硬件都开始谈AI 中国企业出海拼什么？ - EBRUN.com",
+   "source": "EBRUN.com",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBCS0JfUTdYMzFvUWxrZnJ0QWZOQUhCcHl5Sm5QanFHSGszWE1xQmZXU3gwZVpmWExmMzEzaUp0YnhGUnVLY0NWTHhaWXdwSEp4SG13RmpR?oc=5",
+   "date": "2026-09-08",
+   "summary": "IFA2026观察：当全球硬件都开始谈AI 中国企业出海拼什么？  EBRUN.com",
+   "body": "IFA2026观察：当全球硬件都开始谈AI 中国企业出海拼什么？  EBRUN.com",
+   "tags": [
+    "客户",
+    "出海"
+   ]
+  },
+  {
+   "id": "n2caad097ca",
+   "category": "客户",
+   "company": "",
+   "title": "探索珠海品牌出海新路径！“助力解锁DTC品牌出海”活动举行 - 珠海网",
+   "source": "珠海网",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE91R2NMaGcwY3NxVGZmVG9JbUtmZzFlZU1kVVlNX3doYlBjRElwNFZiVFp2aDB2bXhfbVNxMnAtVTNSUHprMGZlUnFOM09iUzFDRmJndnhCWUFKeHp1RHJROHlFUnM1bzVHSVlnSVdBUUdxVlEySEtN?oc=5",
+   "date": "2024-06-22",
+   "summary": "探索珠海品牌出海新路径！“助力解锁DTC品牌出海”活动举行  珠海网",
+   "body": "探索珠海品牌出海新路径！“助力解锁DTC品牌出海”活动举行  珠海网",
+   "tags": [
+    "客户",
+    "出海"
+   ]
+  },
+  {
+   "id": "n6eb652bcd9",
+   "category": "消费者",
+   "company": "",
+   "title": "《2026火锅发展趋势报告》：女性与Z世代为消费主力，鲜字当头、有料锅与一人食大热，夏季逆势增长 - 21财经",
+   "source": "21财经",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQzNRRFk1S1V3T0c2dENJWERKRTBVMXFUQmRrMnNfZ1lSa2VOeHM3bHZIQlBCdkhaZWxXdmxDcmFzUmFkNlcxOURIOE1jYWcya2JNdEdSWC1VUy01LUQtcTJ4RjdsMEFESHY0OVM3T042SWx5WjVYTG5Tb1g4M3VSNk92OHJBLS1qbG9qVg?oc=5",
+   "date": "2026-09-11",
+   "summary": "《2026火锅发展趋势报告》：女性与Z世代为消费主力，鲜字当头、有料锅与一人食大热，夏季逆势增长  21财经",
+   "body": "《2026火锅发展趋势报告》：女性与Z世代为消费主力，鲜字当头、有料锅与一人食大热，夏季逆势增长  21财经",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n1619316b9b",
+   "category": "消费者",
+   "company": "",
+   "title": "抖音电商：过去一年特色风味商品订单量增长78% - 壹览商业",
+   "source": "壹览商业",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE15SE93X1JoWkNySnZodjZFUDdaSTlHU2F3Wkk2dHRzSlRZRlUwRVN5OEhJenVfckQzY204V004VkxuSGtIVnd1YlNvQk4?oc=5",
+   "date": "2026-09-11",
+   "summary": "抖音电商：过去一年特色风味商品订单量增长78%  壹览商业",
+   "body": "抖音电商：过去一年特色风味商品订单量增长78%  壹览商业",
+   "tags": [
+    "消费者"
+   ]
+  },
   {
    "id": "ne55fbc2a69",
    "category": "竞品",
@@ -5511,253 +5754,6 @@
    "body": "2026春夏抖音电商时尚消费趋势报告  发现报告",
    "tags": [
     "消费者"
-   ]
-  },
-  {
-   "id": "n47527c897b",
-   "category": "消费者",
-   "company": "",
-   "title": "种草情报局|小红书宠物营销,6月趋势洞察 - 流媒体网",
-   "source": "流媒体网",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tTjkwOVhHWGFtUktnNTNxS1dJc2IzZEI4R0tCczBJTXFkMzNKU1FqSlBIRmtrcTVmUy1hazFMLUVTQ3NFdENFUDRORzM3WnFVQ1JyaWlTbUFLbmM?oc=5",
-   "date": "2026-06-24",
-   "summary": "种草情报局|小红书宠物营销,6月趋势洞察  流媒体网",
-   "body": "种草情报局|小红书宠物营销,6月趋势洞察  流媒体网",
-   "tags": [
-    "消费者",
-    "种草"
-   ]
-  },
-  {
-   "id": "nb1f2132c30",
-   "category": "消费者",
-   "company": "",
-   "title": "抖音电商“2026春上新”收官：趋势内容与直播带动春季新品消费增长- 中国日报网 - China Daily",
-   "source": "China Daily",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM1hCMmo5WENQUlpIOFNGdmxlRlMwUG00dHBZUlJHN1ZxTTNNenk0MHZTUGFTS1hLSy15VG4tdzJGd19JbndRQVB5QTYyejNvNVpzMTdwS3lIcmhRRktxeUwxeEhnTUlSRGM3bk1yVWtmbDZPUUtxNU9QQTRDLWNaS2d6dw?oc=5",
-   "date": "2026-04-10",
-   "summary": "抖音电商“2026春上新”收官：趋势内容与直播带动春季新品消费增长- 中国日报网  China Daily",
-   "body": "抖音电商“2026春上新”收官：趋势内容与直播带动春季新品消费增长- 中国日报网  China Daily",
-   "tags": [
-    "消费者",
-    "直播"
-   ]
-  },
-  {
-   "id": "n6e31186736",
-   "category": "竞品",
-   "company": "",
-   "title": "特赞：我们远不止是一家设计服务公司，还是一家人工智能科技公司|创业 - 动点科技",
-   "source": "动点科技",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHNHJLVTBDY2ZNaGJ4V0xBcktXNDFEMW5PT0lzY3hyX1FwZk5MZ1Z1RFVZMXU0YndoZnU0UWlVVV8xU05pTndjLTQ4cUdGbFBpSmZGX19VSnNpdENndGdB?oc=5",
-   "date": "2018-09-20",
-   "summary": "特赞：我们远不止是一家设计服务公司，还是一家人工智能科技公司|创业  动点科技",
-   "body": "特赞：我们远不止是一家设计服务公司，还是一家人工智能科技公司|创业  动点科技",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "naa2925732f",
-   "category": "竞品",
-   "company": "",
-   "title": "钛动科技宣布完成新一轮融资 - 财联社",
-   "source": "财联社",
-   "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPcXdvdFRldXh1WU1EcDB3X29JaHFURngwX0REcjcwRGZoalkxai05WUV3U09qQnV4ZjRZVW94bnB1RXhIRXduMjFQZzlwU2NNbHNDZGhMTHd3aEt1VTVITmxLSFBEZUFfN2x0VjRDb2loYnY0dVp3N3hyV2g3MUs1SHAxdzNVYWNiT0hzWEFGVUhKcUhZRGJmYldrTTlnVG9hQ1RIQ2wyZEhwQTAzejBiRXh6cWlEYm5waXlEczZRX0FPaXFVUTdNcEFSeUM4dw?oc=5",
-   "date": "2026-08-20",
-   "summary": "钛动科技宣布完成新一轮融资  财联社",
-   "body": "钛动科技宣布完成新一轮融资  财联社",
-   "tags": [
-    "竞品",
-    "融资"
-   ]
-  },
-  {
-   "id": "n0bc2d494f1",
-   "category": "竞品",
-   "company": "",
-   "title": "首发| 钛动科技完成新一轮融资：全球豪门投一位阿里前员工 - 手机新浪网",
-   "source": "手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNWXFJZHZEVWFhLWtobVdzdlE1MWlTRURtdDFNT3ZyeWNyMG5yRXhaS1YzNDdSQmV6RkJXTTVwb0llXzNhbWVwdHJ3ZTNHZWJDZzB0S044UU9DOEp5YW02U0hGS0NnT0c5WnZqNm5uMlpzYnBnakNTVHdGVmY2aGd5LU1ZSlFsY0U5RVk5LVFETWhoRFBFTTJxN0tFT0VjOXlwZWdOVEpZUjFmazFUNlNLYjREVmZYYVJENVllaEVhRk5nTFNEbFdrTmJuZUdScmIycm11T2lYZ2NjSmRBZjBubGVKUjJVUzNvcU51TjViaHZ4Tm1yVU1FVHJlR0J5ZzQzYlNaQXk3d0xPTF9tV0d2RHlkN1lNd0N3cnd6TlpLNmI3VmhSa1Z5bklmNWllSWdSWkpsbGhzR1hqamlwNUNud1ZvVUVsVWx6YkREaS1EQWVLUGpIVFhHWlloYmFHb25jbmtidlloZmZMc01WTGNoeg?oc=5",
-   "date": "2026-08-20",
-   "summary": "首发| 钛动科技完成新一轮融资：全球豪门投一位阿里前员工  手机新浪网",
-   "body": "首发| 钛动科技完成新一轮融资：全球豪门投一位阿里前员工  手机新浪网",
-   "tags": [
-    "竞品",
-    "融资"
-   ]
-  },
-  {
-   "id": "nc2d768c06e",
-   "category": "竞品",
-   "company": "",
-   "title": "钛动科技创始人李述昊：AI+产业是广东下个黄金十年的最大机会 - 21财经",
-   "source": "21财经",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZjlaaTI4Mm5IYnplQmY4enZTc29LdndHblltc3VLVWhka3NmNDhMYVJYSHl5Z3IzOWRyX0tNTVNEQWZ1akdULWtzaVh4OGxscjJPUnBsSGdod0lCV2phRklLVmVKRHpsOElWa1JWbkR4ckU2TmJkUVBFQVdwdVVGVUMxM19landQdThKdllEVQ?oc=5",
-   "date": "2026-03-17",
-   "summary": "钛动科技创始人李述昊：AI+产业是广东下个黄金十年的最大机会  21财经",
-   "body": "钛动科技创始人李述昊：AI+产业是广东下个黄金十年的最大机会  21财经",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "nae1b08bc20",
-   "category": "竞品",
-   "company": "",
-   "title": "国际资本重仓广州AI标的，钛动科技完成新一轮融资 - t.cj.sina.cn",
-   "source": "t.cj.sina.cn",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9jZzhpeHBsd0lvZjVCRnV5ZGNvbzZuRDRXN2xsMy03RGptdTRKX1hKaGRZemhTam82cHR0eU1zYVAxYmF3UVllYm41RFFZSFUyQ2JTSDB0Z3BkTWVVTlFUSndwSXp1eXh4T3FaRng3SlR5OTFTM3lsdGVITTVQYjA?oc=5",
-   "date": "2026-08-20",
-   "summary": "国际资本重仓广州AI标的，钛动科技完成新一轮融资  t.cj.sina.cn",
-   "body": "国际资本重仓广州AI标的，钛动科技完成新一轮融资  t.cj.sina.cn",
-   "tags": [
-    "竞品",
-    "融资"
-   ]
-  },
-  {
-   "id": "nec8a5506b4",
-   "category": "竞品",
-   "company": "",
-   "title": "广州这家ChatGPT技术供应商，拿下新融资！ - 搜狐网",
-   "source": "搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVmpNVUlhLTVuX3ZZeFJKR0V3Mms0azlmWTF5MjBqbmlrTU5QS2RxV2VpQVRZNW84Y0NqeFpiQkQzR2ViYXFrV0o0NDJ1S3BLUVMwVlJQS2ZTV3BSUkhXeXdJUWxQR3IzSFViLVNhaW1MWHgwWDZkallDbF9DR3hrNng4RE5Yd3NI?oc=5",
-   "date": "2026-08-20",
-   "summary": "广州这家ChatGPT技术供应商，拿下新融资！  搜狐网",
-   "body": "广州这家ChatGPT技术供应商，拿下新融资！  搜狐网",
-   "tags": [
-    "竞品",
-    "融资"
-   ]
-  },
-  {
-   "id": "n11f6b6772e",
-   "category": "竞品",
-   "company": "",
-   "title": "智推时代完成数千万元天使轮融资，一年不到突破亿元ARR - QQ News",
-   "source": "QQ News",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9zU2l6RE9RN2pEeW1pdGpCbHZESjlTd2E1ZVNmQ2hLT0tuOGttZlFHYkNEME5GNm1PU3JNVFNtRkFMZnVQdG5JNy1ZaXV1TUU5Tkw5SVpR?oc=5",
-   "date": "2026-07-13",
-   "summary": "智推时代完成数千万元天使轮融资，一年不到突破亿元ARR  QQ News",
-   "body": "智推时代完成数千万元天使轮融资，一年不到突破亿元ARR  QQ News",
-   "tags": [
-    "竞品",
-    "融资"
-   ]
-  },
-  {
-   "id": "n736fc33092",
-   "category": "行业",
-   "company": "",
-   "title": "揭AI伪装之幕，明广告执法之径——烟台大学“法眼识广”实践队调研纪实 - 中华网",
-   "source": "中华网",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGZ2p0Rzc3RjA4N19sZWRuOEplZUs3NFozODI2azc4SDlwVXB0NzlrYnRBZW9aTnRtVm5tRFFqVEZSb3NKNF9qS3JETU9ZSURpM2ljQVMwM05KUUlXT3c?oc=5",
-   "date": "2026-08-22",
-   "summary": "揭AI伪装之幕，明广告执法之径——烟台大学“法眼识广”实践队调研纪实  中华网",
-   "body": "揭AI伪装之幕，明广告执法之径——烟台大学“法眼识广”实践队调研纪实  中华网",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "naf60ac0f37",
-   "category": "行业",
-   "company": "",
-   "title": "9393体育在线登录_游戏资讯_Liftoff：生成式AI将广告创意迭代周期从18天缩短至1天 - womenofchina.com",
-   "source": "womenofchina.com",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBKRk5lYXZvSHU0WHZGT3g0QnFldDU0M2NuMU1ZX3VwdFAwSUZnTVZWdzJZeVdLT1YtZmwtZ1JHQmhOOVFkZFhuUF9OcTRDdUhteWdEVnJGQjJhSWx3ZHhwSXdHc2pLbVozYi1N?oc=5",
-   "date": "2026-08-17",
-   "summary": "9393体育在线登录_游戏资讯_Liftoff：生成式AI将广告创意迭代周期从18天缩短至1天  womenofchina.com",
-   "body": "9393体育在线登录_游戏资讯_Liftoff：生成式AI将广告创意迭代周期从18天缩短至1天  womenofchina.com",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "nf13e69a2a0",
-   "category": "行业",
-   "company": "",
-   "title": "​AI网红“戴”美瞳，虚拟人代言不能越过真实边界|新京报快评 - 新京报",
-   "source": "新京报",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9OTjVEbEEtVmV1YTBzbzhwN3g0ZjZCMURMQ2VJR19xY3BxVGFpRVI1bXdXdHhnbUVWR3NSLXV4cjRJd0xJbmczLVg0M3owQ0RqODJ1UnhTX3h5eG9La3RXOGxlQ0o?oc=5",
-   "date": "2026-08-05",
-   "summary": "​AI网红“戴”美瞳，虚拟人代言不能越过真实边界|新京报快评  新京报",
-   "body": "​AI网红“戴”美瞳，虚拟人代言不能越过真实边界|新京报快评  新京报",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n0db63bb77c",
-   "category": "政策",
-   "company": "",
-   "title": "TikTok升级AI内容治理规则加强AI素材审核- 快讯 - 亿邦动力网",
-   "source": "亿邦动力网",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5QUHhMc0xRcVp0N21QVEswVEFzNlpTUHBQY1RrYXhzZ284WWg5cF9UT2RlQVVCWXphd01ycjBYazA3MFdua0J4cnUtN0RldG9CQ1I4RU1qNVk?oc=5",
-   "date": "2026-07-13",
-   "summary": "TikTok升级AI内容治理规则加强AI素材审核- 快讯  亿邦动力网",
-   "body": "TikTok升级AI内容治理规则加强AI素材审核- 快讯  亿邦动力网",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "ne8778c2aae",
-   "category": "客户",
-   "company": "",
-   "title": "对话珀莱雅接班人侯亚孟：在新手区，学做全球品牌丨晚点周末 - 搜狐网",
-   "source": "搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPM0FuemNjNWc2ME1ERURjcy10ZjlLYUpOZnNwWlNhbUVWTEVMd2Z3NEt5NGtsRDducVNDUS1WczhxdlNWR0NMZ2FhWDY1UWNLZFBkamRvN1IzNF83RVhTRFpoTjhqbFN5ZVV6dGsxbmVnUTdLZXNYeG41bkRabUtCQkR5WnVleXEyN2h2dw?oc=5",
-   "date": "2026-08-22",
-   "summary": "对话珀莱雅接班人侯亚孟：在新手区，学做全球品牌丨晚点周末  搜狐网",
-   "body": "对话珀莱雅接班人侯亚孟：在新手区，学做全球品牌丨晚点周末  搜狐网",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "na3d650494c",
-   "category": "客户",
-   "company": "",
-   "title": "跳槽百亿美妆龙头，丸美前联席CEO吴梦任珀莱雅首席增长官 - 奥一网",
-   "source": "奥一网",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1QbVF4R2pqZ3gzd0duaUs4Y2pJSGVHaGhoRVlMNExFWjdEa21CaW1aZnRTaHpqZmFtdVF4eUtwVTRNSVZhV3FOUVdzeV9URHVXczhjQzE5UUdjOGVGU0dpdW84SmJsQQ?oc=5",
-   "date": "2026-05-12",
-   "summary": "跳槽百亿美妆龙头，丸美前联席CEO吴梦任珀莱雅首席增长官  奥一网",
-   "body": "跳槽百亿美妆龙头，丸美前联席CEO吴梦任珀莱雅首席增长官  奥一网",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "n81ef0f2b0a",
-   "category": "竞品",
-   "company": "",
-   "title": "钛动科技宣布完成新一轮融资：华泰泛大西洋基金领投 - 新浪财经",
-   "source": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVHBTNjVTblZoZ2ZKTkZyVWwzSlluV0FSNFQ3ZHRBcHdwcE9IaDhlTEpfTHhTYUNEQ1ZlUWxwM1VpR3FSUXRuVWllRVdZazBpek5TZElKYVFMVnpJXzFlRXUwUEtkdF8yWG5fQmxUUzZUb0h4MlpIQ3FoeVZKSEJxMzVuU0k0Z1k4Z3Y3Xw?oc=5",
-   "date": "2026-08-20",
-   "summary": "钛动科技宣布完成新一轮融资：华泰泛大西洋基金领投  新浪财经",
-   "body": "钛动科技宣布完成新一轮融资：华泰泛大西洋基金领投  新浪财经",
-   "tags": [
-    "竞品",
-    "融资"
-   ]
-  },
-  {
-   "id": "n0df97538b1",
-   "category": "竞品",
-   "company": "",
-   "title": "首发| 钛动科技完成新一轮融资：全球豪门投一位阿里前员工 - t.cj.sina.cn",
-   "source": "t.cj.sina.cn",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFAtWE5iOXFqR0JEM3VmMHhuTlFUbkgzZDdQYjZtdmVyY0JsdTVfY0lEdDFKU3AxUnJSV0NyVHRoZlNla2lwb1pwSEJTYkJUU2FVbXBTVkhOU29hOFVGN21hcFNjTGsySUtxc3A2M1NNNXo?oc=5",
-   "date": "2026-08-21",
-   "summary": "首发| 钛动科技完成新一轮融资：全球豪门投一位阿里前员工  t.cj.sina.cn",
-   "body": "首发| 钛动科技完成新一轮融资：全球豪门投一位阿里前员工  t.cj.sina.cn",
-   "tags": [
-    "竞品",
-    "融资"
    ]
   }
  ]
