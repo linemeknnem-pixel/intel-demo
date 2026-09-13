@@ -1,10 +1,196 @@
 {
  "meta": {
-  "generated": "2026-09-12",
+  "generated": "2026-09-13",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 11 条，合计 400 条"
+  "note": "新增 13 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "n0372d822cb",
+   "category": "竞品",
+   "company": "",
+   "title": "获得2000万融资之后 今立智能AI营销业务进入加速期 - 驱动之家",
+   "source": "驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE96dmJvaU1lUUJzQWdiSTg4Q3hseURhY0FsSE5HSUxfd1lWalBnWU41bUJpTzUzV01ZQ2IybjEtMjZCbDRxRFkyaHdSMUM2dElEa0dHcnZCM1o?oc=5",
+   "date": "2026-09-13",
+   "summary": "获得2000万融资之后 今立智能AI营销业务进入加速期  驱动之家",
+   "body": "获得2000万融资之后 今立智能AI营销业务进入加速期  驱动之家",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "n8152ec7bfd",
+   "category": "竞品",
+   "company": "",
+   "title": "AI营销科技公司钛动科技完成新一轮融资，创始人李述昊有华为阿里背景 - QQ News",
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1NNFRvTGxLTDh0QkplYXZyV09COVk5azlfR2h4a09QTWdKYjdGR3F3bFF5TFFzMC05NEMxSVltVkJVM2JhZXNneVRlUnJIWkpXV1AwaEVB?oc=5",
+   "date": "2026-08-20",
+   "summary": "AI营销科技公司钛动科技完成新一轮融资，创始人李述昊有华为阿里背景  QQ News",
+   "body": "AI营销科技公司钛动科技完成新一轮融资，创始人李述昊有华为阿里背景  QQ News",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "n736fc33092",
+   "category": "行业",
+   "company": "",
+   "title": "揭AI伪装之幕，明广告执法之径——烟台大学“法眼识广”实践队调研纪实 - 中华网",
+   "source": "中华网",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBGZ2p0Rzc3RjA4N19sZWRuOEplZUs3NFozODI2azc4SDlwVXB0NzlrYnRBZW9aTnRtVm5tRFFqVEZSb3NKNF9qS3JETU9ZSURpM2ljQVMwM05KUUlXT3c?oc=5",
+   "date": "2026-08-22",
+   "summary": "揭AI伪装之幕，明广告执法之径——烟台大学“法眼识广”实践队调研纪实  中华网",
+   "body": "揭AI伪装之幕，明广告执法之径——烟台大学“法眼识广”实践队调研纪实  中华网",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n8b59f1ade6",
+   "category": "政策",
+   "company": "",
+   "title": "India: Meta accused of running AI‑generated child sexual abuse ads despite govt.'s ban, incl. co. comment - Business and Human Rights Centre",
+   "source": "Business and Human Rights Centre",
+   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNdjBNeFdVUTlDT1lRMndhSkNYUVBoaFpfY1V2LUpaVFpMNWFURFN6a2dqbUFGN3dxRkQ0T1VfUEVGTE1tdzljZ2M0MzBQRlJJT2FzM1d2a3gyd1N2SVp1ZDN3ZXE2TXAzdXc1Ti0tYVpxLUVFbHBydlFUbzdCNU1OS283UUt3V29zYnFzNnNEYWlsbG9kckpDN1RhX2hvMmFPMlh1eWZwT0dtVmJFRXRSdXptcnNJWlBQbmxud1pYSS1XUE4tTVVDTmRHX2dPUnBLOWxndVFRUGVzV1ZveHc?oc=5",
+   "date": "2026-09-09",
+   "summary": "India: Meta accused of running AI‑generated child sexual abuse ads despite govt.'s ban, incl. co. comment  Business and Human Rights Centre",
+   "body": "India: Meta accused of running AI‑generated child sexual abuse ads despite govt.'s ban, incl. co. comment  Business and Human Rights Centre",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nef87c081e0",
+   "category": "政策",
+   "company": "",
+   "title": "Meta“卖算力”震动AI市场：算力过剩 还是过度恐慌？ - 东方财富",
+   "source": "东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBzclZ2RUkyMERKOEtSQXk0RDBicVlKczlCR0FUNzFtaHdoQnhhcWJzVHg2Q0trZTQzQnJDdkJ4NVZIdjhIc2V5ejg5OHBfVmMzODd6a09MN28tcWdpejRnTA?oc=5",
+   "date": "2026-07-02",
+   "summary": "Meta“卖算力”震动AI市场：算力过剩 还是过度恐慌？  东方财富",
+   "body": "Meta“卖算力”震动AI市场：算力过剩 还是过度恐慌？  东方财富",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n4c0a8b8123",
+   "category": "客户",
+   "company": "",
+   "title": "AI广告乱象：美妆品牌颐莲短片美化陌生异性尾随女学生行为 - 奥一网",
+   "source": "奥一网",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBYeVF2V1FnUmN5NW0xT0QyVVcyVzVMbUY2VUZYNFdCT1k4M04zVC03cDBHYUY2SkRzVG1MZ2x2MThIN19nX1FoZ3JhVlJTaHM1TlFSRkcwTmN2QTBHLXhHZzdhZnN2QQ?oc=5",
+   "date": "2026-09-06",
+   "summary": "AI广告乱象：美妆品牌颐莲短片美化陌生异性尾随女学生行为  奥一网",
+   "body": "AI广告乱象：美妆品牌颐莲短片美化陌生异性尾随女学生行为  奥一网",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n92698cfbfb",
+   "category": "客户",
+   "company": "",
+   "title": "AI时代，品牌全球化的新解法 - Morketing",
+   "source": "Morketing",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5zY0JIOGhUTEpxa0s5TVo5S3BSNUc1T1pjcnZ6WldSV0kyZDNYVUVkaWRvb05OYkIyNG1FWi1haC1zb2lVYzJhcXZHRHRmSGc?oc=5",
+   "date": "2026-07-03",
+   "summary": "AI时代，品牌全球化的新解法  Morketing",
+   "body": "AI时代，品牌全球化的新解法  Morketing",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n6ebfc5d28c",
+   "category": "客户",
+   "company": "",
+   "title": "自然堂跨入「50亿俱乐部」：国货美妆如何穿越周期？ - 财经号",
+   "source": "财经号",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5oY2JkNTVfOWN1QUczck5ER1JUUE1Qa1lxcVBCRDlJMjlnaUliYTRDRk12NGhyZGpMbGdHQU9wSGZvOVJrVUZRX1pCbjRnSUlYNzVjdmdJa0c3cnBRVXhhU3VienM0RVc0NHJR?oc=5",
+   "date": "2026-06-18",
+   "summary": "自然堂跨入「50亿俱乐部」：国货美妆如何穿越周期？  财经号",
+   "body": "自然堂跨入「50亿俱乐部」：国货美妆如何穿越周期？  财经号",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "neb7370391d",
+   "category": "客户",
+   "company": "",
+   "title": "“OPC·智合规赢增，AI+跨境电商高峰论坛”成功举办，七大实战路径助力跨境出海 - 潮新闻客户端",
+   "source": "潮新闻客户端",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HdTZPZThfOURRRmxqc0VkYUQwdDh6cEFraWJtWHJmNC1GX3E2NXUtMUFOZ29rVkVIaEVuZ1BNclRTejVpQWJLUEZjUzJ5S2ZrRUJEWDEzb3B5enFBckdiNzEzYXZjaF9PdHBrWGpPbFVUanc?oc=5",
+   "date": "2026-06-15",
+   "summary": "“OPC·智合规赢增，AI+跨境电商高峰论坛”成功举办，七大实战路径助力跨境出海  潮新闻客户端",
+   "body": "“OPC·智合规赢增，AI+跨境电商高峰论坛”成功举办，七大实战路径助力跨境出海  潮新闻客户端",
+   "tags": [
+    "客户",
+    "出海",
+    "合规"
+   ]
+  },
+  {
+   "id": "na1ed0b8e92",
+   "category": "消费者",
+   "company": "",
+   "title": "《2026中国暑期旅游市场洞察报告》发布 - 新浪新闻_手机新浪网",
+   "source": "新浪新闻_手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxPRnNGQnRQUlg2dGh1Vkcwb2EyMXVLZGNUTUZsUjdvQm1SVGpzUHNuNVZGVmxhWjZETU1aU3hRUWsxZnpaNHlGb00yeDJ0aWg4ek51c1Y5aHE1Skk2MEl2bTh1aWFXRWNmTGlTWmlUaVlreElJS0IyLVZ4UkJPa2lDYkpJWUhUSnBaclB4bGVrdS1IcUdQQ1BpMkR5NDExNmNYRUVyaHJPVnlYemUyQzM0THdKcU9icW1yVE5mbkFBMUlEYWMxX0s3YThNcUs3TVJzWXhhZEZtMGszLWh6NUcya3lVTlhnLXFBekNLbVQycG84bE5VSW91Q2pfMF9qQW1idkl2QnA5M2VFVGswNDhDai10T25EaVd4M2NROFB6a0NJcXJHd1pneDdIcGpxdmZnbTRXbWJWZXJOaU9XY3pDNUpibjhyTk56UUMwMG1sV2R4UzE0VWVCRg?oc=5",
+   "date": "2026-09-12",
+   "summary": "《2026中国暑期旅游市场洞察报告》发布  新浪新闻_手机新浪网",
+   "body": "《2026中国暑期旅游市场洞察报告》发布  新浪新闻_手机新浪网",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "na6c56dca59",
+   "category": "消费者",
+   "company": "",
+   "title": "2026小红书文旅峰会圆满举办：重构文旅行业增长新逻辑 - rmzxw.com.cn",
+   "source": "rmzxw.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rTm85cE5LZ3hfNTlQaE1DaUFNUW53UFBFT1hEdW14V1dzenh2dmdyamR4MnR1RFo0WGJjZ0Fxc3UyTWtqa0NPZlIycEtiUm0yU2hsZ2VkOU5GT1pWUXh3?oc=5",
+   "date": "2026-05-07",
+   "summary": "2026小红书文旅峰会圆满举办：重构文旅行业增长新逻辑  rmzxw.com.cn",
+   "body": "2026小红书文旅峰会圆满举办：重构文旅行业增长新逻辑  rmzxw.com.cn",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "nc8728039dd",
+   "category": "消费者",
+   "company": "",
+   "title": "小红书热点内容解读（2026年第2季度） - itopmarketing.com",
+   "source": "itopmarketing.com",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yN05XNEZ3YzVCQ2ZMWjBRRi1HWUFRV2x2WXpTbXhPSlFOY3NNOXYtZ19Bdndqa1U2cXFvcEE1X0RqUjRzbmpFcC1TOHc2T3hu?oc=5",
+   "date": "2026-07-08",
+   "summary": "小红书热点内容解读（2026年第2季度）  itopmarketing.com",
+   "body": "小红书热点内容解读（2026年第2季度）  itopmarketing.com",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n09b3f9c803",
+   "category": "消费者",
+   "company": "",
+   "title": "2026春夏抖音电商时尚消费趋势报告 - 发现报告",
+   "source": "发现报告",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ma1NIanZZM1VCQmczTk1DTzN3WTZySUktWUlNcnExazFOLTc2dWRXcTE1RjVHZ2ZrZFVkdVJ6QkxGUXBLdC1pdWJmWWItbmxW?oc=5",
+   "date": "2026-01-09",
+   "summary": "2026春夏抖音电商时尚消费趋势报告  发现报告",
+   "body": "2026春夏抖音电商时尚消费趋势报告  发现报告",
+   "tags": [
+    "消费者"
+   ]
+  },
   {
    "id": "neac6473979",
    "category": "竞品",
@@ -5567,195 +5753,6 @@
    "tags": [
     "客户",
     "出海"
-   ]
-  },
-  {
-   "id": "n1082532ef8",
-   "category": "消费者",
-   "company": "",
-   "title": "飞猪、小红书“五一”出行趋势：7成用户基于兴趣选目的地，体验型商品增速超大盘 - 环球旅讯",
-   "source": "环球旅讯",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oMnRHMGpCS0RDcWFvaVBXaE5oUEpIbl94djdKb0xQU3Zqd3c0NFY3c1dzRkRXbWp5MGN4V2dCUXE3QzlMakJRcUtLaVV6aTNaT09KSQ?oc=5",
-   "date": "2026-05-06",
-   "summary": "飞猪、小红书“五一”出行趋势：7成用户基于兴趣选目的地，体验型商品增速超大盘  环球旅讯",
-   "body": "飞猪、小红书“五一”出行趋势：7成用户基于兴趣选目的地，体验型商品增速超大盘  环球旅讯",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n1f9efa7ef7",
-   "category": "消费者",
-   "company": "",
-   "title": "小红书灵犀亮相央视：种草成为「需求引领供给」新路径 - 中国日报网",
-   "source": "中国日报网",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XTjdCeDRfbjNMa0pRdzhpWEcyOV9rTHpIZGMyTkw0ZjZZU2VxWEJNSEdSTmUxY2hzbmhuUzZabUJlRUZFeVliM0lDTGFOZ2plZkhsWThTaW1tb25obG0xWndhUkNITHVrTEVVNmVmcnFFYmY4UHpOc2pVQkw?oc=5",
-   "date": "2026-03-04",
-   "summary": "小红书灵犀亮相央视：种草成为「需求引领供给」新路径  中国日报网",
-   "body": "小红书灵犀亮相央视：种草成为「需求引领供给」新路径  中国日报网",
-   "tags": [
-    "消费者",
-    "种草"
-   ]
-  },
-  {
-   "id": "n38a0cbccd9",
-   "category": "消费者",
-   "company": "",
-   "title": "《2026小红书文旅兴趣出游种草指南》发布：在「兴趣」里看见文旅生意的新入口 - 中国网海丝频道",
-   "source": "中国网海丝频道",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95by1KMXh0OU9RUXh2UDdwM2JiN1pjSnhETDBHQXVBRUJrNGl5RWs0cXA1UjJLc2NWd3E1bjIwUGphMHFPaU5OUzlzWVAwanhTTjU0bktyR0p1eEFhTEhtbUZKWTBmQQ?oc=5",
-   "date": "2026-01-27",
-   "summary": "《2026小红书文旅兴趣出游种草指南》发布：在「兴趣」里看见文旅生意的新入口  中国网海丝频道",
-   "body": "《2026小红书文旅兴趣出游种草指南》发布：在「兴趣」里看见文旅生意的新入口  中国网海丝频道",
-   "tags": [
-    "消费者",
-    "种草"
-   ]
-  },
-  {
-   "id": "n35d37f788f",
-   "category": "消费者",
-   "company": "",
-   "title": "Z世代金融新趋势，《小红书金融行业白皮书》发布 - CBNData-第一财经商业数据中心",
-   "source": "CBNData-第一财经商业数据中心",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xcDZIWmVLRTJuV1lSOGVBY2JaOVhJbF82TGt3UVZMdWlEVHpxNjRXWkRfUDV3YURCZDdIbTFMS1FpMVV3QVRXRmpwaTFsd3JkNzJ5cw?oc=5",
-   "date": "2026-03-13",
-   "summary": "Z世代金融新趋势，《小红书金融行业白皮书》发布  CBNData-第一财经商业数据中心",
-   "body": "Z世代金融新趋势，《小红书金融行业白皮书》发布  CBNData-第一财经商业数据中心",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n92fbf4daa5",
-   "category": "消费者",
-   "company": "",
-   "title": "月活破4亿、时长同比增长43% 小红书加码中长视频赛道 - 财联社",
-   "source": "财联社",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4xZDFiVFVPS19Kdi1sRXc3cUlBWG9WSmp3S3hVRzNYS09qQ0l5dTIyWXVMNnB6RWFSVVkyMmFtNU1lekFPSWlhdw?oc=5",
-   "date": "2026-05-27",
-   "summary": "月活破4亿、时长同比增长43% 小红书加码中长视频赛道  财联社",
-   "body": "月活破4亿、时长同比增长43% 小红书加码中长视频赛道  财联社",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n56dd685ab5",
-   "category": "消费者",
-   "company": "",
-   "title": "2026抖音电商宠物消费数据报告：县域实体工厂贡献超九成成交额、八成商家 - 京报网",
-   "source": "京报网",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9yRzZobTh0ckgxQURjQUJxWllxM2F1aGxzX0ktV2l6UHh2ZUxWOUtIUTVDQjBXWEdveWJzd09BblA2U2ZjUG5rbWJwMTRMVW9UbzdyWkJRSVoyQnZ6WlE?oc=5",
-   "date": "2026-08-21",
-   "summary": "2026抖音电商宠物消费数据报告：县域实体工厂贡献超九成成交额、八成商家  京报网",
-   "body": "2026抖音电商宠物消费数据报告：县域实体工厂贡献超九成成交额、八成商家  京报网",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n0652aa7542",
-   "category": "消费者",
-   "company": "",
-   "title": "过去一年抖音电商产业带香氛商品累计售出超1亿单 - 新榜",
-   "source": "新榜",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ISjRXMmU1bEUyQUVnR2lra2E5TjlKY3JSNW1KZ0Z3RHJSeGQtT3JWUkxxbVV5UGhQLTZNOUVyS2YxUUVjNXZYTjBsN1R3T0tp?oc=5",
-   "date": "2026-04-30",
-   "summary": "过去一年抖音电商产业带香氛商品累计售出超1亿单  新榜",
-   "body": "过去一年抖音电商产业带香氛商品累计售出超1亿单  新榜",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n5c5324d46a",
-   "category": "消费者",
-   "company": "",
-   "title": "2026 春夏抖音电商时尚消费趋势重磅发布，妆造一体引领消费新浪潮 - ebusinessreview.cn",
-   "source": "ebusinessreview.cn",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6bWtuU0RpdE5aZ2RleGdwVzVaaHpSM2RzU0xWOE5BSF9BZnphamZGX0EwT0RkMzFvM1JPdnhXcDFxaHE2SW1BT0pjdXJTTDdNUFhnUlFBdFNYb1BCSlZybmZiYTRrbTQ1WEl4LVlWXzdlRWoyMWpMbw?oc=5",
-   "date": "2026-01-13",
-   "summary": "2026 春夏抖音电商时尚消费趋势重磅发布，妆造一体引领消费新浪潮  ebusinessreview.cn",
-   "body": "2026 春夏抖音电商时尚消费趋势重磅发布，妆造一体引领消费新浪潮  ebusinessreview.cn",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n84208a194a",
-   "category": "消费者",
-   "company": "",
-   "title": "2026年，小红书打响文旅种草下半场 - 环球旅讯",
-   "source": "环球旅讯",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14NnpEN0h2UTFZOVZGWDhQQzZ4UHBVY2dkN1hVNzNRZEJnUTE2cXdtWFFxLVBuLWpfbnJhMXNTcUhqZG9PSUl3bXNKZWVhMl9QaHc?oc=5",
-   "date": "2026-01-27",
-   "summary": "2026年，小红书打响文旅种草下半场  环球旅讯",
-   "body": "2026年，小红书打响文旅种草下半场  环球旅讯",
-   "tags": [
-    "消费者",
-    "种草"
-   ]
-  },
-  {
-   "id": "n600681bdd4",
-   "category": "竞品",
-   "company": "",
-   "title": "被投企业 | 靖亚资本被投企业特赞完成D1轮融资，成内容科技独角兽 - 阿里云创新中心",
-   "source": "阿里云创新中心",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16ZEo5TGNKUEh5ZW9UdHRNMGJKMWxKZjZ4Y0Q5M2xjX1A0bHU3YWVnaU5Zb1FVRHpfelNJNUNVaTRuUU92eVEzVHZQZTFPNk02NjN0Y010Zw?oc=5",
-   "date": "2024-04-24",
-   "summary": "被投企业 | 靖亚资本被投企业特赞完成D1轮融资，成内容科技独角兽  阿里云创新中心",
-   "body": "被投企业 | 靖亚资本被投企业特赞完成D1轮融资，成内容科技独角兽  阿里云创新中心",
-   "tags": [
-    "竞品",
-    "融资",
-    "独角兽"
-   ]
-  },
-  {
-   "id": "nab6841efa8",
-   "category": "竞品",
-   "company": "",
-   "title": "钛动科技完成新一轮融资 将加码AI营销 - 新浪财经",
-   "source": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOVlwbVVnMlR0eTZBbUdPcWdjX2M4M3pZX3RaancwWG5FZFk2Y1VKUnFIeU9oT1prazZjSG5lLVVlaXZORHhRQUhXaFZLUlR2Nm5hZzR4dnloMmYwTS10TnFpYkdCV2U2STFCZFJDaTBnUkdZOUQxZ0lUNHFwcFFKSXQtYUVBUUE?oc=5",
-   "date": "2026-08-20",
-   "summary": "钛动科技完成新一轮融资 将加码AI营销  新浪财经",
-   "body": "钛动科技完成新一轮融资 将加码AI营销  新浪财经",
-   "tags": [
-    "竞品",
-    "融资"
-   ]
-  },
-  {
-   "id": "n36e997ac7e",
-   "category": "竞品",
-   "company": "",
-   "title": "首发| 钛动科技完成新一轮融资：全球豪门投一位阿里前员工 - QQ News",
-   "source": "QQ News",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBLUzJUcllxb2Jma3BpWVdwQkFFSUJPamdXREhuWmxEVzdrWEJja3dTeHlIc24za1FCMGZiaFhmT2tuQ2NGd2xxY21ZOUttcm9Id0xLajFXdTZSd1o2MUZQM0Fn?oc=5",
-   "date": "2026-08-20",
-   "summary": "首发| 钛动科技完成新一轮融资：全球豪门投一位阿里前员工  QQ News",
-   "body": "首发| 钛动科技完成新一轮融资：全球豪门投一位阿里前员工  QQ News",
-   "tags": [
-    "竞品",
-    "融资"
-   ]
-  },
-  {
-   "id": "nf85a1f0d22",
-   "category": "竞品",
-   "company": "",
-   "title": "被形容有米其林大厨气质的汉堡 - 微博",
-   "source": "微博",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9UMVpacHRnaTVSWHpRbmJPQjVCYWxidHZpclJxWTVBQzRWaWNBMldoWFJ2Rk1pcXdZV1VvTm1wT2p4MURMMUxWc0hjZW9UWDBJZWpfdk1R?oc=5",
-   "date": "2026-08-22",
-   "summary": "被形容有米其林大厨气质的汉堡  微博",
-   "body": "被形容有米其林大厨气质的汉堡  微博",
-   "tags": [
-    "竞品"
    ]
   }
  ]
