@@ -3,9 +3,185 @@ window.KB_DATA = {
  "meta": {
   "generated": "2026-09-15",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 19 条，合计 400 条"
+  "note": "新增 12 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "n6e31186736",
+   "category": "竞品",
+   "company": "",
+   "title": "特赞：我们远不止是一家设计服务公司，还是一家人工智能科技公司|创业 - 动点科技",
+   "source": "动点科技",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHNHJLVTBDY2ZNaGJ4V0xBcktXNDFEMW5PT0lzY3hyX1FwZk5MZ1Z1RFVZMXU0YndoZnU0UWlVVV8xU05pTndjLTQ4cUdGbFBpSmZGX19VSnNpdENndGdB?oc=5",
+   "date": "2018-09-20",
+   "summary": "特赞：我们远不止是一家设计服务公司，还是一家人工智能科技公司|创业  动点科技",
+   "body": "特赞：我们远不止是一家设计服务公司，还是一家人工智能科技公司|创业  动点科技",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n600681bdd4",
+   "category": "竞品",
+   "company": "",
+   "title": "被投企业 | 靖亚资本被投企业特赞完成D1轮融资，成内容科技独角兽 - 阿里云创新中心",
+   "source": "阿里云创新中心",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE16ZEo5TGNKUEh5ZW9UdHRNMGJKMWxKZjZ4Y0Q5M2xjX1A0bHU3YWVnaU5Zb1FVRHpfelNJNUNVaTRuUU92eVEzVHZQZTFPNk02NjN0Y010Zw?oc=5",
+   "date": "2021-11-02",
+   "summary": "被投企业 | 靖亚资本被投企业特赞完成D1轮融资，成内容科技独角兽  阿里云创新中心",
+   "body": "被投企业 | 靖亚资本被投企业特赞完成D1轮融资，成内容科技独角兽  阿里云创新中心",
+   "tags": [
+    "竞品",
+    "融资",
+    "独角兽"
+   ]
+  },
+  {
+   "id": "ne133e63d97",
+   "category": "竞品",
+   "company": "",
+   "title": "上影昊浦发布昊帧影视创制平台，AI影视创作周期从“天”级压缩至“小时”级 - 上观新闻",
+   "source": "上观新闻",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1keGlKdUJBTzFmV3AzVFFmck4yT0hOdnptOHV1a3IwbnNuT3dGMmlYZGhLY1NlcmgxbTFrT1FZMFRvcUFVeG9yWG9XNWl1cXBRaUVmN29PdmpKdw?oc=5",
+   "date": "2026-08-24",
+   "summary": "上影昊浦发布昊帧影视创制平台，AI影视创作周期从“天”级压缩至“小时”级  上观新闻",
+   "body": "上影昊浦发布昊帧影视创制平台，AI影视创作周期从“天”级压缩至“小时”级  上观新闻",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n2b8a57e964",
+   "category": "竞品",
+   "company": "",
+   "title": "Profound 获得 $180M D 轮融资，估值达 $1.8B - unite.ai",
+   "source": "unite.ai",
+   "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLWZZZ0o1NHFKMUFGaDAwams1MzJSaWtsVFJYaUFhNTc0TEJYRS1kckxYNDJKQXlzcDVCazJJQ1pOelJfQ0UxNm02eW5EYkVZTGphZlJJcjNNUWdIdW1WMEJ6QUNpSEFWaUItX3VsYTNIdGNHbUEyRk9YNVpSS1NxNEEyVTlxRmVGQWpIYnZfTGpCdFRaNUE?oc=5",
+   "date": "2026-09-15",
+   "summary": "Profound 获得 $180M D 轮融资，估值达 $1.8B  unite.ai",
+   "body": "Profound 获得 $180M D 轮融资，估值达 $1.8B  unite.ai",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "n88211a8027",
+   "category": "行业",
+   "company": "",
+   "title": "2026年网络营销行业分析报告：趋势、竞争与数据洞察 - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSVNESXRpd3BvcHUxTExPRmo1ZjVRSHhvQV90V0l5dWYzbXl4RWhTRk5lOGh1R1dpOWhCU0d4UjJfLUhxMEMtbXZnM2xTbG51Z3ZMdHRxVXUtSlBMNC1LVnoyM0hicURNVW4xMHJkQ21yRmVZSHZyUVpPc0dDM2Utbnhtdnc?oc=5",
+   "date": "2026-04-10",
+   "summary": "2026年网络营销行业分析报告：趋势、竞争与数据洞察  新浪财经",
+   "body": "2026年网络营销行业分析报告：趋势、竞争与数据洞察  新浪财经",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "ncf643f9bd2",
+   "category": "行业",
+   "company": "",
+   "title": "工具堆不出确定性增长，飞书深诺Marvy 2.0重构出海AI营销范式 - Morketing",
+   "source": "Morketing",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBwanpYUTBZRjZwZjVHR0Q5Y2wwWlk5WEh3eUw1S3EyTGswenZEb2c0STdQcW54dm5zTURzUjdtQ1lYV0JMU2RGd3kxN1QzRXZXVC1B?oc=5",
+   "date": "2026-07-23",
+   "summary": "工具堆不出确定性增长，飞书深诺Marvy 2.0重构出海AI营销范式  Morketing",
+   "body": "工具堆不出确定性增长，飞书深诺Marvy 2.0重构出海AI营销范式  Morketing",
+   "tags": [
+    "行业",
+    "出海"
+   ]
+  },
+  {
+   "id": "n55d8eb50d6",
+   "category": "政策",
+   "company": "",
+   "title": "韩国向境外公司发出概率披露预通知；Google Ads释放新信号｜Enjoy出海政策周报 - Enjoy出海",
+   "source": "Enjoy出海",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lZ2RlMk1qWnUzOHh0bElJQjF6M2ZaQXpJTGtGZFJYcnVvU29vcl9CNkt0VHdZOW5VcEpwMFNjUGV6dEI3QzlzUVhINGZCanBHNXZTMVRYX3FiZw?oc=5",
+   "date": "2026-09-15",
+   "summary": "韩国向境外公司发出概率披露预通知；Google Ads释放新信号｜Enjoy出海政策周报  Enjoy出海",
+   "body": "韩国向境外公司发出概率披露预通知；Google Ads释放新信号｜Enjoy出海政策周报  Enjoy出海",
+   "tags": [
+    "政策",
+    "出海"
+   ]
+  },
+  {
+   "id": "nfe9acd747d",
+   "category": "客户",
+   "company": "",
+   "title": "拼多多严打AB货 TikTok欧洲投10亿商家激励| 邦小白日报- 栏目 - 亿邦动力网",
+   "source": "亿邦动力网",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5CZ3d2VVkwcURPSjZmQlowQzFqNHZVSzVIVk9nV3dHRGFCdzV6ZE42XzRhZjRMSU4zRDFvUDl5SW82Rkk2TjJzZGFQNHR3Qmc2U2tIQkdB?oc=5",
+   "date": "2026-09-15",
+   "summary": "拼多多严打AB货 TikTok欧洲投10亿商家激励| 邦小白日报- 栏目  亿邦动力网",
+   "body": "拼多多严打AB货 TikTok欧洲投10亿商家激励| 邦小白日报- 栏目  亿邦动力网",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n38623d9a04",
+   "category": "客户",
+   "company": "",
+   "title": "易点天下「可见性峰会」圆满收官，以GEO+GEM构筑AI时代品牌全球化护城河 - 雷峰网",
+   "source": "雷峰网",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5sME1nWXBsNktpZUxyYVJLcmhmVnVWUHM2eXpqMkphajN4SmpCQzVBRmEtQkpyamVxdTJuRkpraG95NXFrT3ZIQkZBRUpXZ1RuQ1BGdFIyMm8xaVlvaHFkS25Gdm9SalBpcU1ITk5abWtmdXVLam9z?oc=5",
+   "date": "2026-03-08",
+   "summary": "易点天下「可见性峰会」圆满收官，以GEO+GEM构筑AI时代品牌全球化护城河  雷峰网",
+   "body": "易点天下「可见性峰会」圆满收官，以GEO+GEM构筑AI时代品牌全球化护城河  雷峰网",
+   "tags": [
+    "客户",
+    "GEO"
+   ]
+  },
+  {
+   "id": "n24c9f72a18",
+   "category": "客户",
+   "company": "",
+   "title": "从30000+跨境出海人的奔赴到170+企业的选择——GTC2026 Shenzhen即将启幕 - 量子位",
+   "source": "量子位",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsVnBhVGxkYTdzR2VEUzQxaWpjTTVubERoREpyTVl4dXp3dmNKSk1ublZqQXl2RktkSlpSaVpfTnNfVkE2YnFid1F3VXpSeFdRMkN6Rg?oc=5",
+   "date": "2026-04-03",
+   "summary": "从30000+跨境出海人的奔赴到170+企业的选择——GTC2026 Shenzhen即将启幕  量子位",
+   "body": "从30000+跨境出海人的奔赴到170+企业的选择——GTC2026 Shenzhen即将启幕  量子位",
+   "tags": [
+    "客户",
+    "出海"
+   ]
+  },
+  {
+   "id": "n356fa45a12",
+   "category": "消费者",
+   "company": "",
+   "title": "小红书发布首份金融生态公约，对包括非法荐股在内的8类禁止内容做出明确划分 - thepaper.cn",
+   "source": "thepaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5BU0hRc0plNGhnR2tPeEp0TnoxZVV4UEFTeTF2TEx6WHI1SnNrbWFxUE1ocXIyZGF4UjhTVEhRUko5WTJPVWpneEd3a2VucUEzY3doZHlUcm9zbHNZdk0xRw?oc=5",
+   "date": "2026-09-15",
+   "summary": "小红书发布首份金融生态公约，对包括非法荐股在内的8类禁止内容做出明确划分  thepaper.cn",
+   "body": "小红书发布首份金融生态公约，对包括非法荐股在内的8类禁止内容做出明确划分  thepaper.cn",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "nff4cd28019",
+   "category": "消费者",
+   "company": "",
+   "title": "6T体育开户平台：从人群洞察到场景种草，实现安全价值与用户增长的双重突破 - 体坛加",
+   "source": "体坛加",
+   "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE5scXNkaFNRckJEbGhoa3lXUFdYMEdHR0Z3Q2pjc2hYaFAzelN5aGJNUXc1NUhpbzNiNTF6RHV1Vy1HUFA1alpN?oc=5",
+   "date": "2026-09-12",
+   "summary": "6T体育开户平台：从人群洞察到场景种草，实现安全价值与用户增长的双重突破  体坛加",
+   "body": "6T体育开户平台：从人群洞察到场景种草，实现安全价值与用户增长的双重突破  体坛加",
+   "tags": [
+    "消费者",
+    "种草"
+   ]
+  },
   {
    "id": "nc6f3f444ed",
    "category": "竞品",
@@ -5588,177 +5764,6 @@ window.KB_DATA = {
    "tags": [
     "竞品",
     "融资"
-   ]
-  },
-  {
-   "id": "n3e11a3cdc8",
-   "category": "竞品",
-   "company": "",
-   "title": "阿里前员工做AI出海，被全球豪门资本疯抢 - 新浪财经",
-   "source": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWGxfS2xFOHpwTzdKV2k3cDBqLUZobnA0ZHJmNTQwZUtGaUZiVEFRdXFFSFNoMmNXZDI2ZFkwcTFJSjcyZThuMG5mbFVwVGl5N0NBZ2FvZWtISDA0QmpoZVEzMmRscU8xa0hHVXFjZWYwejgtWk8yaExLZm15Mk5Lbmh1TUdNcE0?oc=5",
-   "date": "2026-08-21",
-   "summary": "阿里前员工做AI出海，被全球豪门资本疯抢  新浪财经",
-   "body": "阿里前员工做AI出海，被全球豪门资本疯抢  新浪财经",
-   "tags": [
-    "竞品",
-    "出海"
-   ]
-  },
-  {
-   "id": "na2bd3c539e",
-   "category": "竞品",
-   "company": "",
-   "title": "OpenAI和全球顶尖资本，为何看中这家公司？ - 凤凰网",
-   "source": "凤凰网",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5TeVhWZmE1Qy1xcTI4dksxZy16YlhnTzdDVUZ3TkxwdlFWUGVram9wb0pOcDhBdUNfemJyNHBfem5zVVFHTExqVTU0TzNYTW80?oc=5",
-   "date": "2026-08-24",
-   "summary": "OpenAI和全球顶尖资本，为何看中这家公司？  凤凰网",
-   "body": "OpenAI和全球顶尖资本，为何看中这家公司？  凤凰网",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "nba6a416017",
-   "category": "行业",
-   "company": "",
-   "title": "当AIGC遇上人间烟火--中国移动在线营销服务中心以“数智共创”探索服务传播新路径 - 新华网",
-   "source": "新华网",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xYUtIaFJzMnljTzlPSmdfOGJPV05KaGZoSzZleHBrQVBVN2tEc2tlYm0xb2RoWVRWSE1KWVBEcU8zajMzaG9sbkRHdV9TM0hXWmhGX1VKMXk4UTZZaWlkdU9BRnZvaU1paWpwSExGRy1zLWhPZm1XWXo0LU1GQQ?oc=5",
-   "date": "2026-07-29",
-   "summary": "当AIGC遇上人间烟火--中国移动在线营销服务中心以“数智共创”探索服务传播新路径  新华网",
-   "body": "当AIGC遇上人间烟火--中国移动在线营销服务中心以“数智共创”探索服务传播新路径  新华网",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "nd88bad29af",
-   "category": "行业",
-   "company": "",
-   "title": "2026年5月智达明远AI亮剑双盛会|破解获客难、成本高痛点，做懂企业需求的AI营销获客公司 - 中华网",
-   "source": "中华网",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14MWpWeGI5RUN2MVYxR0pQejBGQXNGVGtTMGg2djJib28tamFCTnkzc09fYWgxYUhWZlVaNmlRUWJuT05OZlRWR3lUZGtmR2M5Q0dvUTVTQlZSSHRaQ0E?oc=5",
-   "date": "2026-05-20",
-   "summary": "2026年5月智达明远AI亮剑双盛会|破解获客难、成本高痛点，做懂企业需求的AI营销获客公司  中华网",
-   "body": "2026年5月智达明远AI亮剑双盛会|破解获客难、成本高痛点，做懂企业需求的AI营销获客公司  中华网",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "nbe9389d4d5",
-   "category": "行业",
-   "company": "",
-   "title": "姚记线上娱乐送彩金_游戏资讯_Liftoff：生成式AI将广告创意迭代周期从18天缩短至1天 - womenofchina.com",
-   "source": "womenofchina.com",
-   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBhcUY1LU9xS3hBc1RmUUZuUmlEbHdmUHludEVFWThRNHpOUHVUUEpMLUlDa0JBYm5qUXYwUThIRE0zei1CWVFwWkZuQ2s5aF9rd1pLTEdHN2hXU1VQd09uOHRjVUdBVlRQMWc?oc=5",
-   "date": "2026-08-19",
-   "summary": "姚记线上娱乐送彩金_游戏资讯_Liftoff：生成式AI将广告创意迭代周期从18天缩短至1天  womenofchina.com",
-   "body": "姚记线上娱乐送彩金_游戏资讯_Liftoff：生成式AI将广告创意迭代周期从18天缩短至1天  womenofchina.com",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "ne47ab423e2",
-   "category": "政策",
-   "company": "",
-   "title": "Google Ads 的新篇章：2026 年服务条款全面修订 - ALM Corp",
-   "source": "ALM Corp",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWElhRU5uTjF0VWZKNk5DcEJIYkZaT3VWS1ZNaXFJVHN5RndHcXV5N18tSmtOa01YRFNmSndOc3FSOEg3WTlxRlliUmVZbWQxMkZsOG5rT3JPMDhIU1MzWWZwaDYzVzU0VUZiVXJBWXB4QmZ5WF9TRGdwSFE2VEtEQzJFQQ?oc=5",
-   "date": "2026-06-04",
-   "summary": "Google Ads 的新篇章：2026 年服务条款全面修订  ALM Corp",
-   "body": "Google Ads 的新篇章：2026 年服务条款全面修订  ALM Corp",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "na42d582305",
-   "category": "政策",
-   "company": "",
-   "title": "Google：2026年7月1日，Google Ads将更新针对爱尔兰共和国的赌博和游戏政 - 富途牛牛",
-   "source": "富途牛牛",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNaHU0a3VxNHZDSXBrRWYydGEzLUljVTFCdE9aQXpoRUtfWWtrOHdhUzZsQWZad2xraS1UMUI3dF9JTkEyYlBJZ3lpTmN3Vk9hOU5JbXhQaXh2YTNLcWE4ZnIyOW12ZmRVc1N3VFdoSS1ZNWJQeDJ0cm1RS3owTlBkbGVIYmsxMjVZd2o3dmNGeFdRUk5ESG9V?oc=5",
-   "date": "2026-07-01",
-   "summary": "Google：2026年7月1日，Google Ads将更新针对爱尔兰共和国的赌博和游戏政  富途牛牛",
-   "body": "Google：2026年7月1日，Google Ads将更新针对爱尔兰共和国的赌博和游戏政  富途牛牛",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "neb628a46ac",
-   "category": "客户",
-   "company": "",
-   "title": "珀莱雅2026半年报：净利增长46%，新锐爆发，多品牌战略迎来收获期 - 搜狐网",
-   "source": "搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVDlfMnZEVjNGMnFSalY5Tm5pQXgyV3VyWEtvZzFVOVdaVnRxbWpyZGVwUVd0akZnU25fYzVqZkQwLXZ3RFQxSndaVFNkcFZWNTc0UmJFQkQyb1NGZkxIYzZjR0tFT2syMkNQeTNRQ0JWYlNhNjk3UHI2aldlUXRrX1ZBRDEwbWE0?oc=5",
-   "date": "2026-08-25",
-   "summary": "珀莱雅2026半年报：净利增长46%，新锐爆发，多品牌战略迎来收获期  搜狐网",
-   "body": "珀莱雅2026半年报：净利增长46%，新锐爆发，多品牌战略迎来收获期  搜狐网",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "n53780ea9df",
-   "category": "客户",
-   "company": "",
-   "title": "AI赋能千行百业一线观察｜AI深度渗透美妆产业链 驱动行业智能变革 - 新华网",
-   "source": "新华网",
-   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYjdwRVdEZ1NfM2JEbFBJZ0s5Z1lySGtyakpFZnVjQlB2akh4Ym16U25DcTQtVjNpbDIwOVI0X3lzUHZLU1FreGNkUWR2clBzaDBJdC1ZUklYWWxFQmtkbENDemdFZmNkSnd0b3BjMFkwSmUycmV2WHFDVGNWNnZTUG9R?oc=5",
-   "date": "2026-04-27",
-   "summary": "AI赋能千行百业一线观察｜AI深度渗透美妆产业链 驱动行业智能变革  新华网",
-   "body": "AI赋能千行百业一线观察｜AI深度渗透美妆产业链 驱动行业智能变革  新华网",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "nee73eeaeea",
-   "category": "客户",
-   "company": "",
-   "title": "财报解读 | 珀莱雅2025年百亿营收背后，是多品牌支撑下的高质量发展 - 潮新闻客户端",
-   "source": "潮新闻客户端",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rYUItUVplODNWcDNwemRMLTJjWkpwaHhRNl9ZZ1FGY3dLMk1RTURNdWlBcVUwRFIzaE1ic2pDRzY5aldzNC1BMlBwNXlkZXBDbmxuNWh5QQ?oc=5",
-   "date": "2026-04-21",
-   "summary": "财报解读 | 珀莱雅2025年百亿营收背后，是多品牌支撑下的高质量发展  潮新闻客户端",
-   "body": "财报解读 | 珀莱雅2025年百亿营收背后，是多品牌支撑下的高质量发展  潮新闻客户端",
-   "tags": [
-    "客户",
-    "财报"
-   ]
-  },
-  {
-   "id": "n79773c98fe",
-   "category": "客户",
-   "company": "",
-   "title": "2026年GEO服务商实力榜TOP3：谁在定义AI营销的下一个十年？_联盟频道_企业报道 - 同花顺财经",
-   "source": "同花顺财经",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Ub2o3ZEcxZXBYaTBpYy10c09zNWRKTGVTdXNIOVhKUVhXQUhqUUNWWlkwdnhhc1VRbXNBSk41X2dVeWRwUl9kLTRuaW9iWF9TM1FqNFdjcjF3VlVucVE?oc=5",
-   "date": "2026-08-22",
-   "summary": "2026年GEO服务商实力榜TOP3：谁在定义AI营销的下一个十年？_联盟频道_企业报道  同花顺财经",
-   "body": "2026年GEO服务商实力榜TOP3：谁在定义AI营销的下一个十年？_联盟频道_企业报道  同花顺财经",
-   "tags": [
-    "客户",
-    "GEO"
-   ]
-  },
-  {
-   "id": "n8fd40366d7",
-   "category": "客户",
-   "company": "",
-   "title": "QuestMobile：2026年上半年中国互联网广告市场规模达3853.4亿元，同比增长7.1% - thepaper.cn",
-   "source": "thepaper.cn",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1tdjZsYkYwRUlPMWVhN2VINzFoMThaYlkzdU1TOHBWQnFmMHhjVkNGUlh1S052NmV0Mmw5dmNuY09lbllTMlgxM1BGV0FUc20xT1J4Rzh6dmw1SzhVVlE?oc=5",
-   "date": "2026-08-20",
-   "summary": "QuestMobile：2026年上半年中国互联网广告市场规模达3853.4亿元，同比增长7.1%  thepaper.cn",
-   "body": "QuestMobile：2026年上半年中国互联网广告市场规模达3853.4亿元，同比增长7.1%  thepaper.cn",
-   "tags": [
-    "客户"
    ]
   }
  ]
