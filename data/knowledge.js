@@ -1,11 +1,287 @@
 /* 自动生成 by scripts/ingest.py —— 请勿手改 */
 window.KB_DATA = {
  "meta": {
-  "generated": "2026-09-13",
+  "generated": "2026-09-15",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 13 条，合计 400 条"
+  "note": "新增 19 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "nc6f3f444ed",
+   "category": "竞品",
+   "company": "",
+   "title": "连接Facebook与Instagram双场景：钛动科技把Meta开户从“填表等审核”接进增长链路 - Sohu",
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWnYtVUdYWlJBdGl5TW1LWE1LckpMSWRteUxmb3lkTjZ3ZkVISFJ4TEoxektERE5hYktPRWFhck9GSTc2Q202Ukp1emZjcTE0SVN6bTBGODZPcWdwSHR1Q1I3VmNROWdvN1VKZ0hJV3pFSGd6OUpDbGtCZ2x4VGo4T3B4VkQ1SlJlQlVzRw?oc=5",
+   "date": "2026-09-14",
+   "summary": "连接Facebook与Instagram双场景：钛动科技把Meta开户从“填表等审核”接进增长链路  Sohu",
+   "body": "连接Facebook与Instagram双场景：钛动科技把Meta开户从“填表等审核”接进增长链路  Sohu",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n83e05f96be",
+   "category": "竞品",
+   "company": "",
+   "title": "国内 AI 公司奥创光年完成1500万美元A+轮融资，美图、凯辉基金联合领投 - Sohu",
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBoMnZhYUdWSFBRdVNRRExYcGtxWTUxbG44SVRLM2tFZG5Ub2JpODBMOVNYYWx0UDQzXzI5Mzd0dGVlRURpVC1QenVHOExaUVRh?oc=5",
+   "date": "2024-01-29",
+   "summary": "国内 AI 公司奥创光年完成1500万美元A+轮融资，美图、凯辉基金联合领投  Sohu",
+   "body": "国内 AI 公司奥创光年完成1500万美元A+轮融资，美图、凯辉基金联合领投  Sohu",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "n4691c18e24",
+   "category": "行业",
+   "company": "",
+   "title": "AI营销行业观察：2026年全国GEO服务商TOP5榜单与发展趋势（最新更新） - 凤凰网科技",
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE10SjlibDFGR1I3OERJS1VqWDZSY1ZSRDBSZWV3SlJZRXdjYm44aVYzZW85QUJ2V0tSV0NKVWR3NVhHZ1NKNEs4N1BVZnQ?oc=5",
+   "date": "2026-09-14",
+   "summary": "AI营销行业观察：2026年全国GEO服务商TOP5榜单与发展趋势（最新更新）  凤凰网科技",
+   "body": "AI营销行业观察：2026年全国GEO服务商TOP5榜单与发展趋势（最新更新）  凤凰网科技",
+   "tags": [
+    "行业",
+    "GEO"
+   ]
+  },
+  {
+   "id": "n031fc66694",
+   "category": "行业",
+   "company": "",
+   "title": "《2026年消费电子市场洞察》：大疆、安克等中国品牌通过数字渠道加速全球扩张，电子零售约三分之一年度广告预算集中在Q4 - 白鲸出海",
+   "source": "白鲸出海",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ob2U1Ni1vQkNzYy1CVnpicnFva0Qzc3ZqdFBjR2pSTUZocTdpb3JJdk5zUjdXUERCekt2RkE3ZEFRYkZFNEJLZmZzQnU?oc=5",
+   "date": "2026-09-14",
+   "summary": "《2026年消费电子市场洞察》：大疆、安克等中国品牌通过数字渠道加速全球扩张，电子零售约三分之一年度广告预算集中在Q4  白鲸出海",
+   "body": "《2026年消费电子市场洞察》：大疆、安克等中国品牌通过数字渠道加速全球扩张，电子零售约三分之一年度广告预算集中在Q4  白鲸出海",
+   "tags": [
+    "行业",
+    "出海"
+   ]
+  },
+  {
+   "id": "n9bb64c2f2c",
+   "category": "政策",
+   "company": "",
+   "title": "电商晚报：齐心集团亮相厦门供应链年会AI供应链项目获三等奖- 栏目 - 亿邦动力网",
+   "source": "亿邦动力网",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5Uemk5V0loWHdNUU9PVmhDbDZJYVdDaUdLUGU0cUpzQjBKaVNvUlZFTkRrbVM4X1M2RFFmcUJGOGV5Y0t6MXpxVlg0Y1doZjhndC1NVWF3?oc=5",
+   "date": "2026-09-14",
+   "summary": "电商晚报：齐心集团亮相厦门供应链年会AI供应链项目获三等奖- 栏目  亿邦动力网",
+   "body": "电商晚报：齐心集团亮相厦门供应链年会AI供应链项目获三等奖- 栏目  亿邦动力网",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nc2fe6d86ef",
+   "category": "政策",
+   "company": "",
+   "title": "Meta广告后台正在进行灰度测试：广告组里那个“排除”按钮要没了 - 白鲸出海",
+   "source": "白鲸出海",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9TQTBvZXU3UVNOZ2hjSUltZzB2eVVNUlRPX2RTOVFoaUcxallaaXZ4Ykc2NDctVlpnMWJ3dGdGRHFqRWp1dDRyYmtZMF8?oc=5",
+   "date": "2026-09-14",
+   "summary": "Meta广告后台正在进行灰度测试：广告组里那个“排除”按钮要没了  白鲸出海",
+   "body": "Meta广告后台正在进行灰度测试：广告组里那个“排除”按钮要没了  白鲸出海",
+   "tags": [
+    "政策",
+    "出海"
+   ]
+  },
+  {
+   "id": "nf7b5905c75",
+   "category": "政策",
+   "company": "",
+   "title": "Meta 的 AI 账本：608 亿营收为何撑不住股价？ - CryptoRank",
+   "source": "CryptoRank",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5zWjY0R0xUNHJLemxqX1N3QUVidGZ6Nnp5QVhSd3VaekYzVjdQbDA3YkdFTEV4RjdQNjBmUnFUWkxYb3N2YlZtSlZDRkF3d2UyWldPeW1wNWlCYmVi?oc=5",
+   "date": "2026-09-14",
+   "summary": "Meta 的 AI 账本：608 亿营收为何撑不住股价？  CryptoRank",
+   "body": "Meta 的 AI 账本：608 亿营收为何撑不住股价？  CryptoRank",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n2b2dfec4dd",
+   "category": "客户",
+   "company": "",
+   "title": "珀莱雅累计回购202.45万股 支付资金1.29亿元 - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhT21BeEdKVDA5cWktUDJLREtOd1doZ1dhalFCQ2xQeTR5YXQ1MmMwR3oxMFhWWHVSNHc0Ri1wSjdlV0dVZWdyYzRJWFBmMmNkZHBxZlVEb2VOVTE2MjFiRkF5c1VYcWx5eDJfbmVB?oc=5",
+   "date": "2026-09-01",
+   "summary": "珀莱雅累计回购202.45万股 支付资金1.29亿元  新浪财经",
+   "body": "珀莱雅累计回购202.45万股 支付资金1.29亿元  新浪财经",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "nf3b66ee378",
+   "category": "客户",
+   "company": "",
+   "title": "AI搜索时代，华南品牌如何被优先推荐？智推时代深圳子公司给出全链路答案 - 中宏网",
+   "source": "中宏网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB4cFBxa2FTQUJPY1htV1ExWk1JMGozcmJiN2tLN1VCeFJnOE5wMWZrZG85aTZLblpPTVQ2ZmpRUFA5OFJrbVdXaEhEdkQ2a1o3TVhyT0NQZFY1dDRhcWxueVJ3?oc=5",
+   "date": "2026-09-14",
+   "summary": "AI搜索时代，华南品牌如何被优先推荐？智推时代深圳子公司给出全链路答案  中宏网",
+   "body": "AI搜索时代，华南品牌如何被优先推荐？智推时代深圳子公司给出全链路答案  中宏网",
+   "tags": [
+    "客户",
+    "AI搜索"
+   ]
+  },
+  {
+   "id": "n88631e823c",
+   "category": "客户",
+   "company": "",
+   "title": "AI广告乱象：美妆品牌颐莲短片美化陌生异性尾随女学生行为 - 海报新闻",
+   "source": "海报新闻",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9BQjk2X1dvOW1wWWVMWjVoczhVSmVuUEk5blQzdkRvTi1RaFlyRm5xSUNZbHBDWDVnU2ZoXzAwbmVXRjlNZVhXeTFhcTNOTnBy?oc=5",
+   "date": "2026-09-07",
+   "summary": "AI广告乱象：美妆品牌颐莲短片美化陌生异性尾随女学生行为  海报新闻",
+   "body": "AI广告乱象：美妆品牌颐莲短片美化陌生异性尾随女学生行为  海报新闻",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "nbe6aaaac22",
+   "category": "客户",
+   "company": "",
+   "title": "氧气科技入选《2026中国GEO服务商采购指南》，成为AI搜索标杆服务商 - 中华网",
+   "source": "中华网",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1UZHFfdU13eHYwQ3FXQUFuaC0yT2swME1NNkpIRnk1V2NDNlNmaXZPbjQ0UERsc1k3Q3dpRWtHemVqd2lydllQNWs5cjAxcUg3NWY5ei1rQnhraEhBeEE?oc=5",
+   "date": "2026-06-26",
+   "summary": "氧气科技入选《2026中国GEO服务商采购指南》，成为AI搜索标杆服务商  中华网",
+   "body": "氧气科技入选《2026中国GEO服务商采购指南》，成为AI搜索标杆服务商  中华网",
+   "tags": [
+    "客户",
+    "GEO",
+    "AI搜索"
+   ]
+  },
+  {
+   "id": "nf1579287df",
+   "category": "客户",
+   "company": "",
+   "title": "GTC2026 全球流量大会（上海）火热招商中：鲸鸣奖申报进行时，邀你共赴出海新征程 - 白鲸出海",
+   "source": "白鲸出海",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9vV1RKRjNtR1h3SUJjWVJCMER3TEVzUVIwV2x0RTJmaEFtZ0Q5VVpKa1pCNlFWMFY3WkVHajFPQzFPQW9USzBROFFvYnY?oc=5",
+   "date": "2026-09-14",
+   "summary": "GTC2026 全球流量大会（上海）火热招商中：鲸鸣奖申报进行时，邀你共赴出海新征程  白鲸出海",
+   "body": "GTC2026 全球流量大会（上海）火热招商中：鲸鸣奖申报进行时，邀你共赴出海新征程  白鲸出海",
+   "tags": [
+    "客户",
+    "出海"
+   ]
+  },
+  {
+   "id": "n17acc578ac",
+   "category": "客户",
+   "company": "",
+   "title": "活动｜2026 福布斯中国DTC跨境影响力品牌评选盛典圆满落幕- 可持续性頻道 - Forbes China",
+   "source": "Forbes China",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5fTGtoS1VDYV91bnNDeHh4eGpFSDNBdHAzVkYtVlFyMy1laUlESGJVc210SnVJdHJkZThoZ3lWempsQjVaSjZsNEpCODNIMS1HRy0xU3pYS0VwbUtp?oc=5",
+   "date": "2026-05-27",
+   "summary": "活动｜2026 福布斯中国DTC跨境影响力品牌评选盛典圆满落幕- 可持续性頻道  Forbes China",
+   "body": "活动｜2026 福布斯中国DTC跨境影响力品牌评选盛典圆满落幕- 可持续性頻道  Forbes China",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n1082532ef8",
+   "category": "消费者",
+   "company": "",
+   "title": "飞猪、小红书“五一”出行趋势：7成用户基于兴趣选目的地，体验型商品增速超大盘 - 环球旅讯",
+   "source": "环球旅讯",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oMnRHMGpCS0RDcWFvaVBXaE5oUEpIbl94djdKb0xQU3Zqd3c0NFY3c1dzRkRXbWp5MGN4V2dCUXE3QzlMakJRcUtLaVV6aTNaT09KSQ?oc=5",
+   "date": "2026-05-06",
+   "summary": "飞猪、小红书“五一”出行趋势：7成用户基于兴趣选目的地，体验型商品增速超大盘  环球旅讯",
+   "body": "飞猪、小红书“五一”出行趋势：7成用户基于兴趣选目的地，体验型商品增速超大盘  环球旅讯",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n1f9efa7ef7",
+   "category": "消费者",
+   "company": "",
+   "title": "小红书灵犀亮相央视：种草成为「需求引领供给」新路径 - 中国日报网",
+   "source": "中国日报网",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5XTjdCeDRfbjNMa0pRdzhpWEcyOV9rTHpIZGMyTkw0ZjZZU2VxWEJNSEdSTmUxY2hzbmhuUzZabUJlRUZFeVliM0lDTGFOZ2plZkhsWThTaW1tb25obG0xWndhUkNITHVrTEVVNmVmcnFFYmY4UHpOc2pVQkw?oc=5",
+   "date": "2026-03-04",
+   "summary": "小红书灵犀亮相央视：种草成为「需求引领供给」新路径  中国日报网",
+   "body": "小红书灵犀亮相央视：种草成为「需求引领供给」新路径  中国日报网",
+   "tags": [
+    "消费者",
+    "种草"
+   ]
+  },
+  {
+   "id": "n38a0cbccd9",
+   "category": "消费者",
+   "company": "",
+   "title": "《2026小红书文旅兴趣出游种草指南》发布：在「兴趣」里看见文旅生意的新入口 - 中国网海丝频道",
+   "source": "中国网海丝频道",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE95by1KMXh0OU9RUXh2UDdwM2JiN1pjSnhETDBHQXVBRUJrNGl5RWs0cXA1UjJLc2NWd3E1bjIwUGphMHFPaU5OUzlzWVAwanhTTjU0bktyR0p1eEFhTEhtbUZKWTBmQQ?oc=5",
+   "date": "2026-01-27",
+   "summary": "《2026小红书文旅兴趣出游种草指南》发布：在「兴趣」里看见文旅生意的新入口  中国网海丝频道",
+   "body": "《2026小红书文旅兴趣出游种草指南》发布：在「兴趣」里看见文旅生意的新入口  中国网海丝频道",
+   "tags": [
+    "消费者",
+    "种草"
+   ]
+  },
+  {
+   "id": "n35d37f788f",
+   "category": "消费者",
+   "company": "",
+   "title": "Z世代金融新趋势，《小红书金融行业白皮书》发布 - CBNData-第一财经商业数据中心",
+   "source": "CBNData-第一财经商业数据中心",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5xcDZIWmVLRTJuV1lSOGVBY2JaOVhJbF82TGt3UVZMdWlEVHpxNjRXWkRfUDV3YURCZDdIbTFMS1FpMVV3QVRXRmpwaTFsd3JkNzJ5cw?oc=5",
+   "date": "2026-03-13",
+   "summary": "Z世代金融新趋势，《小红书金融行业白皮书》发布  CBNData-第一财经商业数据中心",
+   "body": "Z世代金融新趋势，《小红书金融行业白皮书》发布  CBNData-第一财经商业数据中心",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n92fbf4daa5",
+   "category": "消费者",
+   "company": "",
+   "title": "月活破4亿、时长同比增长43% 小红书加码中长视频赛道 - 财联社",
+   "source": "财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4xZDFiVFVPS19Kdi1sRXc3cUlBWG9WSmp3S3hVRzNYS09qQ0l5dTIyWXVMNnB6RWFSVVkyMmFtNU1lekFPSWlhdw?oc=5",
+   "date": "2026-05-27",
+   "summary": "月活破4亿、时长同比增长43% 小红书加码中长视频赛道  财联社",
+   "body": "月活破4亿、时长同比增长43% 小红书加码中长视频赛道  财联社",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n3ed9bfa919",
+   "category": "消费者",
+   "company": "",
+   "title": "芭乐、羽衣甘蓝相关商品成热门选项，抖音电商特色风味商品订单量同比增长 78% - 凤凰网科技",
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1pZ2MxenlueW9rLTBYekpFZHlyRk1PNUpTMkd1SlZUS0h0TmpYLVE1UVZCd2xvZDQ5NjA2UFRSVFJ2NVU4M3NCbllkLUk?oc=5",
+   "date": "2026-09-14",
+   "summary": "芭乐、羽衣甘蓝相关商品成热门选项，抖音电商特色风味商品订单量同比增长 78%  凤凰网科技",
+   "body": "芭乐、羽衣甘蓝相关商品成热门选项，抖音电商特色风味商品订单量同比增长 78%  凤凰网科技",
+   "tags": [
+    "消费者"
+   ]
+  },
   {
    "id": "n0372d822cb",
    "category": "竞品",
@@ -5483,277 +5759,6 @@ window.KB_DATA = {
    "body": "QuestMobile：2026年上半年中国互联网广告市场规模达3853.4亿元，同比增长7.1%  thepaper.cn",
    "tags": [
     "客户"
-   ]
-  },
-  {
-   "id": "ncdf510e177",
-   "category": "客户",
-   "company": "",
-   "title": "AI重塑出海新范式，《2026中国出口跨境电商发展趋势白皮书》发布 - 封面新闻",
-   "source": "封面新闻",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5aam1XLVo1MmtYQWNObnFROGtNTnVVMVZ2MkR0REN4MWFfZHB3T1ptaFpVS25HX19DdFJ2WGxRcWxvaC1ycjRPOFFGYllvaFNtV1QtY00tWGpaS0xCY0xoWEZiU2dmeVJsaW9OcXRSbUd2ZngyUFFz?oc=5",
-   "date": "2026-06-16",
-   "summary": "AI重塑出海新范式，《2026中国出口跨境电商发展趋势白皮书》发布  封面新闻",
-   "body": "AI重塑出海新范式，《2026中国出口跨境电商发展趋势白皮书》发布  封面新闻",
-   "tags": [
-    "客户",
-    "出海"
-   ]
-  },
-  {
-   "id": "n1b8f69a1f6",
-   "category": "客户",
-   "company": "",
-   "title": "易点天下「可见性峰会」圆满收官，以GEO+GEM构筑AI时代品牌全球化护城河 - 雷峰网",
-   "source": "雷峰网",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9xVVg0Rko1b1U4ZnhlQ19PTGdqb2gxLWdBOG81QW16SEFQLTBrcWcyX09ENEpDcXIyeTZKZktCRUx4MHp0M1d3WjVUMXhMblBmZjQ1LXZtZXpIWlpfZ3BCZ19ldUx6QkF5WDlxbDQwNEZwdmxu?oc=5",
-   "date": "2026-03-08",
-   "summary": "易点天下「可见性峰会」圆满收官，以GEO+GEM构筑AI时代品牌全球化护城河  雷峰网",
-   "body": "易点天下「可见性峰会」圆满收官，以GEO+GEM构筑AI时代品牌全球化护城河  雷峰网",
-   "tags": [
-    "客户",
-    "GEO"
-   ]
-  },
-  {
-   "id": "n24c9f72a18",
-   "category": "客户",
-   "company": "",
-   "title": "从30000+跨境出海人的奔赴到170+企业的选择——GTC2026 Shenzhen即将启幕 - 量子位",
-   "source": "量子位",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsVnBhVGxkYTdzR2VEUzQxaWpjTTVubERoREpyTVl4dXp3dmNKSk1ublZqQXl2RktkSlpSaVpfTnNfVkE2YnFid1F3VXpSeFdRMkN6Rg?oc=5",
-   "date": "2026-04-03",
-   "summary": "从30000+跨境出海人的奔赴到170+企业的选择——GTC2026 Shenzhen即将启幕  量子位",
-   "body": "从30000+跨境出海人的奔赴到170+企业的选择——GTC2026 Shenzhen即将启幕  量子位",
-   "tags": [
-    "客户",
-    "出海"
-   ]
-  },
-  {
-   "id": "nee06f640ab",
-   "category": "消费者",
-   "company": "",
-   "title": "小红书WILL商业大会：基于空间、场景与情绪理解商品- 零售 - 亿邦动力网",
-   "source": "亿邦动力网",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5kN1BIWDJuWUh4ZFNNU3htQndLcjE3ZDl5RkZDNWQzMGFwMHZpbnpHWDV0X1h1eE9FR0EwTXVjeVdCQWtMdzJIaDVXOUhrc2JYM0tZc05R?oc=5",
-   "date": "2025-12-24",
-   "summary": "小红书WILL商业大会：基于空间、场景与情绪理解商品- 零售  亿邦动力网",
-   "body": "小红书WILL商业大会：基于空间、场景与情绪理解商品- 零售  亿邦动力网",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n75d50c4e17",
-   "category": "消费者",
-   "company": "",
-   "title": "从一袋猫粮到百亿产业 宠物经济正在改变哪些县城 - 华商网",
-   "source": "华商网",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE13SDVMcFVDTmdpR0piYTJzZGIzakI5ZW1vSXBZYlhjbUxSaW05WjU2bHJuVTM0U2YwOWJMOTRIdjNGNWxBeG9Zd3A5ZXpURVE1OTN3Z0stT05reFlDaDJj?oc=5",
-   "date": "2026-08-22",
-   "summary": "从一袋猫粮到百亿产业 宠物经济正在改变哪些县城  华商网",
-   "body": "从一袋猫粮到百亿产业 宠物经济正在改变哪些县城  华商网",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "nfdfff84dfb",
-   "category": "消费者",
-   "company": "",
-   "title": "抖音电商发布26年宠物消费报告：县域工厂成交额超九成 - t.cj.sina.cn",
-   "source": "t.cj.sina.cn",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5VMGhpTFdkVTk5SWttN1F6S1lLZWNnVUlRVFlWbDZzXzlMXzhuajFpTV9ZS1FfYTZsT3BVZGN4cTNrZ1RwWFBobmRvREdIZ3B5SjJFbTZXYkRKbUU4Wks1aGJ1RlFLYWpGY1kteG5jOEloekZadlBSZ0NrMjlZWVE?oc=5",
-   "date": "2026-08-19",
-   "summary": "抖音电商发布26年宠物消费报告：县域工厂成交额超九成  t.cj.sina.cn",
-   "body": "抖音电商发布26年宠物消费报告：县域工厂成交额超九成  t.cj.sina.cn",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n2ea5e8d6b3",
-   "category": "消费者",
-   "company": "",
-   "title": "臭出圈，卖爆单！《2026抖音电商榴莲消费趋势报告》发布 - rmzxw.com.cn",
-   "source": "rmzxw.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5qYnNmN1BnQTUtdHp0N0stck4tUGN3MVdMaTlpUWtYelNNZFRNSnBEVVFlMHJscXNlMEcwVnI3eHJjdlZxUjBIS3NvZzB0QnBjb3FfempBWHJWVG04enZ3?oc=5",
-   "date": "2026-05-25",
-   "summary": "臭出圈，卖爆单！《2026抖音电商榴莲消费趋势报告》发布  rmzxw.com.cn",
-   "body": "臭出圈，卖爆单！《2026抖音电商榴莲消费趋势报告》发布  rmzxw.com.cn",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "nca7a1ec070",
-   "category": "消费者",
-   "company": "",
-   "title": "从盲种到「精种」 阿里妈妈以AI技术解锁品牌营销全新增长空间 - 36Kr",
-   "source": "36Kr",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB1ZjdlZU5fVjExQnVDRWxPVXp2bDZuNTRQT3NuN3diT2Rkcm50YlpGa3Y3TU5kNm1SZXAtY0Znd2lTbEdTODhiTlRabm1vaWlLdUp3?oc=5",
-   "date": "2026-03-02",
-   "summary": "从盲种到「精种」 阿里妈妈以AI技术解锁品牌营销全新增长空间  36Kr",
-   "body": "从盲种到「精种」 阿里妈妈以AI技术解锁品牌营销全新增长空间  36Kr",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n258772ac0e",
-   "category": "竞品",
-   "company": "",
-   "title": "OpenAI和全球顶尖资本，为何看中这家公司？ - 新浪财经",
-   "source": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSnlJSjh4b1ljdzlUUm1OUWtaOHNNeTVyaEJJazFaX1ZFMGNBTEFKVjY5WDFyUXJwRFpoMDRfX2JFa3dlQ2QzWWUycXVwUmRFTFdfVWgtNDlROF96cUZ5WFNtY1diY0p6Zlc0Y0lTOWlseklyc0lNNTh5NHp4d21IdlF1YXNZNjZla3doUlEzaGlJZHFWOTRGOWtCR2NIVHh2VTR5b0JucVZ5Tk9UdVM4cUFn?oc=5",
-   "date": "2026-08-24",
-   "summary": "OpenAI和全球顶尖资本，为何看中这家公司？  新浪财经",
-   "body": "OpenAI和全球顶尖资本，为何看中这家公司？  新浪财经",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "n23e2bdc1d1",
-   "category": "竞品",
-   "company": "",
-   "title": "不等账户“病发”再开药：钛动科技把AI账户诊断从“救火”变成“体检” - 中华网",
-   "source": "中华网",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBmaUVyR09xWWp6V3c5cDhTQlJSUUhUYjV6ekt1Tkl5NXZpUlc5U0JGdmVNb01hWWdxdkhURkdUTDlQMWF3TWhBa2VOVUJQM2tzQVBFWGViS0FSNTdyZUE?oc=5",
-   "date": "2026-08-24",
-   "summary": "不等账户“病发”再开药：钛动科技把AI账户诊断从“救火”变成“体检”  中华网",
-   "body": "不等账户“病发”再开药：钛动科技把AI账户诊断从“救火”变成“体检”  中华网",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "nbbaf8cf8f4",
-   "category": "竞品",
-   "company": "",
-   "title": "50 台 DGX + 万亿 Token 补贴：上影与筷子科技打造专业级 AI 片场 - 爱范儿",
-   "source": "爱范儿",
-   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5NM1g1US1vanM4bmNYMU1Kb0l3VzZIZVBpMHBLYVNlWTEtaHNvYmRzTDVkNTRzZy1vbW85QkRPNWhLRzQ?oc=5",
-   "date": "2026-08-24",
-   "summary": "50 台 DGX + 万亿 Token 补贴：上影与筷子科技打造专业级 AI 片场  爱范儿",
-   "body": "50 台 DGX + 万亿 Token 补贴：上影与筷子科技打造专业级 AI 片场  爱范儿",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "n07c564975b",
-   "category": "竞品",
-   "company": "",
-   "title": "上影昊浦发布昊帧影视创制平台，AI影视创作周期从“天”级压缩至“小时”级 - 搜狐网",
-   "source": "搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPd0RMTElZTVhNOEdyVzg3VmRIcXVaMHV0VlJUUjE3QnJjU1lPMTJNVnBLU0tfZ016R2Zqdkg4X08wWTJheVozeHNncDgzWVpXU1Z2emlpeF82bUM5b2VlUmtQOUJ3UVgzQkdOR3F6Vkozcnd5WG4tbGhFeDZDM2hfeUJLSlJtbTlEaGZZZw?oc=5",
-   "date": "2026-08-24",
-   "summary": "上影昊浦发布昊帧影视创制平台，AI影视创作周期从“天”级压缩至“小时”级  搜狐网",
-   "body": "上影昊浦发布昊帧影视创制平台，AI影视创作周期从“天”级压缩至“小时”级  搜狐网",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "n0e5db91d43",
-   "category": "竞品",
-   "company": "",
-   "title": "广州这家ChatGPT技术供应商，拿下新融资！ - 智东西",
-   "source": "智东西",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBpRDBMVldyZTVSMS03dkdkTEhCazB4NHhtWDBzVkFKZVpOcGs0T2FibDJ0TGU0YkFteUNHZ2FlajVDUnhycWc?oc=5",
-   "date": "2026-08-20",
-   "summary": "广州这家ChatGPT技术供应商，拿下新融资！  智东西",
-   "body": "广州这家ChatGPT技术供应商，拿下新融资！  智东西",
-   "tags": [
-    "竞品",
-    "融资"
-   ]
-  },
-  {
-   "id": "ncdbfca4172",
-   "category": "政策",
-   "company": "",
-   "title": "Meta 的 AI 账本：608 亿营收为何撑不住股价？ - OKX",
-   "source": "OKX",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5jQWgyUWpXaE9uWXF5b2JsVEdPVlN0YVRoSXp2bXdvaEUwSS1iYnZPWVZhUkl2RmRpRHdEamhJZVBEeHpIUmFsRmdnTVh4eWg1SVRuVG1lQTA3UHU0Q09oMUxBRGdSNWt3SjNrWFlnYzE?oc=5",
-   "date": "2026-08-24",
-   "summary": "Meta 的 AI 账本：608 亿营收为何撑不住股价？  OKX",
-   "body": "Meta 的 AI 账本：608 亿营收为何撑不住股价？  OKX",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "n2e44029fe1",
-   "category": "政策",
-   "company": "",
-   "title": "Google Ads 政策更新：更多广告，新规则 - t.cj.sina.cn",
-   "source": "t.cj.sina.cn",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5rSnEzTW9MRmcwY2IxM29xOGNqTndndlRuSVE0Y0pQaWJTczdpcl93MWx4NlhfQkUwekpyMkxqdEtEZmNCT2RURzV3V2hPcWJFX0xZY3NFRFJrbVVHY1F1YVNKdU41UlNYMHhRNTRiTQ?oc=5",
-   "date": "2025-04-02",
-   "summary": "Google Ads 政策更新：更多广告，新规则  t.cj.sina.cn",
-   "body": "Google Ads 政策更新：更多广告，新规则  t.cj.sina.cn",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "n500993d69a",
-   "category": "客户",
-   "company": "",
-   "title": "珀莱雅(603605):珀莱雅化妆品股份有限公司关于2026年第二季度主要经营数据 - 中财网",
-   "source": "中财网",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBwbTc0VzVPYzQ1TkRiZ0hXbXVTOEs1cWpyemdnendDQXdVYzZwS2N5OVJ2dWJMZVUzdGxEeERoUVhtLTFZTzQ2LTlKX1ZwbV9p?oc=5",
-   "date": "2026-08-24",
-   "summary": "珀莱雅(603605):珀莱雅化妆品股份有限公司关于2026年第二季度主要经营数据  中财网",
-   "body": "珀莱雅(603605):珀莱雅化妆品股份有限公司关于2026年第二季度主要经营数据  中财网",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "n67a54f3dfa",
-   "category": "客户",
-   "company": "",
-   "title": "综合行业周报：智能戒指行业进入规模验证期，功率龙头再次提价验证AI电源需求高景气_行业研究_研报 - 证券之星",
-   "source": "证券之星",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ydmF2M3ZUZm1icHI0Zm50al92bzZoanJZZFl5Q0FHcXc5c2JOZ0Y0Mk5zMU9PZ2JvT0xtemNwQS1Kdlc0WGJ5UlBrNEtMZ0ROazBlY2xPX19DRVZoRnc2OFFR?oc=5",
-   "date": "2026-08-24",
-   "summary": "综合行业周报：智能戒指行业进入规模验证期，功率龙头再次提价验证AI电源需求高景气_行业研究_研报  证券之星",
-   "body": "综合行业周报：智能戒指行业进入规模验证期，功率龙头再次提价验证AI电源需求高景气_行业研究_研报  证券之星",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "n9ccc3ad6f9",
-   "category": "客户",
-   "company": "",
-   "title": "珀莱雅(603605):珀莱雅化妆品股份有限公司关于召开2026年第一次临时股东会的通知 - 中财网",
-   "source": "中财网",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBNWkdRN08wUzFuVlpCQkYzcUFPNllkUGxCLTM2eTRFMU4yTkxkVUF6T3JfM1J5dVdLcVkxNFJkZ2puT2d3QXRENnBaR1J2c1VQ?oc=5",
-   "date": "2026-08-24",
-   "summary": "珀莱雅(603605):珀莱雅化妆品股份有限公司关于召开2026年第一次临时股东会的通知  中财网",
-   "body": "珀莱雅(603605):珀莱雅化妆品股份有限公司关于召开2026年第一次临时股东会的通知  中财网",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "nd9c7d88035",
-   "category": "客户",
-   "company": "",
-   "title": "DTC品牌出海的下一个三年：垂类、订阅与AI，一个都不能少 - 白鲸出海",
-   "source": "白鲸出海",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE80WEJiWkt2d0lYYkJuUVl2Z3dWOExKZG5vUTVtcVVfTVVsaDFBUHI2cWVtN3FXYm5tNzdxMnBPQVVaZGpwOWtlYlZGQXQ?oc=5",
-   "date": "2026-08-24",
-   "summary": "DTC品牌出海的下一个三年：垂类、订阅与AI，一个都不能少  白鲸出海",
-   "body": "DTC品牌出海的下一个三年：垂类、订阅与AI，一个都不能少  白鲸出海",
-   "tags": [
-    "客户",
-    "出海"
    ]
   }
  ]
