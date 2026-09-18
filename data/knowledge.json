@@ -1,10 +1,184 @@
 {
  "meta": {
-  "generated": "2026-09-17",
+  "generated": "2026-09-18",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 16 条，合计 400 条"
+  "note": "新增 12 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "n49e265dea6",
+   "category": "竞品",
+   "company": "",
+   "title": "特赞内容数据资产管理（DAM）， 多场景赋能内容工程 - 美通社",
+   "source": "美通社",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlejZSajZIYi13c1FPdGY1THRmVlFsUXpKeVQ1aUhjWXdYM2VfMkdXQmllbGs5dTlQYW1vazdpSUtlb290TEVPcklMRUlncDN3RXladDlmYw?oc=5",
+   "date": "2021-03-20",
+   "summary": "特赞内容数据资产管理（DAM）， 多场景赋能内容工程  美通社",
+   "body": "特赞内容数据资产管理（DAM）， 多场景赋能内容工程  美通社",
+   "tags": [
+    "竞品",
+    "DAM"
+   ]
+  },
+  {
+   "id": "n9b18548e37",
+   "category": "行业",
+   "company": "",
+   "title": "OpenAi最近广告，创意我给满分 - 4A广告网",
+   "source": "4A广告网",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPby1EMl9WN2tzdEJwVjdpOXJYRnZIei1QanpOeDdzMkdnNk1GR3BIc25rbmtHSEg4elA1Z1dRSGlHYzg1NjNpY2ZVOHlob2NHdm14RWpkRGV5OFh0SUI4?oc=5",
+   "date": "2026-09-18",
+   "summary": "OpenAi最近广告，创意我给满分  4A广告网",
+   "body": "OpenAi最近广告，创意我给满分  4A广告网",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n3459644926",
+   "category": "政策",
+   "company": "",
+   "title": "TikTok 广告投放教程推荐：2026 出海卖家实战完整学习指南 - 全球定制网",
+   "source": "全球定制网",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9DVnE0d1gxVGVTTDJaSVRoaWcxY1QxaTZRQTlJOTdxRDU0eHpqMVMxT2JVaURwcmZsa25mRWtHbldKaVpCUGRPbnJzWTRidw?oc=5",
+   "date": "2026-09-18",
+   "summary": "TikTok 广告投放教程推荐：2026 出海卖家实战完整学习指南  全球定制网",
+   "body": "TikTok 广告投放教程推荐：2026 出海卖家实战完整学习指南  全球定制网",
+   "tags": [
+    "政策",
+    "出海",
+    "投放"
+   ]
+  },
+  {
+   "id": "nfcfebef0a0",
+   "category": "政策",
+   "company": "",
+   "title": "「短剧新势力 在星城」真人演绎+AI场景创新发展交流会长沙圆满举办 - Sohu",
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQemxiWmV1eHcyRXFrcUhoSWIxSXkxNUt5S2xFbmFnQ2dES0tBcDhoVlYtVHRUakQ4dkdoZWJWWTNhNkZVTENjR1cyZmN2WjkxdFVKV3VQZlprdTJuTXBVYWc5SWV3THNnNVo5Z1pnVHRiSU1CNTRCd3U1NkRBRWNqNzA1Y254NFFVYzM0WA?oc=5",
+   "date": "2026-09-18",
+   "summary": "「短剧新势力 在星城」真人演绎+AI场景创新发展交流会长沙圆满举办  Sohu",
+   "body": "「短剧新势力 在星城」真人演绎+AI场景创新发展交流会长沙圆满举办  Sohu",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n1356fb2f62",
+   "category": "政策",
+   "company": "",
+   "title": "谷歌对「AI投毒」重拳出击 - 投资界",
+   "source": "投资界",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE50VUdLalZfTjM2Y3ZHWGhINkxjdU9qYWxjMUNWX1ZnZjFaVVlwc0lrX2poQmhNOU00VDQyc1Bha2lQdjNnZXpFUmtDRXR3WlBZQk9lUFFR?oc=5",
+   "date": "2026-05-25",
+   "summary": "谷歌对「AI投毒」重拳出击  投资界",
+   "body": "谷歌对「AI投毒」重拳出击  投资界",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n08f3c61fcc",
+   "category": "客户",
+   "company": "",
+   "title": "新华健康·向美而行｜十年之约 让世界看见——珀莱雅和侯亚孟的“向远而行” - jjckb.cn",
+   "source": "jjckb.cn",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9CckVrM2haRGloR0ZPTFRvanJMcWEyMXN0Sl9nRnB5QmRhcnhlY1NaVGxxeHRyM2RRUnc1TXlOVFd6UERDM0dUcFdMNFB0X3NHV3QyV3FNYW15UUo4NUFXVWZnU01pbDBMaFdBeTdDLWZpdVZacHBJZw?oc=5",
+   "date": "2026-09-02",
+   "summary": "新华健康·向美而行｜十年之约 让世界看见——珀莱雅和侯亚孟的“向远而行”  jjckb.cn",
+   "body": "新华健康·向美而行｜十年之约 让世界看见——珀莱雅和侯亚孟的“向远而行”  jjckb.cn",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "nb34b4aba5e",
+   "category": "客户",
+   "company": "",
+   "title": "“容貌歧视”+“反科学” AI短剧病态带货-南都数字报 - 奥一网",
+   "source": "奥一网",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9zQXhLOFR5NXd0emRVLVpGTm9sc2JnV3ZKc012WUxtUFMwZnpYdFgyT05EUlNKNTVZYjNwQnVPa2ttd1o1NTJLRDRvbTZuYl8tQUF1d3JqdDh3VmlUcU1iMmF4Rk9uV0VoWVhCendyTmFxYUQz?oc=5",
+   "date": "2026-07-10",
+   "summary": "“容貌歧视”+“反科学” AI短剧病态带货-南都数字报  奥一网",
+   "body": "“容貌歧视”+“反科学” AI短剧病态带货-南都数字报  奥一网",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n69a776d24a",
+   "category": "客户",
+   "company": "",
+   "title": "宝安区跨境电商协会承办 DTC 品牌出海论坛 探索中国制造“品牌主权”新路径 - 深圳新闻网",
+   "source": "深圳新闻网",
+   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KaHZiWVZoZzBSWF81RGlSSTVSSW1UTmxrVTVsaDhfMURITjdXVTJjX2RRbUJVVG5uUURIYUZVbHZhZzNRY1hmTkRVX2xmU1p0Z1VpNVBVZ1NCaFB6NjFCSEt2QklBaWhuejJEdWRjNDh2YjNCbnBlQ1NR?oc=5",
+   "date": "2026-09-18",
+   "summary": "宝安区跨境电商协会承办 DTC 品牌出海论坛 探索中国制造“品牌主权”新路径  深圳新闻网",
+   "body": "宝安区跨境电商协会承办 DTC 品牌出海论坛 探索中国制造“品牌主权”新路径  深圳新闻网",
+   "tags": [
+    "客户",
+    "出海"
+   ]
+  },
+  {
+   "id": "n35890e1edc",
+   "category": "消费者",
+   "company": "",
+   "title": "“种草”旅游新趋势 旅局探业态新机遇 - tdm.com.mo",
+   "source": "tdm.com.mo",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNQUF4M0FRb0RES3lNbnNqZ0p6Nmo2Q0RFMjQzdC1QZ1JXMHJLUmt0NnVneDhOcy1IeVFJY3lTZ2NiNlZja1ZmRm9NdlM2c25tR0hwZkhOb2tKdU9tZWdndzJuVWNUTFlDbWhOWWZ1YkFsNVFtb0l6cE1ZT2VBa053VzFXVXV0M2JuUjlsMndNYlBZSTFQSXVZNEExUFpKeDQ?oc=5",
+   "date": "2026-07-24",
+   "summary": "“种草”旅游新趋势 旅局探业态新机遇  tdm.com.mo",
+   "body": "“种草”旅游新趋势 旅局探业态新机遇  tdm.com.mo",
+   "tags": [
+    "消费者",
+    "种草"
+   ]
+  },
+  {
+   "id": "n2b285a44eb",
+   "category": "消费者",
+   "company": "",
+   "title": "2026年的美妆趋势，都藏在年轻人让自己“更好”的愿望里 - 中华网生活",
+   "source": "中华网生活",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqS1JMYVJFOC14N0pqenVucWdLUEE3RVZxQUdQaFZoVzl6TUZvSXQ1YXZSNFl3a0E3UG9BN1kwTWlVS2YwV3pXSWlDNjlNOXhPWG5FcnJONEFkaE5oc3ZPNjRybw?oc=5",
+   "date": "2026-03-31",
+   "summary": "2026年的美妆趋势，都藏在年轻人让自己“更好”的愿望里  中华网生活",
+   "body": "2026年的美妆趋势，都藏在年轻人让自己“更好”的愿望里  中华网生活",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n29c0a2324d",
+   "category": "消费者",
+   "company": "",
+   "title": "趋势爆火、品牌破圈、创作变现：抖音“粉彩系”的趋势新势能 - news.qq.com",
+   "source": "news.qq.com",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5lSC1fNjk0MHNaRDdKLWNienNKMWdYSzBKVjFoMG9oTjFfWlowRTVOb01XVk8wejl0NGZQX0tza2xuUG5uVjRZVjVSWW1odk81dU9zbDdB?oc=5",
+   "date": "2026-04-24",
+   "summary": "趋势爆火、品牌破圈、创作变现：抖音“粉彩系”的趋势新势能  news.qq.com",
+   "body": "趋势爆火、品牌破圈、创作变现：抖音“粉彩系”的趋势新势能  news.qq.com",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "nac59655055",
+   "category": "消费者",
+   "company": "",
+   "title": "种草新灵感，开辟新大陆，小红书引领游戏新趋势阵地- TGBUS - 电玩巴士",
+   "source": "电玩巴士",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1OejNFOC1HYlNFWWpzMFZwb1pqTkJqZFBRaEU5VTRGWU1FT2F0bUVuVFV6SS01YkhZalRyWE1JOUFVU2d0ZU8wT1F3V2FuLXhDMlE?oc=5",
+   "date": "2026-04-11",
+   "summary": "种草新灵感，开辟新大陆，小红书引领游戏新趋势阵地- TGBUS  电玩巴士",
+   "body": "种草新灵感，开辟新大陆，小红书引领游戏新趋势阵地- TGBUS  电玩巴士",
+   "tags": [
+    "消费者",
+    "种草"
+   ]
+  },
   {
    "id": "n409fa92b84",
    "category": "竞品",
@@ -5594,178 +5768,6 @@
    "body": "我一个人，用AI，把生意做到了海外  21财经",
    "tags": [
     "政策"
-   ]
-  },
-  {
-   "id": "n694e5ce88c",
-   "category": "政策",
-   "company": "",
-   "title": "卖家连夜改图，欧美严查AI，最高罚5000美元 - 白鲸出海",
-   "source": "白鲸出海",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5bEJxOEFad1lITVRuOERuR0wyRlZqTG93b19faGxncDUzelhpVy1FUjFBU1RRb085NDZkWVFUS2t3ZHROUU5wS3dpdFE?oc=5",
-   "date": "2026-06-23",
-   "summary": "卖家连夜改图，欧美严查AI，最高罚5000美元  白鲸出海",
-   "body": "卖家连夜改图，欧美严查AI，最高罚5000美元  白鲸出海",
-   "tags": [
-    "政策",
-    "出海"
-   ]
-  },
-  {
-   "id": "n3854cd7c50",
-   "category": "政策",
-   "company": "",
-   "title": "TikTok Shop欧区GMV涨8倍欧盟落地关税新政| 邦小白跨境周报- 跨境电商 - 亿邦动力网",
-   "source": "亿邦动力网",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pSndTU0lWTFc3VWN2dThuT1ZJdGRLQXdIWlQxYWUzdHA3QkctZ2M0NlhxczRCZVZGNFlNWWlFYlNENzRsZFJTamY3VjNsS0pSNVU2Z2R3?oc=5",
-   "date": "2026-06-29",
-   "summary": "TikTok Shop欧区GMV涨8倍欧盟落地关税新政| 邦小白跨境周报- 跨境电商  亿邦动力网",
-   "body": "TikTok Shop欧区GMV涨8倍欧盟落地关税新政| 邦小白跨境周报- 跨境电商  亿邦动力网",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "n715dcfbba7",
-   "category": "政策",
-   "company": "",
-   "title": "谷歌放宽搜索广告投放规则 - ALM Corp",
-   "source": "ALM Corp",
-   "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNVW1rc0hkek1hakN0NEFraUlwclhzV0QwcG9rdUVoZ0hFdEpYN09vQXl0bHpMVVlfSXVSa1pPRjFsOUlnWDdJRXNlMXhaWW1ITkU0WFpxNFMxeE5nSkJMdjMxeTJaQ0hiYmFzQ0c3QkVvcmNrTElsbU5mRU9BX0VhdHVxNXJRdw?oc=5",
-   "date": "2026-06-16",
-   "summary": "谷歌放宽搜索广告投放规则  ALM Corp",
-   "body": "谷歌放宽搜索广告投放规则  ALM Corp",
-   "tags": [
-    "政策",
-    "投放"
-   ]
-  },
-  {
-   "id": "n43f499a247",
-   "category": "客户",
-   "company": "",
-   "title": "珀莱雅2026年半年度营收53.75亿元，同比增长0.24% - 新浪财经",
-   "source": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1QWWdhSk9IX19IQnlHMl83WXBOTVN5a3E5R0k5TUkydFBuY3ZJMnJoRnpBeHFWWktZSUtGaDdaazJTZ2ZqRmpmcFlZTEpTVEZBaWhtNXdNM09yb2pPcldLem4zQUYwX1ZmRkI1VjZTZw?oc=5",
-   "date": "2026-08-24",
-   "summary": "珀莱雅2026年半年度营收53.75亿元，同比增长0.24%  新浪财经",
-   "body": "珀莱雅2026年半年度营收53.75亿元，同比增长0.24%  新浪财经",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "nd4047e65df",
-   "category": "客户",
-   "company": "",
-   "title": "今日品牌行业动态：多城同步办展会 起亚赛图斯上市蔡徐坤代言 - 微博",
-   "source": "微博",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE51MmllODB3XzhTZEdIc3EzYXZCWDhoV0ZIOVg4am9MTzZxQndwY3lBSlpSYkVEbEhCUlJCV2JzSzJkQW9Bem80TjRudDlhUUVVU2s0dGEtWndmYkphbU1HU1p2eVBpMmw4Q20w?oc=5",
-   "date": "2026-08-26",
-   "summary": "今日品牌行业动态：多城同步办展会 起亚赛图斯上市蔡徐坤代言  微博",
-   "body": "今日品牌行业动态：多城同步办展会 起亚赛图斯上市蔡徐坤代言  微博",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "nc5e4a9de7a",
-   "category": "客户",
-   "company": "",
-   "title": "释放商业AI“超能力”：SAP助力中国企业构建全球智能运营体系 - QQ News",
-   "source": "QQ News",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1hQmJGcDVtbzBsZUZPSHluSWtXTmhBODRhUjZEVzZ6dWdMazY2eGl0M2VkZ3Riemw1MnNJV2dWamppU3A3WU56aGdCRThydnhyYXpndm5n?oc=5",
-   "date": "2026-03-20",
-   "summary": "释放商业AI“超能力”：SAP助力中国企业构建全球智能运营体系  QQ News",
-   "body": "释放商业AI“超能力”：SAP助力中国企业构建全球智能运营体系  QQ News",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "nbe5801ef61",
-   "category": "消费者",
-   "company": "",
-   "title": "抖音电商原料消费趋势发布，助力食饮行业探索增长新路径 - 泰山财经",
-   "source": "泰山财经",
-   "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE0xUzc2ZUhFQVhSQ0FEelVqNGs3REl2ZUZnYWIxM0ZQYW9WakNzM2VhTTBoUmlVYkNBNExQMjZ4UGdyWkk3MzBtR0FkdWxkNWdScDNJbEVtanJURkJrV1FuaDd5V0l3dk0?oc=5",
-   "date": "2026-08-28",
-   "summary": "抖音电商原料消费趋势发布，助力食饮行业探索增长新路径  泰山财经",
-   "body": "抖音电商原料消费趋势发布，助力食饮行业探索增长新路径  泰山财经",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n41b2299efd",
-   "category": "竞品",
-   "company": "",
-   "title": "OpenAI和全球顶尖资本，为何看中这家公司？ - 时代财经",
-   "source": "时代财经",
-   "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNZDZVcUdCcVpmZ1VjWEFkU3ZLMmVYaC1oYThRZmhHWUxiOVh2Z1hGWUxCaWcxa1FjR0xCdndfSnRaajNMWnZqalZhVVFjU2toSGZBNi0yTVRUUlFEYUxRYUZGZmFMZXpSR09PN2VaWmxKa1JFLWxnc1RoSjA3QlhGdHRKcHdVYXliSUVfbml2V0g?oc=5",
-   "date": "2026-08-24",
-   "summary": "OpenAI和全球顶尖资本，为何看中这家公司？  时代财经",
-   "body": "OpenAI和全球顶尖资本，为何看中这家公司？  时代财经",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "n99cd790465",
-   "category": "竞品",
-   "company": "",
-   "title": "AI内容商业应用智能体平台「筷子科技Kuaizi」完成近亿元B轮融资 - 搜狐网",
-   "source": "搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HUWlpa2FGOEZjaTVLaHVGVDVheVhqVjNQY3Y1Y2ZsS2lnS1FpTDMweWZCd1NQdURWMmJfLXVjdHY0Y1R1MnJOQTVFWkxCSndu?oc=5",
-   "date": "2025-06-23",
-   "summary": "AI内容商业应用智能体平台「筷子科技Kuaizi」完成近亿元B轮融资  搜狐网",
-   "body": "AI内容商业应用智能体平台「筷子科技Kuaizi」完成近亿元B轮融资  搜狐网",
-   "tags": [
-    "竞品",
-    "融资"
-   ]
-  },
-  {
-   "id": "ne4ee9087d8",
-   "category": "行业",
-   "company": "",
-   "title": "AI营销概念龙头+AIGC开发者大会将举行，该公司有望爆发！ - QQ News",
-   "source": "QQ News",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vaGo4ZFdUcW9TZUE4MTFNSXJOdjE4ajdWa2ZlTmJrTTR2emV3MW5nUzRDaEFpb0dYUnVSNHFublJkcFNTelAyekFvMVZBWUJQelpIemt3?oc=5",
-   "date": "2026-01-12",
-   "summary": "AI营销概念龙头+AIGC开发者大会将举行，该公司有望爆发！  QQ News",
-   "body": "AI营销概念龙头+AIGC开发者大会将举行，该公司有望爆发！  QQ News",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n574eee9249",
-   "category": "行业",
-   "company": "",
-   "title": "500亿美元只是起点：出海营销的钱到底花在哪了？——《中国出海营销行业洞察》解读一 - 36kr.com",
-   "source": "36kr.com",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zTVpnNms2LW1GLVNfdUxOVnRWZVJkVVo3MmVXNHo5ajNTV3Jia3pBaFo1cTdZMk1lTU5iSmdtWGpUNWkweGxRaHJ1SlhZZw?oc=5",
-   "date": "2026-08-26",
-   "summary": "500亿美元只是起点：出海营销的钱到底花在哪了？——《中国出海营销行业洞察》解读一  36kr.com",
-   "body": "500亿美元只是起点：出海营销的钱到底花在哪了？——《中国出海营销行业洞察》解读一  36kr.com",
-   "tags": [
-    "行业",
-    "出海"
-   ]
-  },
-  {
-   "id": "nec7912dd27",
-   "category": "行业",
-   "company": "",
-   "title": "AI主播仿新闻联播卖保健品！中消协对生成式人工智能服务发出提示↓ - 搜狐网",
-   "source": "搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVl9nc3JocW1LU0cxMjRxWXNxcnkxbmZvRkxOb1QxaWVxQXhUMTR5Mmg3aEwzOUhiUnpUcDVpSEtoQUpRYVNSNUFUMmh6UmgyOFBYUWcxT1RUYkxvblQ3WWQyS0dvLVMyY01NN1pBZk40ZTFQOFZGX2VCUTREWXpDTWgxYUZlaGNGb3lyaA?oc=5",
-   "date": "2026-08-27",
-   "summary": "AI主播仿新闻联播卖保健品！中消协对生成式人工智能服务发出提示↓  搜狐网",
-   "body": "AI主播仿新闻联播卖保健品！中消协对生成式人工智能服务发出提示↓  搜狐网",
-   "tags": [
-    "行业"
    ]
   }
  ]
