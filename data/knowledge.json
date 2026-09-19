@@ -1,10 +1,199 @@
 {
  "meta": {
-  "generated": "2026-09-18",
+  "generated": "2026-09-19",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 12 条，合计 400 条"
+  "note": "新增 13 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "n1536852c5f",
+   "category": "竞品",
+   "company": "",
+   "title": "钛动科技完成新一轮融资：全球豪门投一位阿里前员工深度 - Sohu",
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPOUxYaWVvT0ZmTXJWWFhrcm9XcUk0RElscW1DTkNXblVaQ3ZqeDN6SWswYWdLZHNDdmdNLWsyZWVEUy0zbVJzOGxSMjJYSW9oLXlPR2FTTjl5endXMTlXM0pOQ2RCd0FUSi0tUFc2OVFJRnl3MWJYenJ5T1pCZXFLY3FWX29jYm9vOEo0?oc=5",
+   "date": "2026-09-19",
+   "summary": "钛动科技完成新一轮融资：全球豪门投一位阿里前员工深度  Sohu",
+   "body": "钛动科技完成新一轮融资：全球豪门投一位阿里前员工深度  Sohu",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "n99cd790465",
+   "category": "竞品",
+   "company": "",
+   "title": "AI内容商业应用智能体平台「筷子科技Kuaizi」完成近亿元B轮融资 - Sohu",
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5HUWlpa2FGOEZjaTVLaHVGVDVheVhqVjNQY3Y1Y2ZsS2lnS1FpTDMweWZCd1NQdURWMmJfLXVjdHY0Y1R1MnJOQTVFWkxCSndu?oc=5",
+   "date": "2025-06-23",
+   "summary": "AI内容商业应用智能体平台「筷子科技Kuaizi」完成近亿元B轮融资  Sohu",
+   "body": "AI内容商业应用智能体平台「筷子科技Kuaizi」完成近亿元B轮融资  Sohu",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "n120d95ddc1",
+   "category": "竞品",
+   "company": "",
+   "title": "AI 营销企业 Profound 完成 D 轮 1.8 亿美元融资 - 风闻",
+   "source": "风闻",
+   "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE85T0w4Mi1fa3hjckhRXzNSdWtSOHV6LTRQT2FldWVGQmJXREtrT2ZjUERVMl9rVHNZMFRCblhVY2VReFROSVNZUGRSdFA0bVlqeml2RU1hM3pVQWN2eXBTM043eEc1VXlYcGc?oc=5",
+   "date": "2026-09-17",
+   "summary": "AI 营销企业 Profound 完成 D 轮 1.8 亿美元融资  风闻",
+   "body": "AI 营销企业 Profound 完成 D 轮 1.8 亿美元融资  风闻",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "n823b2a355b",
+   "category": "行业",
+   "company": "",
+   "title": "A股新易中天出现了！之前的易中天是CPO领域的： 新易盛， 中际旭创和天孚通信。现在的易中天是AI领域的： 易点... - 雪球",
+   "source": "雪球",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qeUlHSHZ1N0hGNEZUMF84SXZJRENVa3dtdjlTMU5FSmtidDBjaEExXzNHbWE4Z2pFMWx0RzNVd3pzeFR1NXJZQzIweXRQRHNU?oc=5",
+   "date": "2026-01-11",
+   "summary": "A股新易中天出现了！之前的易中天是CPO领域的： 新易盛， 中际旭创和天孚通信。现在的易中天是AI领域的： 易点...  雪球",
+   "body": "A股新易中天出现了！之前的易中天是CPO领域的： 新易盛， 中际旭创和天孚通信。现在的易中天是AI领域的： 易点...  雪球",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "nd047f1eac3",
+   "category": "行业",
+   "company": "",
+   "title": "Mediaocean：2026年下半年全球营销市场趋势报告 - 手机新浪网",
+   "source": "手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GY2NNQnBOclBEakYtd0JwdGlpbVRKT1M2X3dRSFpsdl8zRlNYRzE1YjBWcFl4ek44UnZCT2FncjBjTnBoVUZsNzZYb2dLa1BTVTU0bEVIalRaWlFuZVJFT2pvc1RjT0hzZGR5LXRRcXBPV3VC?oc=5",
+   "date": "2026-09-19",
+   "summary": "Mediaocean：2026年下半年全球营销市场趋势报告  手机新浪网",
+   "body": "Mediaocean：2026年下半年全球营销市场趋势报告  手机新浪网",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n574eee9249",
+   "category": "行业",
+   "company": "",
+   "title": "500亿美元只是起点：出海营销的钱到底花在哪了？——《中国出海营销行业洞察》解读一 - 36Kr",
+   "source": "36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE4zTVpnNms2LW1GLVNfdUxOVnRWZVJkVVo3MmVXNHo5ajNTV3Jia3pBaFo1cTdZMk1lTU5iSmdtWGpUNWkweGxRaHJ1SlhZZw?oc=5",
+   "date": "2026-08-27",
+   "summary": "500亿美元只是起点：出海营销的钱到底花在哪了？——《中国出海营销行业洞察》解读一  36Kr",
+   "body": "500亿美元只是起点：出海营销的钱到底花在哪了？——《中国出海营销行业洞察》解读一  36Kr",
+   "tags": [
+    "行业",
+    "出海"
+   ]
+  },
+  {
+   "id": "naa6dd8e432",
+   "category": "行业",
+   "company": "",
+   "title": "bbin波音平台大全_游戏资讯_Liftoff：生成式AI将广告创意迭代周期从18天缩短至1天 - 体坛",
+   "source": "体坛",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1nMVlWMTV2eDY2QzR3cVM3RDlxSEp5QmI3Sjh2aUd5Y1hqd1VISk52a05qUndxOS15NmRpQXcyZXQzb2lydElKTkhjb3lLVzg?oc=5",
+   "date": "2026-09-16",
+   "summary": "bbin波音平台大全_游戏资讯_Liftoff：生成式AI将广告创意迭代周期从18天缩短至1天  体坛",
+   "body": "bbin波音平台大全_游戏资讯_Liftoff：生成式AI将广告创意迭代周期从18天缩短至1天  体坛",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n694e5ce88c",
+   "category": "政策",
+   "company": "",
+   "title": "卖家连夜改图，欧美严查AI，最高罚5000美元 - 白鲸出海",
+   "source": "白鲸出海",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFA5bEJxOEFad1lITVRuOERuR0wyRlZqTG93b19faGxncDUzelhpVy1FUjFBU1RRb085NDZkWVFUS2t3ZHROUU5wS3dpdFE?oc=5",
+   "date": "2026-06-23",
+   "summary": "卖家连夜改图，欧美严查AI，最高罚5000美元  白鲸出海",
+   "body": "卖家连夜改图，欧美严查AI，最高罚5000美元  白鲸出海",
+   "tags": [
+    "政策",
+    "出海"
+   ]
+  },
+  {
+   "id": "ne47ab423e2",
+   "category": "政策",
+   "company": "",
+   "title": "Google Ads 的新篇章：2026 年服务条款全面修订 - ALM Corp",
+   "source": "ALM Corp",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPWElhRU5uTjF0VWZKNk5DcEJIYkZaT3VWS1ZNaXFJVHN5RndHcXV5N18tSmtOa01YRFNmSndOc3FSOEg3WTlxRlliUmVZbWQxMkZsOG5rT3JPMDhIU1MzWWZwaDYzVzU0VUZiVXJBWXB4QmZ5WF9TRGdwSFE2VEtEQzJFQQ?oc=5",
+   "date": "2026-06-04",
+   "summary": "Google Ads 的新篇章：2026 年服务条款全面修订  ALM Corp",
+   "body": "Google Ads 的新篇章：2026 年服务条款全面修订  ALM Corp",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nd75b828325",
+   "category": "客户",
+   "company": "",
+   "title": "当AI走进满洲里国门学校，珀莱雅公益开启边疆教育新探索 - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43dHp6TDhEdW5FQmVyTlNvSmIydDVlYzJTamJzU3IyWElqWVRFUEg3R01lYTlrZkZuZU83VzlZc01XLVlvdU9YOTZ0UXdzSF8wM3gwZ3paQWJwdUJUTV85a0xTWWlyTF9EU3ZyOFdQMGpPZWFQblY0cjNTWnE?oc=5",
+   "date": "2026-09-05",
+   "summary": "当AI走进满洲里国门学校，珀莱雅公益开启边疆教育新探索  新浪财经",
+   "body": "当AI走进满洲里国门学校，珀莱雅公益开启边疆教育新探索  新浪财经",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n53780ea9df",
+   "category": "客户",
+   "company": "",
+   "title": "AI赋能千行百业一线观察｜AI深度渗透美妆产业链 驱动行业智能变革 - news.cn",
+   "source": "news.cn",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPYjdwRVdEZ1NfM2JEbFBJZ0s5Z1lySGtyakpFZnVjQlB2akh4Ym16U25DcTQtVjNpbDIwOVI0X3lzUHZLU1FreGNkUWR2clBzaDBJdC1ZUklYWWxFQmtkbENDemdFZmNkSnd0b3BjMFkwSmUycmV2WHFDVGNWNnZTUG9R?oc=5",
+   "date": "2026-04-27",
+   "summary": "AI赋能千行百业一线观察｜AI深度渗透美妆产业链 驱动行业智能变革  news.cn",
+   "body": "AI赋能千行百业一线观察｜AI深度渗透美妆产业链 驱动行业智能变革  news.cn",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "nee73eeaeea",
+   "category": "客户",
+   "company": "",
+   "title": "财报解读 | 珀莱雅2025年百亿营收背后，是多品牌支撑下的高质量发展 - 潮新闻客户端",
+   "source": "潮新闻客户端",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1rYUItUVplODNWcDNwemRMLTJjWkpwaHhRNl9ZZ1FGY3dLMk1RTURNdWlBcVUwRFIzaE1ic2pDRzY5aldzNC1BMlBwNXlkZXBDbmxuNWh5QQ?oc=5",
+   "date": "2026-04-21",
+   "summary": "财报解读 | 珀莱雅2025年百亿营收背后，是多品牌支撑下的高质量发展  潮新闻客户端",
+   "body": "财报解读 | 珀莱雅2025年百亿营收背后，是多品牌支撑下的高质量发展  潮新闻客户端",
+   "tags": [
+    "客户",
+    "财报"
+   ]
+  },
+  {
+   "id": "n84208a194a",
+   "category": "消费者",
+   "company": "",
+   "title": "2026年，小红书打响文旅种草下半场 - 环球旅讯",
+   "source": "环球旅讯",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14NnpEN0h2UTFZOVZGWDhQQzZ4UHBVY2dkN1hVNzNRZEJnUTE2cXdtWFFxLVBuLWpfbnJhMXNTcUhqZG9PSUl3bXNKZWVhMl9QaHc?oc=5",
+   "date": "2026-01-27",
+   "summary": "2026年，小红书打响文旅种草下半场  环球旅讯",
+   "body": "2026年，小红书打响文旅种草下半场  环球旅讯",
+   "tags": [
+    "消费者",
+    "种草"
+   ]
+  },
   {
    "id": "n49e265dea6",
    "category": "竞品",
@@ -5582,192 +5771,6 @@
    "tags": [
     "竞品",
     "融资"
-   ]
-  },
-  {
-   "id": "n7be9ff062a",
-   "category": "竞品",
-   "company": "",
-   "title": "PureblueAI清蓝完成数千万元天使+轮融资，GEO数字员工正式上线 - 投资界",
-   "source": "投资界",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XaUUzTERYNWxCY0JHQWQtNUVYOWtyZlNVemZkalBFTlcxX0Q2ZW1Cdi1iQTJUcU0wNGwwVm9DOENVNFdNcTNpRVlzOXdCZkJ2T1pDMXRR?oc=5",
-   "date": "2026-08-28",
-   "summary": "PureblueAI清蓝完成数千万元天使+轮融资，GEO数字员工正式上线  投资界",
-   "body": "PureblueAI清蓝完成数千万元天使+轮融资，GEO数字员工正式上线  投资界",
-   "tags": [
-    "竞品",
-    "融资",
-    "GEO"
-   ]
-  },
-  {
-   "id": "ne3492ef2e6",
-   "category": "行业",
-   "company": "",
-   "title": "一汽大众、伊利试水AIGC营销，超53%的广告主开始为“效率革命”买单 - Jiemian.com",
-   "source": "Jiemian.com",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5NVZhYzZ5YXFRT2Y4UXFreEhfSnZkQnA0Zm40M0ZKTmFKVkFPX3pBMzZXUE9LNWJ5c0lpbEtvRDVqQzYtRmhUenZDQ1ZlaWNTdzBZZnNkVGo?oc=5",
-   "date": "2025-09-28",
-   "summary": "一汽大众、伊利试水AIGC营销，超53%的广告主开始为“效率革命”买单  Jiemian.com",
-   "body": "一汽大众、伊利试水AIGC营销，超53%的广告主开始为“效率革命”买单  Jiemian.com",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n512bc5aa68",
-   "category": "行业",
-   "company": "",
-   "title": "文生视频为InsightGPT商业化按下“加速键” - 创业邦",
-   "source": "创业邦",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAyZDZGS21Ua1RZNzhSOW90LUpreXRpbWRtYmxCYXVaRWlaRktIYnNMMzFqZGtOamlHM1haZm9PV0c4bXZFSml2b3hB?oc=5",
-   "date": "2025-11-03",
-   "summary": "文生视频为InsightGPT商业化按下“加速键”  创业邦",
-   "body": "文生视频为InsightGPT商业化按下“加速键”  创业邦",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n8dc9d81922",
-   "category": "行业",
-   "company": "",
-   "title": "AI营销“全链路协作”时代，利欧股份重磅发布CubSwarm多智能体系统 - 证券时报",
-   "source": "证券时报",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBoQWxjOVJkTEp1bVk2X2thRFNoNThWQW8tdmdsN2UyU1JNTURDQkFVQWM5MXI1UHJtRWp0NkxsSEF2SFFRa3dCRzBzS0kyWmk4RVo5dWJscw?oc=5",
-   "date": "2026-04-15",
-   "summary": "AI营销“全链路协作”时代，利欧股份重磅发布CubSwarm多智能体系统  证券时报",
-   "body": "AI营销“全链路协作”时代，利欧股份重磅发布CubSwarm多智能体系统  证券时报",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n3b3b5f073f",
-   "category": "行业",
-   "company": "",
-   "title": "智启无境，共擎增长：巨量引擎以AI新质生产力，助力代理商破局增长 - 新华报业网",
-   "source": "新华报业网",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE82QkJieU9iOWI4bnlKRkRsTEZTZjcyVkd1TjVZTmVqWHZ1b2ZSa3JTaTNXRHRSaFJocGhGT0w3eTE4SnZPQ1Q0akVOU3dOYVBfOUE1QXBmZXdZaXZBTUdhMDlHOElha1JXY3FJ?oc=5",
-   "date": "2026-04-23",
-   "summary": "智启无境，共擎增长：巨量引擎以AI新质生产力，助力代理商破局增长  新华报业网",
-   "body": "智启无境，共擎增长：巨量引擎以AI新质生产力，助力代理商破局增长  新华报业网",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n9bf321e00c",
-   "category": "行业",
-   "company": "",
-   "title": "AI营销专家灵狐研判618风向，七大趋势八大策略赋能品牌实战破局 - 中国网",
-   "source": "中国网",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9iV0JTMkFfeU4xSHVMZG0zbHM4WV8xVzhPNGdWU0lBNVNJMHE0OTdwTkJaWkpwcC1oWGQ2RE9OSWN0NlRFdkhDQ0tqd09fWFFwMW9nYkhWcXJKQlRITjV4YUNWS0kyVDZ2QlBKRUVMTQ?oc=5",
-   "date": "2026-06-15",
-   "summary": "AI营销专家灵狐研判618风向，七大趋势八大策略赋能品牌实战破局  中国网",
-   "body": "AI营销专家灵狐研判618风向，七大趋势八大策略赋能品牌实战破局  中国网",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "nae78215a70",
-   "category": "行业",
-   "company": "",
-   "title": "[易点天下&阿里云]：2026全球AI营销趋势与价值白皮书 - 发现报告",
-   "source": "发现报告",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9RRlJSVlkyaXE2a08tczA3LUlHZzlZVjdJT3VSTUNEeXBQR0xveHI1OTZxVU5SVzNYNmlFc0k0X0JfQ1R0NjJmdnBKN1JuYUk3?oc=5",
-   "date": "2026-03-17",
-   "summary": "[易点天下&阿里云]：2026全球AI营销趋势与价值白皮书  发现报告",
-   "body": "[易点天下&阿里云]：2026全球AI营销趋势与价值白皮书  发现报告",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "nf489498e1c",
-   "category": "行业",
-   "company": "",
-   "title": "智达明远AI亮剑双盛会|破解获客难、成本高痛点，做懂企业需求的AI营销获客公司 - 京报网",
-   "source": "京报网",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1DR1BUdDdYU0R0V2RLU2h0RDFOS2xxSmRmZGhkNk90U1lkVEpoSjMzQ2pxTGZlMGhrbkJjeDBsWllWU3NrNzdXU0ZwSkVUUmVKMVFCbkdaeTlKUHBrMUE?oc=5",
-   "date": "2026-05-20",
-   "summary": "智达明远AI亮剑双盛会|破解获客难、成本高痛点，做懂企业需求的AI营销获客公司  京报网",
-   "body": "智达明远AI亮剑双盛会|破解获客难、成本高痛点，做懂企业需求的AI营销获客公司  京报网",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n90db25ed63",
-   "category": "行业",
-   "company": "",
-   "title": "AI营销专家灵狐副总裁崔娜娜：品牌如何用AI重筑618增长新路径 - 中华网",
-   "source": "中华网",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAtNTVFUXFTVTRhSlBvY0xiazRUWXh6Z29ieUt6UkZUempFWkFCd1ZYbmJiT1BGRk9YZzZRYjJFSjJ3SlpMcjl1TWtld1hIenNOOEpXTDJGM1NmNU9FYmc?oc=5",
-   "date": "2026-06-18",
-   "summary": "AI营销专家灵狐副总裁崔娜娜：品牌如何用AI重筑618增长新路径  中华网",
-   "body": "AI营销专家灵狐副总裁崔娜娜：品牌如何用AI重筑618增长新路径  中华网",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n02512d2e28",
-   "category": "行业",
-   "company": "",
-   "title": "Google Play生成式AI应用安全指南发布，AI游戏审核收紧 - 白鲸出海",
-   "source": "白鲸出海",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFB1S2o5cUQ2X2FwX0UwdTVmNmJBV3A0VHFoS1BIeVUzTEZPUTJnaXVsRzlJZDBxeVVGNFNzNzROenNHUVEwMEFESmZmbjg?oc=5",
-   "date": "2026-08-28",
-   "summary": "Google Play生成式AI应用安全指南发布，AI游戏审核收紧  白鲸出海",
-   "body": "Google Play生成式AI应用安全指南发布，AI游戏审核收紧  白鲸出海",
-   "tags": [
-    "行业",
-    "出海"
-   ]
-  },
-  {
-   "id": "n9fc7f0c06f",
-   "category": "行业",
-   "company": "",
-   "title": "AI视频生成器市场规模、份额|成长报告[2034] - Fortune Business Insights",
-   "source": "Fortune Business Insights",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPQ0xKbVBpa0ExQlNBT0xKM3JoUDM1MmxUZ3dPS0Z0dU5tX3JacUNnWDlwbWotLXVkVE5YMWxtSVZjTnVpZG5rR3BfUkhNdzcxcGRaSFpEZEltbnBVc01LdllFVUNkNzc4Y3Q3MzVIQmhRTXl5ZzU2dHhITWZldHRvTg?oc=5",
-   "date": "2026-08-10",
-   "summary": "AI视频生成器市场规模、份额|成长报告[2034]  Fortune Business Insights",
-   "body": "AI视频生成器市场规模、份额|成长报告[2034]  Fortune Business Insights",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n42c26baf53",
-   "category": "政策",
-   "company": "",
-   "title": "TikTok单月分账破亿，2026短剧出海都在卷什么？ - thepaper.cn",
-   "source": "thepaper.cn",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rbzVxMkVXZzM1QUlrTjMtbk1BaTd6d2ZjbU8xQXRvTU9wRGU4bkswR25RUDd0ZmZDcWFKNktpRjdNWGczTkFDVDc0dnhWcElGR0VkWjFqU2c5VHNka2VHZw?oc=5",
-   "date": "2026-05-26",
-   "summary": "TikTok单月分账破亿，2026短剧出海都在卷什么？  thepaper.cn",
-   "body": "TikTok单月分账破亿，2026短剧出海都在卷什么？  thepaper.cn",
-   "tags": [
-    "政策",
-    "出海"
-   ]
-  },
-  {
-   "id": "n7a60ff7eba",
-   "category": "政策",
-   "company": "",
-   "title": "我一个人，用AI，把生意做到了海外 - 21财经",
-   "source": "21财经",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPeWJ1emRZNDRyMTlXdG0wTG03VTk0VHVBR0tYMXJycGozYzdzTkZzZjUxZlR2NHg5eC01WXNSVGxLaEJFbURyNWVVUDhrcnZsX1ZScUZhckNmcFRfSDlORzc3cDlabXNDcmg2NVVFWktqRkdPVlJJR3JWQ3BaSWZFRzN2SkxUa0FESjEwT1FOaw?oc=5",
-   "date": "2026-04-04",
-   "summary": "我一个人，用AI，把生意做到了海外  21财经",
-   "body": "我一个人，用AI，把生意做到了海外  21财经",
-   "tags": [
-    "政策"
    ]
   }
  ]
