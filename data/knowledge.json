@@ -1,10 +1,273 @@
 {
  "meta": {
-  "generated": "2026-09-20",
+  "generated": "2026-09-22",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 22 条，合计 400 条"
+  "note": "新增 18 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "nbe77af8594",
+   "category": "竞品",
+   "company": "",
+   "title": "筷子科技与上影集团达成战略合作，共筑AI影视智能体与数字人版权基础设施 - 中国日报网",
+   "source": "中国日报网",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1JUU96aTNXSExqWTF1NzVZbDVwQVVaU1VfZFJ5ZW0tcG5CVEVKYVBpNDN1NWlJTGVaS291NDQzdlcyMGo4WEFqaF85Ykd3bW5xelMtZTltQ1lmM3Q1Nl9YcnNOVWM1NURONHQxYjJYUDlFUGNwSHAzcmNrcw?oc=5",
+   "date": "2026-06-12",
+   "summary": "筷子科技与上影集团达成战略合作，共筑AI影视智能体与数字人版权基础设施  中国日报网",
+   "body": "筷子科技与上影集团达成战略合作，共筑AI影视智能体与数字人版权基础设施  中国日报网",
+   "tags": [
+    "竞品",
+    "数字人"
+   ]
+  },
+  {
+   "id": "ne04f9d91d7",
+   "category": "竞品",
+   "company": "",
+   "title": "AI内容商业应用智能体平台「筷子科技Kuaizi」完成近亿元B轮融资 - 投资界",
+   "source": "投资界",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1oRnpDbkpiUVlIa2o1S0RrLUVpSDBURFlNS2pNRkNQcGZyN1N3ekZrVjJHQWVqOTk1bFlQNWpfbzlCRlJoeGdZSndSM1ZjVFNwdWo5eEx3?oc=5",
+   "date": "2025-06-23",
+   "summary": "AI内容商业应用智能体平台「筷子科技Kuaizi」完成近亿元B轮融资  投资界",
+   "body": "AI内容商业应用智能体平台「筷子科技Kuaizi」完成近亿元B轮融资  投资界",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "n670d185603",
+   "category": "竞品",
+   "company": "",
+   "title": "文旅融合新玩法！筷子科技陈万锋：AI商业编导来给景区讲故事 - 21财经",
+   "source": "21财经",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNaW5aWXhUVVR0TkpLQmhpOVBCVEdUZEZxRmVneVp0dXZLLXEtWGtyV1BTd3NoMmtWZFNNTUh1M01jdGVlNHJZcnV4Y043cGdWb2QxdF9BUUxmTE53amZaT2VpeEZQMjhDRUlJaUxUSWQ1UHhxVDg5aXpZSm5iSDlZZURIbDNBSFhqdWxMSg?oc=5",
+   "date": "2024-11-21",
+   "summary": "文旅融合新玩法！筷子科技陈万锋：AI商业编导来给景区讲故事  21财经",
+   "body": "文旅融合新玩法！筷子科技陈万锋：AI商业编导来给景区讲故事  21财经",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "ne675697c66",
+   "category": "竞品",
+   "company": "",
+   "title": "凯辉基金领投「奥创光年」千万美元A轮融资 - Cathay Capital",
+   "source": "Cathay Capital",
+   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxPS1A2R05oVXNUbnY2S015d1RFZ0xvTjBuNVFMR3J4cFZJenNHbjVHdGxvZDREVGgwbXY1TGZOMTBXLXlKdE9TZmtkdFJWbXNDOVpFeUliQ19JX0Y0ZWNGMV9vRDRDb19nZG4tcE5UdlltTXdmcG5sNjlJX3ZrdDJjQ0RDRzhXeFdOdURJREY3MkM4Rnh6Y3gwX1paZTJfLWpCSnhLemwyQVBtOFZYUjhPS1JHQmY0dTR6aVIwNUpTeFVkMFZ1Z05QU0FxbHdGSG11M3MzdVZsdHQxU3NsbVJzeWNDcU4wU0JreW1ib1ItdVhJT2NGVlh6T3ZmaXRIXzVwNmhfdW1fTUhUM0xhbzFvYkNCa25zV1NEMDRGUkJRaEdzMTJCUGZMVlUwV2xfUlE?oc=5",
+   "date": "2023-08-09",
+   "summary": "凯辉基金领投「奥创光年」千万美元A轮融资  Cathay Capital",
+   "body": "凯辉基金领投「奥创光年」千万美元A轮融资  Cathay Capital",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "n9c99dade23",
+   "category": "竞品",
+   "company": "",
+   "title": "AI全链路营销公司奥创光年，再获1500万美元A+轮融资 - geekpark.net",
+   "source": "geekpark.net",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBuU24yeEVhSVNTZURicThCQ1BYcll4ZENBOXpJLWw4TXNrWnpNUTVaUnZJMUctODhxM3VkUGJfMGR2MEpiYWFUYy1OTlM?oc=5",
+   "date": "2024-01-28",
+   "summary": "AI全链路营销公司奥创光年，再获1500万美元A+轮融资  geekpark.net",
+   "body": "AI全链路营销公司奥创光年，再获1500万美元A+轮融资  geekpark.net",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "ne080fc579c",
+   "category": "竞品",
+   "company": "",
+   "title": "Profound获1.8亿美元融资跻身独角兽，AI搜索营销难题待解！ - blog.csdn.net",
+   "source": "blog.csdn.net",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE40V3FPdWdrUV9KWFRYTnE4Mk1GQ2lWMGNqLU5rRkFMQ182Tl9iUjM5Vl9ibGhhdjd6bEdGNnl5dGpPaEVoNUx3ckt4blZMTHp1YXFlbmlpSFNpNmVWU29wZ2owWF85eFVmaDZZ?oc=5",
+   "date": "2026-09-21",
+   "summary": "Profound获1.8亿美元融资跻身独角兽，AI搜索营销难题待解！  blog.csdn.net",
+   "body": "Profound获1.8亿美元融资跻身独角兽，AI搜索营销难题待解！  blog.csdn.net",
+   "tags": [
+    "竞品",
+    "融资",
+    "独角兽",
+    "AI搜索"
+   ]
+  },
+  {
+   "id": "n790458a311",
+   "category": "行业",
+   "company": "",
+   "title": "传播和营销的关键问题，正在被AIGC重新回答？ - 36kr.com",
+   "source": "36kr.com",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFA1emF0QXNwT1M1d2xmUEpXa2xoOUZHVG9yMGcxUGNsMEI4NUFaUW5FWVFZMTEzQi1INE5nZF9wTGlPdEpETTAyZVVEckpGZw?oc=5",
+   "date": "2025-12-16",
+   "summary": "传播和营销的关键问题，正在被AIGC重新回答？  36kr.com",
+   "body": "传播和营销的关键问题，正在被AIGC重新回答？  36kr.com",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n8993d71cd3",
+   "category": "行业",
+   "company": "",
+   "title": "生成式AI压缩了创意流程，但也埋下了一个大坑- 产业链 - 光通信Pro",
+   "source": "光通信Pro",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5lTVEtaUM2Tll6ZVFYM0hNZS05MkU2NGV6VmhLMXZORVlKaW1TTXVwQ0ptdTRtUk82cjNCazY2RkRkVVBtOEd5Z3pIcnBxb3F1UFAzdmRMOA?oc=5",
+   "date": "2026-09-21",
+   "summary": "生成式AI压缩了创意流程，但也埋下了一个大坑- 产业链  光通信Pro",
+   "body": "生成式AI压缩了创意流程，但也埋下了一个大坑- 产业链  光通信Pro",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n778a33811a",
+   "category": "行业",
+   "company": "",
+   "title": "中国广告协会全面启动生成式引擎优化（GEO）标准化建设工作 - 新华网客户端",
+   "source": "新华网客户端",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSnRueTlRZ29SYVhzdDdtNjZySXpUUXJiSDhaeFpwVFNxVXBjU0JnNkdHdU9xSU11SDZpcDZleHhkVlEzMHU1UXIyWmw3UVMySDdVOGhwWmhCMWo3dUhnbGppNWdSSHo0MjMtVnd6d3JZVDU5WUZjYXZ2VG5yRG9wekdwSnItX0pIeUgwNFJoWQ?oc=5",
+   "date": "2026-03-19",
+   "summary": "中国广告协会全面启动生成式引擎优化（GEO）标准化建设工作  新华网客户端",
+   "body": "中国广告协会全面启动生成式引擎优化（GEO）标准化建设工作  新华网客户端",
+   "tags": [
+    "行业",
+    "GEO"
+   ]
+  },
+  {
+   "id": "n5fb63eaa82",
+   "category": "政策",
+   "company": "",
+   "title": "Facebook 广告开户全攻略：Meta 广告政策与跨境电商出海营销合规解析 - geekpark.net",
+   "source": "geekpark.net",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4yWUFuNDU3cEhBTW9neEJFZ1JOT19yWmhiWVc5OXlUUTQzSFJpWFZOVHdDWHUxSno4ZFNmN2pLUkZVV1VDTFNyekdmUlA?oc=5",
+   "date": "2026-09-21",
+   "summary": "Facebook 广告开户全攻略：Meta 广告政策与跨境电商出海营销合规解析  geekpark.net",
+   "body": "Facebook 广告开户全攻略：Meta 广告政策与跨境电商出海营销合规解析  geekpark.net",
+   "tags": [
+    "政策",
+    "出海",
+    "合规"
+   ]
+  },
+  {
+   "id": "nb7399fc594",
+   "category": "政策",
+   "company": "",
+   "title": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻 - 华尔街见闻",
+   "source": "华尔街见闻",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9YTnJaeGx1OFUtemdQNWVhanNLTnJIUTJBRkstSjIzMmdWY0IzYW9JS2VmSTVGVjhieEhDc0tMVlhzRXJWSkQ5c0Zha3N6dGYwWjJF?oc=5",
+   "date": "2026-07-29",
+   "summary": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻  华尔街见闻",
+   "body": "Meta大跌！营收超预期难掩AI投入焦虑，Q3指引逊色、自由现金流创四年新低｜财报见闻  华尔街见闻",
+   "tags": [
+    "政策",
+    "财报"
+   ]
+  },
+  {
+   "id": "n1d5d7c9ed0",
+   "category": "政策",
+   "company": "",
+   "title": "谷歌400亿美元重押竞争对手Anthropic！只因广告收入不敌Meta？ - TradingKey",
+   "source": "TradingKey",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYU1tZ3U1TUstZTFMX2NjX1RWeHpDZktpSmk3bmEzclljQXN3S00tWktGT2paY1d6UjI5UE1rOVVMcTN1TlJqUEhnWS16VlU2a0NKZUdpNm92R0JHbW4zWDBxcXBFSTZyWTQ3dWl4U0VxSlZKQzBEamR1VTdub01fek5PbWxVTEExaXFZMzhZVmh5SlZ6eldmcWJsbGVrUTJwY3BNTW5qN01PZUdjX3R5R1pjc213QlZycmJsYXJR?oc=5",
+   "date": "2026-04-25",
+   "summary": "谷歌400亿美元重押竞争对手Anthropic！只因广告收入不敌Meta？  TradingKey",
+   "body": "谷歌400亿美元重押竞争对手Anthropic！只因广告收入不敌Meta？  TradingKey",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n7a5bc98b4f",
+   "category": "客户",
+   "company": "",
+   "title": "银发快讯 | 阿里健康居家闪检首发早筛血液检测；京东健康“爸妈防骗”IP持续展开科普实践；泰康人寿等以医疗AI赋能保险服务升级 - AgeClub",
+   "source": "AgeClub",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5fbUo1ZXJ0dGNIaVozLUpvNnJBOUlWUkNtSURJelVEajNVR0dJREJHbXlVU1dVOHpsTk54c1FTUmdvWmRXUTZoa2dzT2R3S1JmNktKSC1jTQ?oc=5",
+   "date": "2026-09-22",
+   "summary": "银发快讯 | 阿里健康居家闪检首发早筛血液检测；京东健康“爸妈防骗”IP持续展开科普实践；泰康人寿等以医疗AI赋能保险服务升级  AgeClub",
+   "body": "银发快讯 | 阿里健康居家闪检首发早筛血液检测；京东健康“爸妈防骗”IP持续展开科普实践；泰康人寿等以医疗AI赋能保险服务升级  AgeClub",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "ne1c2e4ec2c",
+   "category": "客户",
+   "company": "",
+   "title": "上新提速后，AI如何重做日化美妆的内容生产链？｜502线上同行|美妆行业|即梦|上海家化|复用|消费者_手机新浪网 - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxQaHVUbkJ4cW9BaHYwRVFwRE1xN0d4WmpWRDlYaUViT01iV1hIaTNlV3VMQ25KZjhGOWg2czhpZmVqcUxrWnZGaHVrTHNHc0dLUjFPM3pwdUtzMFpaZVdJMTVlcnlfYzV4b2V6dDVCcnRBNVloZnNfVTRoTEpuTHlVcmI2d0R1Uk1BQWFRNUg4QzJhc2NNOUEtT1FVSGhiYzdMekJDdk1BLUlpckhPOUdVd2V0ZmlPMjc5c0U3b2FycXVHTTVqbFZQSUN0NnZOWlBWRVlsRjY0d0hsdDIwcWlsN3FLWFBNQzJXNnR2cjlKZVo2dW95YTFCMW00WnVvYmJWZ0FqekRlOUxaZHN1NDB2aU90dlFJakF1ay1MdXNySklsQXF0OTVyckl6c3FoTTlBLXVmWmZnRXRWVDNWbW12cTAza3dmUzE5OEdNX2VJOERkNWhMZFczTFdR?oc=5",
+   "date": "2026-09-21",
+   "summary": "上新提速后，AI如何重做日化美妆的内容生产链？｜502线上同行|美妆行业|即梦|上海家化|复用|消费者_手机新浪网  新浪财经",
+   "body": "上新提速后，AI如何重做日化美妆的内容生产链？｜502线上同行|美妆行业|即梦|上海家化|复用|消费者_手机新浪网  新浪财经",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n72e9665f2d",
+   "category": "消费者",
+   "company": "",
+   "title": "解码奢品新消费周期下的增长逻辑，2026小红书奢品行业峰会圆满收官 - 中华网",
+   "source": "中华网",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1EblFlRkNwWC1fWHFJbnd5S1h5RFprclZNU1lCRXMwNTB4MVFseWhadXBqQ3Zvb0JpaG5CMEdiYS0yMGtBVFA2emRtX28ycENzQkZpYlo0SEdqdkI1Wmc?oc=5",
+   "date": "2026-05-29",
+   "summary": "解码奢品新消费周期下的增长逻辑，2026小红书奢品行业峰会圆满收官  中华网",
+   "body": "解码奢品新消费周期下的增长逻辑，2026小红书奢品行业峰会圆满收官  中华网",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "ne10a49cada",
+   "category": "消费者",
+   "company": "",
+   "title": "抖音商城×知衣科技，联合发布《2026秋上新时尚趋势·燕麦格雷》 - cosmopolitancn.com",
+   "source": "cosmopolitancn.com",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBSbE5rSERVX09OZGhRaTU3LXRYbUYzTWxnWVlYejRyMEVvVlBjMlM0bUh4NHRsMUdqSGJfV3p6M042d0lPQlA0OVp6RC1Mc1Facm8yYnN0Y1k?oc=5",
+   "date": "2026-09-19",
+   "summary": "抖音商城×知衣科技，联合发布《2026秋上新时尚趋势·燕麦格雷》  cosmopolitancn.com",
+   "body": "抖音商城×知衣科技，联合发布《2026秋上新时尚趋势·燕麦格雷》  cosmopolitancn.com",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n7ed6f7cec9",
+   "category": "消费者",
+   "company": "",
+   "title": "特色内容驱动“体验式旅行” - 人民日报",
+   "source": "人民日报",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNUxDTkpKYUVudDVOUGw0MGVqQnF2ckJwNDdDYzE0dFNNckVhWi1nTFZDRmFsX0RWWHpKeFcwMGlJUjcxY2ZGQk4zX01LOGhSNlZyUnlvQm1PSVF0R0pxOXozeVlJeGo1R2g2YWs4TDBpVWstWmsxNGlWRmdmMW02bDVBVQ?oc=5",
+   "date": "2026-06-19",
+   "summary": "特色内容驱动“体验式旅行”  人民日报",
+   "body": "特色内容驱动“体验式旅行”  人民日报",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "nd5043d609e",
+   "category": "消费者",
+   "company": "",
+   "title": "IP Solution｜春上新趋势破局，REDLOOK助品牌长效增长 - cosmopolitancn.com",
+   "source": "cosmopolitancn.com",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rNUhlRHF6VGdWUlRabGRIamJMeUNzN0szRFVOVU5yNUFvTEp0ZXVEamlIb3BxUFZ3QTBQOTV6UEF1Z3BxMnRnQVFPRDRpbWJjaDFlNHFDUkpZNXlNamc?oc=5",
+   "date": "2026-05-13",
+   "summary": "IP Solution｜春上新趋势破局，REDLOOK助品牌长效增长  cosmopolitancn.com",
+   "body": "IP Solution｜春上新趋势破局，REDLOOK助品牌长效增长  cosmopolitancn.com",
+   "tags": [
+    "消费者"
+   ]
+  },
   {
    "id": "na2a956241a",
    "category": "竞品",
@@ -5514,263 +5777,6 @@
    "tags": [
     "客户",
     "Agent"
-   ]
-  },
-  {
-   "id": "n987df7b23a",
-   "category": "消费者",
-   "company": "",
-   "title": "奢游国际受邀 2026 小红书文旅峰会丨与行业大咖共谈高品质旅行新趋势 - 中国日报网",
-   "source": "中国日报网",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YTTk4VmhIcm5IcDk1ZmotN0ZWRXUwbGt0MVF3MzduWmprX2dfTFUzSE1xSy1KMU5GQ1Y4UXRmY1pzVkM1aHlqaFlDekc3ekpJTHh2aTg2Tm9URGl3UWdwRFFyTTNVd1pNaGVsdTJPQkxIQ0ZqaXZYMGJGTXE?oc=5",
-   "date": "2026-04-27",
-   "summary": "奢游国际受邀 2026 小红书文旅峰会丨与行业大咖共谈高品质旅行新趋势  中国日报网",
-   "body": "奢游国际受邀 2026 小红书文旅峰会丨与行业大咖共谈高品质旅行新趋势  中国日报网",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n3f40bbdef0",
-   "category": "消费者",
-   "company": "",
-   "title": "《2026小红书年度居住趋势》发布：“适我主义”成为居住新风向 - 京报网",
-   "source": "京报网",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5QM1Zva1l4YmE1c1dtcFZhSEVPZ0w0UVo5NTdjUUJ6SlI3RmNaR3U5MUdybWJwdFhPT19MdHlGX1FiSnA5Yy0tWGw3WG5PZkIxUUMxME9zVXlZV0txYmc?oc=5",
-   "date": "2026-04-24",
-   "summary": "《2026小红书年度居住趋势》发布：“适我主义”成为居住新风向  京报网",
-   "body": "《2026小红书年度居住趋势》发布：“适我主义”成为居住新风向  京报网",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "nb41fd74d66",
-   "category": "消费者",
-   "company": "",
-   "title": "4亿月活的小红书押注中长视频，全年数千万预算激励创作者|短视频|白板|流量|社区|新生代 - 新浪财经",
-   "source": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5iZzJWeXRuUWkxeUFfcnF0SmhHbzBvaVBOcWFrUU5jSGpNNWx1NTZXOTN6Nno4Z2dfdVV5allUMmVsNFdHUjdpNFVLZkt4bGpMallXUnpCdERONFZBejc2TktpTnNad0N5N2dlZ0tPUmtDb1hDaC03Sk54NTJkSlE?oc=5",
-   "date": "2026-05-26",
-   "summary": "4亿月活的小红书押注中长视频，全年数千万预算激励创作者|短视频|白板|流量|社区|新生代  新浪财经",
-   "body": "4亿月活的小红书押注中长视频，全年数千万预算激励创作者|短视频|白板|流量|社区|新生代  新浪财经",
-   "tags": [
-    "消费者",
-    "短视频"
-   ]
-  },
-  {
-   "id": "n422f9385fe",
-   "category": "消费者",
-   "company": "",
-   "title": "“心动山东·泉城惠享季”启幕！六城联动激活齐鲁消费新活力 - 济南新闻",
-   "source": "济南新闻",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9JczFVaEpTUDQzRTFIdmVHSHM4N0ZtUTdrQ2FUQkdsRENVTVE4dlVCMUhVYVlNMzR5allXbUF6Y2FLdExiSF9yS3ZzejY4RGF4QmhSRHNHVVRMS1NlR2s0Zkk4aVBXUQ?oc=5",
-   "date": "2026-08-29",
-   "summary": "“心动山东·泉城惠享季”启幕！六城联动激活齐鲁消费新活力  济南新闻",
-   "body": "“心动山东·泉城惠享季”启幕！六城联动激活齐鲁消费新活力  济南新闻",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n8035fc78b3",
-   "category": "消费者",
-   "company": "",
-   "title": "抖音《2026暑期消费数据报告》揭示：福州鱼丸团购额暴涨660%，AI算法如何精准捕捉暑期消费“情绪价值”？ - 新浪财经",
-   "source": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbm9yVkFhUVEtSkdfVS0wNjdpeThsRmlpcDdjSnJ1STNwWmlIN0lPcWJURE84eWNkdUpsMC14dURQNkVTOUpmcERJdENVZXh2NUpuWmxMRjc0RFhiSUZ0andSTHBCZVVPbS04cWZKcEwyS2JkVTZxUXY3QlJSOUl6dnM1QlY?oc=5",
-   "date": "2026-08-29",
-   "summary": "抖音《2026暑期消费数据报告》揭示：福州鱼丸团购额暴涨660%，AI算法如何精准捕捉暑期消费“情绪价值”？  新浪财经",
-   "body": "抖音《2026暑期消费数据报告》揭示：福州鱼丸团购额暴涨660%，AI算法如何精准捕捉暑期消费“情绪价值”？  新浪财经",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n4a63dc6a80",
-   "category": "竞品",
-   "company": "",
-   "title": "特赞科技创始人范凌：“我一直想做的事情就是把科技带到创意领域里” - sh.chinanews.com.cn",
-   "source": "sh.chinanews.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PRUJrN1pqdU1DMWlwZk5yMzZOc1RuTzRVLUZtclFKaEl5LWZpQ1F5WkdKZ0hoWUJXNjh3SmFyOWRrTXhwd2pCbjl1VnM0dkg1NkpyaWJNalZnbGQwVmNuYzlvdjI2X2NtSmZHVQ?oc=5",
-   "date": "2025-04-30",
-   "summary": "特赞科技创始人范凌：“我一直想做的事情就是把科技带到创意领域里”  sh.chinanews.com.cn",
-   "body": "特赞科技创始人范凌：“我一直想做的事情就是把科技带到创意领域里”  sh.chinanews.com.cn",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "n87855af2e4",
-   "category": "竞品",
-   "company": "",
-   "title": "被投企业 | 特赞完成1亿美元C轮融资，首次发布内容体验数字平台 - 阿里云创新中心",
-   "source": "阿里云创新中心",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5R0dkWGtpV1dlZHNUZG51YlRnVnNEa3BleFBRMkRLN1MtVFZRam5ZWEFBT0NDR294cG5WVm5GVFR5bWlmZWxlUkhDTnU1aTR6YVczRWNwYw?oc=5",
-   "date": "2024-04-09",
-   "summary": "被投企业 | 特赞完成1亿美元C轮融资，首次发布内容体验数字平台  阿里云创新中心",
-   "body": "被投企业 | 特赞完成1亿美元C轮融资，首次发布内容体验数字平台  阿里云创新中心",
-   "tags": [
-    "竞品",
-    "融资"
-   ]
-  },
-  {
-   "id": "n9e40c437a5",
-   "category": "竞品",
-   "company": "",
-   "title": "特赞发布数据智能产品Tezign Mind :进击创意资产数据化，从1到100 - 动点科技",
-   "source": "动点科技",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lelNySTlRbjVVTFFVMWFDZkxkOC1YdXMxSGM3SnBwakdlOXp2Q29QaVNpS3RkMUFTNGF1d3hGcGVYTENTcXBMV1gtUmFqNzMxUTkwX2tOeUJOYVFadU56dVZR?oc=5",
-   "date": "2018-08-15",
-   "summary": "特赞发布数据智能产品Tezign Mind :进击创意资产数据化，从1到100  动点科技",
-   "body": "特赞发布数据智能产品Tezign Mind :进击创意资产数据化，从1到100  动点科技",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "nacd181fb23",
-   "category": "竞品",
-   "company": "",
-   "title": "融资丨内容科技公司特赞获得1亿美元C2轮融资，淡马锡领投 - cyzone.cn",
-   "source": "cyzone.cn",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE94ajJMdFluODhnellZVUY2eFdIVDZpMEZvZjdDc0tHc1RfV3E3VTRZd0RVQVR0S2VhcEROY2FxZkZ1YWpTQmNNLUl3?oc=5",
-   "date": "2023-10-17",
-   "summary": "融资丨内容科技公司特赞获得1亿美元C2轮融资，淡马锡领投  cyzone.cn",
-   "body": "融资丨内容科技公司特赞获得1亿美元C2轮融资，淡马锡领投  cyzone.cn",
-   "tags": [
-    "竞品",
-    "融资"
-   ]
-  },
-  {
-   "id": "n624824a69a",
-   "category": "竞品",
-   "company": "",
-   "title": "特赞完成D1轮融资，成为超10亿美元估值的内容科技独角兽 - 电子工程专辑",
-   "source": "电子工程专辑",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rcW5UYkpHcm01NXZRbWp2akRSVFNiaExZdFRuVGQ3R0wwN2ZJTzE3REFMOFV3OGNJXzhXcFQ3bEp3ZmtLVmNURTdITlp2OGxjalE?oc=5",
-   "date": "2021-11-03",
-   "summary": "特赞完成D1轮融资，成为超10亿美元估值的内容科技独角兽  电子工程专辑",
-   "body": "特赞完成D1轮融资，成为超10亿美元估值的内容科技独角兽  电子工程专辑",
-   "tags": [
-    "竞品",
-    "融资",
-    "独角兽"
-   ]
-  },
-  {
-   "id": "n2977fd8ba1",
-   "category": "竞品",
-   "company": "",
-   "title": "AI+SaaS制作内容 让商家既省钱又赚钱？ - 亿邦动力网",
-   "source": "亿邦动力网",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBESWN3QnJPd3RZX3lVdFhJZVRYd2ZFSWlxTmlMQ1p6YkFzODY3ZWtSMTA4X2JyWEQxWHZMSHpwRWRwMDQzX2k0Skl4eWZyclRERjA3Tnhn?oc=5",
-   "date": "2025-04-10",
-   "summary": "AI+SaaS制作内容 让商家既省钱又赚钱？  亿邦动力网",
-   "body": "AI+SaaS制作内容 让商家既省钱又赚钱？  亿邦动力网",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "n52344f9acb",
-   "category": "行业",
-   "company": "",
-   "title": "1.5万字！2026年45个【AI+营销】主流产品全貌-TopMarketing|TopMarketing官方网站 - itopmarketing.com",
-   "source": "itopmarketing.com",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjSWpRWi1iaFZwd0FVelJkMWtvZkQwdkFIQTc0VE9BT2tKeGRmVVA2XzhqUkU1RnpkV2NiZ0ZnLVVucXROV25zWkhCWTBYLWoz?oc=5",
-   "date": "2026-02-12",
-   "summary": "1.5万字！2026年45个【AI+营销】主流产品全貌-TopMarketing|TopMarketing官方网站  itopmarketing.com",
-   "body": "1.5万字！2026年45个【AI+营销】主流产品全貌-TopMarketing|TopMarketing官方网站  itopmarketing.com",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n8afb2a56a8",
-   "category": "行业",
-   "company": "",
-   "title": "聚焦B2B AI营销，世远控股叶泉鑫获评TopDigital年度B2B营销创新人物 - 中华网",
-   "source": "中华网",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5udkZ3QW94b1p0NmQ5QmJPMzBWTU8xOXlpcVhEbXI5OVBjb09ySkRnMmtrVzJIRUNBMW9pVGY3SmVaeDJpQVY2TFpRcjN3b25kMElaZ01OMTVlT1lpVEE?oc=5",
-   "date": "2026-08-07",
-   "summary": "聚焦B2B AI营销，世远控股叶泉鑫获评TopDigital年度B2B营销创新人物  中华网",
-   "body": "聚焦B2B AI营销，世远控股叶泉鑫获评TopDigital年度B2B营销创新人物  中华网",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n530790eec7",
-   "category": "行业",
-   "company": "",
-   "title": "新商传媒受邀参加2026百度AI营销城市行·贵阳站，共探AI 营销新趋势 - 美通社",
-   "source": "美通社",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ya2I3eUtuRkxjbXUyNkhDQWpydkZzZmNWNUNONlhsbm50VXFyZkEycGx3THlyNlh3WmJJc0lUVGxSd1hpcjd4eUFraGZlQUJlS1VuSmhlMy1SREtLNXZxejVYX09vSGNVZUp3X20wVmU3dzQ?oc=5",
-   "date": "2026-07-23",
-   "summary": "新商传媒受邀参加2026百度AI营销城市行·贵阳站，共探AI 营销新趋势  美通社",
-   "body": "新商传媒受邀参加2026百度AI营销城市行·贵阳站，共探AI 营销新趋势  美通社",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "nbc87201337",
-   "category": "政策",
-   "company": "",
-   "title": "谷歌确认Gemini AI聊天机器人不包含广告：这对广告商和人工智能货币化的未来意味着什么 - ALM Corp",
-   "source": "ALM Corp",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLXVjdThXbWZEMjh0N3FURnp0N3dVa1JLTTZ6TS1EUE1wRURwczIwRThPLVJ6aHdJLTMzUTVSYmM0Nkx2RkxLZmthck4wNVREZGh2a3VqVjJfNGI2TlN6SU5tam13MDd6RE5LLU50eHhfTlhicXVZc3h1WFJXYnJOY3IwNkx5UzlNVDJOc2xsMVk2UHZWUkhr?oc=5",
-   "date": "2026-05-30",
-   "summary": "谷歌确认Gemini AI聊天机器人不包含广告：这对广告商和人工智能货币化的未来意味着什么  ALM Corp",
-   "body": "谷歌确认Gemini AI聊天机器人不包含广告：这对广告商和人工智能货币化的未来意味着什么  ALM Corp",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "naca280dd89",
-   "category": "客户",
-   "company": "",
-   "title": "自然堂等美妆品牌AI广告涉低俗违规遭下架整改 - 财富号",
-   "source": "财富号",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtMkQ2UE9McktoeWZJcWNXNko0SkxNS1JWRk0xZmlYNnlFZmZHWG5zTXJEYUtVMzMwWmxva3ppQlUzY3ZKUkZRcjlqc3RCaXpwdjNyTU1qUXVwWlBhWkpiVXl4cDFXMGFmd1VB?oc=5",
-   "date": "2026-08-29",
-   "summary": "自然堂等美妆品牌AI广告涉低俗违规遭下架整改  财富号",
-   "body": "自然堂等美妆品牌AI广告涉低俗违规遭下架整改  财富号",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "nc2e1338e79",
-   "category": "客户",
-   "company": "",
-   "title": "AI越高效，审美越重要 - thepaper.cn",
-   "source": "thepaper.cn",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFB0RHRxVmVqNWcwSE9WRHBpcGFLZ2pNY3V2RjBtNXBVV0ktdjRYWVA2VWZpUVBKU0FBUzVySFFnNFVYbktXX1VFSjQ1VHRDNkhCdFVnUk9XVzNOZk5RNHc?oc=5",
-   "date": "2026-06-23",
-   "summary": "AI越高效，审美越重要  thepaper.cn",
-   "body": "AI越高效，审美越重要  thepaper.cn",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "n84e9b4017e",
-   "category": "消费者",
-   "company": "",
-   "title": "连接消费趋势与供给创新，抖音电商助力食饮商家持续拓展增长空间 - DoNews",
-   "source": "DoNews",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5jVlN6ZjNYUFE1TWhJdG1IOGpBSE5uRW1sWHZ5dWNqZUd5OXktaHZWS1Z2RmZqLXBETlhSdy1JdHRnbzJYNTl0OFVoS1plOFd4WU5ScXJaVGNROUVERnc?oc=5",
-   "date": "2026-08-28",
-   "summary": "连接消费趋势与供给创新，抖音电商助力食饮商家持续拓展增长空间  DoNews",
-   "body": "连接消费趋势与供给创新，抖音电商助力食饮商家持续拓展增长空间  DoNews",
-   "tags": [
-    "消费者"
    ]
   }
  ]
