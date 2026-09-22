@@ -3,9 +3,239 @@ window.KB_DATA = {
  "meta": {
   "generated": "2026-09-22",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 18 条，合计 400 条"
+  "note": "新增 16 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "n4a63dc6a80",
+   "category": "竞品",
+   "company": "",
+   "title": "特赞科技创始人范凌：“我一直想做的事情就是把科技带到创意领域里” - sh.chinanews.com.cn",
+   "source": "sh.chinanews.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PRUJrN1pqdU1DMWlwZk5yMzZOc1RuTzRVLUZtclFKaEl5LWZpQ1F5WkdKZ0hoWUJXNjh3SmFyOWRrTXhwd2pCbjl1VnM0dkg1NkpyaWJNalZnbGQwVmNuYzlvdjI2X2NtSmZHVQ?oc=5",
+   "date": "2025-04-30",
+   "summary": "特赞科技创始人范凌：“我一直想做的事情就是把科技带到创意领域里”  sh.chinanews.com.cn",
+   "body": "特赞科技创始人范凌：“我一直想做的事情就是把科技带到创意领域里”  sh.chinanews.com.cn",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n87855af2e4",
+   "category": "竞品",
+   "company": "",
+   "title": "被投企业 | 特赞完成1亿美元C轮融资，首次发布内容体验数字平台 - 阿里云创新中心",
+   "source": "阿里云创新中心",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5R0dkWGtpV1dlZHNUZG51YlRnVnNEa3BleFBRMkRLN1MtVFZRam5ZWEFBT0NDR294cG5WVm5GVFR5bWlmZWxlUkhDTnU1aTR6YVczRWNwYw?oc=5",
+   "date": "2024-04-09",
+   "summary": "被投企业 | 特赞完成1亿美元C轮融资，首次发布内容体验数字平台  阿里云创新中心",
+   "body": "被投企业 | 特赞完成1亿美元C轮融资，首次发布内容体验数字平台  阿里云创新中心",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "n9e40c437a5",
+   "category": "竞品",
+   "company": "",
+   "title": "特赞发布数据智能产品Tezign Mind :进击创意资产数据化，从1到100 - 动点科技",
+   "source": "动点科技",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1lelNySTlRbjVVTFFVMWFDZkxkOC1YdXMxSGM3SnBwakdlOXp2Q29QaVNpS3RkMUFTNGF1d3hGcGVYTENTcXBMV1gtUmFqNzMxUTkwX2tOeUJOYVFadU56dVZR?oc=5",
+   "date": "2018-08-15",
+   "summary": "特赞发布数据智能产品Tezign Mind :进击创意资产数据化，从1到100  动点科技",
+   "body": "特赞发布数据智能产品Tezign Mind :进击创意资产数据化，从1到100  动点科技",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "nacd181fb23",
+   "category": "竞品",
+   "company": "",
+   "title": "融资丨内容科技公司特赞获得1亿美元C2轮融资，淡马锡领投 - 创业邦",
+   "source": "创业邦",
+   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE94ajJMdFluODhnellZVUY2eFdIVDZpMEZvZjdDc0tHc1RfV3E3VTRZd0RVQVR0S2VhcEROY2FxZkZ1YWpTQmNNLUl3?oc=5",
+   "date": "2023-10-17",
+   "summary": "融资丨内容科技公司特赞获得1亿美元C2轮融资，淡马锡领投  创业邦",
+   "body": "融资丨内容科技公司特赞获得1亿美元C2轮融资，淡马锡领投  创业邦",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "n624824a69a",
+   "category": "竞品",
+   "company": "",
+   "title": "特赞完成D1轮融资，成为超10亿美元估值的内容科技独角兽 - 电子工程专辑",
+   "source": "电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5rcW5UYkpHcm01NXZRbWp2akRSVFNiaExZdFRuVGQ3R0wwN2ZJTzE3REFMOFV3OGNJXzhXcFQ3bEp3ZmtLVmNURTdITlp2OGxjalE?oc=5",
+   "date": "2021-11-03",
+   "summary": "特赞完成D1轮融资，成为超10亿美元估值的内容科技独角兽  电子工程专辑",
+   "body": "特赞完成D1轮融资，成为超10亿美元估值的内容科技独角兽  电子工程专辑",
+   "tags": [
+    "竞品",
+    "融资",
+    "独角兽"
+   ]
+  },
+  {
+   "id": "nd1973df9e2",
+   "category": "竞品",
+   "company": "",
+   "title": "钛动科技李述昊：智能体商业时代来了，AI帮中国品牌从代工走向定价权｜AI看广东 - huacheng.gz-cmc.com",
+   "source": "huacheng.gz-cmc.com",
+   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaUtYV3FLNDQxNjU1ak5BMGIyajhvdldHdEh0dFU2OXF1Q2xFWU15Zzh1ZHF5WGVwS1hDZTZHbnVBa09HTjE3cE9uQ0hnVnN2TjFLelJXNjIySjlOY2ZLWDk0UGpsSENYcXoyNTFiUXZDbW9ULWJfU09DR0tDYTZtMENZMWpyXzRSYWc?oc=5",
+   "date": "2026-09-22",
+   "summary": "钛动科技李述昊：智能体商业时代来了，AI帮中国品牌从代工走向定价权｜AI看广东  huacheng.gz-cmc.com",
+   "body": "钛动科技李述昊：智能体商业时代来了，AI帮中国品牌从代工走向定价权｜AI看广东  huacheng.gz-cmc.com",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n867aaf675d",
+   "category": "竞品",
+   "company": "",
+   "title": "一键成片，内容商业AIGC视频应用平台「筷子科技」完成近5000万元B1轮融资｜36氪首发 - 36kr.com",
+   "source": "36kr.com",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1xaVAzaG5ERGtSNlJFUkkzRk1PRU1LV1hqbTF6R005T19EdkhUUVk4N202WUh1ajFOeWVlNklqWTJDX2pXQWtaLVVjRUtFZw?oc=5",
+   "date": "2024-04-11",
+   "summary": "一键成片，内容商业AIGC视频应用平台「筷子科技」完成近5000万元B1轮融资｜36氪首发  36kr.com",
+   "body": "一键成片，内容商业AIGC视频应用平台「筷子科技」完成近5000万元B1轮融资｜36氪首发  36kr.com",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "n52344f9acb",
+   "category": "行业",
+   "company": "",
+   "title": "1.5万字！2026年45个【AI+营销】主流产品全貌 - itopmarketing.com",
+   "source": "itopmarketing.com",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjSWpRWi1iaFZwd0FVelJkMWtvZkQwdkFIQTc0VE9BT2tKeGRmVVA2XzhqUkU1RnpkV2NiZ0ZnLVVucXROV25zWkhCWTBYLWoz?oc=5",
+   "date": "2026-02-12",
+   "summary": "1.5万字！2026年45个【AI+营销】主流产品全貌  itopmarketing.com",
+   "body": "1.5万字！2026年45个【AI+营销】主流产品全貌  itopmarketing.com",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n144fd75130",
+   "category": "行业",
+   "company": "",
+   "title": "AI营销“全链路协作”时代，利欧股份重磅发布CubSwarm多智能体系统 - 证券时报网",
+   "source": "证券时报网",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1YaFZPa0pXOW1VQjhSeE16QXN5RkF6emhJajM2T2ZfSlNNb2JUX0lPdE9jN2YtbWpCN3BucEJWdEljUmVBeWhNVVowS1pCYmdfNU9rS2FkWGxxZmRV?oc=5",
+   "date": "2026-04-15",
+   "summary": "AI营销“全链路协作”时代，利欧股份重磅发布CubSwarm多智能体系统  证券时报网",
+   "body": "AI营销“全链路协作”时代，利欧股份重磅发布CubSwarm多智能体系统  证券时报网",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "nd193acd5d8",
+   "category": "行业",
+   "company": "",
+   "title": "大摩详解“AI时代的广告业”：从注意力争夺到交易闭环 - 华尔街见闻",
+   "source": "华尔街见闻",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9LcWZEdTJkZklWSlE0eHRjdTczTjJlSEJpc2d6bnE3THJ5cmJMNzZFRzExV2xNUXpFZjJGeU9NTElRaHpyMWxjTW91aGdQYTZCNVlz?oc=5",
+   "date": "2026-09-22",
+   "summary": "大摩详解“AI时代的广告业”：从注意力争夺到交易闭环  华尔街见闻",
+   "body": "大摩详解“AI时代的广告业”：从注意力争夺到交易闭环  华尔街见闻",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "ndd83937c17",
+   "category": "行业",
+   "company": "",
+   "title": "OpenAI收紧ChatGPT广告政策，禁止Adobe竞品投放AI生图及音频广告 - 新浪财经_金融信息服务商",
+   "source": "新浪财经_金融信息服务商",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYTNiTmoweUNQT0VFaHdtSGliM29ZOHc5cTFrdDZVckpzeGFWNHVBMlFwYnFBM2lLQkZHT0hodEZ1NTdwR2Zjc1ltZzdzR2dXQWNRSjlBQmxQV2RBeU9qclR2RWpqMHlZQW9UdlptNlpmWjVvMU5CaVFhUWdyemY5V3hFZw?oc=5",
+   "date": "2026-09-10",
+   "summary": "OpenAI收紧ChatGPT广告政策，禁止Adobe竞品投放AI生图及音频广告  新浪财经_金融信息服务商",
+   "body": "OpenAI收紧ChatGPT广告政策，禁止Adobe竞品投放AI生图及音频广告  新浪财经_金融信息服务商",
+   "tags": [
+    "行业",
+    "投放"
+   ]
+  },
+  {
+   "id": "nae9d891b62",
+   "category": "政策",
+   "company": "",
+   "title": "亚马逊阻止Meta Muse在其平台代购，AMZN与META谁更值得买入？ - TradingKey",
+   "source": "TradingKey",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVkRVQW42RVlTTjNpSlM3dkN6Z09HNmowdkgwbElJNFpXNkFXdXpybnd2enJ1UE9YNTJGbEhCUEpUbHBXWWJJZXJjMDU1eWdNUUh2VEMxenZoV09JRXJHbTNyZkNUOXBEb3ZCclpJalVWYWlqR3lKdGl4dEw3dnJ0UjEzVUJKanlrNGdWVTNGVGhrcWh0Q2tXc1VFWHBudTlER3JXUzMyLW9VU1NOOS1ObXpLMVBvX0ZiNTFubnFXOE85M3RvRmRCV3o0S3dEWFZs?oc=5",
+   "date": "2026-09-21",
+   "summary": "亚马逊阻止Meta Muse在其平台代购，AMZN与META谁更值得买入？  TradingKey",
+   "body": "亚马逊阻止Meta Muse在其平台代购，AMZN与META谁更值得买入？  TradingKey",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n1328189666",
+   "category": "政策",
+   "company": "",
+   "title": "Meta AI助手Muse爆红13天遭亚马逊封杀 广告模式成死结 - 茉莉花新闻网",
+   "source": "茉莉花新闻网",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1Vb09PY0twX1NNY2N0ZGFjNjJRWUlrblNZbnp3czhNTm5lUWdFa1ltQlQ1TGQ2aUZpbXVDZmtvT1JVREl5SFE?oc=5",
+   "date": "2026-09-21",
+   "summary": "Meta AI助手Muse爆红13天遭亚马逊封杀 广告模式成死结  茉莉花新闻网",
+   "body": "Meta AI助手Muse爆红13天遭亚马逊封杀 广告模式成死结  茉莉花新闻网",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nbc87201337",
+   "category": "政策",
+   "company": "",
+   "title": "谷歌确认Gemini AI聊天机器人不包含广告：这对广告商和人工智能货币化的未来意味着什么 - ALM Corp",
+   "source": "ALM Corp",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPLXVjdThXbWZEMjh0N3FURnp0N3dVa1JLTTZ6TS1EUE1wRURwczIwRThPLVJ6aHdJLTMzUTVSYmM0Nkx2RkxLZmthck4wNVREZGh2a3VqVjJfNGI2TlN6SU5tam13MDd6RE5LLU50eHhfTlhicXVZc3h1WFJXYnJOY3IwNkx5UzlNVDJOc2xsMVk2UHZWUkhr?oc=5",
+   "date": "2026-05-30",
+   "summary": "谷歌确认Gemini AI聊天机器人不包含广告：这对广告商和人工智能货币化的未来意味着什么  ALM Corp",
+   "body": "谷歌确认Gemini AI聊天机器人不包含广告：这对广告商和人工智能货币化的未来意味着什么  ALM Corp",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n82dd21200f",
+   "category": "客户",
+   "company": "",
+   "title": "珀莱雅锚定1微米线粒体研发 筑牢国货美妆新护城河背后逻辑 - eu.36kr.com",
+   "source": "eu.36kr.com",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85a1hCLVZEanlWMENYaGpuSTlVcUN6R2dBMzJGTW5fOVJ1ZUx2LUxtUkNPZGV3ZlIzbmhKTjk0Sjc0ZmlUV1RfdktIdXp5REtiSkhr?oc=5",
+   "date": "2026-09-21",
+   "summary": "珀莱雅锚定1微米线粒体研发 筑牢国货美妆新护城河背后逻辑  eu.36kr.com",
+   "body": "珀莱雅锚定1微米线粒体研发 筑牢国货美妆新护城河背后逻辑  eu.36kr.com",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n855558b9aa",
+   "category": "消费者",
+   "company": "",
+   "title": "中秋时令消费江苏列前五，抖音电商中秋时令食品消费报告：“家乡味”出圈 - 新浪财经_金融信息服务商",
+   "source": "新浪财经_金融信息服务商",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQNndheDFZcTduR3NtcV9KRFJIZmV0NkRoa2JVbTNBVlpncmtoYmNXLWZaaVZ0bG9adlBFQUl2dkNld2k5VjJOZlNuRkQyeEpMUnc1alVOc1Y0Z2RWNVY5RW82QkZ0S3NwNndDOTVxUjA5Z0ZFWk4wVm9wSF83aTBTbHRpVndWcVNJX2NWdWtPSGJsUklHcHpfSA?oc=5",
+   "date": "2026-09-22",
+   "summary": "中秋时令消费江苏列前五，抖音电商中秋时令食品消费报告：“家乡味”出圈  新浪财经_金融信息服务商",
+   "body": "中秋时令消费江苏列前五，抖音电商中秋时令食品消费报告：“家乡味”出圈  新浪财经_金融信息服务商",
+   "tags": [
+    "消费者"
+   ]
+  },
   {
    "id": "nbe77af8594",
    "category": "竞品",
@@ -5547,237 +5777,6 @@ window.KB_DATA = {
    "tags": [
     "客户",
     "出海"
-   ]
-  },
-  {
-   "id": "nac282de158",
-   "category": "消费者",
-   "company": "",
-   "title": "抖音“520”消费趋势观察：95后下单量同比增长57%，50岁以上增长76% - 亿欧",
-   "source": "亿欧",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GQ01RY2Q5ampYbHRQMktlTVRrTGowTGUtdkdZMHFEeDI4YWgyZUNtU2JRd3V4bkRuckVlaHhjWklyb0tDb29yM3M1VVhtenhOSFhBMQ?oc=5",
-   "date": "2026-05-19",
-   "summary": "抖音“520”消费趋势观察：95后下单量同比增长57%，50岁以上增长76%  亿欧",
-   "body": "抖音“520”消费趋势观察：95后下单量同比增长57%，50岁以上增长76%  亿欧",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n0cb33c4714",
-   "category": "竞品",
-   "company": "",
-   "title": "特赞科技亮相 2026世界人工智能大会 ，范凌做客央视直播间谈AI应用和人机关系 - 凤凰网科技",
-   "source": "凤凰网科技",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBnMHh5VUJOT3JWVGRqNjdKaUZXNVRpN2lTZjNCOW9ESUdpbDhaUjEwaTZTQ2p6aXBBUkxJWU8zUjcxVG1pSVFsRU5Pams?oc=5",
-   "date": "2026-07-17",
-   "summary": "特赞科技亮相 2026世界人工智能大会 ，范凌做客央视直播间谈AI应用和人机关系  凤凰网科技",
-   "body": "特赞科技亮相 2026世界人工智能大会 ，范凌做客央视直播间谈AI应用和人机关系  凤凰网科技",
-   "tags": [
-    "竞品",
-    "直播"
-   ]
-  },
-  {
-   "id": "n9b467d74fe",
-   "category": "竞品",
-   "company": "",
-   "title": "2026APEC中小企业部长会之广州企业观察⑦｜钛动科技：“广州造”“超级智能体”，帮广货扬帆海外市场 - 广州日报新花城",
-   "source": "广州日报新花城",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdGVKY1hkSHJjLVdlVjExN08tMl80UkRwcW5ZQXQ0OVQzWnZPQTFidF9QTGczY1ZkY3NOcVlyWkprb1k0bkxWWDduRDZYeG5Rc2pwZ3NEM2NEQXJKXzc3ZGFpRmpLVzFXYjdseGlyUS1LQ2ZpUHE5RmNSRWx5S2dUN3RjUVl6VVNXWGc?oc=5",
-   "date": "2026-08-31",
-   "summary": "2026APEC中小企业部长会之广州企业观察⑦｜钛动科技：“广州造”“超级智能体”，帮广货扬帆海外市场  广州日报新花城",
-   "body": "2026APEC中小企业部长会之广州企业观察⑦｜钛动科技：“广州造”“超级智能体”，帮广货扬帆海外市场  广州日报新花城",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "n1f32094a88",
-   "category": "竞品",
-   "company": "",
-   "title": "联合OpenAI首办亚太区大会，钛动科技分享ChatGPT Ads 落地路径 - 智东西",
-   "source": "智东西",
-   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9IZUg0dlphZmJ0d1FsVzVTX202aktqeDluNXE2YjNqaGtCZ3RIQWxHUk5uOEoxa204TnRnbE5ic2VCY1dEUlE?oc=5",
-   "date": "2026-08-31",
-   "summary": "联合OpenAI首办亚太区大会，钛动科技分享ChatGPT Ads 落地路径  智东西",
-   "body": "联合OpenAI首办亚太区大会，钛动科技分享ChatGPT Ads 落地路径  智东西",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "nd826a84048",
-   "category": "竞品",
-   "company": "",
-   "title": "钛动科技CEO李述昊：智能体商业将成为全球商业的最新发展方向 - 东方财富",
-   "source": "东方财富",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TYnh6RVhGa0J4NWdEd3ZvWTZaWElwSzM1aVZkcGsxMXBvWnNkM3B6MklVSzdTWExQdURRRm56R0RFMEJBbUh6NXY5S2lWS0FUN1JBYjdIeldWUkJtSHFsWg?oc=5",
-   "date": "2026-08-31",
-   "summary": "钛动科技CEO李述昊：智能体商业将成为全球商业的最新发展方向  东方财富",
-   "body": "钛动科技CEO李述昊：智能体商业将成为全球商业的最新发展方向  东方财富",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "naa22f26bc3",
-   "category": "竞品",
-   "company": "",
-   "title": "钛动科技转道港交所，出海AI营销龙头迎资本大考 - 21财经",
-   "source": "21财经",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWkRKTHhVTDMzalFZYW9JWHdVSGlQN3U0UExPc3pRdzlCOGI5aEZvb0V1WnFmcUV4a3FpSlVBRWYxbXVKVUlwU1NKeTcwRXo0RXVvYmFVcHltelktMUlVXzMxWTRqSXBkV2N0WVRxSmhZeUlKT21OQmQ0ZEprd3hCSk9hRUJnUnNwYzFnYmtrZw?oc=5",
-   "date": "2026-03-18",
-   "summary": "钛动科技转道港交所，出海AI营销龙头迎资本大考  21财经",
-   "body": "钛动科技转道港交所，出海AI营销龙头迎资本大考  21财经",
-   "tags": [
-    "竞品",
-    "出海"
-   ]
-  },
-  {
-   "id": "n970bbec910",
-   "category": "竞品",
-   "company": "",
-   "title": "AI 应用进入“算账”时代，筷子科技为什么要做一个 KP 钱包？ - 雷峰网",
-   "source": "雷峰网",
-   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5obzlmQTh0NXBGQ191b3FsT19ib3JmQWo5TU9FakJQbVo4LVhRUnFTS3NXN1djOU1tWVNmX1dnNGJHNlNlRDU2cFdSTk1OS3locktZdHAwNHlBaDVGVm13bnVLckYtaEszWkVoNnVSREF0MHc5bGow?oc=5",
-   "date": "2026-08-31",
-   "summary": "AI 应用进入“算账”时代，筷子科技为什么要做一个 KP 钱包？  雷峰网",
-   "body": "AI 应用进入“算账”时代，筷子科技为什么要做一个 KP 钱包？  雷峰网",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "n80d3e5c503",
-   "category": "竞品",
-   "company": "",
-   "title": "从“买AI工具”到统一管理营销能力，筷子科技推出KP钱包 - Morketing",
-   "source": "Morketing",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50eVhsRWNTejUzZGVKcG1rdUpoTTItUUo4WnJ2T2RmZjNwSG1iR0NxMUw4dk1RNGw3bHB4Rlh4UV9wSGM2TzN4Sy1GODVlblE?oc=5",
-   "date": "2026-08-31",
-   "summary": "从“买AI工具”到统一管理营销能力，筷子科技推出KP钱包  Morketing",
-   "body": "从“买AI工具”到统一管理营销能力，筷子科技推出KP钱包  Morketing",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "nc9be450e76",
-   "category": "竞品",
-   "company": "",
-   "title": "对话未来商业｜奥创光年联创杨海：调研了近100家“一号位” 我们选择了“AI+营销”创业 - mrjjxw.com",
-   "source": "mrjjxw.com",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBudm0xMTJFZGt3clJBbXNWejE5NmNBRWs1ZDl6bmlXT0hvNXNPWTJGWS1XV2tQZTRoRDlPUVBUbHlkZEtTQmVvbF95TThsWTZMNU0xdDNZTThHRXpSLWpScDMwUnZqUQ?oc=5",
-   "date": "2024-02-01",
-   "summary": "对话未来商业｜奥创光年联创杨海：调研了近100家“一号位” 我们选择了“AI+营销”创业  mrjjxw.com",
-   "body": "对话未来商业｜奥创光年联创杨海：调研了近100家“一号位” 我们选择了“AI+营销”创业  mrjjxw.com",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "nf386e988b6",
-   "category": "竞品",
-   "company": "",
-   "title": "AI营销界迎来GEO好手，PureblueAI清蓝拿下数千万元天使+轮融资 - 财富号",
-   "source": "财富号",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE50X0ZjSGZTbFdEM2pFTlY2VmRueGwtMVpvUjVfZlVlYV9WaUk2RmU2cFhfOUNpbGw5NEVoMmdia0RCMmlUdWh5aTJzRE9SeE83VGtwdzdGeWg5TE5icXhkdFNMSVJkaTU3dGxr?oc=5",
-   "date": "2026-08-29",
-   "summary": "AI营销界迎来GEO好手，PureblueAI清蓝拿下数千万元天使+轮融资  财富号",
-   "body": "AI营销界迎来GEO好手，PureblueAI清蓝拿下数千万元天使+轮融资  财富号",
-   "tags": [
-    "竞品",
-    "融资",
-    "GEO"
-   ]
-  },
-  {
-   "id": "naf1856c3b3",
-   "category": "竞品",
-   "company": "",
-   "title": "“躺着”可收获全球订单！张江AI小镇企业造销售Agent天使轮完成百万美元融资 - ByDrug",
-   "source": "ByDrug",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wYVhyamFqY2hQVVhTR19TbTQ1amdJNmZDUGZfMHU1VFU0OWNueFdfazVFTjl6Q1Zwa2laeC1Wb2lnRG1XeVhqZmdTQlRNZTlwcTFYaVJEclk2LWZFajZVbEJPMWpWRkoyS0VkZkNpTnF1UFZtcHZpdTQydmlpUQ?oc=5",
-   "date": "2026-03-04",
-   "summary": "“躺着”可收获全球订单！张江AI小镇企业造销售Agent天使轮完成百万美元融资  ByDrug",
-   "body": "“躺着”可收获全球订单！张江AI小镇企业造销售Agent天使轮完成百万美元融资  ByDrug",
-   "tags": [
-    "竞品",
-    "融资",
-    "Agent"
-   ]
-  },
-  {
-   "id": "nde19da89f7",
-   "category": "政策",
-   "company": "",
-   "title": "6月TikTok短剧分成：总额破2200万美元，本土AI剧增长112%，自主入驻也能拿爆款奖励！ - thepaper.cn",
-   "source": "thepaper.cn",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE4wT09VekNIdU5qa1o4SDlPZmNyVDlOcGpZV2RwQW1OU2ZvY0ZrTXdHZS1kM0pmeGtESEFJRnhaOHR3RXo2QXFRRGg2Q3J2aGxRRGFibTdpUzlnV1B3bGc?oc=5",
-   "date": "2026-07-29",
-   "summary": "6月TikTok短剧分成：总额破2200万美元，本土AI剧增长112%，自主入驻也能拿爆款奖励！  thepaper.cn",
-   "body": "6月TikTok短剧分成：总额破2200万美元，本土AI剧增长112%，自主入驻也能拿爆款奖励！  thepaper.cn",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "n8c3d13b608",
-   "category": "政策",
-   "company": "",
-   "title": "AI重构美股数字广告格局 Meta单季收入或反超谷歌搜索 - 雪球",
-   "source": "雪球",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9mbDFzLW9KSEQzc0x4NVJlV182WU9YZWVvbWN0aDc4VzJjM3VIV3NKWm54ZUhGelIxQ2IxTEROR2NBd1U4RFB5VnE2bVVpbFNj?oc=5",
-   "date": "2026-08-31",
-   "summary": "AI重构美股数字广告格局 Meta单季收入或反超谷歌搜索  雪球",
-   "body": "AI重构美股数字广告格局 Meta单季收入或反超谷歌搜索  雪球",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "ne32075efc8",
-   "category": "政策",
-   "company": "",
-   "title": "Meta 布局复盘，广告 AI 变现与低估值拉升的实战验证 - moomoo.com",
-   "source": "moomoo.com",
-   "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRHROdWhIM2JTYUtWWGhRTEJPc0tRN0ZGX3dDX2drLTVUVnpRSExfeFdNZDNtTjRRU2hNakNPOU1wdDBYczBvaHpYYU5Bbm9heGQ5WkV0RllkSnE5LVNmNmxTQm9uc1J4VnBqWGhxUWRYYnEwUFhRendIMHR3M2NCc3p1c1l2YzVHdC1ocDJrUkNra0Y4WXdDWko4bjl1ZU5KeDVXbmJGZVJKaVRGVDNhSVczcVlwODV2X29QSw?oc=5",
-   "date": "2026-08-08",
-   "summary": "Meta 布局复盘，广告 AI 变现与低估值拉升的实战验证  moomoo.com",
-   "body": "Meta 布局复盘，广告 AI 变现与低估值拉升的实战验证  moomoo.com",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "nb5da1a484c",
-   "category": "客户",
-   "company": "",
-   "title": "自然堂等品牌广告语“纵欲过度的女人”引争议：被指冒犯矮化女性 - Sohu",
-   "source": "Sohu",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFNVJnazJfUEVBZVhJRnl1eG85U0s1NHByNkExQUtVRnpmdVl2Vk50amttSkRxUXdKVEViSXlDelhCODFUYWNfM0RzRWx6ZGJEMHc?oc=5",
-   "date": "2026-08-29",
-   "summary": "自然堂等品牌广告语“纵欲过度的女人”引争议：被指冒犯矮化女性  Sohu",
-   "body": "自然堂等品牌广告语“纵欲过度的女人”引争议：被指冒犯矮化女性  Sohu",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "n0a75370e78",
-   "category": "客户",
-   "company": "",
-   "title": "【回放】AI赋能独立站：从广告创意生成到 Agent 降本增收 - 雨果跨境",
-   "source": "雨果跨境",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFB5LVhrNXAxUU04ZExBMF9CQ2stOHA1Ny1xcThtWkstNDdMel9VeGluR3BWZzNEMHhWakx1MU9UcGVvWHp4T1IyLUx3?oc=5",
-   "date": "2026-08-27",
-   "summary": "【回放】AI赋能独立站：从广告创意生成到 Agent 降本增收  雨果跨境",
-   "body": "【回放】AI赋能独立站：从广告创意生成到 Agent 降本增收  雨果跨境",
-   "tags": [
-    "客户",
-    "Agent"
    ]
   }
  ]
