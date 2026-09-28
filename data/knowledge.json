@@ -1,10 +1,108 @@
 {
  "meta": {
-  "generated": "2026-09-27",
+  "generated": "2026-09-28",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 11 条，合计 400 条"
+  "note": "新增 7 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "n22268cb58f",
+   "category": "行业",
+   "company": "",
+   "title": "ChatGPT官宣进军泰国“带货” - 泰国头条新闻Thailand Headlines",
+   "source": "泰国头条新闻Thailand Headlines",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9aNU50UmxkSWQ1a21TdGh3b0JONmFEOGtQUmF1Q1otMWU4UDZzNXZFeGVqcFVlcnBJWjdBN19QUGhNUHVqeE51ZjJhU09EQQ?oc=5",
+   "date": "2026-09-27",
+   "summary": "ChatGPT官宣进军泰国“带货”  泰国头条新闻Thailand Headlines",
+   "body": "ChatGPT官宣进军泰国“带货”  泰国头条新闻Thailand Headlines",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "nf3ac6ccd96",
+   "category": "政策",
+   "company": "",
+   "title": "海外研选 | 摩根大通：Muse拓展Meta AI商业化路径 瞄准万亿级智能体市场 - 财联社",
+   "source": "财联社",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5JRnh0RGZBRUhSd1R6MEdZdmpWY0YzVWQydHYya0QtVGo4MFNha0lGbkhDM3owSkViMExuZTBTSDRXQlRwdEE?oc=5",
+   "date": "2026-09-23",
+   "summary": "海外研选 | 摩根大通：Muse拓展Meta AI商业化路径 瞄准万亿级智能体市场  财联社",
+   "body": "海外研选 | 摩根大通：Muse拓展Meta AI商业化路径 瞄准万亿级智能体市场  财联社",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n58d5d156f8",
+   "category": "政策",
+   "company": "",
+   "title": "AI变现只是开始？大摩大幅上调Meta目标价：Q2广告收入有望首超谷歌搜索 - 华尔街见闻",
+   "source": "华尔街见闻",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE14S1h4NXBnQTFNb29lSXJrcXA1TzN6clVQOThtWGpkZEtEaW5uM3k1cmdVOG85LXAxOTRoQU1DYlZlbUp6bmdBc0IzM1RwYUp1M2tN?oc=5",
+   "date": "2026-01-30",
+   "summary": "AI变现只是开始？大摩大幅上调Meta目标价：Q2广告收入有望首超谷歌搜索  华尔街见闻",
+   "body": "AI变现只是开始？大摩大幅上调Meta目标价：Q2广告收入有望首超谷歌搜索  华尔街见闻",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "ne9c42999ad",
+   "category": "消费者",
+   "company": "",
+   "title": "【活动】《2026 小红书年度居住趋势》发布：居住方式进入「适我时代」 - SocialBeta",
+   "source": "SocialBeta",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE55WUgyS3o0NEJSQjlOYkh5Yl9RRndYMVl0TTZBdi1NYnc5LVBiamN4Y1BMQTFUZDZpXzFPRmZ6WTFfX1VBTVp3TkF5MFlnQQ?oc=5",
+   "date": "2026-04-22",
+   "summary": "【活动】《2026 小红书年度居住趋势》发布：居住方式进入「适我时代」  SocialBeta",
+   "body": "【活动】《2026 小红书年度居住趋势》发布：居住方式进入「适我时代」  SocialBeta",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n99fdf64d27",
+   "category": "消费者",
+   "company": "",
+   "title": "2026抖音电商榴莲消费洞察发布：猫山王、黑刺、软金月等高端小众品爆发式增长 - Jiemian.com",
+   "source": "Jiemian.com",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1TMDdVeUlCZ2VJUHFRcTVJTkR2QWhaaVl6ZFd6cElVa1hyY3cyUTMwZnAtV1RyMlNnSmtQODE2eG5mNWdoS3pYMzhRSW9td3B1NHBsWW9NT3U?oc=5",
+   "date": "2026-05-24",
+   "summary": "2026抖音电商榴莲消费洞察发布：猫山王、黑刺、软金月等高端小众品爆发式增长  Jiemian.com",
+   "body": "2026抖音电商榴莲消费洞察发布：猫山王、黑刺、软金月等高端小众品爆发式增长  Jiemian.com",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n35a2bf3b57",
+   "category": "消费者",
+   "company": "",
+   "title": "2026年体验经济报告①｜“在场感”：文旅消费进入可互动的故事现场 - 新京报",
+   "source": "新京报",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9uempMNmVLVE1XaFJoSll0ZU1yZmRROGQybFJWTVRWcG9YUU90QXR6V3JMaXBLeWVaV3RQUkpNNDJMclNfOVV1cVpWb21CRUJGNDFJSzB0UzJMclF3T08yaFVB?oc=5",
+   "date": "2026-07-20",
+   "summary": "2026年体验经济报告①｜“在场感”：文旅消费进入可互动的故事现场  新京报",
+   "body": "2026年体验经济报告①｜“在场感”：文旅消费进入可互动的故事现场  新京报",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n39743952b7",
+   "category": "消费者",
+   "company": "",
+   "title": "暑期 “慢充旅行”走热，抖音生活服务非遗游相关销售额同比增长124% - rmzxw.com.cn",
+   "source": "rmzxw.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE91T2lIX0R3RXB6S0tuZmkxWFR3V2E2OHhjODlfLVZwODZRQWphQ1lINkhDZDFwUlZkbW5TNVBBb2hHaGZoWXJyRE9iek5STU1yREU2T2lrZmpNVHdUMTNJ?oc=5",
+   "date": "2026-07-16",
+   "summary": "暑期 “慢充旅行”走热，抖音生活服务非遗游相关销售额同比增长124%  rmzxw.com.cn",
+   "body": "暑期 “慢充旅行”走热，抖音生活服务非遗游相关销售额同比增长124%  rmzxw.com.cn",
+   "tags": [
+    "消费者"
+   ]
+  },
   {
    "id": "n275c973966",
    "category": "行业",
@@ -5662,107 +5760,6 @@
    "body": "战略升维！珀莱雅开启“系统性护肤”新周期  Sohu",
    "tags": [
     "客户"
-   ]
-  },
-  {
-   "id": "n3a615c1ecc",
-   "category": "客户",
-   "company": "",
-   "title": "产学研的未来价值：合成生物学、AI研发与新原料，珀莱雅的下一个增长引擎 - 邢台网",
-   "source": "邢台网",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1sMFNMN3ZXNktid3BZZWNvQ0FxQ3cxSUxsMmlKX2Q0WW85M3g5bHhrakdBV01XNTV0Wm1MU3ZjaVNYQnVlWG5Ld05yUlU3a21sLXpROS0tYV9MSnpLUEhPOS1Cc000Zw?oc=5",
-   "date": "2026-08-11",
-   "summary": "产学研的未来价值：合成生物学、AI研发与新原料，珀莱雅的下一个增长引擎  邢台网",
-   "body": "产学研的未来价值：合成生物学、AI研发与新原料，珀莱雅的下一个增长引擎  邢台网",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "ncd2a13e057",
-   "category": "客户",
-   "company": "",
-   "title": "2026Future Marketing 美妆个护日化家清品牌数字生态大会暨未来营销大奖颁奖盛典圆满落幕 - 美通社",
-   "source": "美通社",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5IWEpCUzRmZ2t4ZzFBM0t4WExNcWktTDFiSjgxdFkwMjFzSXk2RVVxZjJsYWRBYU0ya05oWExKNlkxVXNybGQ0Y21Jc21aYmRubVpidmNhMnZZTU9BTHhsNjN0SEN5QWRqaWlxZw?oc=5",
-   "date": "2026-09-02",
-   "summary": "2026Future Marketing 美妆个护日化家清品牌数字生态大会暨未来营销大奖颁奖盛典圆满落幕  美通社",
-   "body": "2026Future Marketing 美妆个护日化家清品牌数字生态大会暨未来营销大奖颁奖盛典圆满落幕  美通社",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "ne5bad2b18b",
-   "category": "客户",
-   "company": "",
-   "title": "涉倾颜、自然堂、温博士等！美妆品牌大量炮制低俗AI广告，被批典型的夸大虚假宣传 - finance.china.com",
-   "source": "finance.china.com",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZTlExTGFGcEZPSU1oWnFVT1RmblJPVi0yNEI0LV9rTm5FUGpzWHVteDY2cExmYXFHa1psV0hjMFpPek9WRDZnQkJLVlZfVTY1Uy1aa1dhUXFJSmRiaU8wd2dhaHFpQU42Z1BISWc4dWs3OU0?oc=5",
-   "date": "2026-08-30",
-   "summary": "涉倾颜、自然堂、温博士等！美妆品牌大量炮制低俗AI广告，被批典型的夸大虚假宣传  finance.china.com",
-   "body": "涉倾颜、自然堂、温博士等！美妆品牌大量炮制低俗AI广告，被批典型的夸大虚假宣传  finance.china.com",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "ne03a8b6e6d",
-   "category": "客户",
-   "company": "",
-   "title": "钛镁AI GEO易观分析《中国GEO产业图谱与企业竞争力分析报告2026》 - 新华报业网",
-   "source": "新华报业网",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oWDhibVVCUkhTS3dWWVItb2JzeXRMakx0WHBDRGhwWW1ENkpvajY2a0ctZ21ENmtQOTZaeEdpc1VLMkhLckxwRzJZckl1U0pRUnpVcDZZVW13dnVQRkxQQnlBSXhiaVhScWNR?oc=5",
-   "date": "2026-06-09",
-   "summary": "钛镁AI GEO易观分析《中国GEO产业图谱与企业竞争力分析报告2026》  新华报业网",
-   "body": "钛镁AI GEO易观分析《中国GEO产业图谱与企业竞争力分析报告2026》  新华报业网",
-   "tags": [
-    "客户",
-    "GEO"
-   ]
-  },
-  {
-   "id": "n092d3158b2",
-   "category": "客户",
-   "company": "",
-   "title": "重磅官宣 | SPGS 2026中国智能产品出海数智峰会正式启动，共探品牌无界新未来 - 电子工程专辑",
-   "source": "电子工程专辑",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FYWNGVzJLX3hFSzB5SFhiT1drVVVyVUVTTVRnNFFxTHlLR1dYQVNWME5Ick9WX09TLTZsdzk2emJadVdrTWowQ0xjWlVxQm5yLTI4?oc=5",
-   "date": "2026-06-09",
-   "summary": "重磅官宣 | SPGS 2026中国智能产品出海数智峰会正式启动，共探品牌无界新未来  电子工程专辑",
-   "body": "重磅官宣 | SPGS 2026中国智能产品出海数智峰会正式启动，共探品牌无界新未来  电子工程专辑",
-   "tags": [
-    "客户",
-    "出海"
-   ]
-  },
-  {
-   "id": "n2f52ddd3f8",
-   "category": "客户",
-   "company": "",
-   "title": "倒计时8天！PAGC 2026全嘉宾阵容，百位大咖共议出海新浪潮！3.5万出海人齐聚广州，这份“出海掘金名单”请查收！ - 霞光社",
-   "source": "霞光社",
-   "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9KSzFPbXFCSHBHY25fQ3BUNFJjN2ZxR0RaRHNzOUx1U01Kdk11RVpwajdtTlRmZnM4NFFJMHBmZWpQeEVU?oc=5",
-   "date": "2026-05-20",
-   "summary": "倒计时8天！PAGC 2026全嘉宾阵容，百位大咖共议出海新浪潮！3.5万出海人齐聚广州，这份“出海掘金名单”请查收！  霞光社",
-   "body": "倒计时8天！PAGC 2026全嘉宾阵容，百位大咖共议出海新浪潮！3.5万出海人齐聚广州，这份“出海掘金名单”请查收！  霞光社",
-   "tags": [
-    "客户",
-    "出海"
-   ]
-  },
-  {
-   "id": "n3258610ee5",
-   "category": "消费者",
-   "company": "",
-   "title": "春上新｜小红书服饰潮流行业6大趋势发布 - 时尚COSMO",
-   "source": "时尚COSMO",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5MM3I2dGFtc1A5TXAyZENwSmhRLWlyc0Vxc2o3dHg3aW4zLXF5S0FxS2w4eUVnWVBqT0hnQ21uZXR6MU5kRWRSanNzYU1uOTdISUktWlRTd25xQlk4bW5nNENCVGR1QQ?oc=5",
-   "date": "2026-03-05",
-   "summary": "春上新｜小红书服饰潮流行业6大趋势发布  时尚COSMO",
-   "body": "春上新｜小红书服饰潮流行业6大趋势发布  时尚COSMO",
-   "tags": [
-    "消费者"
    ]
   }
  ]
