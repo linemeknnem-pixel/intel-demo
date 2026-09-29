@@ -1,10 +1,139 @@
 {
  "meta": {
-  "generated": "2026-09-28",
+  "generated": "2026-09-29",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 7 条，合计 400 条"
+  "note": "新增 9 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "na6fd44ffa7",
+   "category": "竞品",
+   "company": "",
+   "title": "从创意商城到内容科技特赞助力品牌内容战略升级 - 美通社",
+   "source": "美通社",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1YVElmeGJmQmFfWXYxZUxBdFpCMEpNeGxQeHNMLUdKMjVZZ1JaY1d0ckp6czdTOHBncl9MRE9tWDF2N3E3aVJ5TzZqM3RSV2dtanFmd0FDRQ?oc=5",
+   "date": "2021-06-04",
+   "summary": "从创意商城到内容科技特赞助力品牌内容战略升级  美通社",
+   "body": "从创意商城到内容科技特赞助力品牌内容战略升级  美通社",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n8a6f80d219",
+   "category": "竞品",
+   "company": "",
+   "title": "筷子科技与上影集团与达成战略合作，共筑AI影视智能体与数字人版权基础设施 - view.inews.qq.com",
+   "source": "view.inews.qq.com",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBSMldpdjRXVHU4NXFwUzZzM3ZleFhMdUdkVkg1YVgtMjhvNHRCNUdUZWQ3bV9EWGV6dXdrR3Ntd3dFZ0g0bnVoZ1pLRzNtbTdySWdmdDg1MA?oc=5",
+   "date": "2026-06-12",
+   "summary": "筷子科技与上影集团与达成战略合作，共筑AI影视智能体与数字人版权基础设施  view.inews.qq.com",
+   "body": "筷子科技与上影集团与达成战略合作，共筑AI影视智能体与数字人版权基础设施  view.inews.qq.com",
+   "tags": [
+    "竞品",
+    "数字人"
+   ]
+  },
+  {
+   "id": "n5386537b31",
+   "category": "行业",
+   "company": "",
+   "title": "因赛集团加速完善AI营销布局 推出“图与灵AIGC” - 东方财富",
+   "source": "东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kQTJyUDNpRWVjVkUwTlZKd2NLS0dNZ0pDQmRpWmxoNzRDRHB3R0hia2E5VWs4M1FnYllITVhZNUpBNzN1aHNkRVFENjhCNmlvV1Bvb3V3Wlp3SGhrSV9Ncw?oc=5",
+   "date": "2026-01-11",
+   "summary": "因赛集团加速完善AI营销布局 推出“图与灵AIGC”  东方财富",
+   "body": "因赛集团加速完善AI营销布局 推出“图与灵AIGC”  东方财富",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n9ad7d52f5b",
+   "category": "行业",
+   "company": "",
+   "title": "智推时代GEM上线 开启AI营销“广告+推荐”双引擎时代 - 中国科技网",
+   "source": "中国科技网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCdWhvbEdQU0ZyeGZQU0o3RFZZUW9RTlU0REtlbDRzRDFSS0YyQjRmZWpLeXJNaF9Na24xXzJkMURqcVIwRzBENEI3RUlpUHVVcTh0WXlTc3NwTFEwLW00S0NwRS1Qb3RaZ1ExUXUtMjA?oc=5",
+   "date": "2026-09-28",
+   "summary": "智推时代GEM上线 开启AI营销“广告+推荐”双引擎时代  中国科技网",
+   "body": "智推时代GEM上线 开启AI营销“广告+推荐”双引擎时代  中国科技网",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n1f67b96105",
+   "category": "行业",
+   "company": "",
+   "title": "谁在 ChatGPT 上投广告？ChatGPT 和 Claude 又在哪投广告？ - k.sina.com.cn",
+   "source": "k.sina.com.cn",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Fb093ZmtoOEVLcmNyZ0I4ejVCLUV4Q3dick16NUhTTUUzUVFhU3ItdzZkdTZRbGhjd19haXlVVDhOV25UdU9pM213RFhXUnZ5RnhmVmIxOTNtVHM4U2FGU0ZGcC1GaFRIQVduWEJfamdHcktyVUU4QzBuNVZJRkE?oc=5",
+   "date": "2026-09-28",
+   "summary": "谁在 ChatGPT 上投广告？ChatGPT 和 Claude 又在哪投广告？  k.sina.com.cn",
+   "body": "谁在 ChatGPT 上投广告？ChatGPT 和 Claude 又在哪投广告？  k.sina.com.cn",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n269e1bc4bf",
+   "category": "客户",
+   "company": "",
+   "title": "数登央媒，珀莱雅何以成范本？ - 财富号",
+   "source": "财富号",
+   "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQa0YtNURicTFFQWRGd1J3eHYyc1diUEhEVnpCMFR0U19yeDZ1U3VJS2N3QU9ScnBPNjBrLVZURGJhVEhvbkU3WUk4S2tzbF95Ti01QlVYMFc5LWdmb3A3VmxPYzU3VGgxLTAxbXQ0Slk5X3Y1U09saDcydzh3cWE4ZTlzV0tiT0h4MWNHcENoQzg5amlaTmJpSklPUE5YWExBYVdZN1FGQWdFcXhLRVdPR0JGd0tEUmJ6UkwxV1B0TkxlbFBseDFNYklZY0JNellhRVZ0TEFabzlpOHdPSW5wOFJldkRqOXJYVlRGRUJpTEFTUllqdGlnak40OVd2enlkMnc?oc=5",
+   "date": "2026-04-20",
+   "summary": "数登央媒，珀莱雅何以成范本？  财富号",
+   "body": "数登央媒，珀莱雅何以成范本？  财富号",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "ne59c811911",
+   "category": "客户",
+   "company": "",
+   "title": "GTC2026 全球流量大会（上海）招商进行时：11月，把品牌放在出海圈C位 - 白鲸出海",
+   "source": "白鲸出海",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5kM3VYNGRnWGhBcTFNTlBVc2tUN1M5OWpYUkR2dTBOdjBGNF9jb2kxX0FHMTkzRS1sMUlfVWpGSWQxcUxveXM0ckVLRE4?oc=5",
+   "date": "2026-09-24",
+   "summary": "GTC2026 全球流量大会（上海）招商进行时：11月，把品牌放在出海圈C位  白鲸出海",
+   "body": "GTC2026 全球流量大会（上海）招商进行时：11月，把品牌放在出海圈C位  白鲸出海",
+   "tags": [
+    "客户",
+    "出海"
+   ]
+  },
+  {
+   "id": "nbdaf13f8bc",
+   "category": "客户",
+   "company": "",
+   "title": "第二届中国GEO & AI营销智能体峰会 | 从「被看见」到「被选择」 - 36kr.com",
+   "source": "36kr.com",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE93NWJLQnM1czQtWWQwWkNPWk5EYk1sVW9ubFFKMktVN3Y1dmJtOXJqYzlOR2pNNjd0dFg3ZWZaemdEc0ctLU95UzIwX0Vfdw?oc=5",
+   "date": "2026-07-30",
+   "summary": "第二届中国GEO & AI营销智能体峰会 | 从「被看见」到「被选择」  36kr.com",
+   "body": "第二届中国GEO & AI营销智能体峰会 | 从「被看见」到「被选择」  36kr.com",
+   "tags": [
+    "客户",
+    "GEO"
+   ]
+  },
+  {
+   "id": "n4189a2c0a6",
+   "category": "消费者",
+   "company": "",
+   "title": "小红书商业快消食饮季度趋势：应季新味 - 发现报告",
+   "source": "发现报告",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE15NmJhaGRtbTExQXRKSDhtSUJ1V0dTY3pJUnhDQVJIY0tCV041dW1rcVUyYXpHZzR4M3pnWXotbm1PWDBZZFByNmtXNFo0RVNS?oc=5",
+   "date": "2026-09-28",
+   "summary": "小红书商业快消食饮季度趋势：应季新味  发现报告",
+   "body": "小红书商业快消食饮季度趋势：应季新味  发现报告",
+   "tags": [
+    "消费者"
+   ]
+  },
   {
    "id": "n22268cb58f",
    "category": "行业",
@@ -5631,135 +5760,6 @@
    "body": "海外研选 | 高盛：Meta广告业务已验证AI价值 巨额资本开支仍是主要压力  财联社",
    "tags": [
     "政策"
-   ]
-  },
-  {
-   "id": "n1b4fade96a",
-   "category": "政策",
-   "company": "",
-   "title": "Meta财报前瞻：广告引擎能否跑赢AI资本支出？ - Moomoo",
-   "source": "Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZlVvR24xRXRpRzFpUE5jc3JxbXI0TVZqWUdVT212MHVrY0lmT0I3MzNyV2VUUkI3TDRnSnlCUnVIZWE0ajZJSlg2VDVXc2UzR25MUHV6YThpS3h3dHFvbVlMWFYteDNUSTFsaF9Eak8zSDBNOFExWjA3TlVuVnQ4aVZLWmF4dmRZNHZaNVpGclo5XzA3Um5GMkpvREhpMnNWR3MyM1g4TDhjdDFSTFA3RTZMaw?oc=5",
-   "date": "2026-07-28",
-   "summary": "Meta财报前瞻：广告引擎能否跑赢AI资本支出？  Moomoo",
-   "body": "Meta财报前瞻：广告引擎能否跑赢AI资本支出？  Moomoo",
-   "tags": [
-    "政策",
-    "财报"
-   ]
-  },
-  {
-   "id": "n2c6f94f33a",
-   "category": "政策",
-   "company": "",
-   "title": "Meta电话会：推荐系统正在被大模型重写，没有智能眼镜的未来“难以想象” - 华尔街见闻",
-   "source": "华尔街见闻",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBDYnF5M0Z4RGtwTEFEZHBvVFZFYlFWNzRPQkNITXhPRE81NWdxb05WelJmcDlaSUt3ejA0VHlLY2pxSk02OHdvOWRnY0JJREJ5VmNn?oc=5",
-   "date": "2026-01-29",
-   "summary": "Meta电话会：推荐系统正在被大模型重写，没有智能眼镜的未来“难以想象”  华尔街见闻",
-   "body": "Meta电话会：推荐系统正在被大模型重写，没有智能眼镜的未来“难以想象”  华尔街见闻",
-   "tags": [
-    "政策",
-    "大模型"
-   ]
-  },
-  {
-   "id": "n32c029db20",
-   "category": "政策",
-   "company": "",
-   "title": "Meta AI 驱动的广告系统内部：Andromeda 与 GEM 如何协作 - t.cj.sina.cn",
-   "source": "t.cj.sina.cn",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWaHliVzVneVhwUEhfOGsyOHpxT3ZTQ3J4aHRiN2tjOUN2RjJnR1JPWGtrZGtmcTRZYzk1bEpSUkpyelltdnJHOEs1amJVNzdHbGxhMUpLOHZxZWJzZ1hFbFVGMFpWUFNvR09RTmhRZ3o?oc=5",
-   "date": "2026-01-30",
-   "summary": "Meta AI 驱动的广告系统内部：Andromeda 与 GEM 如何协作  t.cj.sina.cn",
-   "body": "Meta AI 驱动的广告系统内部：Andromeda 与 GEM 如何协作  t.cj.sina.cn",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "ne14831a2bc",
-   "category": "政策",
-   "company": "",
-   "title": "Meta AI自爆？揭中國廣告撐起營收 詐騙廣告占比驚人 - 大纪元",
-   "source": "大纪元",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nZThFNEJyOUJfVnhVMXlIcEpuRkRmeUpCZ2RzbFZNYldsRWF0RDA0MUdNV3JqN3dZUllOU0gyMGJnQjJRRTZvWm4tVnBMLWRWVnNhMFBPTEhEOU1tZG1F0gFkQVVfeXFMTkVoZjhZOU9JZ1Y3NGliSnpiV195MmpULThaVmZFYV9FelFxQTBhak1qVTJjVDlJTXhXbkhkV3ZfVGFJdUVaUGxBS1VFLU1tTlhSZ1pMaTNUeVQxNjN6S1NWaGZsOQ?oc=5",
-   "date": "2026-06-01",
-   "summary": "Meta AI自爆？揭中國廣告撐起營收 詐騙廣告占比驚人  大纪元",
-   "body": "Meta AI自爆？揭中國廣告撐起營收 詐騙廣告占比驚人  大纪元",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "ne42cc05b42",
-   "category": "政策",
-   "company": "",
-   "title": "Meta 的 Manus AI 现已集成到您的广告管理工具中——以下是它的实际功能以及每位广告主都需要了解的内容 - ALM Corp",
-   "source": "ALM Corp",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZ0c0SFR0dV80TERhWmhjVlp5d3UwRUUxdWx0dHE1RGx0QXdqakNqOWFtT2t5cy1HZHlrbE9vTTJCZUM3bkxyVFY3V1psamhDTk9HNzdzbkl0ZV9ra2VsUjd6SGVUYUtjdXc0SDRkS1lPT2Y1YXJQQV9ITFFNMFpLUg?oc=5",
-   "date": "2026-06-09",
-   "summary": "Meta 的 Manus AI 现已集成到您的广告管理工具中——以下是它的实际功能以及每位广告主都需要了解的内容  ALM Corp",
-   "body": "Meta 的 Manus AI 现已集成到您的广告管理工具中——以下是它的实际功能以及每位广告主都需要了解的内容  ALM Corp",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "n0d2fc637fc",
-   "category": "政策",
-   "company": "",
-   "title": "AI 趋势 | 谷歌更新个性化广告政策，允许在 YouTube 上投放酒精广告 - Binance",
-   "source": "Binance",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9wNGhSWkYwMVFTakNRaVRZdjRuWXlDWGNoUFRlLVBQRXBaeUJtU01GXzFSeFYyZGR1QjhtRzU0UThZLUdaVEJzQ1ZtdjVZZmMzaWsxSW81cFNwNnZIN1F1VmwwZ1p4N2ZZ?oc=5",
-   "date": "2026-09-03",
-   "summary": "AI 趋势 | 谷歌更新个性化广告政策，允许在 YouTube 上投放酒精广告  Binance",
-   "body": "AI 趋势 | 谷歌更新个性化广告政策，允许在 YouTube 上投放酒精广告  Binance",
-   "tags": [
-    "政策",
-    "投放"
-   ]
-  },
-  {
-   "id": "n1dd5c96f41",
-   "category": "政策",
-   "company": "",
-   "title": "李振秀 科技信息通信部人工智能政策规划官：‘Naver胜过Google并非性能，而是吸引力……全民AI也将走这条路’ - ajudaily.com",
-   "source": "ajudaily.com",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01VFhvZ1oxVEhTWGxBal9HZ2lfX1hzaVFwdGJ4NkhUNFZZMXJMVWdEOWVQRkw1VWItM2wyZEZ2R3FheUh1WlBzVlFIVnM2MkR6NzUxWS1ZSHEzdW8?oc=5",
-   "date": "2026-09-03",
-   "summary": "李振秀 科技信息通信部人工智能政策规划官：‘Naver胜过Google并非性能，而是吸引力……全民AI也将走这条路’  ajudaily.com",
-   "body": "李振秀 科技信息通信部人工智能政策规划官：‘Naver胜过Google并非性能，而是吸引力……全民AI也将走这条路’  ajudaily.com",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "n384d5b84e6",
-   "category": "客户",
-   "company": "",
-   "title": "珀莱雅千亿市值为何昙花一现？当前市值现状与驱动因素解析 - 新浪财经",
-   "source": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQcWM0b1gtWFZNTG1nUHc0ZEpYQUtORlZfSmpKWFFoUU5DOEtIMXNvYmhLZFVaWWV2OE01NnVDYjBINnFPb2p5VVZsYWJ0YUV0UmlPdXFMOVFNblM3LXdwcC1yX3VhTUpqYjM4WXRWaTlhZnJ5c3NzU2U2QnlCVjNXZ2N6SV8?oc=5",
-   "date": "2026-09-01",
-   "summary": "珀莱雅千亿市值为何昙花一现？当前市值现状与驱动因素解析  新浪财经",
-   "body": "珀莱雅千亿市值为何昙花一现？当前市值现状与驱动因素解析  新浪财经",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "nebd99e6a6a",
-   "category": "客户",
-   "company": "",
-   "title": "战略升维！珀莱雅开启“系统性护肤”新周期 - Sohu",
-   "source": "Sohu",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOEtGb1V0QnVPeDhHcmMzNjY0dDFkbGlPZDJHRUh3OXlpUjhQVEZueUQ3NFFiT1JNZW15TWtsQnJaUlRvYkJDTllhUXhQbVpnTE1KNnVVdkF0UjV4RkRiclZtQmY5STdZLVU3czh6aVA3dFR6clZuR09VUkEyU1NGaXpBZkZXN0lSeGZFTw?oc=5",
-   "date": "2026-08-27",
-   "summary": "战略升维！珀莱雅开启“系统性护肤”新周期  Sohu",
-   "body": "战略升维！珀莱雅开启“系统性护肤”新周期  Sohu",
-   "tags": [
-    "客户"
    ]
   }
  ]
