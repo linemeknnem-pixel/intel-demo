@@ -1,11 +1,165 @@
 /* 自动生成 by scripts/ingest.py —— 请勿手改 */
 window.KB_DATA = {
  "meta": {
-  "generated": "2026-09-29",
+  "generated": "2026-09-30",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 9 条，合计 400 条"
+  "note": "新增 11 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "n68aa2ebed7",
+   "category": "行业",
+   "company": "",
+   "title": "阿萨卡网红城市是国内首个基于Web3.0的红人社交与内容创作者生态产业园区，规划建设美术馆、图书馆、网红潮流艺术中心、光年网红学院、网红工作室、网红地标公园及相关产业服务配套设施。天下秀集团聚焦人工智能产业，打造了“灵感岛”AIGC营销模型——这是 - 潮新闻客户端",
+   "source": "潮新闻客户端",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wV3B2RGJ3M3h0WnVrQS1RUzZSa2QtaURYeVp1VWlvRlluWUY4NzFGdVpESkEzemhSNU5uTzJKM3gwQ016Z1R0NklJNDQ2VWNqOWF5UU96WG1ZUXNPeml2Uy1wSnpRbWV2aXJNOTYyYmJ0bC1VUEE?oc=5",
+   "date": "2026-05-20",
+   "summary": "阿萨卡网红城市是国内首个基于Web3.0的红人社交与内容创作者生态产业园区，规划建设美术馆、图书馆、网红潮流艺术中心、光年网红学院、网红工作室、网红地标公园及相关产业服务配套设施。天下秀集团聚焦人工智能产业，打造了“灵感岛”AIGC营销模型——这是  潮新闻客户端",
+   "body": "阿萨卡网红城市是国内首个基于Web3.0的红人社交与内容创作者生态产业园区，规划建设美术馆、图书馆、网红潮流艺术中心、光年网红学院、网红工作室、网红地标公园及相关产业服务配套设施。天下秀集团聚焦人工智能产业，打造了“灵感岛”AIGC营销模型——这是  潮新闻客户端",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "nc4e547f7ec",
+   "category": "行业",
+   "company": "",
+   "title": "AI赋能营销全链路 剧星传媒发布“星河AI全链路工作台2.0” - 新华网上海频道",
+   "source": "新华网上海频道",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YbDJrV3k5UW1tYUJFSVZQd3dHbE1DUXJ3TEFCMEhKRkp6MWtsQUlXS1JqRlU2UVJDRDhGNWFQRjZ5b1gwT1NCclBLNTloSi1weFpBUkhxMnlqYUpGbzl0TjNudVY1V1hsWnk3YVlCN2dua0hM?oc=5",
+   "date": "2026-06-13",
+   "summary": "AI赋能营销全链路 剧星传媒发布“星河AI全链路工作台2.0”  新华网上海频道",
+   "body": "AI赋能营销全链路 剧星传媒发布“星河AI全链路工作台2.0”  新华网上海频道",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "nc7e64d86a7",
+   "category": "政策",
+   "company": "",
+   "title": "TikTok 将 AI 视频生成功能添加到 Symphony：Dreamina Seedance 2.0 对广告商意味着什么 - ALM Corp",
+   "source": "ALM Corp",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOeG1PQ1lFeEhVMEFaMkJ2dXdOMWY4Wkd4SWpoeGRXdnNmWThEbTlTdU1xaDU4a2l6b2JSNFVWOUZvY3NSUEFYdVNJaHNyM05WR09aaEZyY1pzTWVQMjRDMC15Z01YLUJvS2ZrQ2tpWkduVUx0OWpfSzJzYXQ4ZmUyY1ZUNU45VmtzN0JQM1Q1QTJramc?oc=5",
+   "date": "2026-04-14",
+   "summary": "TikTok 将 AI 视频生成功能添加到 Symphony：Dreamina Seedance 2.0 对广告商意味着什么  ALM Corp",
+   "body": "TikTok 将 AI 视频生成功能添加到 Symphony：Dreamina Seedance 2.0 对广告商意味着什么  ALM Corp",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nf0ad532162",
+   "category": "政策",
+   "company": "",
+   "title": "Meta向中小企业开放AI智能体Muse 广告账户支持一键接入- 快讯 - ebrun.com",
+   "source": "ebrun.com",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9lM0RzN3hjRzNxQlo3ZWUxM1FtSzk5akZlYURIbU1uWUVmZ3Nicm9CSm1pUkVBeFc3VDQ4NnFUVGYzY0pGanV0a3F4NmZFMmQ3eTB4bkltUGs?oc=5",
+   "date": "2026-09-29",
+   "summary": "Meta向中小企业开放AI智能体Muse 广告账户支持一键接入- 快讯  ebrun.com",
+   "body": "Meta向中小企业开放AI智能体Muse 广告账户支持一键接入- 快讯  ebrun.com",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nf0faa1be28",
+   "category": "政策",
+   "company": "",
+   "title": "Meta推出面向小企业的AI助手Muse 加速拓展企业级市场 - 财联社",
+   "source": "财联社",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9zWkZpczBNWFZ2clk3SUQ3OXk1ZzR4WnRDQzgtdUF6dUZOdjB6RXhQaU93VF9YODJ0RFBNWTRhaWFQel9DaXc?oc=5",
+   "date": "2026-09-28",
+   "summary": "Meta推出面向小企业的AI助手Muse 加速拓展企业级市场  财联社",
+   "body": "Meta推出面向小企业的AI助手Muse 加速拓展企业级市场  财联社",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "ne4ef7c331d",
+   "category": "政策",
+   "company": "",
+   "title": "Meta向中小企业开放AI智能体Muse 广告账户可一键接入 - 全球定制网",
+   "source": "全球定制网",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5ZSURSVGtwSFpJQXA3SklVV25jNlRqRWppVExKb2lUMTllclZsU21FQ3U2c0pGajhzdjJlV05yWmdVQ3BhNGc2cFpWc05BZw?oc=5",
+   "date": "2026-09-29",
+   "summary": "Meta向中小企业开放AI智能体Muse 广告账户可一键接入  全球定制网",
+   "body": "Meta向中小企业开放AI智能体Muse 广告账户可一键接入  全球定制网",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nf1be5991cd",
+   "category": "政策",
+   "company": "",
+   "title": "Meta推出面向小型企业的AI代理Muse——CNBC - ua.news",
+   "source": "ua.news",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMTlvZXcxMTVBUWhoSGlWemtuay1iS2daeTdESG42bml4eEtkc0VyM3Z6OWpUNXpQRVhYNy1wNFhmcUo1UWRrQ3FjZHlzc0FDODdJTU5PV3N6T1VpNTBGaVlHMHJwdE5OcTI2ME51ai01bzVFNy1nSGNjUXNkN0lHTU1Sd3Nhc3hXOE5FZEhwcVdSUFU?oc=5",
+   "date": "2026-09-29",
+   "summary": "Meta推出面向小型企业的AI代理Muse——CNBC  ua.news",
+   "body": "Meta推出面向小型企业的AI代理Muse——CNBC  ua.news",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nf1977a9243",
+   "category": "客户",
+   "company": "",
+   "title": "当增长成为奢侈品，两家巨头先后设立CGO - 风闻",
+   "source": "风闻",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvRDBId3lXUlB3bmhKTmhSajNGNlVBN3o5TmVsTW9zM09Dbndiak9DN0lSSDl0YzFFWTRZaW03LUhWQVFiQk1Vdl9zVlM5a2lsMnRnWFNCalJ2UnhWM1NWa2VGWGNvSlVadUtBb2xB?oc=5",
+   "date": "2026-05-22",
+   "summary": "当增长成为奢侈品，两家巨头先后设立CGO  风闻",
+   "body": "当增长成为奢侈品，两家巨头先后设立CGO  风闻",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "ne0916f6f2a",
+   "category": "消费者",
+   "company": "",
+   "title": "IP养成，小红书才是“舒适圈” - 风闻",
+   "source": "风闻",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9qc2pPVVdyZDlBSEZ2SWJQSXR5OHFxVXlzQ2V6SE8zYVpzQ2d0ZGJmVVpLN0dzd1pyblRPWGg3S1MxY3FLTGM4aGVUVHVHd3RVQ3RUTndMcldJZWxza1pyQ2wtRXpGZ3BRT3JTQWwwcHJwZHFG?oc=5",
+   "date": "2026-09-29",
+   "summary": "IP养成，小红书才是“舒适圈”  风闻",
+   "body": "IP养成，小红书才是“舒适圈”  风闻",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n3e427330da",
+   "category": "消费者",
+   "company": "",
+   "title": "小红书:《2026小红书兴趣游趋势报告｜研报》 - 发现报告",
+   "source": "发现报告",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1uMXNxd1hzVkp1VVhhQ0FZMTVGeUgyVmtadnl4ZXlhZmNYRVR6bzNRTWtsbF9rMzVuZHZ6VE1QN002T3d5eW5VbVFvOHBidDR2?oc=5",
+   "date": "2026-09-28",
+   "summary": "小红书:《2026小红书兴趣游趋势报告｜研报》  发现报告",
+   "body": "小红书:《2026小红书兴趣游趋势报告｜研报》  发现报告",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n29f7d4ff72",
+   "category": "消费者",
+   "company": "",
+   "title": "中秋时令消费江苏列前五，抖音电商中秋时令食品消费报告：“家乡味”出圈 - 同花顺财经",
+   "source": "同花顺财经",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9MeXFObVl3N1o0aC1WOGNyRmtKd0NwcS0wdXd4a1Z4ZTJWY0FTY0RkTkhXMS1MZ0t2SU1iaC02dzYzbkY5VUNoRmRjNHpndDdoSlRISVlUOXpwcHlNUVEybzR3?oc=5",
+   "date": "2026-09-22",
+   "summary": "中秋时令消费江苏列前五，抖音电商中秋时令食品消费报告：“家乡味”出圈  同花顺财经",
+   "body": "中秋时令消费江苏列前五，抖音电商中秋时令食品消费报告：“家乡味”出圈  同花顺财经",
+   "tags": [
+    "消费者"
+   ]
+  },
   {
    "id": "na6fd44ffa7",
    "category": "竞品",
@@ -5604,163 +5758,6 @@ window.KB_DATA = {
    "body": "2026年的10个营销趋势  梅花网",
    "tags": [
     "行业"
-   ]
-  },
-  {
-   "id": "n0ac295b021",
-   "category": "行业",
-   "company": "",
-   "title": "AI时代两大高决策行业的社交营销进化 | 第十届社交媒体风向大会数码家电与汽车分论坛 - 中华网",
-   "source": "中华网",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EeVdXdHpGN0hJSzlxTGlELWpPNUZxd2VMV3V1Yms4MmR1Vm9ZWHUwQzRuTklNN1dfQWJsaThDWXowaVJrTzloU2dPQXZNNjhkZUVWNnh0cGhnUG5wMkE?oc=5",
-   "date": "2026-05-25",
-   "summary": "AI时代两大高决策行业的社交营销进化 | 第十届社交媒体风向大会数码家电与汽车分论坛  中华网",
-   "body": "AI时代两大高决策行业的社交营销进化 | 第十届社交媒体风向大会数码家电与汽车分论坛  中华网",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n6429e57736",
-   "category": "行业",
-   "company": "",
-   "title": "艾媒咨询 | 2026年中国AI智能营销白皮书 - me.news",
-   "source": "me.news",
-   "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4yYzFEREk5TmpYbW9UOXRZR05QZkk2bm1JMGY2VDFFaXJhOTA0bU1HQ0YzdFM4NWVGZnZTb3JuMGxGN3c2eXZ4ODgyTQ?oc=5",
-   "date": "2026-05-08",
-   "summary": "艾媒咨询 | 2026年中国AI智能营销白皮书  me.news",
-   "body": "艾媒咨询 | 2026年中国AI智能营销白皮书  me.news",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n1b515c2c2e",
-   "category": "行业",
-   "company": "",
-   "title": "【首发】2026年海外网红营销10大趋势：整体市场规模剑指400亿美元，AI重构网红营销全流程 - 雨果跨境",
-   "source": "雨果跨境",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5ZR2p3Q01tWXV1TUViVGY1Smx2cEhIc192MmowUW5ZbndrR1ZCSW5Kamxwd2NTZFNQSk9yZWZkYjRfRERnV0x0MWlrTTg?oc=5",
-   "date": "2026-03-27",
-   "summary": "【首发】2026年海外网红营销10大趋势：整体市场规模剑指400亿美元，AI重构网红营销全流程  雨果跨境",
-   "body": "【首发】2026年海外网红营销10大趋势：整体市场规模剑指400亿美元，AI重构网红营销全流程  雨果跨境",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n760c9d94f1",
-   "category": "行业",
-   "company": "",
-   "title": "OpenAI广告业务上线200天年化收入破10亿美元，加速全球扩张备战IPO|ChatGPT|中小企业|美国|印度|谷歌 - 新浪财经",
-   "source": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOOHdoX1NhSWhzWjBoaTliQlZ6NUFrWWdTd1VFQ3VENjMxOUFWYlYyek9UQ1ltWEdoRTF4S1BJVzJBYUI1czZ5Wk9vZGtQSGlWbk1CNnZVYmp6elcxNUR0Sm5NN2l1T3QzTnkzWEJjaWJDY1U5NWFMb0plam5uQkFzeHMtQ0thYV9fOUJZRWhJdjR6cFJIN1NXX0pnNkl6QTY0Yzc4VmRaMA?oc=5",
-   "date": "2026-09-02",
-   "summary": "OpenAI广告业务上线200天年化收入破10亿美元，加速全球扩张备战IPO|ChatGPT|中小企业|美国|印度|谷歌  新浪财经",
-   "body": "OpenAI广告业务上线200天年化收入破10亿美元，加速全球扩张备战IPO|ChatGPT|中小企业|美国|印度|谷歌  新浪财经",
-   "tags": [
-    "行业",
-    "IPO"
-   ]
-  },
-  {
-   "id": "n01dde27d0d",
-   "category": "行业",
-   "company": "",
-   "title": "《2026年 AI 应用市场洞察报告》：AI 智能体正在改变消费者购物方式 - ageclub.net",
-   "source": "ageclub.net",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9PZ0dITGRRNVl2NXlMMWhlZHR6VDY3UTZGT1g0dlpVZXNtQ1VKS1dmMGRDT1FNbUJhdmNIc1BKN1JMeWl2aFI3Vk5rVVRkVWU1R1NKWA?oc=5",
-   "date": "2026-08-12",
-   "summary": "《2026年 AI 应用市场洞察报告》：AI 智能体正在改变消费者购物方式  ageclub.net",
-   "body": "《2026年 AI 应用市场洞察报告》：AI 智能体正在改变消费者购物方式  ageclub.net",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n3206eb6e14",
-   "category": "行业",
-   "company": "",
-   "title": "AI时代的广告合规，正在从「对抗」走向「共建」 - 品玩",
-   "source": "品玩",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5YSUxkd0x2cEtRS2N6Y2lSMHRvM3pxdUYxWVBHcXlrcXhKek1yVVNpQVFSaDQyS21RYnNYTmh3SEZxY2ZxajNEVA?oc=5",
-   "date": "2026-07-10",
-   "summary": "AI时代的广告合规，正在从「对抗」走向「共建」  品玩",
-   "body": "AI时代的广告合规，正在从「对抗」走向「共建」  品玩",
-   "tags": [
-    "行业",
-    "合规"
-   ]
-  },
-  {
-   "id": "n0c52bb9238",
-   "category": "政策",
-   "company": "",
-   "title": "个体工商户无经验可入驻：TikTok Shop东南亚跨境开启旺季大促新商通道 - 雨果跨境",
-   "source": "雨果跨境",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9UTVRzNVJUTGpCQlpCV2R1dHliaTR4ZTNKU1R3eHF3eVdfamFpNDZpTzRadDBMYlBMdjZ5Z1JLMVM1TGxvNVZDTWVzbVk?oc=5",
-   "date": "2026-09-03",
-   "summary": "个体工商户无经验可入驻：TikTok Shop东南亚跨境开启旺季大促新商通道  雨果跨境",
-   "body": "个体工商户无经验可入驻：TikTok Shop东南亚跨境开启旺季大促新商通道  雨果跨境",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "n78f03629df",
-   "category": "政策",
-   "company": "",
-   "title": "美国首部数字人广告法案生效！商家不标注AI生成提醒将被罚款- 跨境电商 - 亿邦动力网",
-   "source": "亿邦动力网",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5ZSk84THpVei1jNE0wMmRVWmRqX0FVUWRQSlAyeVR2ZXZ5endqelNMWC1zQmFuWTJELWt3bUpTSUswbnZDOFNBYVIyVVBzWHo4WU9VLVNR?oc=5",
-   "date": "2026-06-09",
-   "summary": "美国首部数字人广告法案生效！商家不标注AI生成提醒将被罚款- 跨境电商  亿邦动力网",
-   "body": "美国首部数字人广告法案生效！商家不标注AI生成提醒将被罚款- 跨境电商  亿邦动力网",
-   "tags": [
-    "政策",
-    "数字人"
-   ]
-  },
-  {
-   "id": "n7c4b220627",
-   "category": "政策",
-   "company": "",
-   "title": "卖家连夜改图！欧美严查AI，最高罚5000美元 - 雨果跨境",
-   "source": "雨果跨境",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4zdUhlWUQ3bGhhOWdXamw5U2kzVEVQVVE4WkM2enpZaGJyX2Vmbm1QOExTWmZIVndxODlGTlEzLWtuVHBEbVpVUVoyRzc?oc=5",
-   "date": "2026-06-23",
-   "summary": "卖家连夜改图！欧美严查AI，最高罚5000美元  雨果跨境",
-   "body": "卖家连夜改图！欧美严查AI，最高罚5000美元  雨果跨境",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "n90ab777329",
-   "category": "政策",
-   "company": "",
-   "title": "【跨境早报】7 月起欧盟小包加收 3 欧元！多平台物流佣金政策大改 - 雨果跨境",
-   "source": "雨果跨境",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE04cnBLc1FHTm5vVm0wMEVvNldSUDJaX2lBTkFuQlFVX3NtZmpiY1ZrcFFJVm1oQ2pnMkJ5NWpLYnloNHI2UW1DX0VLbno?oc=5",
-   "date": "2026-06-22",
-   "summary": "【跨境早报】7 月起欧盟小包加收 3 欧元！多平台物流佣金政策大改  雨果跨境",
-   "body": "【跨境早报】7 月起欧盟小包加收 3 欧元！多平台物流佣金政策大改  雨果跨境",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "n3cf4ccbceb",
-   "category": "政策",
-   "company": "",
-   "title": "海外研选 | 高盛：Meta广告业务已验证AI价值 巨额资本开支仍是主要压力 - 财联社",
-   "source": "财联社",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RcFFzN196MWkwN2NiajhaSGc1OUlDcVdyeU9lVWhIN29Nb2QybEtEekdySFJLN0U3OUVGVG96N2ctaFRrT1B3Rg?oc=5",
-   "date": "2026-07-30",
-   "summary": "海外研选 | 高盛：Meta广告业务已验证AI价值 巨额资本开支仍是主要压力  财联社",
-   "body": "海外研选 | 高盛：Meta广告业务已验证AI价值 巨额资本开支仍是主要压力  财联社",
-   "tags": [
-    "政策"
    ]
   }
  ]
