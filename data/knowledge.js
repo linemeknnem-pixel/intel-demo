@@ -1,11 +1,99 @@
 /* 自动生成 by scripts/ingest.py —— 请勿手改 */
 window.KB_DATA = {
  "meta": {
-  "generated": "2026-10-01",
+  "generated": "2026-10-02",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 10 条，合计 400 条"
+  "note": "新增 6 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "necaa1b3385",
+   "category": "竞品",
+   "company": "",
+   "title": "钛动科技完成新一轮融资 华泰泛大西洋基金领投 - 观点网",
+   "source": "观点网",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBqdDREbVJDbVdPNXdlTzBZLXNsVnQxbkRPUG9Sd0hDTUhMM001a3RoRTZQNFd2dUQ4bUx2ajBtckIyZFZSS1g1YWxNb2ZmQQ?oc=5",
+   "date": "2026-08-20",
+   "summary": "钛动科技完成新一轮融资 华泰泛大西洋基金领投  观点网",
+   "body": "钛动科技完成新一轮融资 华泰泛大西洋基金领投  观点网",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "n4b5dd958f0",
+   "category": "竞品",
+   "company": "",
+   "title": "首发| 物自体科技完成新一轮战略融资，以 BOOT 推动企业级 AI 营销从工具走向增长系统 - 投资界",
+   "source": "投资界",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14NFpNMEJiclRRV0ZtdVRXR0RFWTFQZno3ZE5YRzd3UUpKN1BGNlpZS0FaZXVDNkNnSlJPQzFHMDdSMzNQQUJMdDRGdThhRWZTOFJ0dlNB?oc=5",
+   "date": "2026-09-03",
+   "summary": "首发| 物自体科技完成新一轮战略融资，以 BOOT 推动企业级 AI 营销从工具走向增长系统  投资界",
+   "body": "首发| 物自体科技完成新一轮战略融资，以 BOOT 推动企业级 AI 营销从工具走向增长系统  投资界",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "n3c5e4022c4",
+   "category": "行业",
+   "company": "",
+   "title": "生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon 上海 - InfoQ-CN",
+   "source": "InfoQ-CN",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBraS1LM3lUbnRPdTNTeE1zSWVMUW9WU1pqRHZpa3FGanFfRGtETURuTzFnSUlVMGx2UTYxUk55ZW5mbUtYd1p2VVdVNE1hX0JDdHFFWG01T0JUY0EtUVE?oc=5",
+   "date": "2026-10-01",
+   "summary": "生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon 上海  InfoQ-CN",
+   "body": "生成即合规：Agentic AIGC 驱动的广告素材修复实践｜QCon 上海  InfoQ-CN",
+   "tags": [
+    "行业",
+    "合规",
+    "Agent"
+   ]
+  },
+  {
+   "id": "n6315006338",
+   "category": "行业",
+   "company": "",
+   "title": "一笔100万元人民币的广告预算，既要覆盖地铁、商 - 早晨报",
+   "source": "早晨报",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE56ZXJqRDFQNUJDY2pMQ3lyWWpnSnhpa2dFTkJlckxXWGNWb0EwcHRYUFFHbmhSamNUYVFmQ2Fia1VrMFJvQUNlVm03NnRkZ011TEJjWnI4ZWhlcUZuVEVtOWNYWWpuaDJl?oc=5",
+   "date": "2026-10-01",
+   "summary": "一笔100万元人民币的广告预算，既要覆盖地铁、商  早晨报",
+   "body": "一笔100万元人民币的广告预算，既要覆盖地铁、商  早晨报",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n524d457353",
+   "category": "政策",
+   "company": "",
+   "title": "Meta小企业版Muse来了！ - 华尔街见闻",
+   "source": "华尔街见闻",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9JU1FuNG1LWk4tU3dJRThIcTlMQTRpdmRMdGZNM3FheGN1OVpjV0JrNnlLWkhIdnJ2dGNBZXV2TGI3bl90dGU4S1VVQ3E2THg4Z2Rj?oc=5",
+   "date": "2026-09-29",
+   "summary": "Meta小企业版Muse来了！  华尔街见闻",
+   "body": "Meta小企业版Muse来了！  华尔街见闻",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n91e08b1259",
+   "category": "客户",
+   "company": "",
+   "title": "从刘嘉玲、刘亦菲到“方桃子”，真人+AI明星能救业绩？ - 风闻",
+   "source": "风闻",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE85c2ZzbHM1RlNmc3lCYTN0bjVMOGlRZ2tOVUtQMkVVZlVsQWVveW5aNm1DcGstQnNBMEdTWDhPekVRQURkOGNLWGNfaEtKZ2UzY1ZaTGJ4bFVqSVk?oc=5",
+   "date": "2026-09-16",
+   "summary": "从刘嘉玲、刘亦菲到“方桃子”，真人+AI明星能救业绩？  风闻",
+   "body": "从刘嘉玲、刘亦菲到“方桃子”，真人+AI明星能救业绩？  风闻",
+   "tags": [
+    "客户"
+   ]
+  },
   {
    "id": "n7e4aac4190",
    "category": "竞品",
@@ -5672,92 +5760,6 @@ window.KB_DATA = {
    "body": "3天定生死，TikTok “搬运工” 的最后一根稻草  雨果跨境",
    "tags": [
     "政策"
-   ]
-  },
-  {
-   "id": "n5e8a4da696",
-   "category": "政策",
-   "company": "",
-   "title": "Meta AI 现在可以分析和优化您的广告活动 - ALM Corp",
-   "source": "ALM Corp",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPenZXWUpQdkNrT3E3VWlIVmpFUzloZzJpbnlqTFBSUi1hTUVFVTRnRGZPbFhQWHdhQXFJT01yR1FpcGtxMDA2Y1l1RTZ2X05iUEw3VFNiRnl4dHpkSXUxRUlzR0VrSGZocVFra3QwTDlqTEJqWWhuR3hFaXY2a1NJeGkyeHJNZFJfODB1d19jOA?oc=5",
-   "date": "2026-08-24",
-   "summary": "Meta AI 现在可以分析和优化您的广告活动  ALM Corp",
-   "body": "Meta AI 现在可以分析和优化您的广告活动  ALM Corp",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "n3539fede14",
-   "category": "政策",
-   "company": "",
-   "title": "Meta Platforms Stock Rallies Following Launch Of Muse Spark AI Model - TIKR.com",
-   "source": "TIKR.com",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYzZoWld5MVcyNWZZQU9DdDlhaWtNdThwVnpNcFZRRDJITEdJTlFrTnZtTnRPTVJHR2Q3RlQxNFl5cl9SaVBOLVhfcHdyamlOWDdlUS04NFpPcHFqRmVwa3BBUC0yRzZfS3FDb0FCTE5FS1FEdjRsNzl1cnlhbVlqMTdNZHE?oc=5",
-   "date": "2026-09-03",
-   "summary": "Meta Platforms Stock Rallies Following Launch Of Muse Spark AI Model  TIKR.com",
-   "body": "Meta Platforms Stock Rallies Following Launch Of Muse Spark AI Model  TIKR.com",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "nff6bdeab1e",
-   "category": "政策",
-   "company": "",
-   "title": "谷歌自10月30日起更新个性化广告政策允许在当地法律允许的情况下在YouTube广告资源中投放酒类广告 - emwap.eastmoney.com",
-   "source": "emwap.eastmoney.com",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtVks1RWRGVnRWYy1mSkNKRkFxZmRCa2Zzc0Zzb1d6N2tId0xCU29VN3licXZNbjlVd1BuRzduNm0yNHMtVmpYQWtBUHVhZEs4cjFjRzA4M2VUdExBQkctbmFzdw?oc=5",
-   "date": "2026-09-03",
-   "summary": "谷歌自10月30日起更新个性化广告政策允许在当地法律允许的情况下在YouTube广告资源中投放酒类广告  emwap.eastmoney.com",
-   "body": "谷歌自10月30日起更新个性化广告政策允许在当地法律允许的情况下在YouTube广告资源中投放酒类广告  emwap.eastmoney.com",
-   "tags": [
-    "政策",
-    "投放"
-   ]
-  },
-  {
-   "id": "ndfa5e0b87c",
-   "category": "政策",
-   "company": "",
-   "title": "Google Play拒付新规生效，欧盟AI透明度要求开始执行｜Enjoy出海政策周报 - Enjoy出海",
-   "source": "Enjoy出海",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JVXp6ZWhSQy1hNW9CSnpnVHFueWtCeHJYOXZOVVhrb3czdHEwbkdhU2RHV1ZTUWhsVnFfa21LaHp3X01pWWZpWnZFM3lkM3ppUTVUcXNyUWprQQ?oc=5",
-   "date": "2026-08-11",
-   "summary": "Google Play拒付新规生效，欧盟AI透明度要求开始执行｜Enjoy出海政策周报  Enjoy出海",
-   "body": "Google Play拒付新规生效，欧盟AI透明度要求开始执行｜Enjoy出海政策周报  Enjoy出海",
-   "tags": [
-    "政策",
-    "出海"
-   ]
-  },
-  {
-   "id": "n7b012f3880",
-   "category": "客户",
-   "company": "",
-   "title": "营收破百亿、净利近15亿！珀莱雅2025年高质量发展再提速 - 新华报业网",
-   "source": "新华报业网",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlUXBzcmpiaHo1eG04Qmo5N1RNeWpwQ1JQYzdGUDNYOFRlTzNQMTdJYXk4a0xmUEhIYm5sV0g3YWE4Z19YeVF4YzNIXzhGNTlDOVFhLVZMcDRWT0ZoaXZqVnZxcjhlM0xtNzRv?oc=5",
-   "date": "2026-05-08",
-   "summary": "营收破百亿、净利近15亿！珀莱雅2025年高质量发展再提速  新华报业网",
-   "body": "营收破百亿、净利近15亿！珀莱雅2025年高质量发展再提速  新华报业网",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "n60aad05b90",
-   "category": "客户",
-   "company": "",
-   "title": "钛镁AI成为中国商务广告协会数字营销专业委员会理事单位 - 新京报",
-   "source": "新京报",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81Wk5WT29MWGxBbkw5al9FVHo3VXgydGpsZFE4dzlId0U0azFZM0NsS0tVYmFXUDJWUmlDejQwbWxoYl9INHQ4eGdJMHMxYktIcm5SR01peFl5emFIcUIxQ2dn?oc=5",
-   "date": "2026-06-02",
-   "summary": "钛镁AI成为中国商务广告协会数字营销专业委员会理事单位  新京报",
-   "body": "钛镁AI成为中国商务广告协会数字营销专业委员会理事单位  新京报",
-   "tags": [
-    "客户"
    ]
   }
  ]
