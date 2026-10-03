@@ -1,11 +1,182 @@
 /* 自动生成 by scripts/ingest.py —— 请勿手改 */
 window.KB_DATA = {
  "meta": {
-  "generated": "2026-10-02",
+  "generated": "2026-10-03",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 6 条，合计 400 条"
+  "note": "新增 12 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "naa22f26bc3",
+   "category": "竞品",
+   "company": "",
+   "title": "钛动科技转道港交所，出海AI营销龙头迎资本大考 - 21财经",
+   "source": "21财经",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQWkRKTHhVTDMzalFZYW9JWHdVSGlQN3U0UExPc3pRdzlCOGI5aEZvb0V1WnFmcUV4a3FpSlVBRWYxbXVKVUlwU1NKeTcwRXo0RXVvYmFVcHltelktMUlVXzMxWTRqSXBkV2N0WVRxSmhZeUlKT21OQmQ0ZEprd3hCSk9hRUJnUnNwYzFnYmtrZw?oc=5",
+   "date": "2026-03-18",
+   "summary": "钛动科技转道港交所，出海AI营销龙头迎资本大考  21财经",
+   "body": "钛动科技转道港交所，出海AI营销龙头迎资本大考  21财经",
+   "tags": [
+    "竞品",
+    "出海"
+   ]
+  },
+  {
+   "id": "nac6a0b378f",
+   "category": "行业",
+   "company": "",
+   "title": "“金陵工匠”淬炼AIGC数字营销实战本领 - QQ News",
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rUG1jbVdiT0U5ZGRfUzBUOXNPUnNqbWhaajJEdklQMVMtVS1JUkxrUTVpVlBVYnBTeXVvTmw0QVZaT2dtc1VOT3NTUWI5ZzdLVHhwNER3?oc=5",
+   "date": "2026-09-24",
+   "summary": "“金陵工匠”淬炼AIGC数字营销实战本领  QQ News",
+   "body": "“金陵工匠”淬炼AIGC数字营销实战本领  QQ News",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n65ac3d18c8",
+   "category": "行业",
+   "company": "",
+   "title": "【活动】《2026 汽车社交营销实战与趋势报告》深度解读：六大趋势，看懂 AI 时代的车企分水岭 - SocialBeta",
+   "source": "SocialBeta",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwSXBiWGY2bUxCWXpSTmhFb0ZjWWk1bEhyNS15d1U3bl96TFVWOUdfTzVpa2FKQmhsaUVROHB4NjVVM1NVOUVaVFppVW9aUQ?oc=5",
+   "date": "2026-05-25",
+   "summary": "【活动】《2026 汽车社交营销实战与趋势报告》深度解读：六大趋势，看懂 AI 时代的车企分水岭  SocialBeta",
+   "body": "【活动】《2026 汽车社交营销实战与趋势报告》深度解读：六大趋势，看懂 AI 时代的车企分水岭  SocialBeta",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "nd9b04469b6",
+   "category": "行业",
+   "company": "",
+   "title": "谁在 ChatGPT 上投广告？ChatGPT 和 Claude 又在哪投广告？ - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZ3RKNkNLQm1TcVVSTjdvbUtDNTZiSTRGT2dvT1NaME5RMmFpdzU3UDg5eG9UUFgwSVUxUGNoeFMtaF9ydmF0VDdqSjlfY21TSzcyTmg0MVBVaWwwTzViMEJMVmNISGNnWF9iU0JhTmx4OVJNOEFiVzdkbWE4d2RBakt1dUtBOGM?oc=5",
+   "date": "2026-09-29",
+   "summary": "谁在 ChatGPT 上投广告？ChatGPT 和 Claude 又在哪投广告？  新浪财经",
+   "body": "谁在 ChatGPT 上投广告？ChatGPT 和 Claude 又在哪投广告？  新浪财经",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n18e581ee55",
+   "category": "政策",
+   "company": "",
+   "title": "亚马逊又在收紧AI和库存管理，卖家现在要提前准备了 - cifnews.com",
+   "source": "cifnews.com",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE83bUw0UDRnTUk4ZDBZcTI4NEd3TmNQcE5NTVRYWWJWM2Z1YnExRG5DTHlVeFRxb0VGVmVKQlhHNmhQZVVHQ1JNZ3F2c3c?oc=5",
+   "date": "2026-09-23",
+   "summary": "亚马逊又在收紧AI和库存管理，卖家现在要提前准备了  cifnews.com",
+   "body": "亚马逊又在收紧AI和库存管理，卖家现在要提前准备了  cifnews.com",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n5e8a4da696",
+   "category": "政策",
+   "company": "",
+   "title": "Meta AI 现在可以分析和优化您的广告活动 - ALM Corp",
+   "source": "ALM Corp",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPenZXWUpQdkNrT3E3VWlIVmpFUzloZzJpbnlqTFBSUi1hTUVFVTRnRGZPbFhQWHdhQXFJT01yR1FpcGtxMDA2Y1l1RTZ2X05iUEw3VFNiRnl4dHpkSXUxRUlzR0VrSGZocVFra3QwTDlqTEJqWWhuR3hFaXY2a1NJeGkyeHJNZFJfODB1d19jOA?oc=5",
+   "date": "2026-09-30",
+   "summary": "Meta AI 现在可以分析和优化您的广告活动  ALM Corp",
+   "body": "Meta AI 现在可以分析和优化您的广告活动  ALM Corp",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "ndfa5e0b87c",
+   "category": "政策",
+   "company": "",
+   "title": "Google Play拒付新规生效，欧盟AI透明度要求开始执行｜Enjoy出海政策周报 - Enjoy出海",
+   "source": "Enjoy出海",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9JVXp6ZWhSQy1hNW9CSnpnVHFueWtCeHJYOXZOVVhrb3czdHEwbkdhU2RHV1ZTUWhsVnFfa21LaHp3X01pWWZpWnZFM3lkM3ppUTVUcXNyUWprQQ?oc=5",
+   "date": "2026-08-11",
+   "summary": "Google Play拒付新规生效，欧盟AI透明度要求开始执行｜Enjoy出海政策周报  Enjoy出海",
+   "body": "Google Play拒付新规生效，欧盟AI透明度要求开始执行｜Enjoy出海政策周报  Enjoy出海",
+   "tags": [
+    "政策",
+    "出海"
+   ]
+  },
+  {
+   "id": "nbd381d557d",
+   "category": "客户",
+   "company": "",
+   "title": "每24条视频跑出3条爆品：美妆内容开始拼“命中率” - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQVTMzR2k0bURLdXlCbnJnRzczUndybmFpdG5paGJCaHFaTkRQRmxRcHFQV250dG1qSURkTW14cE0yWFllZko1RkM4NW44MXdqNXF2NnZ6NUxGalhVdXNYSXZQc0tvY3lrSDUzS3VlaEcza2txWVE2dVBLQWk5TUlmVThqZXkwXzA?oc=5",
+   "date": "2026-10-01",
+   "summary": "每24条视频跑出3条爆品：美妆内容开始拼“命中率”  新浪财经",
+   "body": "每24条视频跑出3条爆品：美妆内容开始拼“命中率”  新浪财经",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n60aad05b90",
+   "category": "客户",
+   "company": "",
+   "title": "钛镁AI成为中国商务广告协会数字营销专业委员会理事单位 - 新京报",
+   "source": "新京报",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81Wk5WT29MWGxBbkw5al9FVHo3VXgydGpsZFE4dzlId0U0azFZM0NsS0tVYmFXUDJWUmlDejQwbWxoYl9INHQ4eGdJMHMxYktIcm5SR01peFl5emFIcUIxQ2dn?oc=5",
+   "date": "2026-06-02",
+   "summary": "钛镁AI成为中国商务广告协会数字营销专业委员会理事单位  新京报",
+   "body": "钛镁AI成为中国商务广告协会数字营销专业委员会理事单位  新京报",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n798b449d8f",
+   "category": "客户",
+   "company": "",
+   "title": "AI for Growth，PAGC 2026全面升级！AI赋能，开启产品全球增长新篇章 - Morketing",
+   "source": "Morketing",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9hdDhqSFhCUXMyZHlZYW4xZk82dEpQSVpETFNRYXZKOUhuRFRaQzllN1ptNkpkaGJnc3dHa19PMlRCMnNhN3VsOTAydTZrVkk?oc=5",
+   "date": "2026-03-12",
+   "summary": "AI for Growth，PAGC 2026全面升级！AI赋能，开启产品全球增长新篇章  Morketing",
+   "body": "AI for Growth，PAGC 2026全面升级！AI赋能，开启产品全球增长新篇章  Morketing",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n05c54ea2ee",
+   "category": "消费者",
+   "company": "",
+   "title": "种草情报局|小红书宠物营销,9月趋势洞察 - 今日流媒体",
+   "source": "今日流媒体",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE01Tm9TNTNLM1NEaFdMQ3NIRERqdWUteXpfQTVTWVE0R0hyMTRjT1owZnRqOWo3U1VMeTFDN0trOXdodGE0U0hxdTRwNzV0a3Bhd2gteU9FMmZ5aHM3NjZmRVQwUWVwTHppSXo0?oc=5",
+   "date": "2026-10-02",
+   "summary": "种草情报局|小红书宠物营销,9月趋势洞察  今日流媒体",
+   "body": "种草情报局|小红书宠物营销,9月趋势洞察  今日流媒体",
+   "tags": [
+    "消费者",
+    "种草"
+   ]
+  },
+  {
+   "id": "n6a8a74b6f2",
+   "category": "消费者",
+   "company": "",
+   "title": "双节前《2026小红书兴趣游趋势报告》发布，兴趣游、访古游、手作游成新亮点 - 搜狐网",
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRGVzbm9mbmd3elhnME1jR3BicU9QM2ZlTWphSkZRRFNEUkREZDBFaUE2NHhObDNVa1NYWFdtVG94eWVxYk1sbHgxYXc2aWl2MDUtYzNMQ3pkc1l2MDB1WE5jWjV6c05KTTBFVXR1U3FTWk1rdmNyMnFSNTE4M0tiNnROX0hXTWNGenFxag?oc=5",
+   "date": "2026-09-24",
+   "summary": "双节前《2026小红书兴趣游趋势报告》发布，兴趣游、访古游、手作游成新亮点  搜狐网",
+   "body": "双节前《2026小红书兴趣游趋势报告》发布，兴趣游、访古游、手作游成新亮点  搜狐网",
+   "tags": [
+    "消费者"
+   ]
+  },
   {
    "id": "necaa1b3385",
    "category": "竞品",
@@ -5587,179 +5758,6 @@ window.KB_DATA = {
    "tags": [
     "竞品",
     "出海"
-   ]
-  },
-  {
-   "id": "n3907c7a19b",
-   "category": "竞品",
-   "company": "",
-   "title": "上影昊浦完成昊帧影视创制平台部署，软硬协同升级AI影视创制生态 - jfdaily.com",
-   "source": "jfdaily.com",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SdjZRZDVycHlXa2N1RGRHWS1xbk5OUWxobDZ0RDFaWmR2V3NtSTBPd3ViVWZ1NzlOT2hSa0JQYVMzMVNGSGd1cEtBZzBJNG15Sm15MzlMTnFuUQ?oc=5",
-   "date": "2026-08-24",
-   "summary": "上影昊浦完成昊帧影视创制平台部署，软硬协同升级AI影视创制生态  jfdaily.com",
-   "body": "上影昊浦完成昊帧影视创制平台部署，软硬协同升级AI影视创制生态  jfdaily.com",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "n49bd4249ef",
-   "category": "竞品",
-   "company": "",
-   "title": "早报｜小米把「OK」藏进玄戒O3,雷军:不建议拆开看彩蛋/vivo官宣X500系列/MINI车机接入阿里与DeepSeek模型 - QQ News",
-   "source": "QQ News",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB2VzRMQTVPbVM5TGhuT3NmczhYUkVOUGkxMEdZVFZLZDBGLWZ2NGFXeHh4UGZrblA3dUZJa2lxNHJnT0hoQzVCY0tuUUtLVmlpaHEtWmpB?oc=5",
-   "date": "2026-08-25",
-   "summary": "早报｜小米把「OK」藏进玄戒O3,雷军:不建议拆开看彩蛋/vivo官宣X500系列/MINI车机接入阿里与DeepSeek模型  QQ News",
-   "body": "早报｜小米把「OK」藏进玄戒O3,雷军:不建议拆开看彩蛋/vivo官宣X500系列/MINI车机接入阿里与DeepSeek模型  QQ News",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "n0f59b8b7e4",
-   "category": "竞品",
-   "company": "",
-   "title": "物自体科技完成数千万元战略融资，华宝新能领投 - 新浪财经",
-   "source": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMi3gpBVV95cUxQNjdvOFhmRWZ3d3ZWOFVqbi1sUzY1eE4xRF9kYmYwVjNRTWVqbUJqQVlmS0NuXzEtRTNxTUZNNllwelYyQ3pORl9USWZhUThKSDBOZ0ZtOWlXWm9VZm1qaGZZOFVSWjB5bEZYc2JkNC1VZnpZYi1LekkwY1NnOWszcTRObWtCemx2bktzejZVR3dPdHhKVDRTV2EwZGFqc0lyZUFHdFg1NWtpSHdfVllaeXI4eDI5NXVabzlDRmNfTTF2QUtrMGxOcHJDRFk4clZaM3JSTnB0TFpJcVYwRm4yQmxZaEh3YnZKSm5LbE9qOGk0Z3lCWnNOUDBFaWFIV09TRUFBYjFhaHlxaXdybVctRUlBLU4xbklHTjUxLXVIMjc3SHBKWFdqd1psYzVGcWhpUzJJTm05OTJzQVlEOTctT0ZvNHpGNERRMjRTcEFHdHNWY19vdS02NmxXSkRMbXA3QVlaclpVM3IwNEpzQ1dQMXZTakNxU1dMTklOMGFoMzdqRlVUZE9vNGVkSkpaNnR1d1k0VWtVazRJWkY4YVNtTEpMZVdHamd1NnQtLWJYamhHdlJqNEh5UlhvOHpOdE5yTmFBaFk0ejJsSGhNZWl6ajZhQUVReXlRSzJxMFM3WnZTNFVQT3g1bmt5aWZlanJjNGt1S21UMEY4M0NkVmg0djVQR2JidEZSVHRtekltUEpPQmw2REZDUl9LSmZVYkUyelVIWGxCa2Nta3N2Vms5VlBidTNObERjUXRHa01GVlk0a3lCeGt0eVd4dmtqaS1rOFFFbmhuT09xU0dGNEZKbEFUbjJNS0VQVzgyR2I4SFRhXzBudGVUbXhDdHdYdzZMSklubEhpTzNtZlNjUW9BY3hETkwtOHZrVVk4cHNfZFVIZ2VXMkhsTkdWVUhGdnNxS3dVR0dtTVYybFQtRmliT2xfUVpaTjhIQmlxdWRvZGV3NUtjRThLSm8yTDVFTGt0MGJONGdnaVlZaTAwTDhtWExFMFk0M0dMOXJDRUNSaWxyZWZ5TjVHZnhhMzhWUmZZam1fWFVpdE50TThnb25MMncxWjlxU1pQNEE2azJrUmZKTWIxVnNNZ09ZWTlfWFBuYVgtTHM1WS13amtVamp3UGlxNjRWbnFxUEdOYkVNaWFsaTZPQXZHN3h6aFRTNml4WmM3WHJVYzQ4ZGV0enJlMEdMalpjRzlmS3lvOUExV2hjUHRrN1NENzlsSXlEWWVBbWFISk1jdmg3bmxKcHYtd3ZaYjUxQmpJMmE2Mlg3ZXBlb3F5dnpURTZZMDVWMHVVYVBTZHcxeWc5QlN0Q1BjTXI1OU1iOTdBVU1OTGFZc2xUQXJvbjlWTlZEdE43VlhUNG5xRmlWQnNRekRocHJCUUVmbEJ0dFdnUm9HalRZdk5aWVo5cF9Jc2xPNEZHWXBpZk1QM0duWWFBTTVBUG9Ddmo0Z3Y5N1ktSlJod21IenRmQTZrWk5FU0tEU0JRMkhwNFdXbnpkMnhLSE5VREJoQjhXLW42bVNRRkxTSWxpRlFFNmF1NGdteWstVjhxSHNmTEFIVEE3SXRSVHQ5SW8yQ1ZQYkluT3BDQURJaE1nQl9pYTkwakx5TnhVdk9GcEpnODdKU1ZKV1NkeWpZcUZGZDRFYTFUbFVaZFJiZzhLdE9BUExvSDViUU8xcHZ5WXJwU196X1NlWjF4dTBhTFdmVHlhQ19GSnlMWXJxMDc5QTBvNEV3QUZ3bkdVTUlSakRiN1RDbVNKVGkwR0RHM0tKa005U3Bmb2c4SDFUOGNKcFA2OW1qclE0ZTdfeHVFbmNhaVU2NVN5ZnQ5NHRGb2c?oc=5",
-   "date": "2026-09-03",
-   "summary": "物自体科技完成数千万元战略融资，华宝新能领投  新浪财经",
-   "body": "物自体科技完成数千万元战略融资，华宝新能领投  新浪财经",
-   "tags": [
-    "竞品",
-    "融资"
-   ]
-  },
-  {
-   "id": "n4668c1df86",
-   "category": "竞品",
-   "company": "",
-   "title": "「PureblueAI清蓝」完成数千万元天使轮融资，发布首款AI口碑营销数字员工 - 36kr.com",
-   "source": "36kr.com",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9McHVBMnFZVHpoQ1J6OTB6R2tNS2hhMDZlbkUxQVBCTWRVYjNsRWhRTGZ2dUc2dVgtNXZqZU9HLXgzaUJKLTZyTUh1Y3NMdw?oc=5",
-   "date": "2026-03-02",
-   "summary": "「PureblueAI清蓝」完成数千万元天使轮融资，发布首款AI口碑营销数字员工  36kr.com",
-   "body": "「PureblueAI清蓝」完成数千万元天使轮融资，发布首款AI口碑营销数字员工  36kr.com",
-   "tags": [
-    "竞品",
-    "融资"
-   ]
-  },
-  {
-   "id": "n2b96c15edf",
-   "category": "行业",
-   "company": "",
-   "title": "快手：二季度AIGC短视频营销消耗同比增超70% - eastmoney.com",
-   "source": "eastmoney.com",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBNVkl6Y0RMVXlEeDFaV04zeEJraGphZEVOTGpxM1k2dUd4TWNlbGRBNS04eTFaUzJLck80QmgtWGVsaTRVa2R6TXZJQVdGSlkyenlUQUFjOXNYX3l4dW15ZQ?oc=5",
-   "date": "2026-08-19",
-   "summary": "快手：二季度AIGC短视频营销消耗同比增超70%  eastmoney.com",
-   "body": "快手：二季度AIGC短视频营销消耗同比增超70%  eastmoney.com",
-   "tags": [
-    "行业",
-    "短视频"
-   ]
-  },
-  {
-   "id": "n557fe536aa",
-   "category": "行业",
-   "company": "",
-   "title": "智启无境，共擎增长：巨量引擎以AI新质生产力，助力代理商破局增长- 中国日报网 - China Daily",
-   "source": "China Daily",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRjJpQ3ViS3VKZkxaeXV2dVp3ZFpyODhaamIxY1hYVksxZURHeDVvUnFwbVZOVkFGZnFfRm5rb09lTVJPTTBWM2NYRWxOdzNtMktkbnc2NDRKTzJiaTF3MGVuaFFWOG0yQ0FYQzEtaXlabzFpT3dlejNFRW5tdEQ3S1RCYw?oc=5",
-   "date": "2026-04-23",
-   "summary": "智启无境，共擎增长：巨量引擎以AI新质生产力，助力代理商破局增长- 中国日报网  China Daily",
-   "body": "智启无境，共擎增长：巨量引擎以AI新质生产力，助力代理商破局增长- 中国日报网  China Daily",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "nc42c4733df",
-   "category": "行业",
-   "company": "",
-   "title": "2026海外网红营销AI趋势：5大变化，哪些已经落地 - 雨果跨境",
-   "source": "雨果跨境",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9KOWIxZVR3cHZLRjZjcEZGMFpNWkRjRG9YVmdVa01TOGFKM2QxU084ZllWMExPakxWZS1xWFZmNktHLVRWVVg0X21leUM?oc=5",
-   "date": "2026-08-13",
-   "summary": "2026海外网红营销AI趋势：5大变化，哪些已经落地  雨果跨境",
-   "body": "2026海外网红营销AI趋势：5大变化，哪些已经落地  雨果跨境",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "nacad8b6661",
-   "category": "行业",
-   "company": "",
-   "title": "OpenAI广告业务上线200天年化收入破10亿美元，加速全球扩张备战IPO - 新浪财经",
-   "source": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5FbktGOFFrVnF6VHRwVWVFQ1VEYnc0UEZhTDJYZ2F6bW9rWlI1LS1WelJ4SmtvRGZoWGFtSkYwTnU0a1N2QnY5azJZcXdCWU10RDlqZE1obFBSeGJMbXEtRHZ6b0s2RXBtajF1LS1rSnRJTnp4a0wwVg?oc=5",
-   "date": "2026-09-01",
-   "summary": "OpenAI广告业务上线200天年化收入破10亿美元，加速全球扩张备战IPO  新浪财经",
-   "body": "OpenAI广告业务上线200天年化收入破10亿美元，加速全球扩张备战IPO  新浪财经",
-   "tags": [
-    "行业",
-    "IPO"
-   ]
-  },
-  {
-   "id": "ndb9040846d",
-   "category": "行业",
-   "company": "",
-   "title": "AI广告风险从“周级”变“天级”，广告主如何合规增长？ - 新浪财经",
-   "source": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE44bVZrVlRDOE95NEh6UDVlaVFUWVVZZ0k1c01UR0FPdmxxYUJjNE9DVl8xd08xbXVwRVhDZ2hWWkthS2lCZ0FJdllXQlRHenFkNkZudi0xdnc1a2ZkYVg3RTktLXFpektDQldublpicmdSOUQ4NjFpTg?oc=5",
-   "date": "2026-08-07",
-   "summary": "AI广告风险从“周级”变“天级”，广告主如何合规增长？  新浪财经",
-   "body": "AI广告风险从“周级”变“天级”，广告主如何合规增长？  新浪财经",
-   "tags": [
-    "行业",
-    "合规"
-   ]
-  },
-  {
-   "id": "n207de18e76",
-   "category": "政策",
-   "company": "",
-   "title": "跨境日报：消费级3D打印Formnext展显现五大行业新趋势- 栏目 - 亿邦动力网",
-   "source": "亿邦动力网",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE82Y3JnYi1BeXUyQ2JzR2hkbHY1UHI1Qi1GSTNzbGtTQTFwMkxabWphNEdIVjd5TVR5NXdyM2VyejNZNDQwWGR4X19mMHJEQUxOTlVTTnd3?oc=5",
-   "date": "2026-09-04",
-   "summary": "跨境日报：消费级3D打印Formnext展显现五大行业新趋势- 栏目  亿邦动力网",
-   "body": "跨境日报：消费级3D打印Formnext展显现五大行业新趋势- 栏目  亿邦动力网",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "n20e02f1b75",
-   "category": "政策",
-   "company": "",
-   "title": "Kimoox 虚拟卡：一站式管理多卡预算，聚焦海外广告与全球订阅支付场景 - doit.com.cn",
-   "source": "doit.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lQUhzWjZXTmlSeVlkZ2Jua2U0LXByRVdpVGJEUkRpVjNwWklFQjBiQ1BXaDM1eVA2NFFCTm91eHFZLUJycG9TSEpfTkVqNjEyYlJGbEt4Uk9ja0U?oc=5",
-   "date": "2026-08-29",
-   "summary": "Kimoox 虚拟卡：一站式管理多卡预算，聚焦海外广告与全球订阅支付场景  doit.com.cn",
-   "body": "Kimoox 虚拟卡：一站式管理多卡预算，聚焦海外广告与全球订阅支付场景  doit.com.cn",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "na5525fc161",
-   "category": "政策",
-   "company": "",
-   "title": "3天定生死，TikTok “搬运工” 的最后一根稻草 - 雨果跨境",
-   "source": "雨果跨境",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE15NFVlVFNHTTZYa2VjbHFteC1xc292S2lyVmpYaXp1VmhDcVE4d19hb2p2SUNrVjJaZ20tQ0hEVXNFYzFlaVN2VFh1UG8?oc=5",
-   "date": "2026-08-13",
-   "summary": "3天定生死，TikTok “搬运工” 的最后一根稻草  雨果跨境",
-   "body": "3天定生死，TikTok “搬运工” 的最后一根稻草  雨果跨境",
-   "tags": [
-    "政策"
    ]
   }
  ]
