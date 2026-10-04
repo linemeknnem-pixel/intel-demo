@@ -1,10 +1,195 @@
 {
  "meta": {
-  "generated": "2026-10-03",
+  "generated": "2026-10-04",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 12 条，合计 400 条"
+  "note": "新增 13 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "n23a3a80963",
+   "category": "竞品",
+   "company": "",
+   "title": "特赞科技 Tezign 发布内容人工智能 Content + AI 新产品 - SocialBeta",
+   "source": "SocialBeta",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvSDBfVzZrakhlZkplTC00b1MxZGxNNDBjVDNKNVV6TWN6bjhVVTFHVXNkbmwzX1VLQnROYU5XN1JqT0lVcjBldngwWWYyQQ?oc=5",
+   "date": "2024-09-27",
+   "summary": "特赞科技 Tezign 发布内容人工智能 Content + AI 新产品  SocialBeta",
+   "body": "特赞科技 Tezign 发布内容人工智能 Content + AI 新产品  SocialBeta",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "nf6afb5affd",
+   "category": "竞品",
+   "company": "",
+   "title": "首发| 钛动科技完成新一轮融资：全球豪门投一位阿里前员工 - 投资界",
+   "source": "投资界",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1reVBDWWZwaVVVNzNLcE5KY3dkcU9KbUNrNUFhQ2VzNWZmYXdZTURXQUZBTXRfZ2Q2Ql96M29NVDhJSDFEYVRmMGRhSEltNGM4Z3Jueldn?oc=5",
+   "date": "2026-08-20",
+   "summary": "首发| 钛动科技完成新一轮融资：全球豪门投一位阿里前员工  投资界",
+   "body": "首发| 钛动科技完成新一轮融资：全球豪门投一位阿里前员工  投资界",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "n3907c7a19b",
+   "category": "竞品",
+   "company": "",
+   "title": "上影昊浦完成昊帧影视创制平台部署，软硬协同升级AI影视创制生态 - 上观新闻",
+   "source": "上观新闻",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SdjZRZDVycHlXa2N1RGRHWS1xbk5OUWxobDZ0RDFaWmR2V3NtSTBPd3ViVWZ1NzlOT2hSa0JQYVMzMVNGSGd1cEtBZzBJNG15Sm15MzlMTnFuUQ?oc=5",
+   "date": "2026-08-24",
+   "summary": "上影昊浦完成昊帧影视创制平台部署，软硬协同升级AI影视创制生态  上观新闻",
+   "body": "上影昊浦完成昊帧影视创制平台部署，软硬协同升级AI影视创制生态  上观新闻",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n5dc285ba33",
+   "category": "竞品",
+   "company": "",
+   "title": "筷子科技与上影集团与达成战略合作，共筑AI影视智能体与数字人版权基础设施 - QQ News",
+   "source": "QQ News",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFA4VmxfNzRhbnFUTUU2UTN1bjZYdXljbGVCTWRoa0JZNmVoWjhnbVBKZGNlam95X0VjdWpITV9FdlQ1bklXN1RmNzZZRTFneTVjR1F5TEVn?oc=5",
+   "date": "2026-06-12",
+   "summary": "筷子科技与上影集团与达成战略合作，共筑AI影视智能体与数字人版权基础设施  QQ News",
+   "body": "筷子科技与上影集团与达成战略合作，共筑AI影视智能体与数字人版权基础设施  QQ News",
+   "tags": [
+    "竞品",
+    "数字人"
+   ]
+  },
+  {
+   "id": "n9f88864315",
+   "category": "行业",
+   "company": "",
+   "title": "小鹏汽车：AIGC 重塑车企营销设计 - gasgoo.com",
+   "source": "gasgoo.com",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ONTZLQ0l4aG9iVDN2VWo0ZlpjZUppOC1xOEU3LXllWEIyOEwwTHhIMkRWdVVQRFd0Nkp4RVBpbmk0VUhrcXdMRzZ6M3FOdmpN?oc=5",
+   "date": "2026-08-22",
+   "summary": "小鹏汽车：AIGC 重塑车企营销设计  gasgoo.com",
+   "body": "小鹏汽车：AIGC 重塑车企营销设计  gasgoo.com",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n557fe536aa",
+   "category": "行业",
+   "company": "",
+   "title": "智启无境，共擎增长：巨量引擎以AI新质生产力，助力代理商破局增长- 中国日报网 - China Daily",
+   "source": "China Daily",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRjJpQ3ViS3VKZkxaeXV2dVp3ZFpyODhaamIxY1hYVksxZURHeDVvUnFwbVZOVkFGZnFfRm5rb09lTVJPTTBWM2NYRWxOdzNtMktkbnc2NDRKTzJiaTF3MGVuaFFWOG0yQ0FYQzEtaXlabzFpT3dlejNFRW5tdEQ3S1RCYw?oc=5",
+   "date": "2026-04-23",
+   "summary": "智启无境，共擎增长：巨量引擎以AI新质生产力，助力代理商破局增长- 中国日报网  China Daily",
+   "body": "智启无境，共擎增长：巨量引擎以AI新质生产力，助力代理商破局增长- 中国日报网  China Daily",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "ne54485ffbc",
+   "category": "政策",
+   "company": "",
+   "title": "Netflix与YouTube对「生成式AI应用」治理路径 - 流媒体网",
+   "source": "流媒体网",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1IRzhiQ0Rsd19GdnZFakh5OTNUNmpJanhnalhHX1JfQzBCQ2tuRHp6MTUwMkVDS2dsY3VGbUhfbHhWWnN5UGUzTGcwV1ZLUzRVTmhySnVwZklucGNYSEtBSjJpY001cHN6OFcw?oc=5",
+   "date": "2026-09-30",
+   "summary": "Netflix与YouTube对「生成式AI应用」治理路径  流媒体网",
+   "body": "Netflix与YouTube对「生成式AI应用」治理路径  流媒体网",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n3fb322e2fd",
+   "category": "政策",
+   "company": "",
+   "title": "AI自动化运营独立站，Shopify运营会被替代吗？ - 雨果跨境",
+   "source": "雨果跨境",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9QVVRMdG9PUU5CYWxFeTZocGRXeW9NajI1R3BTQk53V0lVRlMzQlh2THRVb0FXUzJlNGpYMnJVMC1KMUFqYmNibzlEMGI?oc=5",
+   "date": "2026-05-14",
+   "summary": "AI自动化运营独立站，Shopify运营会被替代吗？  雨果跨境",
+   "body": "AI自动化运营独立站，Shopify运营会被替代吗？  雨果跨境",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nc650b0217a",
+   "category": "客户",
+   "company": "",
+   "title": "“家具渡河”“床垫挡炮”，AI营销短剧岂能猎奇无底线 - 封面新闻",
+   "source": "封面新闻",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yVnlORDdDdUdXVVBzbERualVUWFhHV1pkUXR6SDNqYkdYcE9nVkgySHp2bEJTeWNGclhvQWR1OWFYRjF1SFdFRjJXVmNTd3A0ejZGLThFTkZtTU5JanhnSTJLZ29GR3g4XzUtb2VkM1FKem9VZExZ?oc=5",
+   "date": "2026-06-19",
+   "summary": "“家具渡河”“床垫挡炮”，AI营销短剧岂能猎奇无底线  封面新闻",
+   "body": "“家具渡河”“床垫挡炮”，AI营销短剧岂能猎奇无底线  封面新闻",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n3188253abb",
+   "category": "客户",
+   "company": "",
+   "title": "技术驱动与AI赋能：SHOPLINE全新3.0主题正式发布 - digi.hsw.cn",
+   "source": "digi.hsw.cn",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBHR0JWTmdyWDBfVG82YXduM1dIWmdNamJ3c0JTRi1Ya0g0RjJ4Tlh6OUpPaGd6VXR2Tl82Z3RfOGRyUHFZU0I0X2gwLVctS1JjdXNqcS16UkpzaUJnLUE?oc=5",
+   "date": "2025-12-01",
+   "summary": "技术驱动与AI赋能：SHOPLINE全新3.0主题正式发布  digi.hsw.cn",
+   "body": "技术驱动与AI赋能：SHOPLINE全新3.0主题正式发布  digi.hsw.cn",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n90482e0ead",
+   "category": "客户",
+   "company": "",
+   "title": "跨境电商独立站的“又一春”：AI时代 价值重估 - 亿邦动力",
+   "source": "亿邦动力",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5UTG9uLUdTaVM1T25iQUxULW1adFhFTndkZFJxMHM5V1FpZjg1NGR4QUNMQ3FWOTA4TEtGeHI0SjdOQ1ZMWUE4a21QbDFQcnhUbHh4QVdn?oc=5",
+   "date": "2026-06-22",
+   "summary": "跨境电商独立站的“又一春”：AI时代 价值重估  亿邦动力",
+   "body": "跨境电商独立站的“又一春”：AI时代 价值重估  亿邦动力",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n47a0d33f2e",
+   "category": "消费者",
+   "company": "",
+   "title": "种草情报局|小红书宠物营销,9月趋势洞察 - 流媒体网",
+   "source": "流媒体网",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CWXdVeF95MDNlUG9PbWpjUEt2N0VHVm4tQmRyMUlJWl9iU0dUR19fY3k1aXQ0dVExYU9pcXBkSktDMFdUMDdXTDZERFVIX3I3c2lZZGxiMlZ3eW8?oc=5",
+   "date": "2026-09-28",
+   "summary": "种草情报局|小红书宠物营销,9月趋势洞察  流媒体网",
+   "body": "种草情报局|小红书宠物营销,9月趋势洞察  流媒体网",
+   "tags": [
+    "消费者",
+    "种草"
+   ]
+  },
+  {
+   "id": "nbc2bedcf4f",
+   "category": "消费者",
+   "company": "",
+   "title": "小红书2026年度居住趋势：正在向“全龄友好”转变 - AgeClub",
+   "source": "AgeClub",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PTWRSWDdMNXh4NlRGNl9HdFE2OGFFRGMtTDFObGc5MmVuRldfd1BDNWtFOE1uZHRZWVRpcTkyck12S2xKdDl4UHRvcm45WVJ6RlhN?oc=5",
+   "date": "2026-04-28",
+   "summary": "小红书2026年度居住趋势：正在向“全龄友好”转变  AgeClub",
+   "body": "小红书2026年度居住趋势：正在向“全龄友好”转变  AgeClub",
+   "tags": [
+    "消费者"
+   ]
+  },
   {
    "id": "naa22f26bc3",
    "category": "竞品",
@@ -5569,194 +5754,6 @@
    "body": "兵马俑复活？食堂阿姨看颜给菜？美妆AI营销违规乱象：颐莲、林清轩AI视频引争议  Sohu",
    "tags": [
     "客户"
-   ]
-  },
-  {
-   "id": "n64aa8b4a74",
-   "category": "客户",
-   "company": "",
-   "title": "自然堂等品牌广告语“纵欲过度的女人”引争议：被指冒犯矮化女性 - 凤凰网",
-   "source": "凤凰网",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5qVXBFTW1vRU5haVJOREFrdEE5UVc0cE9fd2FFMWkwWXUydTdKa2NJeTk1elNfU0ZlVUk4QU9zR3VxcHoyTTJRdQ?oc=5",
-   "date": "2026-08-29",
-   "summary": "自然堂等品牌广告语“纵欲过度的女人”引争议：被指冒犯矮化女性  凤凰网",
-   "body": "自然堂等品牌广告语“纵欲过度的女人”引争议：被指冒犯矮化女性  凤凰网",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "n4d5b3d4b19",
-   "category": "客户",
-   "company": "",
-   "title": "2026年，中国品牌出海最该关注的趋势可能只有一个 - 梅花网",
-   "source": "梅花网",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OdEt6NllYSzJKLVhKZTBvSmliLWZpeTVQQ0RpYnluOFI5SzlWXzQzcjJTdnlwY25vMDNJckRSUFhwS185aDlTN0V1OGdKXzdobV9ONnRGT1QwdDJu?oc=5",
-   "date": "2026-02-02",
-   "summary": "2026年，中国品牌出海最该关注的趋势可能只有一个  梅花网",
-   "body": "2026年，中国品牌出海最该关注的趋势可能只有一个  梅花网",
-   "tags": [
-    "客户",
-    "出海"
-   ]
-  },
-  {
-   "id": "ne7d0500122",
-   "category": "消费者",
-   "company": "",
-   "title": "2026暑假网红都去哪？3大趋势+6大路线闭眼选+FAQ - 新浪网",
-   "source": "新浪网",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE51SWtOd1lVUHpzbmVpQmk3Q0EyTDhZQkpPTHh1XzBmOXVHZS1DMHBVODhlUEJzQkNJcFdsMVhiV0FubkVOaWxTZVZvQXVzaXJrS3dibi1aUWdOWHdmZlVWSV9CVEJ0X0pIZVJTLVJaZ0tzdw?oc=5",
-   "date": "2026-09-04",
-   "summary": "2026暑假网红都去哪？3大趋势+6大路线闭眼选+FAQ  新浪网",
-   "body": "2026暑假网红都去哪？3大趋势+6大路线闭眼选+FAQ  新浪网",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n447cda791c",
-   "category": "消费者",
-   "company": "",
-   "title": "抖音生活服务快餐小吃行业峰会：解锁餐饮消费新活力 - 经济参考报",
-   "source": "经济参考报",
-   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ1NuLUt4VTVsTjFQZUVha05KM3hjVDZZcDItdHhmX3Z4MktSSjlmcGRHQzhGSTlJejl2THpPVzdvZlZwdEhOM2tDZjlzT3VLS3dENElBMlc1WERJdDhtSFFHTlNYV2JTc1QwajN2cWFiVHRlNnBWQUc0cXM1aGpibw?oc=5",
-   "date": "2026-09-04",
-   "summary": "抖音生活服务快餐小吃行业峰会：解锁餐饮消费新活力  经济参考报",
-   "body": "抖音生活服务快餐小吃行业峰会：解锁餐饮消费新活力  经济参考报",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "ne6e2c79505",
-   "category": "消费者",
-   "company": "",
-   "title": "俄罗斯三彩app下载：聚焦Z世代娱乐场景，内容种草与AI技术驱动品效增长-体坛网_体坛+ - 体坛",
-   "source": "体坛",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE55T1o0MUdvbWlBR0swRDVOb0hYZDdib1ppbFl4ZHpTUU5NLWtVbEY1bkx1UG05MkVDbFRiSFVfSlQ1UGNISWhlczlwem9rZUdBY0NJ?oc=5",
-   "date": "2026-09-05",
-   "summary": "俄罗斯三彩app下载：聚焦Z世代娱乐场景，内容种草与AI技术驱动品效增长-体坛网_体坛+  体坛",
-   "body": "俄罗斯三彩app下载：聚焦Z世代娱乐场景，内容种草与AI技术驱动品效增长-体坛网_体坛+  体坛",
-   "tags": [
-    "消费者",
-    "种草"
-   ]
-  },
-  {
-   "id": "n24a37898e8",
-   "category": "消费者",
-   "company": "",
-   "title": "亚博平台押注官网如何借助内容种草与场景联动实现用户增长与品效合一 - 体坛",
-   "source": "体坛",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE8ycElxT0IydnkwMkp4ZnR0WnlHNi1sZ1JRVlUtZ0MtV0g0MlZVbi1lQ3VCMEJtNEYwTUNoRGRQVmJ6eXNoVmQ0b24xMGV5SFF5?oc=5",
-   "date": "2026-09-04",
-   "summary": "亚博平台押注官网如何借助内容种草与场景联动实现用户增长与品效合一  体坛",
-   "body": "亚博平台押注官网如何借助内容种草与场景联动实现用户增长与品效合一  体坛",
-   "tags": [
-    "消费者",
-    "种草"
-   ]
-  },
-  {
-   "id": "nf5b06f4048",
-   "category": "消费者",
-   "company": "",
-   "title": "开云体育安卓官网注册如何成为品牌与年轻人群的超级连接器：人群洞察、内容种草与场景增长全解析 - womenofchina.com",
-   "source": "womenofchina.com",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9lUXJ0N2ZHR25FWDlUcDVpUXhNcjN6MWJ6UmNkcndjdEZjcGRFcjctNUo2alJIdFNVQTZjNWdkcHdlM1hFUzQxdUplbVltcjJuOGJWbw?oc=5",
-   "date": "2026-09-05",
-   "summary": "开云体育安卓官网注册如何成为品牌与年轻人群的超级连接器：人群洞察、内容种草与场景增长全解析  womenofchina.com",
-   "body": "开云体育安卓官网注册如何成为品牌与年轻人群的超级连接器：人群洞察、内容种草与场景增长全解析  womenofchina.com",
-   "tags": [
-    "消费者",
-    "种草"
-   ]
-  },
-  {
-   "id": "n85955ba78b",
-   "category": "消费者",
-   "company": "",
-   "title": "不只种草，更能履约，抖音生活服务做实本地生意全链路 - tidenews.com.cn",
-   "source": "tidenews.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lbzhvTGZsaV9KendiU1hXVVpFYnk0U3V3aktsNW9aNGR4WDc4cEhLVmhhSVo5LXpiSU8tSW1uZVFha2xFSmc1c2F2M0NOT3dsOU80MndfbXM1M2t4WGYyMWlxTlZ3WERHUjhpM2lJdzVwcEU?oc=5",
-   "date": "2026-04-21",
-   "summary": "不只种草，更能履约，抖音生活服务做实本地生意全链路  tidenews.com.cn",
-   "body": "不只种草，更能履约，抖音生活服务做实本地生意全链路  tidenews.com.cn",
-   "tags": [
-    "消费者",
-    "种草"
-   ]
-  },
-  {
-   "id": "n816a809ddc",
-   "category": "竞品",
-   "company": "",
-   "title": "从学者到创业者，如何做出一门“特赞”的生意？ - Forbes China",
-   "source": "Forbes China",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1xd1ZRSU5HdDZUNld3Zk5ob2hsU3FDSG5wRDRnT0FhN3BxaXlEcUpFNWZrOVA2S1IyTzVYUmx2cjRQcS1wcEVkNTFGaE9jUnlwUmFWQmhteWoxdw?oc=5",
-   "date": "2021-12-17",
-   "summary": "从学者到创业者，如何做出一门“特赞”的生意？  Forbes China",
-   "body": "从学者到创业者，如何做出一门“特赞”的生意？  Forbes China",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "n3ded74afc3",
-   "category": "竞品",
-   "company": "",
-   "title": "中欧×特赞发布AI商业双白皮书，范凌深度解读内容+人工智能的生产力革命 - 凤凰网科技",
-   "source": "凤凰网科技",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE02RmNncFVHLTdjZXVEM2wwQ21zeTBRWUhmZFZ4eXdib0xRWGhvOFNKQ3dYU3FzbUF3anlXdTZKSlQzRTRKV0diVmtJY1I?oc=5",
-   "date": "2025-03-25",
-   "summary": "中欧×特赞发布AI商业双白皮书，范凌深度解读内容+人工智能的生产力革命  凤凰网科技",
-   "body": "中欧×特赞发布AI商业双白皮书，范凌深度解读内容+人工智能的生产力革命  凤凰网科技",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "n978e6c3247",
-   "category": "竞品",
-   "company": "",
-   "title": "【女性创始人】特赞Daisy：用创业来读自己的EMBA - 动点科技",
-   "source": "动点科技",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBmWlFxaDBZZHdMYmhOUEtKSjNXRllKWVlDSEEtSkwxdkRJYnhmYXJIRlQ3T2o1djBqTl9HSVhqWHU3MVQxVmF0WEkzc2cyTjZxM2VlUlRGTExxZWhabHVwR0tXMzNtb0VaNEZCSXNiNA?oc=5",
-   "date": "2014-12-26",
-   "summary": "【女性创始人】特赞Daisy：用创业来读自己的EMBA  动点科技",
-   "body": "【女性创始人】特赞Daisy：用创业来读自己的EMBA  动点科技",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "nec58f5faf8",
-   "category": "竞品",
-   "company": "",
-   "title": "钛动科技CEO李述昊曾说不到千亿规模白创业了 去年前三季度仅1.3亿美元 - sohu.com",
-   "source": "sohu.com",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMGFDNnBhcE1pZjJidk1oaUhqUzB0LUtmUmFlclQ1OUhFMUg3b2lLQ1BmTjY2dWQ0aWoyQ0VTeFl1RDNhUGdqSjd1c0FwQzVWRW5DY3pkbDJIUFVoUDNnOHp2Wkp4UTIwQm5wWnNNYkJtS3o4cGlkeVYwYV9GVDZEYXVTSzFwZ0p1LUxWbA?oc=5",
-   "date": "2026-09-04",
-   "summary": "钛动科技CEO李述昊曾说不到千亿规模白创业了 去年前三季度仅1.3亿美元  sohu.com",
-   "body": "钛动科技CEO李述昊曾说不到千亿规模白创业了 去年前三季度仅1.3亿美元  sohu.com",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "n8420521006",
-   "category": "竞品",
-   "company": "",
-   "title": "经验不“断电”，钛动科技把营销知识库变成出海团队的接力棒 - 中华网",
-   "source": "中华网",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAzTzdCMVZ5Mk04VkR5ZTg4SVhTa0hGZlZLVGtMaUJ4UGpUNjdSWEtiN3dTWWo3ZDFRYzBWeXVjdFViTXU3cnhlMnR5VXpKWC1ISXhlWWpKdERxZWVDY1E?oc=5",
-   "date": "2026-06-15",
-   "summary": "经验不“断电”，钛动科技把营销知识库变成出海团队的接力棒  中华网",
-   "body": "经验不“断电”，钛动科技把营销知识库变成出海团队的接力棒  中华网",
-   "tags": [
-    "竞品",
-    "出海"
    ]
   }
  ]
