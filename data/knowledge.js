@@ -1,11 +1,222 @@
 /* 自动生成 by scripts/ingest.py —— 请勿手改 */
 window.KB_DATA = {
  "meta": {
-  "generated": "2026-10-05",
+  "generated": "2026-10-06",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 17 条，合计 400 条"
+  "note": "新增 15 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "n0b670d2cba",
+   "category": "竞品",
+   "company": "",
+   "title": "钛动科技发布AI营销智能体Navos 2.0 定义AI时代商业新玩法 - 证券时报网",
+   "source": "证券时报网",
+   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5uRlZiXzJrRjA4Zzdqczd4UDdjdktGc0FnV1dIYUp5cHY4aEdWZURmV0dqcmxIMXdaMnBtbDMyM2RBR2VJa1ZsV19odkNQemZ3LWNJbHJkQ2NCeTZ3?oc=5",
+   "date": "2026-07-19",
+   "summary": "钛动科技发布AI营销智能体Navos 2.0 定义AI时代商业新玩法  证券时报网",
+   "body": "钛动科技发布AI营销智能体Navos 2.0 定义AI时代商业新玩法  证券时报网",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "nb18a81ef1f",
+   "category": "竞品",
+   "company": "",
+   "title": "环球人物 - 人民日报",
+   "source": "人民日报",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3TEtuVmw1MkFlMWVRRnVMZ1I0UDNaSUpqRTRvMFBrcFFYa290N2hGdGNCNmFVWGZtSzBaanM0QXVaWWwzMEY2NWREZzRqenhvaENXX0QyOXVrZUVueUkyZ1FNVURXV2JDREVINzRJTGhrblBISFVn?oc=5",
+   "date": "2026-05-16",
+   "summary": "环球人物  人民日报",
+   "body": "环球人物  人民日报",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n9abb247593",
+   "category": "竞品",
+   "company": "",
+   "title": "普通人能与星爷一起同台飙戏了！火山方舟版权商业化平台上线：周星驰三大电影IP首批入驻 - 驱动之家",
+   "source": "驱动之家",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5NR1lxQ3FrOHotazdjcUptU3REZmR4OEN2MGoxOWgyNmFlQ0ZKX3JHVDE4Y25XZ09ZelRSN1ladklNZzNrSmRMQzQ1M0pZUFh2OUZYWTIxWmo?oc=5",
+   "date": "2026-06-10",
+   "summary": "普通人能与星爷一起同台飙戏了！火山方舟版权商业化平台上线：周星驰三大电影IP首批入驻  驱动之家",
+   "body": "普通人能与星爷一起同台飙戏了！火山方舟版权商业化平台上线：周星驰三大电影IP首批入驻  驱动之家",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n5c761ec420",
+   "category": "行业",
+   "company": "",
+   "title": "重磅发布｜NEXGROW汽车AIGC平台上线，一键生成专业汽车营销视频 - icloudnews.net",
+   "source": "icloudnews.net",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBmYXg2QVpfQkRsTlZqd3NyS3laQlRSQURXTTg3SUF1MEd1WGluVXE1UUdqcWdfZHE4by05b2w5UVdjWGxEVE40M3I0TkhsdXVIY3c?oc=5",
+   "date": "2026-04-20",
+   "summary": "重磅发布｜NEXGROW汽车AIGC平台上线，一键生成专业汽车营销视频  icloudnews.net",
+   "body": "重磅发布｜NEXGROW汽车AIGC平台上线，一键生成专业汽车营销视频  icloudnews.net",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n9f8c7d9e5b",
+   "category": "政策",
+   "company": "",
+   "title": "跨境电商必收藏：Meta中国大陆11家官方代理商名单及开户避坑指南 - tech.ifeng.com",
+   "source": "tech.ifeng.com",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBGQVVBQkpHWmV6Mjd2ZWt1MTVoYlgzNnRfTFpyOUdibnJZcmJBTWM0LWRSemptZjM1R2xHMDlGRDEzaHNnUGZJcnRpRko?oc=5",
+   "date": "2026-08-26",
+   "summary": "跨境电商必收藏：Meta中国大陆11家官方代理商名单及开户避坑指南  tech.ifeng.com",
+   "body": "跨境电商必收藏：Meta中国大陆11家官方代理商名单及开户避坑指南  tech.ifeng.com",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n3cf4ccbceb",
+   "category": "政策",
+   "company": "",
+   "title": "海外研选 | 高盛：Meta广告业务已验证AI价值 巨额资本开支仍是主要压力 - 财联社",
+   "source": "财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RcFFzN196MWkwN2NiajhaSGc1OUlDcVdyeU9lVWhIN29Nb2QybEtEekdySFJLN0U3OUVGVG96N2ctaFRrT1B3Rg?oc=5",
+   "date": "2026-07-30",
+   "summary": "海外研选 | 高盛：Meta广告业务已验证AI价值 巨额资本开支仍是主要压力  财联社",
+   "body": "海外研选 | 高盛：Meta广告业务已验证AI价值 巨额资本开支仍是主要压力  财联社",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nea7bbbf1b1",
+   "category": "政策",
+   "company": "",
+   "title": "Google Ads 实时政策审核：将数小时的等待缩短至几秒钟 - almcorp.com",
+   "source": "almcorp.com",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5sY05CUUNqNHQ0MWFpRFhPdVVDdFgxRXlfMHBDeFQ4YzBmRXVjQ2Vlek5tNFRjT3dPakdBcUxtRHYtdWZ4aWxSa1EwWFpueDF6cHgwU1Q2dFl1SWZaZUptSGNSMnpCSmllSmZhTm5MaUNxemZsYnc?oc=5",
+   "date": "2026-05-27",
+   "summary": "Google Ads 实时政策审核：将数小时的等待缩短至几秒钟  almcorp.com",
+   "body": "Google Ads 实时政策审核：将数小时的等待缩短至几秒钟  almcorp.com",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n492d2fbc05",
+   "category": "客户",
+   "company": "",
+   "title": "珀莱雅“珀莱转债”回售结果：有效申报20张 金额2027.20元 - 观点网",
+   "source": "观点网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1UUUw2dWZVTnNkaU5rb1FSWHhZWXFlal9oS1ZQUWs0aWt0a1J1eXdXeEVvY09SQ2padjJSTWxDUlE3RHpqVVloQ3hYNGxRZTZuSmJqYVpHWHYyS0d4SUxhRlFB?oc=5",
+   "date": "2026-09-17",
+   "summary": "珀莱雅“珀莱转债”回售结果：有效申报20张 金额2027.20元  观点网",
+   "body": "珀莱雅“珀莱转债”回售结果：有效申报20张 金额2027.20元  观点网",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "nac7d8e118d",
+   "category": "客户",
+   "company": "",
+   "title": "珀莱雅再登IFSCC领奖台：狂揽最佳与十大基础研究奖，唯一获两项的中国美妆 - 搜狐网",
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdFAwbkNsaWJTVWpQZEY2cXNsbHVXaVVLSFdoOVZ3RWpEYjFoZ3dzYWkxQ0g3enZUcWZ2RlNtUy1Na2lIUlJUZDRGNkZGby0tUkNXX2RqR1NrSVBYZVlzb0swU3FMMXVlWFUzNVZFN19zV1RoREoxRHBmMXAyMms2RE45OE5fRzhydGNobQ?oc=5",
+   "date": "2026-10-02",
+   "summary": "珀莱雅再登IFSCC领奖台：狂揽最佳与十大基础研究奖，唯一获两项的中国美妆  搜狐网",
+   "body": "珀莱雅再登IFSCC领奖台：狂揽最佳与十大基础研究奖，唯一获两项的中国美妆  搜狐网",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n7b012f3880",
+   "category": "客户",
+   "company": "",
+   "title": "营收破百亿、净利近15亿！珀莱雅2025年高质量发展再提速 - xhby.net",
+   "source": "xhby.net",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBlUXBzcmpiaHo1eG04Qmo5N1RNeWpwQ1JQYzdGUDNYOFRlTzNQMTdJYXk4a0xmUEhIYm5sV0g3YWE4Z19YeVF4YzNIXzhGNTlDOVFhLVZMcDRWT0ZoaXZqVnZxcjhlM0xtNzRv?oc=5",
+   "date": "2026-05-08",
+   "summary": "营收破百亿、净利近15亿！珀莱雅2025年高质量发展再提速  xhby.net",
+   "body": "营收破百亿、净利近15亿！珀莱雅2025年高质量发展再提速  xhby.net",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "na6b87843e4",
+   "category": "客户",
+   "company": "",
+   "title": "当AI走进满洲里国门学校，珀莱雅公益开启边疆教育新探索 - thepaper.cn",
+   "source": "thepaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE45LWJZSVc1Qm45WUhiUWRCS3NJU2o5VUhWckQ5dndHVy1jSWdCay13cERoVXlud2xZeV9vcnBrNTdscERBVUk4ODFEaW9MSmREX3dBV0NDTVpya0ZmRnc?oc=5",
+   "date": "2026-09-05",
+   "summary": "当AI走进满洲里国门学校，珀莱雅公益开启边疆教育新探索  thepaper.cn",
+   "body": "当AI走进满洲里国门学校，珀莱雅公益开启边疆教育新探索  thepaper.cn",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "ne5bad2b18b",
+   "category": "客户",
+   "company": "",
+   "title": "涉倾颜、自然堂、温博士等！美妆品牌大量炮制低俗AI广告，被批典型的夸大虚假宣传 - 中华网财经",
+   "source": "中华网财经",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZTlExTGFGcEZPSU1oWnFVT1RmblJPVi0yNEI0LV9rTm5FUGpzWHVteDY2cExmYXFHa1psV0hjMFpPek9WRDZnQkJLVlZfVTY1Uy1aa1dhUXFJSmRiaU8wd2dhaHFpQU42Z1BISWc4dWs3OU0?oc=5",
+   "date": "2026-08-30",
+   "summary": "涉倾颜、自然堂、温博士等！美妆品牌大量炮制低俗AI广告，被批典型的夸大虚假宣传  中华网财经",
+   "body": "涉倾颜、自然堂、温博士等！美妆品牌大量炮制低俗AI广告，被批典型的夸大虚假宣传  中华网财经",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n60c356c44b",
+   "category": "客户",
+   "company": "",
+   "title": "欧莱雅在2026VivaTech科技展智启\"未来美妆新征程\" - 美通社",
+   "source": "美通社",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE83Uy1OUUtjQnpEWHhVM3VYMHA0MUwwU2J1Z21zb3p3SXZBb3dKNVVUTTNVSFc3MWZPZXY3WmdqejU0eVd4UkpjcFloM1BDcUxKeW82c3hmQ1JueEVmei1qX1h1anE1eHdoTGdzbw?oc=5",
+   "date": "2026-07-01",
+   "summary": "欧莱雅在2026VivaTech科技展智启\"未来美妆新征程\"  美通社",
+   "body": "欧莱雅在2026VivaTech科技展智启\"未来美妆新征程\"  美通社",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n092d3158b2",
+   "category": "客户",
+   "company": "",
+   "title": "重磅官宣 | SPGS 2026中国智能产品出海数智峰会正式启动，共探品牌无界新未来 - 电子工程专辑",
+   "source": "电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5FYWNGVzJLX3hFSzB5SFhiT1drVVVyVUVTTVRnNFFxTHlLR1dYQVNWME5Ick9WX09TLTZsdzk2emJadVdrTWowQ0xjWlVxQm5yLTI4?oc=5",
+   "date": "2026-06-09",
+   "summary": "重磅官宣 | SPGS 2026中国智能产品出海数智峰会正式启动，共探品牌无界新未来  电子工程专辑",
+   "body": "重磅官宣 | SPGS 2026中国智能产品出海数智峰会正式启动，共探品牌无界新未来  电子工程专辑",
+   "tags": [
+    "客户",
+    "出海"
+   ]
+  },
+  {
+   "id": "n5a79e5c729",
+   "category": "消费者",
+   "company": "",
+   "title": "抖音2026文旅消费趋势报告：内容激发文旅体验经济 - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1faVJYYldZVC0xOWVUTS1uaWFCVjFkck5XRHY1OUMyM2E5SjJPcXY4bnpzSUJGV2lJWnNJUmtRT0R2Wm9UVnZrTGNLUTVDNU5QVDBjMXR6OU5vcE52RDRyZURkdzZkbHVSZ19VZGlZQWJZNEJySkFaeQ?oc=5",
+   "date": "2026-06-15",
+   "summary": "抖音2026文旅消费趋势报告：内容激发文旅体验经济  新浪财经",
+   "body": "抖音2026文旅消费趋势报告：内容激发文旅体验经济  新浪财经",
+   "tags": [
+    "消费者"
+   ]
+  },
   {
    "id": "ne276153d0d",
    "category": "竞品",
@@ -5540,222 +5751,6 @@ window.KB_DATA = {
    "tags": [
     "政策",
     "投放"
-   ]
-  },
-  {
-   "id": "n9618407b48",
-   "category": "客户",
-   "company": "",
-   "title": "百亿之后，珀莱雅开始“转场” - 中国网",
-   "source": "中国网",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBZUXdCcUt4ZEVsaVRPTDQtaVpTN1lzdlZkM3RmeFFORzlFcDVNUjFBNTd2UGd2RGROX2RDRVB0UmI2RHVLQ0pBVjNXajdkcnpaNWdqTTJNNDJfNXJXVVFEWjNwODlWUVotaEdSNVRTSQ?oc=5",
-   "date": "2026-04-30",
-   "summary": "百亿之后，珀莱雅开始“转场”  中国网",
-   "body": "百亿之后，珀莱雅开始“转场”  中国网",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "n6371b7415e",
-   "category": "客户",
-   "company": "",
-   "title": "再创百亿营收，珀莱雅的“价值压舱”与“周期谋势” - 36 Kr",
-   "source": "36 Kr",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLenlDbElTM25aT3JkeHBETWdhRk5PTXRqVHNwbXVxYnZ3Y1F0SkNmZy1qNlZ6bnhjR09jZXQtTnpwVUU0ZTk2ekNJeEZlQQ?oc=5",
-   "date": "2026-04-21",
-   "summary": "再创百亿营收，珀莱雅的“价值压舱”与“周期谋势”  36 Kr",
-   "body": "再创百亿营收，珀莱雅的“价值压舱”与“周期谋势”  36 Kr",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "n209b3367f6",
-   "category": "消费者",
-   "company": "",
-   "title": "小众运动不够了，小红书也需要「大运动」 - 36 Kr",
-   "source": "36 Kr",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NWGxkc3AtQWhmQVp0TktPLXFNdnNQNmJ5RFg4V3Bvc1RFRTdBeC1XWlRLRnBkZFJKYkpQNDA3T09mM2dVeEtZY1VURm9GZw?oc=5",
-   "date": "2026-09-03",
-   "summary": "小众运动不够了，小红书也需要「大运动」  36 Kr",
-   "body": "小众运动不够了，小红书也需要「大运动」  36 Kr",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "nf5953d6ac8",
-   "category": "消费者",
-   "company": "",
-   "title": "抖音生活服务快餐小吃行业峰会：交易额同比增长114%，消费需求和商家规模双增长 - 央广网",
-   "source": "央广网",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9FSkhyd2NtdW9OWWQ4c3FLbkE3SFhLN1preHViN3JvOVkyX3RYVkplYlZrSUlpaWY1MThUeWRHOVBLdWpKcFk1ZGdtU1RUMk1ZaEw0U3RmakVCNXloZkpNa0QwbjZkY2FKb2VCNy1mSUk?oc=5",
-   "date": "2026-09-07",
-   "summary": "抖音生活服务快餐小吃行业峰会：交易额同比增长114%，消费需求和商家规模双增长  央广网",
-   "body": "抖音生活服务快餐小吃行业峰会：交易额同比增长114%，消费需求和商家规模双增长  央广网",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n26293dcc0a",
-   "category": "消费者",
-   "company": "",
-   "title": "直播电商为厨具产业带打开新增量，近6亿单商品在抖音电商售出 - shobserver.com",
-   "source": "shobserver.com",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE80QkxWMEpLNkxlXzNwWHJIa1BfZHk3N1FSeWZLbjhOMVlvbFZNYjV3Q2lIM0JoOFRWMWNCNlFTU1RaQ0xKdmFRM084M3JQamh0XzZCX3plUmY2S2VGa2c?oc=5",
-   "date": "2026-09-03",
-   "summary": "直播电商为厨具产业带打开新增量，近6亿单商品在抖音电商售出  shobserver.com",
-   "body": "直播电商为厨具产业带打开新增量，近6亿单商品在抖音电商售出  shobserver.com",
-   "tags": [
-    "消费者",
-    "直播"
-   ]
-  },
-  {
-   "id": "n27e706d18d",
-   "category": "消费者",
-   "company": "",
-   "title": "888集团网站多少如何通过内容种草与场景联动实现用户增长与品效合一 - 体坛",
-   "source": "体坛",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4tZDIxLWtyZ3ZIZS1tc3BOaE9rcjdWZGZlUEotczRFZ1NBNUwtYjRJWG94VTVqbThKSklfLW9kOGcxUHNKOUVBdk1peW5pck1H?oc=5",
-   "date": "2026-09-08",
-   "summary": "888集团网站多少如何通过内容种草与场景联动实现用户增长与品效合一  体坛",
-   "body": "888集团网站多少如何通过内容种草与场景联动实现用户增长与品效合一  体坛",
-   "tags": [
-    "消费者",
-    "种草"
-   ]
-  },
-  {
-   "id": "n81eab3432a",
-   "category": "消费者",
-   "company": "",
-   "title": "火狐主页怎么更改：以内容种草与场景联动驱动年轻用户增长-体坛网_体坛+ - 体坛",
-   "source": "体坛",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1IOC1NSjZBY09lS1NBc1ZXeE5zT1BfeGR4YWoyLVR1dU1zMko2eUlsbU1rcnVVUHR2NTIwNnphTjFkYnRJQ3ZIckh3?oc=5",
-   "date": "2026-09-06",
-   "summary": "火狐主页怎么更改：以内容种草与场景联动驱动年轻用户增长-体坛网_体坛+  体坛",
-   "body": "火狐主页怎么更改：以内容种草与场景联动驱动年轻用户增长-体坛网_体坛+  体坛",
-   "tags": [
-    "消费者",
-    "种草"
-   ]
-  },
-  {
-   "id": "n259ec9f1ca",
-   "category": "竞品",
-   "company": "",
-   "title": "国内 AI 公司奥创光年完成1500万美元A+轮融资，美图、凯辉基金联合领投 - 新浪财经",
-   "source": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVkM2MEp2eWdLeVpsb2c4S2VsZ3BFcGVzTXY2VFgwdGM3UmJvMUZLTC0xaDhUS29TV3dnTkJmWkw0a1FJNVBlZElpc2Zwbzl3b2VYaEFHN2FEeFU1VFdOMGNwMTZQUUZtVUVVQmhNR2V6T3N5TjFvQTR4OHcySnZQTDdXWjRvNnAt?oc=5",
-   "date": "2024-01-29",
-   "summary": "国内 AI 公司奥创光年完成1500万美元A+轮融资，美图、凯辉基金联合领投  新浪财经",
-   "body": "国内 AI 公司奥创光年完成1500万美元A+轮融资，美图、凯辉基金联合领投  新浪财经",
-   "tags": [
-    "竞品",
-    "融资"
-   ]
-  },
-  {
-   "id": "n9f4d5a4b5c",
-   "category": "竞品",
-   "company": "",
-   "title": "对话未来商业｜奥创光年联创杨海：调研了近100家“一号位” 我们选择了“AI+营销”创业 - 腾讯新闻",
-   "source": "腾讯新闻",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5QdmV6Yi1vV1BGVDZ5emZRZHZ1SHd0RzBJejNROVFKUjlZMzgzd3ZmZWVJMmUtQllVQ3BMOXNZdjVIM1ZNRkZhN1VNNFBfLW1qWF9VblBR?oc=5",
-   "date": "2024-02-01",
-   "summary": "对话未来商业｜奥创光年联创杨海：调研了近100家“一号位” 我们选择了“AI+营销”创业  腾讯新闻",
-   "body": "对话未来商业｜奥创光年联创杨海：调研了近100家“一号位” 我们选择了“AI+营销”创业  腾讯新闻",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "n6b7781c348",
-   "category": "竞品",
-   "company": "",
-   "title": "凯辉创新基金启动「AI助力计划」 - Cathay Capital",
-   "source": "Cathay Capital",
-   "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNTVo0cXFrV05JZFRTS2pYMG5zY0ROMng4TDBKME45a0RndG44MzdoaGd0VlBfMDBfeTZ5b2h6elVZOVAtcVAxRTVaa1g0QnpIV2lVSDczZ1dRaDA4RGFjeUJweXdTTlc2b0hZUmk4bGNkMGR2eV85UklkemdDd0xRaXQwS0t5WEhuelp6NnBCWmJUbTh0RkhSZGhOMGdTbXZjN1FrTWlxMW5xWk5DV3lZUnJYRVJsZ0g3VmY0cUpjZDN5emE5cEp5NkFydFFqOFFNcjFmMUlLNFN5NVJvNGhuSGxjclYyYzNZT3pZSUlQTWhnR19a?oc=5",
-   "date": "2024-03-15",
-   "summary": "凯辉创新基金启动「AI助力计划」  Cathay Capital",
-   "body": "凯辉创新基金启动「AI助力计划」  Cathay Capital",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "ne2c3d842de",
-   "category": "竞品",
-   "company": "",
-   "title": "奥创光年完成千万美元A轮融资，用AI提升全域营销效率 - Sohu",
-   "source": "Sohu",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wS2pLNkpsbDJJRF9pOXJWVlo3RDhxLTZXbkF3cjBJM0s4RC03WVBMNmZzZE1NY0xILTJLOS1JcWo1dG1zWkxZV2k3dE1YMHhqUzgwbA?oc=5",
-   "date": "2023-08-10",
-   "summary": "奥创光年完成千万美元A轮融资，用AI提升全域营销效率  Sohu",
-   "body": "奥创光年完成千万美元A轮融资，用AI提升全域营销效率  Sohu",
-   "tags": [
-    "竞品",
-    "融资"
-   ]
-  },
-  {
-   "id": "ndf88b2e099",
-   "category": "行业",
-   "company": "",
-   "title": "2026年汽车行业社交营销实战与趋势报告 - 电子工程专辑",
-   "source": "电子工程专辑",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hNkt0dElPbUNlOEN0Wi1Qc2ludHhPakp5LU5qSHBUZmI2WFlHZ2l3cURBTEJyUTRaLWJuaTZCOU1aYzVLSE15MWpsWV9jeC11MDhV?oc=5",
-   "date": "2026-05-31",
-   "summary": "2026年汽车行业社交营销实战与趋势报告  电子工程专辑",
-   "body": "2026年汽车行业社交营销实战与趋势报告  电子工程专辑",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "nc7a692b66f",
-   "category": "政策",
-   "company": "",
-   "title": "足球比赛赌注软件惊艳亮相AI出海峰会 以技术平权加速中小企业全球化 - ttplus.cn",
-   "source": "ttplus.cn",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1hY0RUQkYxZ2lQSjg4NU5DeDgxeHlJTzJYZFJod2hjekRqMlZadmhGV3Bjay1acS1iaXB1ZTBWOGJnQkVaOFZkdDhfSWxMRk9Z?oc=5",
-   "date": "2026-09-05",
-   "summary": "足球比赛赌注软件惊艳亮相AI出海峰会 以技术平权加速中小企业全球化  ttplus.cn",
-   "body": "足球比赛赌注软件惊艳亮相AI出海峰会 以技术平权加速中小企业全球化  ttplus.cn",
-   "tags": [
-    "政策",
-    "出海"
-   ]
-  },
-  {
-   "id": "n19b97921bc",
-   "category": "政策",
-   "company": "",
-   "title": "靠AI暴涨66%！TikTok旺季“印钞”打法全公开 - 雨果跨境",
-   "source": "雨果跨境",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE03bW5WQlVkNnYzMXUtc1hhNEpEQy1zWC1GT1hWNE02QW1wN3QyTTZteTlVLUM4cDUtZFVVcTlUX2I4Nlo4SHpXc0RCWWc?oc=5",
-   "date": "2026-08-17",
-   "summary": "靠AI暴涨66%！TikTok旺季“印钞”打法全公开  雨果跨境",
-   "body": "靠AI暴涨66%！TikTok旺季“印钞”打法全公开  雨果跨境",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "nf20cf52fd4",
-   "category": "政策",
-   "company": "",
-   "title": "Meta Q2广告收入593.6亿美元逼近谷歌搜索，AI驱动增长27% - Binance",
-   "source": "Binance",
-   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE00dVc0QWxMWDNDRHZIRFRMb251X3lNdFRBSTQwN0xQM2JuV3RMWUFqZU1ZZnZtU0xFOVVqY1NDdjd6SjlETUM5OUNYS3ZQWTRveGgwRmp3b294eGwwUUpORHQxc24?oc=5",
-   "date": "2026-09-01",
-   "summary": "Meta Q2广告收入593.6亿美元逼近谷歌搜索，AI驱动增长27%  Binance",
-   "body": "Meta Q2广告收入593.6亿美元逼近谷歌搜索，AI驱动增长27%  Binance",
-   "tags": [
-    "政策"
    ]
   }
  ]
