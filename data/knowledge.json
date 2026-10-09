@@ -1,10 +1,183 @@
 {
  "meta": {
-  "generated": "2026-10-08",
+  "generated": "2026-10-09",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 13 条，合计 400 条"
+  "note": "新增 12 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "n73365d2c08",
+   "category": "竞品",
+   "company": "",
+   "title": "全球首批 | 钛动科技成为 ChatGPT Ads 官方认证合作伙伴 - 美通社",
+   "source": "美通社",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1LN2VaQjFlZjY5SWFHeDF6MGR6WFJSRjl3MEtsSTZNVEl4YktkVTlQT2R5dXV6X09YdDhpNDRRaVpHOGY1NjFwNFk0dFhVLVpHbjlOSVBrOA?oc=5",
+   "date": "2026-07-14",
+   "summary": "全球首批 | 钛动科技成为 ChatGPT Ads 官方认证合作伙伴  美通社",
+   "body": "全球首批 | 钛动科技成为 ChatGPT Ads 官方认证合作伙伴  美通社",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "nafc00303fe",
+   "category": "竞品",
+   "company": "",
+   "title": "钛动科技李述昊：未来AI能让消费者“过上皇帝般的生活” - 21财经",
+   "source": "21财经",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMXZSbVQ1bUxMVWhXNUhydk53Q0JJbWpRbEJXaU5ZUE95Z09rQl93djVnQ2xUTVRhQXExRUNycUwwaEpWY0lTdGEySkRtSno3Rk5PWDdBMjNEQTh5aVhER0xQZnNuNjlLSWZvZ1lpSWhUd3l0QldEbFRNNE1HTjBVR0JmcUl3ekZZLWVSQQ?oc=5",
+   "date": "2026-07-18",
+   "summary": "钛动科技李述昊：未来AI能让消费者“过上皇帝般的生活”  21财经",
+   "body": "钛动科技李述昊：未来AI能让消费者“过上皇帝般的生活”  21财经",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n6358a85596",
+   "category": "竞品",
+   "company": "",
+   "title": "广州这家ChatGPT技术供应商，拿下新融资！ - 智东西",
+   "source": "智东西",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Gd0FXRk05R0NYN0VGZVZkYnByT1lsU3BKc2xTcUJUZS04REdyV3JGZ3BYaWpBbWM1NVg0UEZKUGNOQUdTT1lVeg?oc=5",
+   "date": "2026-08-20",
+   "summary": "广州这家ChatGPT技术供应商，拿下新融资！  智东西",
+   "body": "广州这家ChatGPT技术供应商，拿下新融资！  智东西",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "n8eb598f250",
+   "category": "竞品",
+   "company": "",
+   "title": "AI 应用进入“算账”时代，筷子科技为什么要做一个 KP 钱包？ - 雷峰网",
+   "source": "雷峰网",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YVi1oeUlyS2hQczNVTFNfQ29nVFdLZnpVckhCd1FpUGwtRS1pODB0d0l1cUlFYlpRcjY5VXFqLUNIZ3d1bjVfM0pTUF9uMU1ZZVNINGdlOFU1UzQxcVc1VHVJaEw4eFZ4R3J3X1lrNHJudm1l?oc=5",
+   "date": "2026-09-01",
+   "summary": "AI 应用进入“算账”时代，筷子科技为什么要做一个 KP 钱包？  雷峰网",
+   "body": "AI 应用进入“算账”时代，筷子科技为什么要做一个 KP 钱包？  雷峰网",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "na8e90bb72f",
+   "category": "行业",
+   "company": "",
+   "title": "谁在 ChatGPT 上投广告？ChatGPT 和 Claude 又在哪投广告？ - 搜狐网",
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5INnRPWmREOU4wZG1rUVU1cFF0NWxETlhqT0RrVklEMzlEWTdyZXpRRDAxSVkybHlUd3Z3S0l1RHpKaWxYamI5QzZpNzg0N3dpWlR3?oc=5",
+   "date": "2026-09-28",
+   "summary": "谁在 ChatGPT 上投广告？ChatGPT 和 Claude 又在哪投广告？  搜狐网",
+   "body": "谁在 ChatGPT 上投广告？ChatGPT 和 Claude 又在哪投广告？  搜狐网",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "nb6d7ab414e",
+   "category": "政策",
+   "company": "",
+   "title": "TikTok单月分账破亿，2026短剧出海都在卷什么？ - 腾讯新闻",
+   "source": "腾讯新闻",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE90bmJaVm5JTDM0cFduVnU3UmlTNWdRd2dXWWVGcEh3R3V5MVhSZHg4QW1TYjlnN29qa3NPeExlem0tVG5KVUloYVIycFNEVUlyZHNYcjZR?oc=5",
+   "date": "2026-07-11",
+   "summary": "TikTok单月分账破亿，2026短剧出海都在卷什么？  腾讯新闻",
+   "body": "TikTok单月分账破亿，2026短剧出海都在卷什么？  腾讯新闻",
+   "tags": [
+    "政策",
+    "出海"
+   ]
+  },
+  {
+   "id": "n89721fcebc",
+   "category": "政策",
+   "company": "",
+   "title": "Meta在广告周发布多项AI广告工具智能体支持调整预算与定向- 快讯 - 亿邦动力",
+   "source": "亿邦动力",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBYQ3J0NU1yYkE3OXhRSmMyZEdZVnp4VzAyV3hMV3dPamtjZ05OeHJoS0pvTDA0anI2bExjN3dqS0pMN3l5ODBwRWlURktCQ1p2bFdXbWxNejY?oc=5",
+   "date": "2026-10-09",
+   "summary": "Meta在广告周发布多项AI广告工具智能体支持调整预算与定向- 快讯  亿邦动力",
+   "body": "Meta在广告周发布多项AI广告工具智能体支持调整预算与定向- 快讯  亿邦动力",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n8b81b04df1",
+   "category": "政策",
+   "company": "",
+   "title": "Meta 发布 AI 驱动的广告新产品，移动应用与游戏出海迈入“AI 原生”时代 - 白鲸出海",
+   "source": "白鲸出海",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1BR1FJcEV6NTc2ZFJQREJfVzZXbkwtLWR1S2NaVHhhempEQWR0S1ZxV0pNNXpVV1oteDI5UzY5RGs2TUdyTmFqdHE2VWU?oc=5",
+   "date": "2026-07-31",
+   "summary": "Meta 发布 AI 驱动的广告新产品，移动应用与游戏出海迈入“AI 原生”时代  白鲸出海",
+   "body": "Meta 发布 AI 驱动的广告新产品，移动应用与游戏出海迈入“AI 原生”时代  白鲸出海",
+   "tags": [
+    "政策",
+    "出海"
+   ]
+  },
+  {
+   "id": "nc1234e950f",
+   "category": "政策",
+   "company": "",
+   "title": "Google发布Nano Banana 2.1：支持4K输出，API价格降至约为上一代一半 - 디지털투데이",
+   "source": "디지털투데이",
+   "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMU8yc3J6SzBRVkNlWXRTVm5XeFdEdHVsbzNRZ2RYT0Zra2x6aTNVcTNSdXU1QW9vSkpoMXl2bTctcklaemJCcEpoWTJGakk2OUU5dE1JQXZiR1A5ZDNzTk5HSk5DYU01aHdVRmNGYXQ1bDBaNUM1NzZsTEZKSUUyR3F2MlJBamQwTktEWUJUc21GWVhjSFNVMGpnb2RKeEIxSnllMEY5dGFtVWM?oc=5",
+   "date": "2026-10-07",
+   "summary": "Google发布Nano Banana 2.1：支持4K输出，API价格降至约为上一代一半  디지털투데이",
+   "body": "Google发布Nano Banana 2.1：支持4K输出，API价格降至约为上一代一半  디지털투데이",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "ne5da6b3202",
+   "category": "客户",
+   "company": "",
+   "title": "历史性突破！珀莱雅成首个摘得IFSCC最佳基础研究奖的中国企业 - 搜狐网",
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVzVBTFBEUDlTZ2txOEs0eW13VHV6Rk96ZVZkTjhGck0wWGNXT293ZV92YnNYVXhMNVNKYnRSWUd6NHFRSjlTS0I5eTZYdnNpUUxUUkV2Uzd0MTJRRFhHdXRqbjlZNU5CdlhGbHFMRnN4UU14UXYzOUkwLVozZUtUN3hCTXhHZ3ZKTy1lQg?oc=5",
+   "date": "2026-10-08",
+   "summary": "历史性突破！珀莱雅成首个摘得IFSCC最佳基础研究奖的中国企业  搜狐网",
+   "body": "历史性突破！珀莱雅成首个摘得IFSCC最佳基础研究奖的中国企业  搜狐网",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n564c95b64a",
+   "category": "客户",
+   "company": "",
+   "title": "智链跨境·货通全球：2026 GGE深圳跨境出海博览会十月展启幕，POD与DTC重构出海新范式 - 信息早报",
+   "source": "信息早报",
+   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JOWdrazJSbndDWWdFd3k3M1JzcjJudnFtNG5oZkFoUDIwSkZFUk5LZ19vTE9GZDVrdjhuaUlHckpvTWVNdDFWblZCR3g1SVV1NTNzdGpDMU1Jc1J4b0dKeTR2OUJkQjc1R1F0TDk4cnRHbUJfcVZxZldGN3c?oc=5",
+   "date": "2026-10-08",
+   "summary": "智链跨境·货通全球：2026 GGE深圳跨境出海博览会十月展启幕，POD与DTC重构出海新范式  信息早报",
+   "body": "智链跨境·货通全球：2026 GGE深圳跨境出海博览会十月展启幕，POD与DTC重构出海新范式  信息早报",
+   "tags": [
+    "客户",
+    "出海"
+   ]
+  },
+  {
+   "id": "n59a266c11a",
+   "category": "消费者",
+   "company": "",
+   "title": "当茶咖营销不再只靠爆文，品牌如何在小红书做长效种草？ - https://www.itopmarketing.com/",
+   "source": "https://www.itopmarketing.com/",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5tSEpwTVRMd3ZGMm1icFN3NTZYRlBhenVuR0tpVDdsX1l0LTNlQnNQZmFnMmtHSWpJRXlsbG9lWXo3TG9tQ3NXdC1kYWNsVDha?oc=5",
+   "date": "2026-10-08",
+   "summary": "当茶咖营销不再只靠爆文，品牌如何在小红书做长效种草？  https://www.itopmarketing.com/",
+   "body": "当茶咖营销不再只靠爆文，品牌如何在小红书做长效种草？  https://www.itopmarketing.com/",
+   "tags": [
+    "消费者",
+    "种草"
+   ]
+  },
   {
    "id": "n80d3e5c503",
    "category": "竞品",
@@ -5573,178 +5746,6 @@
    "body": "Meta推出Muse个人AI助手，META盘前涨超5%：AI订阅能否打开新收入来源？  TradingKey",
    "tags": [
     "政策"
-   ]
-  },
-  {
-   "id": "n7e720dd47a",
-   "category": "客户",
-   "company": "",
-   "title": "今日表现较好的是粮食概念、磷化工，9月8日共有13位基金经理发生任职变动 - 金融界",
-   "source": "金融界",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9CTHlZTUdXdENwYS1sR2dYaWJaMDlXV3ktSnRSenBkZ1pCeGxmUGRpbXJYejQ0MGhkMVFZaHRxMmtubjF2b1pzQ0hEelJjWHY2dVFQNjJCOUdMU1ljTjVrSjdwaHBhLV9UMkducUs3YUY?oc=5",
-   "date": "2026-09-08",
-   "summary": "今日表现较好的是粮食概念、磷化工，9月8日共有13位基金经理发生任职变动  金融界",
-   "body": "今日表现较好的是粮食概念、磷化工，9月8日共有13位基金经理发生任职变动  金融界",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "n5484cae98c",
-   "category": "客户",
-   "company": "",
-   "title": "培育钻珠宝品牌以AI缩短出海链路，寻求天使轮 - 36氪",
-   "source": "36氪",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tdHJia01Xc2pHOWlhb3hOUzkzU2ZGV3NtcXB5SERLNXpwbmFKblhkTXN4UG9VOXlqVlpTOHRBSjJTSWVtVFpTVmNPbmsyUQ?oc=5",
-   "date": "2026-07-29",
-   "summary": "培育钻珠宝品牌以AI缩短出海链路，寻求天使轮  36氪",
-   "body": "培育钻珠宝品牌以AI缩短出海链路，寻求天使轮  36氪",
-   "tags": [
-    "客户",
-    "出海"
-   ]
-  },
-  {
-   "id": "nfe644bc785",
-   "category": "消费者",
-   "company": "",
-   "title": "《2026小红书年度居住趋势》发布：“适我主义”成为居住新风向 - 凤凰网",
-   "source": "凤凰网",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5VenpxOHBYSHUzQzBhdU9JVXA2WE04SVk3VmVhUFUzX0l6TnctXzVVaTZFV2RVaGF0VmI5TXh1UzhhdmJEZVktWjZVS3A?oc=5",
-   "date": "2026-04-24",
-   "summary": "《2026小红书年度居住趋势》发布：“适我主义”成为居住新风向  凤凰网",
-   "body": "《2026小红书年度居住趋势》发布：“适我主义”成为居住新风向  凤凰网",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n29a957127d",
-   "category": "消费者",
-   "company": "",
-   "title": "《2026火锅发展趋势报告》：女性与Z世代为消费主力，鲜字当头、有料锅与一人食大热，夏季逆势增长 - Sohu",
-   "source": "Sohu",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX2NYYXh0RThPU0NWRmZZMWdiVGgya0tsMm0zM2E3WHV6YW5jQVE2d0hZdXIyR1RtcUJ1bWpSVVphYWEyUi1KUDBZTnAySHYwSUwwamFYRTh2QUVlZmlWazVsTVY3VktLNTZSTG52ZU1LYWo4MW9aYk41VENWSXhBeGNoRjllMVhM?oc=5",
-   "date": "2026-09-10",
-   "summary": "《2026火锅发展趋势报告》：女性与Z世代为消费主力，鲜字当头、有料锅与一人食大热，夏季逆势增长  Sohu",
-   "body": "《2026火锅发展趋势报告》：女性与Z世代为消费主力，鲜字当头、有料锅与一人食大热，夏季逆势增长  Sohu",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n2d468514d1",
-   "category": "消费者",
-   "company": "",
-   "title": "4月抖音月报 | 夏季消费趋势凸显，场景化营销成关键 - AgeClub",
-   "source": "AgeClub",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5fZnZVQUsxMDBRd0ZCNHQybWlWamxPU0ZiaFA5SWRoenpYLUF1WEJ0RlBPQlhFbXRXbTNJUlk2b1FldmxIMFRPeU9McXRSQmdUS3BhOThn?oc=5",
-   "date": "2026-05-22",
-   "summary": "4月抖音月报 | 夏季消费趋势凸显，场景化营销成关键  AgeClub",
-   "body": "4月抖音月报 | 夏季消费趋势凸显，场景化营销成关键  AgeClub",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "nb2dd35b1bc",
-   "category": "竞品",
-   "company": "",
-   "title": "钛动科技递表港交所 - 央视网",
-   "source": "央视网",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Hc09FQTFUZnhQVGtpcm9NSVFadmNwNWhnSXpzS3VwRlVwcnNiU1UyLXNHYnowV1hNVHB2SmxpMFBXZ3RMVzk4bm01RFFTR0JUdy1zd2tfMEtBTTFlOGpXTGJlZ2thSFhISjdLMW5BWVNMQzZJY3hOREF3?oc=5",
-   "date": "2026-02-27",
-   "summary": "钛动科技递表港交所  央视网",
-   "body": "钛动科技递表港交所  央视网",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "n38c0b91a4b",
-   "category": "竞品",
-   "company": "",
-   "title": "发现独角兽 | 大品牌短视频出自AI之手？奥创光年用科学打造了营销新模式 - qq.com",
-   "source": "qq.com",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1iLV9xLXlteUxsS1ZSR2xZTDFPbncwVmhLMFhjc0FMVjFfT3lSb1c4S0hWZXFEekp4OGRFWF9ySlpDVkQ3MjFvQ0NBMlkyOTlHYTRtNmVHWQ?oc=5",
-   "date": "2024-02-21",
-   "summary": "发现独角兽 | 大品牌短视频出自AI之手？奥创光年用科学打造了营销新模式  qq.com",
-   "body": "发现独角兽 | 大品牌短视频出自AI之手？奥创光年用科学打造了营销新模式  qq.com",
-   "tags": [
-    "竞品",
-    "独角兽",
-    "短视频"
-   ]
-  },
-  {
-   "id": "n5448947267",
-   "category": "竞品",
-   "company": "",
-   "title": "物自体科技完成新一轮战略融资，推动企业级AI营销规模化落地 - t.cj.sina.cn",
-   "source": "t.cj.sina.cn",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFA2bE05NFlWeUswQ0NEdURHb3J0SzNVQXdMTkVMcmExWnZTekk0cDhlNFJwYnZsZlhWcW05S0xhUzQ0Z21WRmFtdzdOUkhLbTVFX0JlN2tvdzlUZER6YzVlQUJieFNweEVMQ3FhcjFwbnZwUQ?oc=5",
-   "date": "2026-09-03",
-   "summary": "物自体科技完成新一轮战略融资，推动企业级AI营销规模化落地  t.cj.sina.cn",
-   "body": "物自体科技完成新一轮战略融资，推动企业级AI营销规模化落地  t.cj.sina.cn",
-   "tags": [
-    "竞品",
-    "融资"
-   ]
-  },
-  {
-   "id": "n54999ff28e",
-   "category": "行业",
-   "company": "",
-   "title": "重磅发布｜NEXGROW汽车AIGC平台上线，一键生成专业汽车营销视频- 中国日报网 - China Daily",
-   "source": "China Daily",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPb1RGU0ZjT0lZaVUzbXhoUk45WF9fSE9xM2JIV2tnQ1hqeFBrTmdfcnQ5aWFOSFd4TDV2Ni1VSE4ydlgxcDl6cDRfTjQwQUsyUmFibV9kZ2ZpZHVnX3NxcFlJWUpGMnFQcVhYc3RaeVRGdmNoV0RuQU1uNmZzVGpZcU1rdw?oc=5",
-   "date": "2026-04-21",
-   "summary": "重磅发布｜NEXGROW汽车AIGC平台上线，一键生成专业汽车营销视频- 中国日报网  China Daily",
-   "body": "重磅发布｜NEXGROW汽车AIGC平台上线，一键生成专业汽车营销视频- 中国日报网  China Daily",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "nfdc724739e",
-   "category": "行业",
-   "company": "",
-   "title": "[营销方案]：可口可乐AI增长战略【AIGC】【创意营销】 - 发现报告",
-   "source": "发现报告",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtNHBuMHlSR3pSVEVabUN4UU5EMHJPXzFMSUIwaENOazFhUEh4WVZnSUdNajA0dXQwQ0VhTWZTMmkwWHBKbk5iSjd2dGZsOHRZ?oc=5",
-   "date": "2026-04-15",
-   "summary": "[营销方案]：可口可乐AI增长战略【AIGC】【创意营销】  发现报告",
-   "body": "[营销方案]：可口可乐AI增长战略【AIGC】【创意营销】  发现报告",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "nf85e1df039",
-   "category": "行业",
-   "company": "",
-   "title": "AI营销专家灵狐研判618风向七大趋势八大策略赋能品牌实战破局- 业界 - EBRUN.com",
-   "source": "EBRUN.com",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE4yUDNKbUxqOUVBZkxlZGZtcm5IZlBKZ2xNenFiMnYyaTRGazE3bVA1SktKN0U4OUlfZktYNkN0bHhUQ1ozYTR0b3NfaGRkZkNOYmF6ZW13?oc=5",
-   "date": "2026-06-05",
-   "summary": "AI营销专家灵狐研判618风向七大趋势八大策略赋能品牌实战破局- 业界  EBRUN.com",
-   "body": "AI营销专家灵狐研判618风向七大趋势八大策略赋能品牌实战破局- 业界  EBRUN.com",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n2bbd33ca59",
-   "category": "行业",
-   "company": "",
-   "title": "配音演员疑被热播剧“盗声”：涉事制作方称系AI生成，AI公司客服称需核实 - thepaper.cn",
-   "source": "thepaper.cn",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFAyUU0ycHNXZWlFS1RLNkhnMnJnUF91VWJzWVNEZGdUanAxeXYyajI1UmswZmlsMlUtR1lDR0xhbTBhTmE1b1R4ekRwQ0FLZXpCQnoxWjF6RW5aYlV4X3c?oc=5",
-   "date": "2026-08-20",
-   "summary": "配音演员疑被热播剧“盗声”：涉事制作方称系AI生成，AI公司客服称需核实  thepaper.cn",
-   "body": "配音演员疑被热播剧“盗声”：涉事制作方称系AI生成，AI公司客服称需核实  thepaper.cn",
-   "tags": [
-    "行业"
    ]
   }
  ]
