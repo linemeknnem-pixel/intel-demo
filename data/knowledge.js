@@ -1,11 +1,197 @@
 /* 自动生成 by scripts/ingest.py —— 请勿手改 */
 window.KB_DATA = {
  "meta": {
-  "generated": "2026-10-11",
+  "generated": "2026-10-12",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 10 条，合计 400 条"
+  "note": "新增 13 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "n85a55990f1",
+   "category": "竞品",
+   "company": "",
+   "title": "钛动科技转道港交所，出海AI营销龙头迎资本大考 - 东方财富",
+   "source": "东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAtVG5Cdy1zem1STVN4WnNNV2F1MEdLd3A3WjIyUmF2a1dhUjBlUExrX01RUGxlRlpmdmtiM3MyalIyMHBiWk5CVW55NF9uc0pXQWVleVRlQ2szOElLeXZmdQ?oc=5",
+   "date": "2026-03-18",
+   "summary": "钛动科技转道港交所，出海AI营销龙头迎资本大考  东方财富",
+   "body": "钛动科技转道港交所，出海AI营销龙头迎资本大考  东方财富",
+   "tags": [
+    "竞品",
+    "出海"
+   ]
+  },
+  {
+   "id": "n99baad9d72",
+   "category": "竞品",
+   "company": "",
+   "title": "亚太首家！钛动科技拿下 ChatGPT Ads 效果驱动型官方认证合作 - 亿欧",
+   "source": "亿欧",
+   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5ERjV3VzhWa3ZVampqLWVXeVJRZ3FrNTgzYWhHY1FCckhOUzQzcFN0MjcwbVp4eWNsZ1JRZTNVS29yOHcwalNVX3ZjRXZBa2s4aW93OGpWelFOUQ?oc=5",
+   "date": "2026-07-08",
+   "summary": "亚太首家！钛动科技拿下 ChatGPT Ads 效果驱动型官方认证合作  亿欧",
+   "body": "亚太首家！钛动科技拿下 ChatGPT Ads 效果驱动型官方认证合作  亿欧",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n5e0c6b3769",
+   "category": "行业",
+   "company": "",
+   "title": "生成式人工智能可以根据我们的性格定制广告，而且很有说服力 - Kellogg Insight",
+   "source": "Kellogg Insight",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVEwzYTE1WWxaWGs1a3llNGxnQzF4dVN0RGNHODBkR21Eamx2d1VmOHFRX3JnNHBQTk45a1FzbGhfUTZqU2xkNUMxNVk5bUdaZWRSc1l0Uk1GOENjOTJseXZfX2RZdzNPdzA2SWl5MUZ4aGFVZ0YtWTNPaVhIS1ZnZ3RnNTBUcHRyODU3V2VGQTRoWXlnb3V2dGVCb2FrTTNHZkROWGh0My12SVFKYWRfZS1hRnVBYWNmSll2eXZzY2E?oc=5",
+   "date": "2026-07-01",
+   "summary": "生成式人工智能可以根据我们的性格定制广告，而且很有说服力  Kellogg Insight",
+   "body": "生成式人工智能可以根据我们的性格定制广告，而且很有说服力  Kellogg Insight",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "nabbe97fdbd",
+   "category": "政策",
+   "company": "",
+   "title": "跨境电商周报：美国收紧低价货物清关规则；TikTok Shop上线AI购物助手 - 亿邦动力",
+   "source": "亿邦动力",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42U2pqXy02S19aNVFLcXdGN1JmUnIzbG1tazZmN1EtU09BT20zZDJFM0dVMWxJQkxJTE1rRnBCOVJfU2RsbjVRN2wzX3g1eGdBWFU4V0tB?oc=5",
+   "date": "2026-10-11",
+   "summary": "跨境电商周报：美国收紧低价货物清关规则；TikTok Shop上线AI购物助手  亿邦动力",
+   "body": "跨境电商周报：美国收紧低价货物清关规则；TikTok Shop上线AI购物助手  亿邦动力",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n42f433fa9d",
+   "category": "政策",
+   "company": "",
+   "title": "TikTok 广告诈骗政策削减即时封禁，投诉激增 - remio",
+   "source": "remio",
+   "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOYTdDcld2RHIxcUkzUjVUbTFGcVV0SDB4aktXdjlBWU1DVENxNVFad0JSdV9GTGd1Tk9uTVI0ZjY1OS1nYWdsZmo5b0VnMm5pWXVkS2dlVk9MbzVJSWIwTFo2clE0eTFKZjNrcEFSRGU0MWViVHFtRElqVlI5Y1hjb0N6d0NVRWZUbFlfQ3Y2T3hjWUM4OXFKZThB?oc=5",
+   "date": "2026-10-10",
+   "summary": "TikTok 广告诈骗政策削减即时封禁，投诉激增  remio",
+   "body": "TikTok 广告诈骗政策削减即时封禁，投诉激增  remio",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n19dd7b3e64",
+   "category": "政策",
+   "company": "",
+   "title": "TikTok 爆火的 AI 痘痘检测应用 Adermio, 代码证实首次访问即加载追踪像素 - Pasquale Pillitteri",
+   "source": "Pasquale Pillitteri",
+   "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSEpVYzFxTk5oeDZvbG4yTmIxRWMyZktDNmoydzhTUk8ydHF1REJMWWYwd21zb1ZnSEp3c0Jwcml4NVJ5QTZDTkVBamZ3bV9lYkxWbXlMV2Z5WmdXS3VfTWhpaXlYeXczQVBBZXpvb2ozbXB1S295WTFvcjVIU3V4UQ?oc=5",
+   "date": "2026-10-11",
+   "summary": "TikTok 爆火的 AI 痘痘检测应用 Adermio, 代码证实首次访问即加载追踪像素  Pasquale Pillitteri",
+   "body": "TikTok 爆火的 AI 痘痘检测应用 Adermio, 代码证实首次访问即加载追踪像素  Pasquale Pillitteri",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nfacc52a6ca",
+   "category": "政策",
+   "company": "",
+   "title": "Playful Rewards 可靠吗？TikTok 证实并无「Screentime to Cash」项目，应用文件显示了什么 - Pasquale Pillitteri",
+   "source": "Pasquale Pillitteri",
+   "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxORUtncXNJam54TEQ2bUZqTWp6SGZrY1Z2amdMaUZnUzE2ZVBYZlMwa3RJaFJkWnZiQUhlODBGYnNhWWZGYmF2azQwREVPMmN3YTkzWGFWa2VmVXMzZmNKSEhkd193WXNNMk9ORnV3b1J6TkJEWHNoOHo2ZEVobE5sQWxnRWp3NVNxMHd6UXV6YlcyTGJyYnpDMw?oc=5",
+   "date": "2026-10-11",
+   "summary": "Playful Rewards 可靠吗？TikTok 证实并无「Screentime to Cash」项目，应用文件显示了什么  Pasquale Pillitteri",
+   "body": "Playful Rewards 可靠吗？TikTok 证实并无「Screentime to Cash」项目，应用文件显示了什么  Pasquale Pillitteri",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n1b4fade96a",
+   "category": "政策",
+   "company": "",
+   "title": "Meta财报前瞻：广告引擎能否跑赢AI资本支出？ - Moomoo",
+   "source": "Moomoo",
+   "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZlVvR24xRXRpRzFpUE5jc3JxbXI0TVZqWUdVT212MHVrY0lmT0I3MzNyV2VUUkI3TDRnSnlCUnVIZWE0ajZJSlg2VDVXc2UzR25MUHV6YThpS3h3dHFvbVlMWFYteDNUSTFsaF9Eak8zSDBNOFExWjA3TlVuVnQ4aVZLWmF4dmRZNHZaNVpGclo5XzA3Um5GMkpvREhpMnNWR3MyM1g4TDhjdDFSTFA3RTZMaw?oc=5",
+   "date": "2026-07-28",
+   "summary": "Meta财报前瞻：广告引擎能否跑赢AI资本支出？  Moomoo",
+   "body": "Meta财报前瞻：广告引擎能否跑赢AI资本支出？  Moomoo",
+   "tags": [
+    "政策",
+    "财报"
+   ]
+  },
+  {
+   "id": "n773fb35d01",
+   "category": "政策",
+   "company": "",
+   "title": "纽约市议会听证会让 Anthropic、OpenAI、Google、Meta 在宣誓下作证 - Unite.AI",
+   "source": "Unite.AI",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUW0yMXV3SU5tMkxBRDZpTm1Ud2dqeWgyN3czRGg5YmQ1R0dmUlZYYm5qT3FzVWdpSnVvMHVYUkRZN09XWFlheXZNT2hoT3VmSVZ5VS1RVDhvY0FsTm9mTkhUNjhfRzE4TzQ5b3JyQmdkQlIzTlFIU09hS2sxOHRHSXQzS2J2NTlONy02QzgtbTY0NTlyWjRn?oc=5",
+   "date": "2026-10-05",
+   "summary": "纽约市议会听证会让 Anthropic、OpenAI、Google、Meta 在宣誓下作证  Unite.AI",
+   "body": "纽约市议会听证会让 Anthropic、OpenAI、Google、Meta 在宣誓下作证  Unite.AI",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n2edc1d8134",
+   "category": "客户",
+   "company": "",
+   "title": "百万年薪抢人？美妆打响AI人才争夺战 - 36Kr",
+   "source": "36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1FNjFuWUNybmZIdHBWa2ZIMEoyQlUxZF82WVduSUF0UW9nZW9ncEJ4cFVQS3lDaXl3MlR1clkwaGZqV0ZCQWZ6b1AwazNtUQ?oc=5",
+   "date": "2026-09-29",
+   "summary": "百万年薪抢人？美妆打响AI人才争夺战  36Kr",
+   "body": "百万年薪抢人？美妆打响AI人才争夺战  36Kr",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n5d67416104",
+   "category": "客户",
+   "company": "",
+   "title": "VUSSENS在美国新泽西州设立总部，正式推出AI 驱动的全球美妆市场分析平台 - 美通社",
+   "source": "美通社",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9ZVlBDejZvOVRzZllTeTk0aHFWWHpWSERIUjdPd0kzMlFlcHFuQ1Bma3ByWXJkMVQxNTBjWHVfSmQyejdvVWJDbUFNME1MZWtSMGN4NWpWdw?oc=5",
+   "date": "2026-10-12",
+   "summary": "VUSSENS在美国新泽西州设立总部，正式推出AI 驱动的全球美妆市场分析平台  美通社",
+   "body": "VUSSENS在美国新泽西州设立总部，正式推出AI 驱动的全球美妆市场分析平台  美通社",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n27d953b686",
+   "category": "客户",
+   "company": "",
+   "title": "AI搜索营销全域破局流量双向赋能：2026年10月GEO优化服务商选型白皮书 - 凤凰网科技",
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9HLWV1NGk4MEtsdk81THlwSUFldldFRjJvbWhlaGJMLWFBMHVWaU5PNHA3U3JzTWdGYjVHaEFWY0U5Z3VOUlpzYzh5VTE?oc=5",
+   "date": "2026-10-09",
+   "summary": "AI搜索营销全域破局流量双向赋能：2026年10月GEO优化服务商选型白皮书  凤凰网科技",
+   "body": "AI搜索营销全域破局流量双向赋能：2026年10月GEO优化服务商选型白皮书  凤凰网科技",
+   "tags": [
+    "客户",
+    "GEO",
+    "AI搜索"
+   ]
+  },
+  {
+   "id": "n642c023092",
+   "category": "消费者",
+   "company": "",
+   "title": "连接消费趋势与供给创新，抖音电商助力食饮商家持续拓展增长空间 - 人民政协网",
+   "source": "人民政协网",
+   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBUeDI1M0hXa1hsNVVRelk5Sk1Rb2w3RFotUVhVMmctUjNTa04tQ1Z5SkxZcGFwdE96T3NtVXFkbm85d3ZYVEJLT1p2Nk93Z0R3Q2E2SjF4ZnZfLWVZU3VhS01LckpsMkxi?oc=5",
+   "date": "2026-08-28",
+   "summary": "连接消费趋势与供给创新，抖音电商助力食饮商家持续拓展增长空间  人民政协网",
+   "body": "连接消费趋势与供给创新，抖音电商助力食饮商家持续拓展增长空间  人民政协网",
+   "tags": [
+    "消费者"
+   ]
+  },
   {
    "id": "n6b7781c348",
    "category": "竞品",
@@ -5559,194 +5745,6 @@ window.KB_DATA = {
    "body": "《2026中国暑期旅游市场洞察报告》发布  新浪新闻_手机新浪网",
    "tags": [
     "消费者"
-   ]
-  },
-  {
-   "id": "na6c56dca59",
-   "category": "消费者",
-   "company": "",
-   "title": "2026小红书文旅峰会圆满举办：重构文旅行业增长新逻辑 - rmzxw.com.cn",
-   "source": "rmzxw.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1rTm85cE5LZ3hfNTlQaE1DaUFNUW53UFBFT1hEdW14V1dzenh2dmdyamR4MnR1RFo0WGJjZ0Fxc3UyTWtqa0NPZlIycEtiUm0yU2hsZ2VkOU5GT1pWUXh3?oc=5",
-   "date": "2026-05-07",
-   "summary": "2026小红书文旅峰会圆满举办：重构文旅行业增长新逻辑  rmzxw.com.cn",
-   "body": "2026小红书文旅峰会圆满举办：重构文旅行业增长新逻辑  rmzxw.com.cn",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "nc8728039dd",
-   "category": "消费者",
-   "company": "",
-   "title": "小红书热点内容解读（2026年第2季度） - itopmarketing.com",
-   "source": "itopmarketing.com",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9yN05XNEZ3YzVCQ2ZMWjBRRi1HWUFRV2x2WXpTbXhPSlFOY3NNOXYtZ19Bdndqa1U2cXFvcEE1X0RqUjRzbmpFcC1TOHc2T3hu?oc=5",
-   "date": "2026-07-08",
-   "summary": "小红书热点内容解读（2026年第2季度）  itopmarketing.com",
-   "body": "小红书热点内容解读（2026年第2季度）  itopmarketing.com",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n09b3f9c803",
-   "category": "消费者",
-   "company": "",
-   "title": "2026春夏抖音电商时尚消费趋势报告 - 发现报告",
-   "source": "发现报告",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ma1NIanZZM1VCQmczTk1DTzN3WTZySUktWUlNcnExazFOLTc2dWRXcTE1RjVHZ2ZrZFVkdVJ6QkxGUXBLdC1pdWJmWWItbmxW?oc=5",
-   "date": "2026-01-09",
-   "summary": "2026春夏抖音电商时尚消费趋势报告  发现报告",
-   "body": "2026春夏抖音电商时尚消费趋势报告  发现报告",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "neac6473979",
-   "category": "竞品",
-   "company": "",
-   "title": "钛动科技亮相2026年服贸会：用AI帮中国中小企业走出去 - 网易新闻客户端",
-   "source": "网易新闻客户端",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB0UFppVVE0eEZ2UlFrZXBUMmU2ZVV4ZVE3UDhrbU9uVWEtaUJRRE5LYXMwNk95ZWU3T3Z3X1c0THZiUWxKc2ZWem9NTGoyaGZseElaYzhmZU9ueHNRRFRRdHhaWHpsbFNXT1NvSXRSRUQ?oc=5",
-   "date": "2026-09-12",
-   "summary": "钛动科技亮相2026年服贸会：用AI帮中国中小企业走出去  网易新闻客户端",
-   "body": "钛动科技亮相2026年服贸会：用AI帮中国中小企业走出去  网易新闻客户端",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "nab7c72ca05",
-   "category": "竞品",
-   "company": "",
-   "title": "奥创光年联合创始人兼COO 杨海：AI不能只拘泥于一项工具，它能最大化营销效果｜WISE2023未来消费大会 - 36 Kr",
-   "source": "36 Kr",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8teTVQTWRoS0hyZmN1TG9uRWVkZTVodXBBWFNoT0t5ZTJQTXZMMV9wTkd3ZWF6MVNINktObUZaaWtYUFJlWmRkU2gyOW1OZw?oc=5",
-   "date": "2023-11-30",
-   "summary": "奥创光年联合创始人兼COO 杨海：AI不能只拘泥于一项工具，它能最大化营销效果｜WISE2023未来消费大会  36 Kr",
-   "body": "奥创光年联合创始人兼COO 杨海：AI不能只拘泥于一项工具，它能最大化营销效果｜WISE2023未来消费大会  36 Kr",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "nabeab0097d",
-   "category": "竞品",
-   "company": "",
-   "title": "突发！华兴资本包凡辞任！ - 证券时报",
-   "source": "证券时报",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBxYWw5bVIzQk9OUHp0LWxFMnpiakpjaE1FbkJheXlKRnhSdHBXbkVDNEJXbzUzRzVZOHdiRmlkSXZ2MnVYRkJMZE1qQ0xlbXhxWDMwbEFMcFBjM3Bp?oc=5",
-   "date": "2024-02-02",
-   "summary": "突发！华兴资本包凡辞任！  证券时报",
-   "body": "突发！华兴资本包凡辞任！  证券时报",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "nec8a5506b4",
-   "category": "竞品",
-   "company": "",
-   "title": "广州这家ChatGPT技术供应商，拿下新融资！ - sohu.com",
-   "source": "sohu.com",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVmpNVUlhLTVuX3ZZeFJKR0V3Mms0azlmWTF5MjBqbmlrTU5QS2RxV2VpQVRZNW84Y0NqeFpiQkQzR2ViYXFrV0o0NDJ1S3BLUVMwVlJQS2ZTV3BSUkhXeXdJUWxQR3IzSFViLVNhaW1MWHgwWDZkallDbF9DR3hrNng4RE5Yd3NI?oc=5",
-   "date": "2026-08-20",
-   "summary": "广州这家ChatGPT技术供应商，拿下新融资！  sohu.com",
-   "body": "广州这家ChatGPT技术供应商，拿下新融资！  sohu.com",
-   "tags": [
-    "竞品",
-    "融资"
-   ]
-  },
-  {
-   "id": "n7307cde695",
-   "category": "竞品",
-   "company": "",
-   "title": "估值366亿！AI视频独角兽又融资，英特尔投了 - 智东西",
-   "source": "智东西",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9laEwtdm04RU04eDg4VUJPZ3RBZnZkZVQ3YkVRaHB3NXY4bzZsRGxSbHNybVZRNmJERk1VcUVidGtPUlFBQ3hjRw?oc=5",
-   "date": "2026-08-17",
-   "summary": "估值366亿！AI视频独角兽又融资，英特尔投了  智东西",
-   "body": "估值366亿！AI视频独角兽又融资，英特尔投了  智东西",
-   "tags": [
-    "竞品",
-    "融资",
-    "独角兽"
-   ]
-  },
-  {
-   "id": "ndf5cc66cd4",
-   "category": "行业",
-   "company": "",
-   "title": "易点天下「可见性峰会」圆满收官，以GEO+GEM构筑AI时代品牌全球化护城河 - 新浪财经",
-   "source": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5DNFFVNkpkUVkxeE1ZajVMMHlyb1VrVjRGZlpMdjNmLUZ0MERDQlZIdUtmV284OHYwR3o1Sll6dEszXzhCclRKWlg3dE5PYWFMbFZ4SzVvRm0yVTZBRjFvcTNWNzdOMGt5bnU2ZlFoelR0QllxZnE3bW1feHVna0E?oc=5",
-   "date": "2026-03-08",
-   "summary": "易点天下「可见性峰会」圆满收官，以GEO+GEM构筑AI时代品牌全球化护城河  新浪财经",
-   "body": "易点天下「可见性峰会」圆满收官，以GEO+GEM构筑AI时代品牌全球化护城河  新浪财经",
-   "tags": [
-    "行业",
-    "GEO"
-   ]
-  },
-  {
-   "id": "n7d4e48e363",
-   "category": "行业",
-   "company": "",
-   "title": "OpenAI收紧ChatGPT广告政策，禁止Adobe竞品投放AI生图及音频广告 - 新浪财经",
-   "source": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTHdmZFpsYnlzOWNjSnZVOURRLWhBLWpSMVNIUVRFXzNNV3R5UFdNVnc2MFlBcVdTNXpGbThHRTdpdFpONzRlaC1wamlfaGt4ajJlTFpCNExBY3o3ZnczY01oUEZsdXR4NzJZRWlIQXdFeDk2aDlKRklBakUzYzQ2VWVkWVk?oc=5",
-   "date": "2026-09-10",
-   "summary": "OpenAI收紧ChatGPT广告政策，禁止Adobe竞品投放AI生图及音频广告  新浪财经",
-   "body": "OpenAI收紧ChatGPT广告政策，禁止Adobe竞品投放AI生图及音频广告  新浪财经",
-   "tags": [
-    "行业",
-    "投放"
-   ]
-  },
-  {
-   "id": "ncdd4f2020b",
-   "category": "行业",
-   "company": "",
-   "title": "韩国85%青少年每周用生成式AI两次以上 学习类最高 - 凤凰网",
-   "source": "凤凰网",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBXM2wwblpaNmk5ZC1tVFZFY3podjBzSHFCeHAwTzJWaWNzN2dOTTlLSnFma0lvalFjbWkyVDFlMDk1Vk9GNDZYRA?oc=5",
-   "date": "2026-09-11",
-   "summary": "韩国85%青少年每周用生成式AI两次以上 学习类最高  凤凰网",
-   "body": "韩国85%青少年每周用生成式AI两次以上 学习类最高  凤凰网",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "ndfce5c8a33",
-   "category": "消费者",
-   "company": "",
-   "title": "从一袋猫粮到百亿产业，宠物经济正在改变哪些县城 - thepaper.cn",
-   "source": "thepaper.cn",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBPTjZZSFJ0TGptNkVvV1hVaVZqTjZ0YXlsTjhLeFVYZTBBX2ZsS0FsRjNIcy1nV25qYzlDdG5zTGl0TFF4NUp6X1lhemgwUkNwQmM4Q1lGTWRBZERydXc?oc=5",
-   "date": "2026-08-21",
-   "summary": "从一袋猫粮到百亿产业，宠物经济正在改变哪些县城  thepaper.cn",
-   "body": "从一袋猫粮到百亿产业，宠物经济正在改变哪些县城  thepaper.cn",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n47527c897b",
-   "category": "消费者",
-   "company": "",
-   "title": "种草情报局|小红书宠物营销,6月趋势洞察 - 流媒体网",
-   "source": "流媒体网",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4tTjkwOVhHWGFtUktnNTNxS1dJc2IzZEI4R0tCczBJTXFkMzNKU1FqSlBIRmtrcTVmUy1hazFMLUVTQ3NFdENFUDRORzM3WnFVQ1JyaWlTbUFLbmM?oc=5",
-   "date": "2026-06-24",
-   "summary": "种草情报局|小红书宠物营销,6月趋势洞察  流媒体网",
-   "body": "种草情报局|小红书宠物营销,6月趋势洞察  流媒体网",
-   "tags": [
-    "消费者",
-    "种草"
    ]
   }
  ]
