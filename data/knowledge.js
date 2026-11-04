@@ -1,11 +1,337 @@
 /* 自动生成 by scripts/ingest.py —— 请勿手改 */
 window.KB_DATA = {
  "meta": {
-  "generated": "2026-11-03",
+  "generated": "2026-11-04",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 25 条，合计 400 条"
+  "note": "新增 23 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "ne096a726dd",
+   "category": "竞品",
+   "company": "",
+   "title": "2026湾企请开唛钛动科技薛嘉琪：湾区品牌精准触达全球消费者 - 21财经",
+   "source": "21财经",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNTVUxejJtYUpTT2xydzBYaUlwcmh2R1BSUU1xZEZ0ZEVCWE1LYWE5eGt0dG8wUFhwUzkzTDhBVWEtdl9PLUN6Rm9mTXZpeHd1OUlhVDRLTFBEeklhMjFKQjQzRFBWb3pwOXpIRzFycWx5dC00U2hHenBZU2IxSTR5d242OF9Ya1FmSWFBcWFvUQ?oc=5",
+   "date": "2026-11-03",
+   "summary": "2026湾企请开唛钛动科技薛嘉琪：湾区品牌精准触达全球消费者  21财经",
+   "body": "2026湾企请开唛钛动科技薛嘉琪：湾区品牌精准触达全球消费者  21财经",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "nc0aa5a1f9c",
+   "category": "竞品",
+   "company": "",
+   "title": "钛动科技把广告资产风控做成增长的底线工程 - 人工智能",
+   "source": "人工智能",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9FMFYwSXdTemRsMno0NHhEa2xIU25fZ0tfYUphR0c4YkFkZmFzR3hYNE1DZWljY1hOdkZsczRSdmhRX0hUeDU5X2F5YjFCazc5NXc?oc=5",
+   "date": "2026-11-03",
+   "summary": "钛动科技把广告资产风控做成增长的底线工程  人工智能",
+   "body": "钛动科技把广告资产风控做成增长的底线工程  人工智能",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n6778eeed66",
+   "category": "竞品",
+   "company": "",
+   "title": "钛动科技发布营销智能体Navos Pro，尝试把AI接入出海营销流程|跨境电商|广州市|Agent|广东省|数据_手机新浪网 - 新浪网",
+   "source": "新浪网",
+   "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxQQkxrSkVpNFNJMFNONFZncTlkdFkwWUxMaXNKRzFKMU1vZXFVR3VZbU1WRjd1QjlVRWhDUVJUbl9IZDRmcDJUMHQ2X1gtZzQtcUlmRkdRbm45Y2Zzb1doMDR4WW1aYktBZklHeDFVVU53XzlDRmZ5dVNndlppUzk1bHZyVTRmS0QxcjlpZ3N5SXg5YVdOQ3ZKbFV0RjB5cDhfWHFZU1RQelN4VXI0N3c3QkFkOE5nRzI0Qms3NFlwWUFud0xRTjU4UXptbWtLZkZ1X0hxbDg1el84aUlFQVJnbDJwbEV2OFVHcEZtdWh5OW9GTDQya1A1d2RpOWpHOHo3aHdBaS0yZW9ublk5b290am85aEU5dHhkM2tocHZieXZoWENMV2tCT2lOenI3cjg?oc=5",
+   "date": "2026-10-23",
+   "summary": "钛动科技发布营销智能体Navos Pro，尝试把AI接入出海营销流程|跨境电商|广州市|Agent|广东省|数据_手机新浪网  新浪网",
+   "body": "钛动科技发布营销智能体Navos Pro，尝试把AI接入出海营销流程|跨境电商|广州市|Agent|广东省|数据_手机新浪网  新浪网",
+   "tags": [
+    "竞品",
+    "出海",
+    "Agent"
+   ]
+  },
+  {
+   "id": "n1ac816821c",
+   "category": "行业",
+   "company": "",
+   "title": "爱分析:《2025年AIGC应用实践报告》 - 发现报告",
+   "source": "发现报告",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1FVFZxd3diQzVOenVRZ2tCLWpObjd2aWRFZ2ZuZ0U5Ykh4OS1vLWFCTU1hRVYyT0YzN3Y1RWFWd1RzM05qWDhsYzdJYWsxWmp5?oc=5",
+   "date": "2025-05-05",
+   "summary": "爱分析:《2025年AIGC应用实践报告》  发现报告",
+   "body": "爱分析:《2025年AIGC应用实践报告》  发现报告",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n4ec1a82a33",
+   "category": "行业",
+   "company": "",
+   "title": "重磅发布｜NEXGROW汽车AIGC平台上线，一键生成专业汽车营销视频 - 中华网",
+   "source": "中华网",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9MT29vRzBVTVMtRU5hdmJIcEk2VHRoRWNEbVBoSzJHVXVOX0Q0NFZMVk53bE9rc3U3c3JLVlNzS0huSTZZdWVCcGNCOHpZUVVjaXVvWXVSUmctcl9hRncxbHp1Rk05OVBPUzFYQVdWOTF3Zl81UUE?oc=5",
+   "date": "2026-04-20",
+   "summary": "重磅发布｜NEXGROW汽车AIGC平台上线，一键生成专业汽车营销视频  中华网",
+   "body": "重磅发布｜NEXGROW汽车AIGC平台上线，一键生成专业汽车营销视频  中华网",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "nb4883ff507",
+   "category": "行业",
+   "company": "",
+   "title": "AI广告战开打：Meta狂飙，谷歌失血 - 腾讯新闻",
+   "source": "腾讯新闻",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9EejB5dGdmN3F6WExyQVRKWF9yMS1yLUVYdzRkSnpaZF9SUjI1RWZxRkN3eUdsZzBnMzFsRU41WDJmY1FvRjF1cHl2eFFzVllEVEpwblFHUmZfSlNyOFRUYl9R?oc=5",
+   "date": "2026-11-02",
+   "summary": "AI广告战开打：Meta狂飙，谷歌失血  腾讯新闻",
+   "body": "AI广告战开打：Meta狂飙，谷歌失血  腾讯新闻",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n9e29e9e198",
+   "category": "行业",
+   "company": "",
+   "title": "OpenAI禁止在ChatGPT投放竞品AI广告 Adobe等广告主受影响 - 观点网",
+   "source": "观点网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50TnZ0OTJ0SkNXXzFUQl9nc1Q4TGZMMVpsektBWkt0N3VMTy0tQzdPSmVGbTA0SGk0UzdXcGJYWlZWWG5QQzhZd1A3X2hrSk5nZmxSWnRGTENVczgzVUVONmFn?oc=5",
+   "date": "2026-09-10",
+   "summary": "OpenAI禁止在ChatGPT投放竞品AI广告 Adobe等广告主受影响  观点网",
+   "body": "OpenAI禁止在ChatGPT投放竞品AI广告 Adobe等广告主受影响  观点网",
+   "tags": [
+    "行业",
+    "投放"
+   ]
+  },
+  {
+   "id": "na55457ab96",
+   "category": "政策",
+   "company": "",
+   "title": "超半数微信变现小游戏开展买量，AI与新流量助力长线经营- 资讯 - 游戏日报",
+   "source": "游戏日报",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlWi1vN2h3cmdrdk51TnhPWGxtU0ttWjdHNWRhR3pjTF9MZEFETi0yVHFRbHJLZGFfVXJDbWVNZS1DV3FqYTJFbkl2VWxmZ2dsVVE?oc=5",
+   "date": "2026-11-03",
+   "summary": "超半数微信变现小游戏开展买量，AI与新流量助力长线经营- 资讯  游戏日报",
+   "body": "超半数微信变现小游戏开展买量，AI与新流量助力长线经营- 资讯  游戏日报",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n25b4df92af",
+   "category": "政策",
+   "company": "",
+   "title": "TikTok Shop更新退货退款政策：7天售后申诉窗口10月27日起生效 - 全球定制网",
+   "source": "全球定制网",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9hZE0wODBSWTFvY1Axb2VIRTY2MGFXSV9GbzVrVTc5cVpWQmxZM1VFdHNYOFRObDZPaWZuNEk3TlViem5jQ2s5SG0xMWZ5dw?oc=5",
+   "date": "2026-10-26",
+   "summary": "TikTok Shop更新退货退款政策：7天售后申诉窗口10月27日起生效  全球定制网",
+   "body": "TikTok Shop更新退货退款政策：7天售后申诉窗口10月27日起生效  全球定制网",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n0725699bd2",
+   "category": "政策",
+   "company": "",
+   "title": "Meta呼吁AI广告标识应按风险分级披露- 快讯 - 亿邦动力网",
+   "source": "亿邦动力网",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE91OVhFU25xUTlfLTM5d0tGd3NuVUtHVnh2b1oyTXVDS1VjZFIwcHBURTNlVDZrSFZodXFCeDFhUFlta3dNYVBWa2E4NFlHMHBoZ21tal9YSi0?oc=5",
+   "date": "2026-11-03",
+   "summary": "Meta呼吁AI广告标识应按风险分级披露- 快讯  亿邦动力网",
+   "body": "Meta呼吁AI广告标识应按风险分级披露- 快讯  亿邦动力网",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n408b7e01c5",
+   "category": "政策",
+   "company": "",
+   "title": "谷歌调整K-12教育AI政策：Gemini、搜索等服务默认关闭 - 手机新浪网",
+   "source": "手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LR1pqQmZFZzFuOTNISmRfOWpYUHpMMTF5anducjZRYTBReWxLMFN0bGxLaHNOY1VWSGoxNmFfNndEOTVRUDVRRmZYamFhaUtuSUo5SkplMTE4dERCZ3pHU1kwQ1preElFR1QxeVRfV1o5QUdLMWstME9LczB0ODg?oc=5",
+   "date": "2026-11-03",
+   "summary": "谷歌调整K-12教育AI政策：Gemini、搜索等服务默认关闭  手机新浪网",
+   "body": "谷歌调整K-12教育AI政策：Gemini、搜索等服务默认关闭  手机新浪网",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n038c6f9766",
+   "category": "政策",
+   "company": "",
+   "title": "Google称，欧盟海关政策变化正拖累亚洲广告客户的广告业务增长 - Mezha.net",
+   "source": "Mezha.net",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbzNKTFJxaGttbGV3cXMyZUxLRzZET1VhOTNJQXdlQllkMFM1QTBrc1hfMG5NSUkxOUJKUG1qZTUwOWRNTV9FMFN3b0pDSmZnMHpSS3JHV2UwY0xKVEFDZG00cVdEZ1BOcjdfajV3N2gzMnVqdF9ab2dibHZLeUREZTgtY3g5QWJoQ1VWRGFoWlhpdndGVWtr?oc=5",
+   "date": "2026-11-01",
+   "summary": "Google称，欧盟海关政策变化正拖累亚洲广告客户的广告业务增长  Mezha.net",
+   "body": "Google称，欧盟海关政策变化正拖累亚洲广告客户的广告业务增长  Mezha.net",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n180df010ba",
+   "category": "政策",
+   "company": "",
+   "title": "Google 将 6 个国家/地区添加到本地广告代码政策列表中 - ALM Corp",
+   "source": "ALM Corp",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNHFLVlNiNFE2MjZSemdRVFFndEJHX1F2dFp4bFV1MGZGWUpyVXU1NEdrSmpHX0tTdEZpTV9ZN2ZtaFcxUzd4bmxGMFFFNlNpQjBLMndiSkw4UW9FSENpaG82SmIwcWJnWXBTWVBDX1ZVRngtaFY2S19EVllaVkU0U3BQRmdGeFdsa25OQ2ppRQ?oc=5",
+   "date": "2026-09-29",
+   "summary": "Google 将 6 个国家/地区添加到本地广告代码政策列表中  ALM Corp",
+   "body": "Google 将 6 个国家/地区添加到本地广告代码政策列表中  ALM Corp",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n6261500cb3",
+   "category": "客户",
+   "company": "",
+   "title": "珀莱雅(603605):珀莱雅化妆品股份有限公司关于股份回购进展公告 - 中财网",
+   "source": "中财网",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5TRUl4ZmpYenR2UEpJaDFhZWxpdnhFWkVldFZ2eHlSQXlJckxBRWxkdEhVWUliVnJieDhtV2tYN0xoS29uR1BHbTVBX04wdlBZOVZ4QWx3?oc=5",
+   "date": "2026-11-02",
+   "summary": "珀莱雅(603605):珀莱雅化妆品股份有限公司关于股份回购进展公告  中财网",
+   "body": "珀莱雅(603605):珀莱雅化妆品股份有限公司关于股份回购进展公告  中财网",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n89855153ac",
+   "category": "客户",
+   "company": "",
+   "title": "珀莱雅累计回购225.13万股，支付资金1.4亿元 - 凤凰网",
+   "source": "凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wUk5IbTEyWXNvVkpPZ20zeGo5TXNVS2ZLMFpKMl9OMndrTk5BX2NvRHFFamR4S1E1ODdhWXlwZzYzdno1bnc0UzBKUzE?oc=5",
+   "date": "2026-11-02",
+   "summary": "珀莱雅累计回购225.13万股，支付资金1.4亿元  凤凰网",
+   "body": "珀莱雅累计回购225.13万股，支付资金1.4亿元  凤凰网",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n79ad8b38c7",
+   "category": "客户",
+   "company": "",
+   "title": "鲜丰水果、珀莱雅都有合作！余杭企业让AI“进厂”干活 - 潮新闻客户端",
+   "source": "潮新闻客户端",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16OXRfU0gyM1oxRTBhc2EzTTZmRDAxTWszRk9PM1R3UGJrWFpOaHlieWpRYlFGYXo3TWNhQ3RFSy1YTlVTdkVrQjdQcnQ3b2pXTFZzajZ0ZmtycmpsWEU1a2p5ZS1xS1JZdnpNWlRUdTRaVUk?oc=5",
+   "date": "2026-10-13",
+   "summary": "鲜丰水果、珀莱雅都有合作！余杭企业让AI“进厂”干活  潮新闻客户端",
+   "body": "鲜丰水果、珀莱雅都有合作！余杭企业让AI“进厂”干活  潮新闻客户端",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n2500b17da0",
+   "category": "客户",
+   "company": "",
+   "title": "科研蓄力、多品牌突围，珀莱雅前三季度净利润增至12.56亿元 - 搜狐网",
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2SVJfck0xZlljLTMza2lkMy1YaTNtVGR3bG9hQ2VEdGxMSEJnMy1tcHcxNE1qSGhVWDR2VHZPWXN0TnY4X2p3S1ZuTTRiRm13WGNRemJhd1lETi1SM1QwMg?oc=5",
+   "date": "2026-10-30",
+   "summary": "科研蓄力、多品牌突围，珀莱雅前三季度净利润增至12.56亿元  搜狐网",
+   "body": "科研蓄力、多品牌突围，珀莱雅前三季度净利润增至12.56亿元  搜狐网",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "nd9c841f732",
+   "category": "消费者",
+   "company": "",
+   "title": "【营销周报】生活服务种草，在小红书换了套玩法 - SocialBeta",
+   "source": "SocialBeta",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9wVTZmU1RiS1hSOUswZGcweGhnTFJoTUtBOGZhQk01bjlNN3FqZkRQSEF4X1dLM3FoUHJTZnU1NXByZlJWZjVwQWI4MGJBUQ?oc=5",
+   "date": "2026-11-01",
+   "summary": "【营销周报】生活服务种草，在小红书换了套玩法  SocialBeta",
+   "body": "【营销周报】生活服务种草，在小红书换了套玩法  SocialBeta",
+   "tags": [
+    "消费者",
+    "种草"
+   ]
+  },
+  {
+   "id": "n8480182a4d",
+   "category": "消费者",
+   "company": "",
+   "title": "小红书热点内容解读(2026年第3季度) - https://www.itopmarketing.com/",
+   "source": "https://www.itopmarketing.com/",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBJaUgyR3l5X2o4MjNqMjdsWEhXckxkNHByY2t0Q2VVTmQ4MDJmTDRrcXU2VmdkUGN6THhCSDAwbG1ybGpZVmNqOHFTLXpVTUVH?oc=5",
+   "date": "2026-10-15",
+   "summary": "小红书热点内容解读(2026年第3季度)  https://www.itopmarketing.com/",
+   "body": "小红书热点内容解读(2026年第3季度)  https://www.itopmarketing.com/",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n12e93467ea",
+   "category": "消费者",
+   "company": "",
+   "title": "打开美好家！抖音商城「2026家生活趋势洞察」，读懂当代人的居家新方式 - 搜狐网",
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZGZvWlMtd2c4TjBWZXBRU0NyNVV3d3VjUUhOWDZGaUprVXNjdnVrQUw2d1prYUNxMmlNaHlWNGM2UVpidGJadk40VGpCQWtSbUVJMUJGN1RrWDQ4YTMybzVJUmZfUGlsb3h5TWdnX01JVDFuWVJNVjk5bWxsTmFnS2YxUmFVOUM3?oc=5",
+   "date": "2026-10-14",
+   "summary": "打开美好家！抖音商城「2026家生活趋势洞察」，读懂当代人的居家新方式  搜狐网",
+   "body": "打开美好家！抖音商城「2026家生活趋势洞察」，读懂当代人的居家新方式  搜狐网",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n0652aa7542",
+   "category": "消费者",
+   "company": "",
+   "title": "过去一年抖音电商产业带香氛商品累计售出超1亿单 - 新榜",
+   "source": "新榜",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9ISjRXMmU1bEUyQUVnR2lra2E5TjlKY3JSNW1KZ0Z3RHJSeGQtT3JWUkxxbVV5UGhQLTZNOUVyS2YxUUVjNXZYTjBsN1R3T0tp?oc=5",
+   "date": "2026-04-30",
+   "summary": "过去一年抖音电商产业带香氛商品累计售出超1亿单  新榜",
+   "body": "过去一年抖音电商产业带香氛商品累计售出超1亿单  新榜",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n5c5324d46a",
+   "category": "消费者",
+   "company": "",
+   "title": "2026 春夏抖音电商时尚消费趋势重磅发布，妆造一体引领消费新浪潮 - 商业评论",
+   "source": "商业评论",
+   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFB6bWtuU0RpdE5aZ2RleGdwVzVaaHpSM2RzU0xWOE5BSF9BZnphamZGX0EwT0RkMzFvM1JPdnhXcDFxaHE2SW1BT0pjdXJTTDdNUFhnUlFBdFNYb1BCSlZybmZiYTRrbTQ1WEl4LVlWXzdlRWoyMWpMbw?oc=5",
+   "date": "2026-01-13",
+   "summary": "2026 春夏抖音电商时尚消费趋势重磅发布，妆造一体引领消费新浪潮  商业评论",
+   "body": "2026 春夏抖音电商时尚消费趋势重磅发布，妆造一体引领消费新浪潮  商业评论",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n198a68b673",
+   "category": "消费者",
+   "company": "",
+   "title": "趋势爆火、品牌破圈、创作变现：抖音“粉彩系”的趋势新势能 - 新榜",
+   "source": "新榜",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBkc3hsVjl3ZkFtRFhyTVh1QkFSZC1GcFdFb2tpdnpoZlNqVHVUSVhpcEN4M0ROZThJS0lQRXdEeUNkbDdrdkJ1cDI4OS1kVHRTYjNKcS13?oc=5",
+   "date": "2026-04-24",
+   "summary": "趋势爆火、品牌破圈、创作变现：抖音“粉彩系”的趋势新势能  新榜",
+   "body": "趋势爆火、品牌破圈、创作变现：抖音“粉彩系”的趋势新势能  新榜",
+   "tags": [
+    "消费者"
+   ]
+  },
   {
    "id": "n8420521006",
    "category": "竞品",
@@ -5428,337 +5754,6 @@ window.KB_DATA = {
    "body": "Meta的AI优势不在模型，在广告——腾讯和字节也在走同一条路  ThePaper.cn",
    "tags": [
     "政策"
-   ]
-  },
-  {
-   "id": "n742a677351",
-   "category": "政策",
-   "company": "",
-   "title": "Google News AI 试点计划的参与出版机构已超过 400 家 - Unite.AI",
-   "source": "Unite.AI",
-   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSlhOM1dZREFVYUgxaVloWHRCTm54NFZwVFBRT0NZcGNuUVZYTXZhUVRhUHdpVU5kRlVDUkpkYUExTTE1bXpDNGJ3dDdIeldnQVFlSllVUmRrdTNPM0VSbGp2bkI1YWFYX1lsM0RxS1JMSGtFY2J4cXp5bFZNR0xtWlZSTUZ3NVdSN0swQ2F2YmNwY1gxdWtv?oc=5",
-   "date": "2026-10-16",
-   "summary": "Google News AI 试点计划的参与出版机构已超过 400 家  Unite.AI",
-   "body": "Google News AI 试点计划的参与出版机构已超过 400 家  Unite.AI",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "ndf09c72882",
-   "category": "客户",
-   "company": "",
-   "title": "侯亚孟获拉姆·查兰管理实践奖：AI战略委员会与全景激励引擎如何激活 - finance.sina.com.cn",
-   "source": "finance.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1TUWRBOFhNTXJ0WFNLRWd4bjBCQXZITm1ZekRrWUhUbTRRZWotbjUxN3ZfUVJ6Y2ZSZGxBZDZOS1U5T25rQmcwM1pxSC1mNWdqRjJaNk10dmkzS2lfNU9SN2lvMURlMVVEWWRGc3Rn?oc=5",
-   "date": "2026-10-16",
-   "summary": "侯亚孟获拉姆·查兰管理实践奖：AI战略委员会与全景激励引擎如何激活  finance.sina.com.cn",
-   "body": "侯亚孟获拉姆·查兰管理实践奖：AI战略委员会与全景激励引擎如何激活  finance.sina.com.cn",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "n65ac9e4460",
-   "category": "客户",
-   "company": "",
-   "title": "侯亚孟代表珀莱雅股份签署战略合作备忘录，布局AI生物智能体美妆应用 - 新浪财经",
-   "source": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XaU5wSDBadmF1TG8zVmdmOHFobEVJTlpJMk55cnp4XzYxeWhULWRENUxVRWNmNXVUck9Zbi0yaFBnVDl5SFBXamNnalc1QU5vSTdUN0dlVlZ4WHRLMFdqNnNnNnl1dDZEbmwwZjQzRlRjcERsZTZiUGdPWTExOEU?oc=5",
-   "date": "2026-05-28",
-   "summary": "侯亚孟代表珀莱雅股份签署战略合作备忘录，布局AI生物智能体美妆应用  新浪财经",
-   "body": "侯亚孟代表珀莱雅股份签署战略合作备忘录，布局AI生物智能体美妆应用  新浪财经",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "nca1249761f",
-   "category": "客户",
-   "company": "",
-   "title": "零售日报：花知晓开全球首店珀莱雅线下布局加速落地- 栏目 - 亿邦动力",
-   "source": "亿邦动力",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE80VUNybm9xSkp6Um91b0l4dG5ZcEtFWnFhNFRDUFF5US1KTXhTT3Y0MVEzTEdDZEh5ZE1JcjdqNEVyVm5YYnR6c2ZaVllFSTNWWm1ta3ZB?oc=5",
-   "date": "2026-09-08",
-   "summary": "零售日报：花知晓开全球首店珀莱雅线下布局加速落地- 栏目  亿邦动力",
-   "body": "零售日报：花知晓开全球首店珀莱雅线下布局加速落地- 栏目  亿邦动力",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "n5e006d836c",
-   "category": "客户",
-   "company": "",
-   "title": "珀莱雅：股东方玉友本次股份质押解除后，累计质押股份数量为921万股 - 每日经济新闻",
-   "source": "每日经济新闻",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfRjUyYTR6cjBSNk5jcjROWDdYNGJtWi1UX204LUtaa3RoN0hOdDZWVER1Z1NiYzdRZHR6VElZWThBN1FzcVBZcHBDdG5OLTRxTzZoeTczUndoenVRUXhZZ0NzWHQtdw?oc=5",
-   "date": "2026-08-11",
-   "summary": "珀莱雅：股东方玉友本次股份质押解除后，累计质押股份数量为921万股  每日经济新闻",
-   "body": "珀莱雅：股东方玉友本次股份质押解除后，累计质押股份数量为921万股  每日经济新闻",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "n69a776d24a",
-   "category": "客户",
-   "company": "",
-   "title": "宝安区跨境电商协会承办 DTC 品牌出海论坛 探索中国制造“品牌主权”新路径 - 深圳新闻网",
-   "source": "深圳新闻网",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9KaHZiWVZoZzBSWF81RGlSSTVSSW1UTmxrVTVsaDhfMURITjdXVTJjX2RRbUJVVG5uUURIYUZVbHZhZzNRY1hmTkRVX2xmU1p0Z1VpNVBVZ1NCaFB6NjFCSEt2QklBaWhuejJEdWRjNDh2YjNCbnBlQ1NR?oc=5",
-   "date": "2026-09-18",
-   "summary": "宝安区跨境电商协会承办 DTC 品牌出海论坛 探索中国制造“品牌主权”新路径  深圳新闻网",
-   "body": "宝安区跨境电商协会承办 DTC 品牌出海论坛 探索中国制造“品牌主权”新路径  深圳新闻网",
-   "tags": [
-    "客户",
-    "出海"
-   ]
-  },
-  {
-   "id": "na59b413b0f",
-   "category": "消费者",
-   "company": "",
-   "title": "抖音生活服务：《2026抖音文旅消费趋势报告》（全文） - 网经社",
-   "source": "网经社",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE01Rm9RN0tDbm91dG9vWnJHZzNHRUVoTkI2VXRrdmFjRHZWclEwUEM1OTJMMDY4XzBocE9TS2Q1amlMeDRDN0lsNkw4UzBzNzBQb2pj?oc=5",
-   "date": "2026-06-12",
-   "summary": "抖音生活服务：《2026抖音文旅消费趋势报告》（全文）  网经社",
-   "body": "抖音生活服务：《2026抖音文旅消费趋势报告》（全文）  网经社",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "naee66338d1",
-   "category": "消费者",
-   "company": "",
-   "title": "直播电商拓展科技消费新场景，科技新品在抖音电商首发成行业新趋势 - 上观新闻",
-   "source": "上观新闻",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1BYXFySXhPd1hySGNMREpoR19tN05yUXVJNHJVTlpoZjgteWlWLXhRcGYyQkxwMVVNQ0VlTHpkbHNsdkV4TTZlOFc1UjUzRzNsQjJTV2sxWU9iLVBSWG1z?oc=5",
-   "date": "2026-03-13",
-   "summary": "直播电商拓展科技消费新场景，科技新品在抖音电商首发成行业新趋势  上观新闻",
-   "body": "直播电商拓展科技消费新场景，科技新品在抖音电商首发成行业新趋势  上观新闻",
-   "tags": [
-    "消费者",
-    "直播"
-   ]
-  },
-  {
-   "id": "n84208a194a",
-   "category": "消费者",
-   "company": "",
-   "title": "2026年，小红书打响文旅种草下半场 - 环球旅讯",
-   "source": "环球旅讯",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE14NnpEN0h2UTFZOVZGWDhQQzZ4UHBVY2dkN1hVNzNRZEJnUTE2cXdtWFFxLVBuLWpfbnJhMXNTcUhqZG9PSUl3bXNKZWVhMl9QaHc?oc=5",
-   "date": "2026-01-27",
-   "summary": "2026年，小红书打响文旅种草下半场  环球旅讯",
-   "body": "2026年，小红书打响文旅种草下半场  环球旅讯",
-   "tags": [
-    "消费者",
-    "种草"
-   ]
-  },
-  {
-   "id": "ne663d1769c",
-   "category": "竞品",
-   "company": "",
-   "title": "特赞完成近千万美金 B 轮融资 赫斯特资本领投，红杉、 线性等跟投 - 美通社",
-   "source": "美通社",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBaTU9YeGY4TWJiY3lEcl9DaEhVYW5faTNPamVRc3FsWmk0Y2lBOTN4YmFJdVZUanBURnlHVnU4aEJNOFoyU2dSdmVqV2V3WHNCVXRoYlpIcw?oc=5",
-   "date": "2018-04-16",
-   "summary": "特赞完成近千万美金 B 轮融资 赫斯特资本领投，红杉、 线性等跟投  美通社",
-   "body": "特赞完成近千万美金 B 轮融资 赫斯特资本领投，红杉、 线性等跟投  美通社",
-   "tags": [
-    "竞品",
-    "融资"
-   ]
-  },
-  {
-   "id": "n5df1754df2",
-   "category": "竞品",
-   "company": "",
-   "title": "钛动TGC 2026大会10月23日广州启幕，AI先驱领衔解码Agent全球化增长 - 搜狐",
-   "source": "搜狐",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVk0tREhINGNXX21qaWI2RTY5NFpvczBFLWFPelh0VTlUTGRvTTlxaHc1ZVFWb2c4Um1uTE5tdXlpcEZPc3Y2SzROZUtKVGdIVVR3OXpXZk9RVjF0djZESlVzR2toWnRqNTJxUFNaczZ4RmZ2TEpBNGoxZkJyQ3NDel9NLThac0NXNUtRQQ?oc=5",
-   "date": "2026-10-16",
-   "summary": "钛动TGC 2026大会10月23日广州启幕，AI先驱领衔解码Agent全球化增长  搜狐",
-   "body": "钛动TGC 2026大会10月23日广州启幕，AI先驱领衔解码Agent全球化增长  搜狐",
-   "tags": [
-    "竞品",
-    "Agent"
-   ]
-  },
-  {
-   "id": "nab7c72ca05",
-   "category": "竞品",
-   "company": "",
-   "title": "奥创光年联合创始人兼COO 杨海：AI不能只拘泥于一项工具，它能最大化营销效果｜WISE2023未来消费大会 - 36Kr",
-   "source": "36Kr",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE8teTVQTWRoS0hyZmN1TG9uRWVkZTVodXBBWFNoT0t5ZTJQTXZMMV9wTkd3ZWF6MVNINktObUZaaWtYUFJlWmRkU2gyOW1OZw?oc=5",
-   "date": "2023-11-30",
-   "summary": "奥创光年联合创始人兼COO 杨海：AI不能只拘泥于一项工具，它能最大化营销效果｜WISE2023未来消费大会  36Kr",
-   "body": "奥创光年联合创始人兼COO 杨海：AI不能只拘泥于一项工具，它能最大化营销效果｜WISE2023未来消费大会  36Kr",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "nba6a416017",
-   "category": "行业",
-   "company": "",
-   "title": "当AIGC遇上人间烟火--中国移动在线营销服务中心以“数智共创”探索服务传播新路径 - 新华网",
-   "source": "新华网",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xYUtIaFJzMnljTzlPSmdfOGJPV05KaGZoSzZleHBrQVBVN2tEc2tlYm0xb2RoWVRWSE1KWVBEcU8zajMzaG9sbkRHdV9TM0hXWmhGX1VKMXk4UTZZaWlkdU9BRnZvaU1paWpwSExGRy1zLWhPZm1XWXo0LU1GQQ?oc=5",
-   "date": "2026-07-29",
-   "summary": "当AIGC遇上人间烟火--中国移动在线营销服务中心以“数智共创”探索服务传播新路径  新华网",
-   "body": "当AIGC遇上人间烟火--中国移动在线营销服务中心以“数智共创”探索服务传播新路径  新华网",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n37cedc903a",
-   "category": "行业",
-   "company": "",
-   "title": "华帝携手艾菲发起AIGC命题，以“瓷话套系”演绎东方厨房美学 - 中国家电网",
-   "source": "中国家电网",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBKMlJhVjhvWHNJMzJ4U2EtRWUtLUs4ZWthc0hUVnJ6VzZvOG16S2pkT0ZXRDFyWXNoa3dGNHFVdXV1MFRpSFQ2bGVwanBDUWRPUXVYeQ?oc=5",
-   "date": "2026-06-09",
-   "summary": "华帝携手艾菲发起AIGC命题，以“瓷话套系”演绎东方厨房美学  中国家电网",
-   "body": "华帝携手艾菲发起AIGC命题，以“瓷话套系”演绎东方厨房美学  中国家电网",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n33077d6008",
-   "category": "行业",
-   "company": "",
-   "title": "封面报道之二｜AIGC改变互联网营销 - 财新周刊",
-   "source": "财新周刊",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82Y1ZyYXg0TmN3YkhOSWRlSTZDdlRWeVU0Q0dEOFdCVzBtSk5aZmJhNE0tUTJ2RFBZeWhpOXZBRUhkcUQ4bnR4QlBVa25JN1BEM3Nzci1YeXR5Zi1TMEM2bQ?oc=5",
-   "date": "2024-10-28",
-   "summary": "封面报道之二｜AIGC改变互联网营销  财新周刊",
-   "body": "封面报道之二｜AIGC改变互联网营销  财新周刊",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "nb7f398d828",
-   "category": "行业",
-   "company": "",
-   "title": "2026百度AI营销城市行——有智者事竟成@巩义站圆满落幕 - 中华网",
-   "source": "中华网",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5pYXBxT1NwT2R1Tk9JWW9fLU5JVTFWZm1HLWRvUjBhdFZubENjbFBQaDcwWG1jaGVmYTJKSGNrZm53QXBpclA5VFZvNmpvcm5HcmxGbkRSdTloRWdZc2c?oc=5",
-   "date": "2026-05-29",
-   "summary": "2026百度AI营销城市行——有智者事竟成@巩义站圆满落幕  中华网",
-   "body": "2026百度AI营销城市行——有智者事竟成@巩义站圆满落幕  中华网",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n4dc77a7b9f",
-   "category": "行业",
-   "company": "",
-   "title": "2026软文营销迎来新变局？AI时代软文发布行业趋势与主流平台深度解析 - 凤凰网",
-   "source": "凤凰网",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9Ec1dLMHpRYXp2Vi10MGRMSVd5ejdMbWl5QVlUenFBd1Bsd3RYa3Y4YXlRVlhsZDgxcW9LekZsX1ZUeGdWZFFVdFlKMVg?oc=5",
-   "date": "2026-08-09",
-   "summary": "2026软文营销迎来新变局？AI时代软文发布行业趋势与主流平台深度解析  凤凰网",
-   "body": "2026软文营销迎来新变局？AI时代软文发布行业趋势与主流平台深度解析  凤凰网",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n1fb5f4e8d4",
-   "category": "行业",
-   "company": "",
-   "title": "中国商务广告协会《生成式引擎优化（GEO）》团体标准发布会成功举办 - 手机新浪网",
-   "source": "手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14RHJ4bUJjSlNoUmpQblp4X3R5elpYU3lYUXQxMi01STZ0dDUxdlJyencyTGJHVUdMSzU0aHhTTGVxN3piNHRnZXlIaDFnLXZpQXBLNnJZVXl1VzV2YkFqa05xZ2wzV0JiQ24xTENCeVZyZw?oc=5",
-   "date": "2026-10-16",
-   "summary": "中国商务广告协会《生成式引擎优化（GEO）》团体标准发布会成功举办  手机新浪网",
-   "body": "中国商务广告协会《生成式引擎优化（GEO）》团体标准发布会成功举办  手机新浪网",
-   "tags": [
-    "行业",
-    "GEO",
-    "发布会"
-   ]
-  },
-  {
-   "id": "n326c0ae311",
-   "category": "行业",
-   "company": "",
-   "title": "当AI开始替品牌“胡说八道”，谁在为失控的算法买单？ - 维科号",
-   "source": "维科号",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBaRTVLTlJ3cXo2MWZIZjhlR2V0TWY0VGJvUF9CWTBtRS1XRW4tZDFBajgyOXRMMFlOMHVzVWJRRlNocGJXUW00YkJKR3lpb2M?oc=5",
-   "date": "2026-10-13",
-   "summary": "当AI开始替品牌“胡说八道”，谁在为失控的算法买单？  维科号",
-   "body": "当AI开始替品牌“胡说八道”，谁在为失控的算法买单？  维科号",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "nc535dd55e1",
-   "category": "行业",
-   "company": "",
-   "title": "AI Agent如何改变数字广告交易链路 - 霞光社",
-   "source": "霞光社",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9IVk9adzhUeTlnbGh2OV9LUUxiZFJ5ZS1LTDg3bWUzMV9HUXg2MDlYTVFrSU5OcE1DSnRfa2lkckwzMTE2WnVIaQ?oc=5",
-   "date": "2026-10-15",
-   "summary": "AI Agent如何改变数字广告交易链路  霞光社",
-   "body": "AI Agent如何改变数字广告交易链路  霞光社",
-   "tags": [
-    "行业",
-    "Agent"
-   ]
-  },
-  {
-   "id": "n4bddd8a65b",
-   "category": "行业",
-   "company": "",
-   "title": "可灵AI首登纽约广告周 携Kling 4.0与WPP、Adobe共探AI视频新生产力 - 中华网",
-   "source": "中华网",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE05VldTVFRaMlZNSGxFbE1YYWtwVjAwenNaU1FSbzY5LVlmUXYzU1BNWTJONjNzTU02aGlEQ2dQMGhsSGtBejFTRTI3bV9GZ0J6S0FSYklwQk1sNUNINmRqaXNseTktY2dwd1E1LQ?oc=5",
-   "date": "2026-10-16",
-   "summary": "可灵AI首登纽约广告周 携Kling 4.0与WPP、Adobe共探AI视频新生产力  中华网",
-   "body": "可灵AI首登纽约广告周 携Kling 4.0与WPP、Adobe共探AI视频新生产力  中华网",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "ncd073da010",
-   "category": "行业",
-   "company": "",
-   "title": "国元证券：AI重塑广告行业，多维度驱动行业变革 提供者 智通财经 - 英为财情 Investing.com",
-   "source": "英为财情 Investing.com",
-   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ocVpHdXlMNmdvb2FqejAyb2JOQ1NFVGd0Q3lIU3NNS0xkd1VsaXRxd2E5c3RfZzdZYlZNVnM1LXIxaVVpQkE5dlBpWkwtVHd6MlVtMkViTFFUMnQxTmhHQ2JRSWNheWd0NGlTVzBBVkU?oc=5",
-   "date": "2026-10-15",
-   "summary": "国元证券：AI重塑广告行业，多维度驱动行业变革 提供者 智通财经  英为财情 Investing.com",
-   "body": "国元证券：AI重塑广告行业，多维度驱动行业变革 提供者 智通财经  英为财情 Investing.com",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n0dbd2c12a4",
-   "category": "政策",
-   "company": "",
-   "title": "财报前瞻| 股价能否冲击新高？Meta Q3业绩重磅来袭！Muse商业化或成股价反攻关键港美股资讯 - 华盛通",
-   "source": "华盛通",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xVXRFT25oZUtMb083djItQVZ2ZWVzcmNuTnoyZXRwdjlIVS1CWHdaSkhjRF9OWF9XRkpoNkZFeGtWVGtKZ2NnZjV2cXZxUU1oSnFqYzl6d0llRzZraEM5UFZB?oc=5",
-   "date": "2026-10-16",
-   "summary": "财报前瞻| 股价能否冲击新高？Meta Q3业绩重磅来袭！Muse商业化或成股价反攻关键港美股资讯  华盛通",
-   "body": "财报前瞻| 股价能否冲击新高？Meta Q3业绩重磅来袭！Muse商业化或成股价反攻关键港美股资讯  华盛通",
-   "tags": [
-    "政策",
-    "财报"
    ]
   }
  ]
