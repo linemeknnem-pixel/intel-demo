@@ -1,11 +1,224 @@
 /* 自动生成 by scripts/ingest.py —— 请勿手改 */
 window.KB_DATA = {
  "meta": {
-  "generated": "2026-11-12",
+  "generated": "2026-11-13",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 18 条，合计 400 条"
+  "note": "新增 15 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "nacedb71765",
+   "category": "竞品",
+   "company": "",
+   "title": "AI泰斗在钛动科技大会上预言：利润，将是AI经营企业最直接的反馈信号 - Sohu",
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUkRkSF9JcWdqZlRJNThXQ2tiekI0ZENSSXBGTTZtckdlTEx0YnpUbU5zQTVFR3VLNGFrSVZEeWtlLWRqVHNWYXAwMWhzaWZEeERfNkVvbUhJRm9NRjh4c0lHWEpTUXVZZDM2dmxkOG96QnJ0X1RQSm8yeFVKZzlqWGNBMEYyN3Vr?oc=5",
+   "date": "2026-11-12",
+   "summary": "AI泰斗在钛动科技大会上预言：利润，将是AI经营企业最直接的反馈信号  Sohu",
+   "body": "AI泰斗在钛动科技大会上预言：利润，将是AI经营企业最直接的反馈信号  Sohu",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n7388e086d6",
+   "category": "行业",
+   "company": "",
+   "title": "虎啸盛典AI论坛举办并发布《2025中国数字营销行业人工智能应用趋势研究报告》 - 新华网客户端",
+   "source": "新华网客户端",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxORzNzTzVWQTR5NC1jSjJRYnU2ckFYcWRLWUJkNkdwYlNFczF2WF9UNUlTcEpGSlROdzA5RXFTTUFoQ0pFM1VzNEtpN0hmbWZkQ2IyRXg2ZXdpY3dRTjR3WlRlRjJKZVh3WmF6UGo1VG9fZm9VQ0Y2RXkxWkVJdFZkc3d4MlAyQlduLXF5UlVEQQ?oc=5",
+   "date": "2025-06-16",
+   "summary": "虎啸盛典AI论坛举办并发布《2025中国数字营销行业人工智能应用趋势研究报告》  新华网客户端",
+   "body": "虎啸盛典AI论坛举办并发布《2025中国数字营销行业人工智能应用趋势研究报告》  新华网客户端",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n0e282d4d8c",
+   "category": "行业",
+   "company": "",
+   "title": "Dior假日广告惹AI争议，奢侈品牌的“手工叙事”遭遇信任考验_国内经济 - 证券之星",
+   "source": "证券之星",
+   "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5Sbi1JbzdKa2NhZ2p0Z1ZGbnRDYlZYYkc3dGlIS29IMnZ2UEE0U2F1RllPX0taanJSOXZqcHcwOTBIb1Zic1p4WlVHdzB6R3dwaXJ5Mm5mLWhYdGNleDVzZFZ2Qks?oc=5",
+   "date": "2026-11-12",
+   "summary": "Dior假日广告惹AI争议，奢侈品牌的“手工叙事”遭遇信任考验_国内经济  证券之星",
+   "body": "Dior假日广告惹AI争议，奢侈品牌的“手工叙事”遭遇信任考验_国内经济  证券之星",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n9ad7d52f5b",
+   "category": "行业",
+   "company": "",
+   "title": "智推时代GEM上线 开启AI营销“广告+推荐”双引擎时代 - 中国科技网",
+   "source": "中国科技网",
+   "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBCdWhvbEdQU0ZyeGZQU0o3RFZZUW9RTlU0REtlbDRzRDFSS0YyQjRmZWpLeXJNaF9Na24xXzJkMURqcVIwRzBENEI3RUlpUHVVcTh0WXlTc3NwTFEwLW00S0NwRS1Qb3RaZ1ExUXUtMjA?oc=5",
+   "date": "2026-09-28",
+   "summary": "智推时代GEM上线 开启AI营销“广告+推荐”双引擎时代  中国科技网",
+   "body": "智推时代GEM上线 开启AI营销“广告+推荐”双引擎时代  中国科技网",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "nc7cc9f4518",
+   "category": "行业",
+   "company": "",
+   "title": "Taboola向生成式AI企业开放广告变现技术 - 36氪出海",
+   "source": "36氪出海",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBwTVIzN3U2UUJfSkRRMzcyV1NJMlE1TS1nQkhoNVlYUUFUOG1hTFBCbTdXckd3cW04b2pxc0xMXzFwQ0pvRVE?oc=5",
+   "date": "2026-06-20",
+   "summary": "Taboola向生成式AI企业开放广告变现技术  36氪出海",
+   "body": "Taboola向生成式AI企业开放广告变现技术  36氪出海",
+   "tags": [
+    "行业",
+    "出海"
+   ]
+  },
+  {
+   "id": "n639770200c",
+   "category": "政策",
+   "company": "",
+   "title": "平台政策即基础设施：Meta/Google/TikTok 8月规则深度解析 - CSDN",
+   "source": "CSDN",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CTkJhbzQzakZoakxMZ3VzaHgyV0NiQlNNczlvY0NsaXkyQjlmeVJmVGQ0OE0xazNyMk5qbDllRkRMRVBtUDZVNmVyUlo2cUtvY3JjdjBleDYtOFA4cDJ5Vg?oc=5",
+   "date": "2026-11-12",
+   "summary": "平台政策即基础设施：Meta/Google/TikTok 8月规则深度解析  CSDN",
+   "body": "平台政策即基础设施：Meta/Google/TikTok 8月规则深度解析  CSDN",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nea5278d1b7",
+   "category": "政策",
+   "company": "",
+   "title": "罚款危机解除，与欧盟达成和解！TikTok承诺根据DSA要求进行整改- 跨境电商 - 亿邦动力网",
+   "source": "亿邦动力网",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5NRVNhOENlbWpoeGJINk5peFBCVUZfRW15M0pPd1Q2STdESkdmQ3NNa3JpT2xGUmZ6TUZSZ2dhQTJpU1YyQm5rWk9lZnBfV1VYZDVoSlZB?oc=5",
+   "date": "2025-12-09",
+   "summary": "罚款危机解除，与欧盟达成和解！TikTok承诺根据DSA要求进行整改- 跨境电商  亿邦动力网",
+   "body": "罚款危机解除，与欧盟达成和解！TikTok承诺根据DSA要求进行整改- 跨境电商  亿邦动力网",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n96e97438e6",
+   "category": "政策",
+   "company": "",
+   "title": "两大巨头广告业务迎来“分水岭”！AI成就Meta(META.US) 却成谷歌(GOOGL.US)搜索“紧箍咒” - 新浪网",
+   "source": "新浪网",
+   "url": "https://news.google.com/rss/articles/CBMi8AVBVV95cUxPYzNySkpFSjJ2NjFyODV1M2RtZng0UExCQXhXeGVfVGswdmV4dUp2MUdrQlFDaC05RVVDUE84N1RFYnc5c0FNQ3Utcm5qZlJTODV0ZDJGcDBCVF9XNGhPdTkydlNNSHBQbi04bmMwR1JXMWRSTG5TWFliUWs3ZmhRMDFjYi15YmdJamZMWERnTEt0Vk45bjloQ282U0NsLV9tTFZnUEdoX3V5ZlMtbFgyMlJNNE90UEw0b1NFa1RHekhDeW8zSXphV2lWSFBCVU5VcGJlX2NVY2x6dVdJZHFqazY1Mm1IRTBOeXJWaG9zaUZkbEFWbHM5dnoyOTBaa0d4RDhOWklrVlJiSTlRLWRNZy05clNyb1dJR3lUVmV1RzgtRjdsNXZvLVBZOERrS3lPTWNFSDdac3hmU1JhNk00bDY2RmsyODR3XzFTS3hMMlNyT1dsOGRSWkZfcldGQUt1bU1xdGxlbGtzdHI2TDZUTG1jUnFmeUF6TTRvcTZlQ29QXzIwcnBFeWFsZWIzQmxnQUU4ZWplSlF2ZVVtRGFpTUxvNFc4T3JZaXJ0SGo0dHBNTGhrYUZxU1NjYVBhM0VIamV3RUdVcEg2eFRiTUVvRHl0QWFEREZuTjg4cFBJQXF3VmE1T1JSc0wyVVdnN1JvNjg2ZTA1SXBvYThSSGNzaWMzQXVlMDRtUEJLR0J0Tkcza1FiVElqc3hDUE5wbUVVNjB0VTFaQ1dyalZaWmtPSm93OGJhenJKLXBWY1RuVW9qMGFfUjU5REppdjNTMjRhZEp2OUNURVFuZ2dkQjU2RXA1Y2E1bHZhWng3WHRSbWUzUzh6a3A5N21vN0lISWxaSXZITTF3Mm53ZUItRXh3ZF9EQUFzNGk4eWk5TEdTNTFFOGNFZDhOOHI0bmRUSlltV1JnY2djaHJCdld4a0VKa3MwenB0TE9LN2VaMWJCak1LV1RXT3hBc0M4aU9vc1RyUGtHMk1aYWxyRklzb05DYg?oc=5",
+   "date": "2026-11-10",
+   "summary": "两大巨头广告业务迎来“分水岭”！AI成就Meta(META.US) 却成谷歌(GOOGL.US)搜索“紧箍咒”  新浪网",
+   "body": "两大巨头广告业务迎来“分水岭”！AI成就Meta(META.US) 却成谷歌(GOOGL.US)搜索“紧箍咒”  新浪网",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n89f367cbf8",
+   "category": "政策",
+   "company": "",
+   "title": "Facebook广告代理商行业研究（2026—2027）：从开户通道到数据与AI能力的分层逻辑 - 中华网",
+   "source": "中华网",
+   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1aYUtVSGkyVjhEWUpta2xlbmoyaGRCZDdHNlUtM2h0QTVKdk5PcWJsNmlQaE5vTVlRRk9uVEJVbGozZ2JBZEdwUjVFMXdBRF9QWElSMzI0MWdBdWNHajg4Q3A5OHI5eW5WQ1VyMjl3?oc=5",
+   "date": "2026-11-12",
+   "summary": "Facebook广告代理商行业研究（2026—2027）：从开户通道到数据与AI能力的分层逻辑  中华网",
+   "body": "Facebook广告代理商行业研究（2026—2027）：从开户通道到数据与AI能力的分层逻辑  中华网",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nd51d5a5208",
+   "category": "政策",
+   "company": "",
+   "title": "谷歌更新了广告政策 禁止使用AI生成的公众人物形象模仿广告 - 东方财富",
+   "source": "东方财富",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SbVFlcGhIYldrUVNLeFJHbllWZ2JhS1JCdVVXMk9xMXV0emdWdnRWdjFqNEsyY2RSZFdWbU8zekZpbXJxQXhINzNpRUR6TTVmLWdzaS1Lb3plaWhXN2ZfTE1uTQ?oc=5",
+   "date": "2026-11-11",
+   "summary": "谷歌更新了广告政策 禁止使用AI生成的公众人物形象模仿广告  东方财富",
+   "body": "谷歌更新了广告政策 禁止使用AI生成的公众人物形象模仿广告  东方财富",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n1e521f5a5f",
+   "category": "客户",
+   "company": "",
+   "title": "AI营销翻车！美妆广告上演魔幻大戏：七天生发、兵马俑复活...... - ThePaper.cn",
+   "source": "ThePaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kcmtzcENkM2lhQnJiTEM4MDc5b1Z4bXVTV0pXcndEaS0yZWlaODBjRjRsakFINW5UdS1WdHktMnc2d0V3QTZrNkJBd28tNGhOVHZzNVJrZnY3UmJIblNKag?oc=5",
+   "date": "2026-11-11",
+   "summary": "AI营销翻车！美妆广告上演魔幻大戏：七天生发、兵马俑复活......  ThePaper.cn",
+   "body": "AI营销翻车！美妆广告上演魔幻大戏：七天生发、兵马俑复活......  ThePaper.cn",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n5c37ed1ff8",
+   "category": "客户",
+   "company": "",
+   "title": "AI赋能千行百业一线观察｜AI深度渗透美妆产业链 驱动行业智能变革 - 新华网",
+   "source": "新华网",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNRThIVXFadVh5c2ZKQjRqUnNvZW9Ia05FSG16WXQ4cUQxRDAwVnhBWHNkdE9hNHhaZ2tCb3Q4dmJ0dGlTalNJVDRZbTJnUGZVeERJR21GYVFMOFg4RGpIbTJlWHVTdzlwZUx6OU1STWJNZE8zdDNOSHMzWDl5RDdrRUVIejlJM2U5?oc=5",
+   "date": "2026-04-27",
+   "summary": "AI赋能千行百业一线观察｜AI深度渗透美妆产业链 驱动行业智能变革  新华网",
+   "body": "AI赋能千行百业一线观察｜AI深度渗透美妆产业链 驱动行业智能变革  新华网",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "nad7a4062af",
+   "category": "消费者",
+   "company": "",
+   "title": "冬日出行消费升温｜小红书文旅冬季种收指南发布 - 环球旅讯",
+   "source": "环球旅讯",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE8zVzFVZzNvX0kxVnozYkFCTGRBMUtNV0NNRzc2R01rb2FxdmU3ei1hajNBdjVBVFYwLUwwT0Vad1VSWDdaYVRSNUpkSDVwV2dHd29vNg?oc=5",
+   "date": "2026-11-12",
+   "summary": "冬日出行消费升温｜小红书文旅冬季种收指南发布  环球旅讯",
+   "body": "冬日出行消费升温｜小红书文旅冬季种收指南发布  环球旅讯",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "neb6fc154bb",
+   "category": "消费者",
+   "company": "",
+   "title": "小红书灵犀亮相央视：种草成为「需求引领供给」新路径 - 21财经",
+   "source": "21财经",
+   "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVkNkU0pYVk1jOTFyODhBX0x0NHFhMEE5VGRFcDI3cnNTb0psSE1UdlRMWVJNLWpDT0J6b1JiVXk3MUhhMWFqNTcwdGhFWXJOQzRfd1FiamJjY0F2a1l3UnpZb2xFRlVnaTZjQ0p2R2J1dldHSlFpUUZCNlp4U1NOVEo0dURKTHpmNnlGTG5IVEdfRDd1?oc=5",
+   "date": "2026-03-03",
+   "summary": "小红书灵犀亮相央视：种草成为「需求引领供给」新路径  21财经",
+   "body": "小红书灵犀亮相央视：种草成为「需求引领供给」新路径  21财经",
+   "tags": [
+    "消费者",
+    "种草"
+   ]
+  },
+  {
+   "id": "n227f46c476",
+   "category": "消费者",
+   "company": "",
+   "title": "2026秋冬「流行色」种草趋势解读 - https://www.itopmarketing.com/",
+   "source": "https://www.itopmarketing.com/",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9IQUZkZ1B0N0pzMU5POGd6OE9NdjFhRDBpNkJkbTc1V1hfVmFpM1hsQ09NV2hXMUVYbk5QdU41Q1l6WXNQWnV0ZFgzbS1heFdh?oc=5",
+   "date": "2026-10-21",
+   "summary": "2026秋冬「流行色」种草趋势解读  https://www.itopmarketing.com/",
+   "body": "2026秋冬「流行色」种草趋势解读  https://www.itopmarketing.com/",
+   "tags": [
+    "消费者",
+    "种草"
+   ]
+  },
   {
    "id": "nf148cf397c",
    "category": "竞品",
@@ -5524,222 +5737,6 @@ window.KB_DATA = {
    "body": "珀莱雅欧洲科创中心实验室正式启用  凤凰网",
    "tags": [
     "客户"
-   ]
-  },
-  {
-   "id": "n463ae7a42e",
-   "category": "客户",
-   "company": "",
-   "title": "飞书重磅发布《先进消费AI实战白皮书》 - AgeClub",
-   "source": "AgeClub",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9RNXlMR0V1Um02M2VERnVENnNHUVJycmlWbnRTdVkxck56RmlvMDFrQTlYbHg2aEhvZFl6SmJIWGRSSWhxQjNYMGhpZGd1RmZrWThv?oc=5",
-   "date": "2026-04-23",
-   "summary": "飞书重磅发布《先进消费AI实战白皮书》  AgeClub",
-   "body": "飞书重磅发布《先进消费AI实战白皮书》  AgeClub",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "nf1977a9243",
-   "category": "客户",
-   "company": "",
-   "title": "当增长成为奢侈品，两家巨头先后设立CGO - 风闻",
-   "source": "风闻",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBvRDBId3lXUlB3bmhKTmhSajNGNlVBN3o5TmVsTW9zM09Dbndiak9DN0lSSDl0YzFFWTRZaW03LUhWQVFiQk1Vdl9zVlM5a2lsMnRnWFNCalJ2UnhWM1NWa2VGWGNvSlVadUtBb2xB?oc=5",
-   "date": "2026-05-22",
-   "summary": "当增长成为奢侈品，两家巨头先后设立CGO  风闻",
-   "body": "当增长成为奢侈品，两家巨头先后设立CGO  风闻",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "nadb852eeb9",
-   "category": "客户",
-   "company": "",
-   "title": "AI硬件出海，别当“背景板”，GTC2026 Shanghai「AI硬件专区」邀你占位 - 新浪新闻_手机新浪网",
-   "source": "新浪新闻_手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMinghBVV95cUxNNXhTcm1aeV8wc0ZKVWlvUUNtejAwQmZVNl9OQWJ4SnNTQWEwdkFuNE9RV1loYTdvQ0tLcVMxdFZnUm1NbHRsY095NnV3VXVwRU9lTWh5WWwwZ0dvZ3VqTWF3bEZEX0RMLTZ6NFdVTGJOaWdMMFRYbDdldVBuRWE4UEFpUmU3UFRhRDNaejFZOVRvN29oQldQNjloSHp0eGVSOVE0Y0JHc19IZUdZQWUzVF9HUGxPa25mNFRka3ZLbGhuTWIzM2FMaXQzN05CUXMtNVFvN1hNSmtrM1lsSGhxTnBoalVBbmNTeVBXRFloeE1OaExmZ3JRc1VTRnZjeUJKRXdTOWliejRGeGRQbDQyalZocWQtS1NuQlJzNzlqNTd5WFdnNUYwYVRRM2Vqc0g4QW1qZXRsekxYZXltbDhRemtBMU1QOUFJQ24yUlBXVHhvZ1Y3RUp3TFNjZTRYM3JNWGE1MnpCUFltRmhwZGxYN2lyTzB2ZExPQ1hEdGU3TzdVamxlS2R6R2E2QnEwaDRtQ2M2R0JWLW9BZ0R5NFdsVzdBVnZqakc0bTJpX0lSOElNNzk0bUFXVnNfYWdGbnYxMUJMeWo2NW9VODRvazdzNFJraVNWXzcybllhOVgxUnhaeXlGZGdLT1g5TXdqZDJockZPQ0RoaDFRU1Y1aEZITXdpLTU1bFQ2ODlpb09EQ3dyY1R6Sjg4SWF4Q1AyVG5CaHJiN05PV3VNVEgySHNLU010X05XSWprd0FCSlJ0VHJjbW1IU181RTY5LUhXRXoxNzZ0QjVBYlJfS3hZLXlCdFZFNk1fUS05ZGJZdmtUdnI0R2VMbHNsWGpqbnZaLTRjLWVUV3lyaFR4SXIzYzI2MEd5d2IzcWJ5N2xocFlIbVEtd1BZVmhFWUpkeHkxUlQ2TmlXRHRndEdpNnl4ZDBTbmNBejB4WWRQWmNwLXFHczVMeVlIV2IzbWt5Z1FjeFBjN0ppaFN3czljX1N5b2g2T05pVWFhMEJ3RTMySTh0bWNUWmFrNXFnNTI1bG5BZDdIaldWWmJDWl82NjM2bzBfUV9CU0ZoSkZkT0d0ZlFGZ2hNNGZTbjZiTUFwQTh3Z3ZZd1hzQkFlNTVtWlg1MDdXYzd4UGdvV0NoTjdmaGlqV2RPdndLNW54MTVzZldKOGpDcXdhekw3NkxPYlV6ZFVFdHM3c0JlaXNHaHg5VkJBTXZsbjcyMVdvWXliS3hPMExrZV8wYzVRNFhmR3g1NXZIdWd6SjBjeHZ1VG1KRXA0ZzU4OGtPTk5IdkNCb3I0dTR1RzFJcm42dll5OTd0ZFZwZGl1NlZtLW5mVkZTRnR2NW9oNTQ2X2Fsai1nVTZTNnYxQm5MNW45cEVvWmRlamZSN3o1N1ZQLURNUEVSdU93?oc=5",
-   "date": "2026-10-24",
-   "summary": "AI硬件出海，别当“背景板”，GTC2026 Shanghai「AI硬件专区」邀你占位  新浪新闻_手机新浪网",
-   "body": "AI硬件出海，别当“背景板”，GTC2026 Shanghai「AI硬件专区」邀你占位  新浪新闻_手机新浪网",
-   "tags": [
-    "客户",
-    "出海"
-   ]
-  },
-  {
-   "id": "n137b5fe688",
-   "category": "客户",
-   "company": "",
-   "title": "【回放】全球化品牌的精细化运营与增长破局之道 - 雨果跨境",
-   "source": "雨果跨境",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9TRFp6S2ZfMVRLN3dtbExnc1FKU2NyYVJ1STJRZ2dDbW9USjJnemp6dW84WEdEbmdfUUJBZHpuQ21LQmJDSlVXSWtR?oc=5",
-   "date": "2026-09-28",
-   "summary": "【回放】全球化品牌的精细化运营与增长破局之道  雨果跨境",
-   "body": "【回放】全球化品牌的精细化运营与增长破局之道  雨果跨境",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "n09b3f9c803",
-   "category": "消费者",
-   "company": "",
-   "title": "2026春夏抖音电商时尚消费趋势报告 - 发现报告",
-   "source": "发现报告",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ma1NIanZZM1VCQmczTk1DTzN3WTZySUktWUlNcnExazFOLTc2dWRXcTE1RjVHZ2ZrZFVkdVJ6QkxGUXBLdC1pdWJmWWItbmxW?oc=5",
-   "date": "2026-01-09",
-   "summary": "2026春夏抖音电商时尚消费趋势报告  发现报告",
-   "body": "2026春夏抖音电商时尚消费趋势报告  发现报告",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n2b285a44eb",
-   "category": "消费者",
-   "company": "",
-   "title": "2026年的美妆趋势，都藏在年轻人让自己“更好”的愿望里 - 中华网生活",
-   "source": "中华网生活",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqS1JMYVJFOC14N0pqenVucWdLUEE3RVZxQUdQaFZoVzl6TUZvSXQ1YXZSNFl3a0E3UG9BN1kwTWlVS2YwV3pXSWlDNjlNOXhPWG5FcnJONEFkaE5oc3ZPNjRybw?oc=5",
-   "date": "2026-03-31",
-   "summary": "2026年的美妆趋势，都藏在年轻人让自己“更好”的愿望里  中华网生活",
-   "body": "2026年的美妆趋势，都藏在年轻人让自己“更好”的愿望里  中华网生活",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n038571adf9",
-   "category": "竞品",
-   "company": "",
-   "title": "钛动科技发布营销智能体Navos Pro，尝试把AI接入出海营销流程 - 新浪财经",
-   "source": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HR1ZOUU1RSkZoTUhBa3ZnSE5Nc2VkTEpETjEzMEtqNkVIM2ZnOE4yaUs0R0E5eWxlWEtaS2d4LUEzMUNGUFBCR2lJV0FTcGtIZGhfZW1uak5Bd1pPS19vQlpORDg0Tzd3TXZWLUd1YngwandFa2J0amRUbU4?oc=5",
-   "date": "2026-10-24",
-   "summary": "钛动科技发布营销智能体Navos Pro，尝试把AI接入出海营销流程  新浪财经",
-   "body": "钛动科技发布营销智能体Navos Pro，尝试把AI接入出海营销流程  新浪财经",
-   "tags": [
-    "竞品",
-    "出海"
-   ]
-  },
-  {
-   "id": "n31d7902b41",
-   "category": "竞品",
-   "company": "",
-   "title": "钛动科技发布行业首个Pro-Agent, 主打结果导向的AI for Work - 广州日报新花城",
-   "source": "广州日报新花城",
-   "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPeXBvczFRNTRJdUVzRUhsc3p1NG52RWJuUlpvVXhObERxVFdhNms2Y2drZ3pnUW5pbDBhTmh5YXVadUJ5clZhLW1EbUlLWnVWN0gzMW10cTZjY0xtZU1IRnBlb25GXzc1bHppaTlqaUxLVzA2RGIxcndGS205anFOdWNDWm9xUXBqZ2c?oc=5",
-   "date": "2026-10-24",
-   "summary": "钛动科技发布行业首个Pro-Agent, 主打结果导向的AI for Work  广州日报新花城",
-   "body": "钛动科技发布行业首个Pro-Agent, 主打结果导向的AI for Work  广州日报新花城",
-   "tags": [
-    "竞品",
-    "Agent"
-   ]
-  },
-  {
-   "id": "n34557c4533",
-   "category": "竞品",
-   "company": "",
-   "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会 - 凤凰网",
-   "source": "凤凰网",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE11NGpjQjhuMERCeGszaEhjUnhkYWwtWlYyb1d0QV9DSEhDbnRWcGJvZ2hKMnB4Q2Rnc2xKRGNhNFItQVcwbU00YmpFajM?oc=5",
-   "date": "2026-10-23",
-   "summary": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会  凤凰网",
-   "body": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会  凤凰网",
-   "tags": [
-    "竞品",
-    "Agent"
-   ]
-  },
-  {
-   "id": "n5e973a0957",
-   "category": "竞品",
-   "company": "",
-   "title": "钛动科技发布Navos Pro - 广州日报新花城",
-   "source": "广州日报新花城",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNazlaV2cwbWJGcTVFNUhLNUpmVWQySmFHdXVFRHlGTms5enFOdFpjSWg5NWRQNndHcU9oeHI2MEt0M3p4LWx5T1NHdnVNWG82WW5zaFV3RG1RcWZELWUyMmlHX21yWXYwbTBpUWt1aWk3ck9QV2lCMUJQVktwbDE2X3RJTjc?oc=5",
-   "date": "2026-10-24",
-   "summary": "钛动科技发布Navos Pro  广州日报新花城",
-   "body": "钛动科技发布Navos Pro  广州日报新花城",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "n2977fd8ba1",
-   "category": "竞品",
-   "company": "",
-   "title": "AI+SaaS制作内容 让商家既省钱又赚钱？ - 亿邦动力网",
-   "source": "亿邦动力网",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBESWN3QnJPd3RZX3lVdFhJZVRYd2ZFSWlxTmlMQ1p6YkFzODY3ZWtSMTA4X2JyWEQxWHZMSHpwRWRwMDQzX2k0Skl4eWZyclRERjA3Tnhn?oc=5",
-   "date": "2025-04-10",
-   "summary": "AI+SaaS制作内容 让商家既省钱又赚钱？  亿邦动力网",
-   "body": "AI+SaaS制作内容 让商家既省钱又赚钱？  亿邦动力网",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "nc47c194778",
-   "category": "竞品",
-   "company": "",
-   "title": "火山引擎与周星驰比高集团达成版权合作，打造AI 视频 IP 合作新模式 - 雷峰网",
-   "source": "雷峰网",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1oMENFZkRvVE5QMkktU0p5Nk5Ea3h4MEwyYWhRdVZwTUhvT1dSMnJMTGNLZVJ3WlctcDZIZHlnVVlFRWJUNnVmWjdiVl9aX2JUV2QxdW9jZ1Vkdk1MYkFLaGUwcl9WNmpzRDhYbzJsbjlWLVhP?oc=5",
-   "date": "2026-06-10",
-   "summary": "火山引擎与周星驰比高集团达成版权合作，打造AI 视频 IP 合作新模式  雷峰网",
-   "body": "火山引擎与周星驰比高集团达成版权合作，打造AI 视频 IP 合作新模式  雷峰网",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "nd1c6c62926",
-   "category": "行业",
-   "company": "",
-   "title": "App Growing:《2026全球手游与应用营销趋势：AI打败AI》 - 发现报告",
-   "source": "发现报告",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45d1FvYVp0Q0hRUmlMVTJnYXE5OXNsMkZVRExZYUFEcnkwblZVQkxfamJ2dXM4RUloTFBITEFpMFBTcE1TYW96TVFOTG1fQms4?oc=5",
-   "date": "2026-04-08",
-   "summary": "App Growing:《2026全球手游与应用营销趋势：AI打败AI》  发现报告",
-   "body": "App Growing:《2026全球手游与应用营销趋势：AI打败AI》  发现报告",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n8ecebfbe7d",
-   "category": "行业",
-   "company": "",
-   "title": "风向标传媒：智能风控+GEO赋能 AI大模型营销重构商业格局 - 中国公关网",
-   "source": "中国公关网",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBTcUxBek1YaUpqU1RKaXZScmY1dURnSkNSMVNkbzh0UmJKYVh5Mi1OaUhYRWVuT1lEZzNQZGZ2RDFubVdrZHU4aTk3blhUUnNmcUxwV212U194T28?oc=5",
-   "date": "2026-03-11",
-   "summary": "风向标传媒：智能风控+GEO赋能 AI大模型营销重构商业格局  中国公关网",
-   "body": "风向标传媒：智能风控+GEO赋能 AI大模型营销重构商业格局  中国公关网",
-   "tags": [
-    "行业",
-    "大模型",
-    "GEO"
-   ]
-  },
-  {
-   "id": "n0ac295b021",
-   "category": "行业",
-   "company": "",
-   "title": "AI时代两大高决策行业的社交营销进化 | 第十届社交媒体风向大会数码家电与汽车分论坛 - 中华网",
-   "source": "中华网",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9EeVdXdHpGN0hJSzlxTGlELWpPNUZxd2VMV3V1Yms4MmR1Vm9ZWHUwQzRuTklNN1dfQWJsaThDWXowaVJrTzloU2dPQXZNNjhkZUVWNnh0cGhnUG5wMkE?oc=5",
-   "date": "2026-05-25",
-   "summary": "AI时代两大高决策行业的社交营销进化 | 第十届社交媒体风向大会数码家电与汽车分论坛  中华网",
-   "body": "AI时代两大高决策行业的社交营销进化 | 第十届社交媒体风向大会数码家电与汽车分论坛  中华网",
-   "tags": [
-    "行业"
    ]
   }
  ]
