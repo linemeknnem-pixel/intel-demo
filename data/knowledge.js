@@ -1,11 +1,210 @@
 /* 自动生成 by scripts/ingest.py —— 请勿手改 */
 window.KB_DATA = {
  "meta": {
-  "generated": "2026-11-13",
+  "generated": "2026-11-14",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 15 条，合计 400 条"
+  "note": "新增 14 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "n02092bfbe9",
+   "category": "竞品",
+   "company": "",
+   "title": "钛动科技发布营销智能体Navos Pro，尝试把AI接入出海营销流程 - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsbU15S0h1aUNNcGtjVVo1Y0piVzdfZkVYRXFMQjIxZUN3TXl4M3hYcU9JR2JzSktpMnlOc2dqQ1lmamRmUW5Ia2ItajNSYm5iWTVuYzF4NGNuQ0Z5TlZ0Wkx6WE1JUXc5azZWdjBEUU1falFsVW5UMnBYTQ?oc=5",
+   "date": "2026-10-24",
+   "summary": "钛动科技发布营销智能体Navos Pro，尝试把AI接入出海营销流程  新浪财经",
+   "body": "钛动科技发布营销智能体Navos Pro，尝试把AI接入出海营销流程  新浪财经",
+   "tags": [
+    "竞品",
+    "出海"
+   ]
+  },
+  {
+   "id": "n2977fd8ba1",
+   "category": "竞品",
+   "company": "",
+   "title": "AI+SaaS制作内容 让商家既省钱又赚钱？ - 亿邦动力网",
+   "source": "亿邦动力网",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBESWN3QnJPd3RZX3lVdFhJZVRYd2ZFSWlxTmlMQ1p6YkFzODY3ZWtSMTA4X2JyWEQxWHZMSHpwRWRwMDQzX2k0Skl4eWZyclRERjA3Tnhn?oc=5",
+   "date": "2025-04-10",
+   "summary": "AI+SaaS制作内容 让商家既省钱又赚钱？  亿邦动力网",
+   "body": "AI+SaaS制作内容 让商家既省钱又赚钱？  亿邦动力网",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "nf541f52ed8",
+   "category": "行业",
+   "company": "",
+   "title": "微播易&CAAC：2026年3C数码行业AIGC内容营销实战指南 - Sohu",
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT2NHME5IVXNSMHlFbWpkTW92TU1GZDVBckJHX2VRS0phQ213TFZFYkllc3h5ZGUtQzBTTHBOWXNrbEN0eERyVDdiN1E0dWo2NFFqREt1bUJXd3BrNDhnVEpFUTY2cEdCN0xHUjRwWXJ0OW95bFZMd0RjNVBaMG1TVFJsUzdQRDd0T1Uxdg?oc=5",
+   "date": "2026-11-13",
+   "summary": "微播易&CAAC：2026年3C数码行业AIGC内容营销实战指南  Sohu",
+   "body": "微播易&CAAC：2026年3C数码行业AIGC内容营销实战指南  Sohu",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "nd1c6c62926",
+   "category": "行业",
+   "company": "",
+   "title": "App Growing:《2026全球手游与应用营销趋势：AI打败AI》 - 发现报告",
+   "source": "发现报告",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45d1FvYVp0Q0hRUmlMVTJnYXE5OXNsMkZVRExZYUFEcnkwblZVQkxfamJ2dXM4RUloTFBITEFpMFBTcE1TYW96TVFOTG1fQms4?oc=5",
+   "date": "2026-04-08",
+   "summary": "App Growing:《2026全球手游与应用营销趋势：AI打败AI》  发现报告",
+   "body": "App Growing:《2026全球手游与应用营销趋势：AI打败AI》  发现报告",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n3f215b2b1d",
+   "category": "行业",
+   "company": "",
+   "title": "2026年TOP5 AI营销服务商：智达明远AI亮剑双盛会|破解获客难、成本高痛点，做懂企业需求的AI营销获客公司 - China Daily",
+   "source": "China Daily",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZkJ4SjA3Z2VncnpYdER0NVJQYWhaTVZIYnRFM3N4c0xmaXpHWWlRQWs3MVJzSS1wV1VycGpadmgxMS1NejlUZWhzaFRGLVZULXl2VUFNcmt3U09mWHdiMnQ4UDRueWZjRjFMWnNBRlVqVnRTMGoxcUdBU09JVFFhR2hwVQ?oc=5",
+   "date": "2026-05-20",
+   "summary": "2026年TOP5 AI营销服务商：智达明远AI亮剑双盛会|破解获客难、成本高痛点，做懂企业需求的AI营销获客公司  China Daily",
+   "body": "2026年TOP5 AI营销服务商：智达明远AI亮剑双盛会|破解获客难、成本高痛点，做懂企业需求的AI营销获客公司  China Daily",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "nffca431f0c",
+   "category": "行业",
+   "company": "",
+   "title": "2026年的10个营销趋势 - 36氪",
+   "source": "36氪",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1zZzc3c2dKTHlDQ2tWallLZHBlVmZ4WTlRSzR5WHh1V1BydHEzRHFDVENrbVlDR056MXkzdUVoWkZNRTdHZmppOVJPYnR5QQ?oc=5",
+   "date": "2025-12-30",
+   "summary": "2026年的10个营销趋势  36氪",
+   "body": "2026年的10个营销趋势  36氪",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n0e906bac27",
+   "category": "行业",
+   "company": "",
+   "title": "Dior假日广告惹AI争议，奢侈品牌的“手工叙事”遭遇信任考验 - 经济观察网",
+   "source": "经济观察网",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE0wRGgtTGxHNXloZks3Vmg5WGNERTk5TjlDdWhBS2lRRW9EX3ZXTmVYdEVVLUNFekVER2Foc2gtYk1oWm03TEhyUnhzSXN1RWtELVVDd01RWUU?oc=5",
+   "date": "2026-11-12",
+   "summary": "Dior假日广告惹AI争议，奢侈品牌的“手工叙事”遭遇信任考验  经济观察网",
+   "body": "Dior假日广告惹AI争议，奢侈品牌的“手工叙事”遭遇信任考验  经济观察网",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n35a1d22e83",
+   "category": "行业",
+   "company": "",
+   "title": "快手搜索广告落地生成式检索新范式：UniGD生成-判别一体化重塑检索链路 - 智源社区",
+   "source": "智源社区",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBrZ2pDSDJ5NHRMbWg4WjFQaS04R0RhaWlST0tpeS1xRGFhYVl3M0ZfaV9weF84NGo4djNHd25aaV9DR0RZOHZrOQ?oc=5",
+   "date": "2026-09-17",
+   "summary": "快手搜索广告落地生成式检索新范式：UniGD生成-判别一体化重塑检索链路  智源社区",
+   "body": "快手搜索广告落地生成式检索新范式：UniGD生成-判别一体化重塑检索链路  智源社区",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n104b001664",
+   "category": "政策",
+   "company": "",
+   "title": "TikTok Shop美区政策生变！自发货保住了 - 雨果跨境",
+   "source": "雨果跨境",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8wSXNKdWRPa2VzS0NKS3k1dkZrUVFRd29zTG9GZFRpcmM1TmtidllXTGNkZzRPMjQwZ3B4T1FkSHg0NzRHSG5OU1M2Qk0?oc=5",
+   "date": "2026-02-25",
+   "summary": "TikTok Shop美区政策生变！自发货保住了  雨果跨境",
+   "body": "TikTok Shop美区政策生变！自发货保住了  雨果跨境",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nb93ff9fb08",
+   "category": "政策",
+   "company": "",
+   "title": "Meta muse首支电视广告：AI产品大众传播与破圈策略解析 - CSDN",
+   "source": "CSDN",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBPU0NfYkNBT2J2d3JRdk1iRmE5UVIxX0RqR3RJb2tieFhMaEtJQ19iVXhSX1JDdGJKT1cyYUZLT1pGLThrVUZNSkp0ZmVmTlp6UW5mU1c5Y2hLMVcwUDFJ?oc=5",
+   "date": "2026-11-03",
+   "summary": "Meta muse首支电视广告：AI产品大众传播与破圈策略解析  CSDN",
+   "body": "Meta muse首支电视广告：AI产品大众传播与破圈策略解析  CSDN",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "na77eddeca1",
+   "category": "政策",
+   "company": "",
+   "title": "谷歌更新广告政策 禁止AI生成公众人物模仿广告 - 凤凰网",
+   "source": "凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9TSlMtWHFJcUhmVUgyU2JLRlNmOWhkRmJqNlEtMFQyNF9nSl84R1htUXRCaWJvNEhseFQ3bmZJa3B1LVdDQ2tkOFNqdm4?oc=5",
+   "date": "2026-11-12",
+   "summary": "谷歌更新广告政策 禁止AI生成公众人物模仿广告  凤凰网",
+   "body": "谷歌更新广告政策 禁止AI生成公众人物模仿广告  凤凰网",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n316e119ebe",
+   "category": "客户",
+   "company": "",
+   "title": "前第四范式总裁创业，用营销AI Agent解构内容社交平台的“营销玄学”，已获千万元融资 - 36氪",
+   "source": "36氪",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1pWi1wdmNxZ05xREZXVDJ1ZnRqWFZ6ekhiVlFGNm9rQVJIazh2cDNJMEpEV01SUnFZQUQwSzQ5NVVZajVyamV0dUVfb0Rydw?oc=5",
+   "date": "2026-01-18",
+   "summary": "前第四范式总裁创业，用营销AI Agent解构内容社交平台的“营销玄学”，已获千万元融资  36氪",
+   "body": "前第四范式总裁创业，用营销AI Agent解构内容社交平台的“营销玄学”，已获千万元融资  36氪",
+   "tags": [
+    "客户",
+    "融资",
+    "Agent"
+   ]
+  },
+  {
+   "id": "nac282de158",
+   "category": "消费者",
+   "company": "",
+   "title": "抖音“520”消费趋势观察：95后下单量同比增长57%，50岁以上增长76% - 亿欧",
+   "source": "亿欧",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9GQ01RY2Q5ampYbHRQMktlTVRrTGowTGUtdkdZMHFEeDI4YWgyZUNtU2JRd3V4bkRuckVlaHhjWklyb0tDb29yM3M1VVhtenhOSFhBMQ?oc=5",
+   "date": "2026-05-19",
+   "summary": "抖音“520”消费趋势观察：95后下单量同比增长57%，50岁以上增长76%  亿欧",
+   "body": "抖音“520”消费趋势观察：95后下单量同比增长57%，50岁以上增长76%  亿欧",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n09b3f9c803",
+   "category": "消费者",
+   "company": "",
+   "title": "2026春夏抖音电商时尚消费趋势报告 - 发现报告",
+   "source": "发现报告",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1ma1NIanZZM1VCQmczTk1DTzN3WTZySUktWUlNcnExazFOLTc2dWRXcTE1RjVHZ2ZrZFVkdVJ6QkxGUXBLdC1pdWJmWWItbmxW?oc=5",
+   "date": "2026-01-09",
+   "summary": "2026春夏抖音电商时尚消费趋势报告  发现报告",
+   "body": "2026春夏抖音电商时尚消费趋势报告  发现报告",
+   "tags": [
+    "消费者"
+   ]
+  },
   {
    "id": "nacedb71765",
    "category": "竞品",
@@ -5537,206 +5736,6 @@ window.KB_DATA = {
    "body": "钛动科技李述昊：AI大规模商业化应用难现“GPT时刻”，要在日新月异的积累中走向细分行业  新浪网",
    "tags": [
     "竞品"
-   ]
-  },
-  {
-   "id": "n91681a7fd8",
-   "category": "竞品",
-   "company": "",
-   "title": "AI搜索营销公司Profound获1.8亿美元D轮融资，估值达18亿美元 - TradingView",
-   "source": "TradingView",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yT0N5UDNVaGxWUWYwMDUycHBGQmJLa29RSDBZeWwzXzdWajVqSExLdlFCQU1Kbm9IMC1yY01hVFBMcUc5N3BKWlE5QlZrY3ZVdENsbzIyV21FZlp6bE1mQ0xwVTQ0Zw?oc=5",
-   "date": "2026-09-15",
-   "summary": "AI搜索营销公司Profound获1.8亿美元D轮融资，估值达18亿美元  TradingView",
-   "body": "AI搜索营销公司Profound获1.8亿美元D轮融资，估值达18亿美元  TradingView",
-   "tags": [
-    "竞品",
-    "融资",
-    "AI搜索"
-   ]
-  },
-  {
-   "id": "nea3b6908dc",
-   "category": "行业",
-   "company": "",
-   "title": "纵横通信（603602.SH）涨停复盘：AIGC营销为主线，低空经济增添想象空间 - 财富号",
-   "source": "财富号",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QMnFlRzMwVlVSV0xMY3FXQTlma0kxVzVXd2N0T2hnc3ptUi1xbDJvMGZ1Q05OT21MZVJlcnhOZjhxN1E2OXBfQ0o5QzZLQWVPWUJEbW5KeHNKMnJsUDVkZVFGYkhhcFlzd19B?oc=5",
-   "date": "2026-09-30",
-   "summary": "纵横通信（603602.SH）涨停复盘：AIGC营销为主线，低空经济增添想象空间  财富号",
-   "body": "纵横通信（603602.SH）涨停复盘：AIGC营销为主线，低空经济增添想象空间  财富号",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n14f3f0b4a7",
-   "category": "行业",
-   "company": "",
-   "title": "央视市场研究股份有限公司&国家广告研究院&中国传媒大学广告与品牌学院:《2026中国广告主营销趋势调查报告》 - 发现报告",
-   "source": "发现报告",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1qcWhBSHJwMFJNOGNtcWFCWlVCSlVXNFRjdmhzclFvX1puLUNSdXdwUHFRZlNheTJsei1zSXVRdlJ6WkhPN3ZzY3BCMlNwZDVn?oc=5",
-   "date": "2026-04-28",
-   "summary": "央视市场研究股份有限公司&国家广告研究院&中国传媒大学广告与品牌学院:《2026中国广告主营销趋势调查报告》  发现报告",
-   "body": "央视市场研究股份有限公司&国家广告研究院&中国传媒大学广告与品牌学院:《2026中国广告主营销趋势调查报告》  发现报告",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "nf8fe0d8d72",
-   "category": "行业",
-   "company": "",
-   "title": "2026年网络营销行业分析报告：趋势、竞争与数据洞察 - 新浪财经",
-   "source": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBrcXN1MDQ0UE1OTE9jMU0talo1aFhuN1M5SjNseC1sSlF5aWVPTHY0VThlQThxX0VDblBoY3VlN0xqMEw4S3VqaU5mc2stZVd4cGlSWlhOa2ZaM0czZWRpZThHOGh2VTJSUzdaWW1paw?oc=5",
-   "date": "2026-04-10",
-   "summary": "2026年网络营销行业分析报告：趋势、竞争与数据洞察  新浪财经",
-   "body": "2026年网络营销行业分析报告：趋势、竞争与数据洞察  新浪财经",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n7dfe194478",
-   "category": "行业",
-   "company": "",
-   "title": "AIGC广告乱象如何破题？“以AI治AI”或成行业解法 - 搜狐网",
-   "source": "搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQ0IwamxHd2t4Y001Q21HOFViTGkxT3QyT1JFeDQxcm45ZTdxR05HV25kb0VfV2dTRjJsZTFLc0tIVzd2TTRSeEk3RGUyN1hBNF9IaWdKd2czajZlNXFVYjFzc0x4SWdMRldPYTVjcUFmc0JNNWJrQUZSTl9hUF9QM2xXWmxkZm9G?oc=5",
-   "date": "2026-10-25",
-   "summary": "AIGC广告乱象如何破题？“以AI治AI”或成行业解法  搜狐网",
-   "body": "AIGC广告乱象如何破题？“以AI治AI”或成行业解法  搜狐网",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "nd115dc1514",
-   "category": "行业",
-   "company": "",
-   "title": "中国商务广告协会《生成式引擎优化（GEO）》团体标准发布会在上海成功举办 - 36Kr",
-   "source": "36Kr",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LQ0dQVERaS3QwWW5sV2hRT2FWTDk0Mk1VTGFmMnVhUHJOdmFzTzljZlduXzFLX1VvUTJ5QnZCTkRlMmdOVTVkN2JGOGk2Zw?oc=5",
-   "date": "2026-10-21",
-   "summary": "中国商务广告协会《生成式引擎优化（GEO）》团体标准发布会在上海成功举办  36Kr",
-   "body": "中国商务广告协会《生成式引擎优化（GEO）》团体标准发布会在上海成功举办  36Kr",
-   "tags": [
-    "行业",
-    "GEO",
-    "发布会"
-   ]
-  },
-  {
-   "id": "n6436efb9eb",
-   "category": "行业",
-   "company": "",
-   "title": "当黑灰产学会用AI造假，巨量引擎选择以“AI治AI” - 亿邦动力网",
-   "source": "亿邦动力网",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qUHZpTlhGQmVkaWFFaGYtdldELS1KV3Y4eXlqemQ2aDhHQ1lva1lBTFJqSnRJU2hKNG8yZW9JanNhOVlwRkFpem5iSndfWlBUZFhrTTR3?oc=5",
-   "date": "2026-10-25",
-   "summary": "当黑灰产学会用AI造假，巨量引擎选择以“AI治AI”  亿邦动力网",
-   "body": "当黑灰产学会用AI造假，巨量引擎选择以“AI治AI”  亿邦动力网",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n394816ecad",
-   "category": "行业",
-   "company": "",
-   "title": "人工智能广告评估，激发您的 HI 和创意效率 - Ipsos",
-   "source": "Ipsos",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWDY3WE5TYS1JRzJqVzZiRG4yTWMzNk0tV29WZ1BaRWhxcHE4QjlsNHJ4YnIybE5rY3dzZk9sWlZXejJaTjNJUDg0bFVIQXJhLUtZaHY4M0RWT25hVllEdEN6aTBYdnE5eGZISWdkOVEySThzcW4yTFJBTHhSVWF4Ti1fVE1MXzNnYXBLOW9LcWVWUGx2UlRBX0Z4X0RKX0loa2c?oc=5",
-   "date": "2026-07-01",
-   "summary": "人工智能广告评估，激发您的 HI 和创意效率  Ipsos",
-   "body": "人工智能广告评估，激发您的 HI 和创意效率  Ipsos",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n07ef866c77",
-   "category": "政策",
-   "company": "",
-   "title": "【10月21日跨境电商早报】TikTok Shop美区秋促激励政策落地 - 微博",
-   "source": "微博",
-   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOLTBkZ2piTDJjM0hSMldTa3MxUjFWaWRBTUFBNDJVZUc4MUFqMEhNRmRSZFEtcGloRjBnekNGWUh1YkpMSDdTMmhiMWhRNnV2ZzBQZ29zZFE3dFhhbDBybm5ZdlpDTGdUdWZJOWRReHF2OFR0N1gwb0tGNk1ZMUVVMnZTamM?oc=5",
-   "date": "2026-10-21",
-   "summary": "【10月21日跨境电商早报】TikTok Shop美区秋促激励政策落地  微博",
-   "body": "【10月21日跨境电商早报】TikTok Shop美区秋促激励政策落地  微博",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "n51483fd5a2",
-   "category": "政策",
-   "company": "",
-   "title": "TikTok Shop美区跨境POP发布新锐商家加速计划；美客多Q2营收同增50%丨跨境电商周报 - 亿邦动力",
-   "source": "亿邦动力",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FelBUaUhxLTBVNEZ4ZjZEM2xsZ3pKd2VOT0NnQ2MxVG5rWUNqeXpmNllhVE9NRGRYUWVHMTBuQUJ2SmVDRDNjOHpEb2M3TEZmMzBWTy13?oc=5",
-   "date": "2026-08-09",
-   "summary": "TikTok Shop美区跨境POP发布新锐商家加速计划；美客多Q2营收同增50%丨跨境电商周报  亿邦动力",
-   "body": "TikTok Shop美区跨境POP发布新锐商家加速计划；美客多Q2营收同增50%丨跨境电商周报  亿邦动力",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "n879b9367f2",
-   "category": "政策",
-   "company": "",
-   "title": "谷歌悄然更新隐私政策，允许 Gmail 和 Photos 数据用于广告定向 - 币界网",
-   "source": "币界网",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBWem96OFEwRFI1M1R4WGtITmp4XzBiRkxkWjgxUlFsaHl3LTVmM3YzVGJBU1NKNmRGR2dJT1Z5T3ZxMUt0WlJObWpoOHMyTkc1T2c?oc=5",
-   "date": "2026-10-25",
-   "summary": "谷歌悄然更新隐私政策，允许 Gmail 和 Photos 数据用于广告定向  币界网",
-   "body": "谷歌悄然更新隐私政策，允许 Gmail 和 Photos 数据用于广告定向  币界网",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "nefe02dc5b8",
-   "category": "政策",
-   "company": "",
-   "title": "Google隐私政策新增例外：连接Gmail、照片等数据或影响个性化广告- Google 谷歌 - cnBeta.COM",
-   "source": "cnBeta.COM",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1XTFROZUdhUE1GZ1lIVldxazhQeEtxdURWSXNsY2J2UEdZV3pMcGo5emx1UkQ5aFFiYXFMVlZWYjdKSDRyak50UDI1NFJYa2lIUk9VSXB1Wm5IczlBYWJKZg?oc=5",
-   "date": "2026-10-24",
-   "summary": "Google隐私政策新增例外：连接Gmail、照片等数据或影响个性化广告- Google 谷歌  cnBeta.COM",
-   "body": "Google隐私政策新增例外：连接Gmail、照片等数据或影响个性化广告- Google 谷歌  cnBeta.COM",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "n6a7546ca29",
-   "category": "政策",
-   "company": "",
-   "title": "Google 确认例外，Gmail 和 Google 相册数据可用于个性化广告 - Pasquale Pillitteri",
-   "source": "Pasquale Pillitteri",
-   "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUXpiWVVfT3lqdTE0N1lBMl9oZncwU3B4QXBtVEc5Nkg0VjlkbVdMWVBTNVByQjY4WTFEM3BHWVRWQlZ4eG1vdWhkSE5CSV9lN1dKZlRQQ052QUFheS1KX1FUYXFWVVRDQ2xoRnAtYlJYUW1wekhFcFNqNlZ1bWxxN2gyd1dHTDJtU0F3?oc=5",
-   "date": "2026-10-16",
-   "summary": "Google 确认例外，Gmail 和 Google 相册数据可用于个性化广告  Pasquale Pillitteri",
-   "body": "Google 确认例外，Gmail 和 Google 相册数据可用于个性化广告  Pasquale Pillitteri",
-   "tags": [
-    "政策"
-   ]
-  },
-  {
-   "id": "n5ae427461a",
-   "category": "客户",
-   "company": "",
-   "title": "珀莱雅欧洲科创中心实验室正式启用 - 凤凰网",
-   "source": "凤凰网",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9ZRGNOUk5Hem9hZ3FwTjZlT0ppY003NVBmMXI5UUNfSlFRSnJvamJDSkExMjA0SGlzTnpZX0kwTElISkhpaVQxdDdqanQ?oc=5",
-   "date": "2026-10-15",
-   "summary": "珀莱雅欧洲科创中心实验室正式启用  凤凰网",
-   "body": "珀莱雅欧洲科创中心实验室正式启用  凤凰网",
-   "tags": [
-    "客户"
    ]
   }
  ]
