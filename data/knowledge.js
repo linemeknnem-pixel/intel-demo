@@ -1,11 +1,173 @@
 /* 自动生成 by scripts/ingest.py —— 请勿手改 */
 window.KB_DATA = {
  "meta": {
-  "generated": "2026-11-14",
+  "generated": "2026-11-15",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 14 条，合计 400 条"
+  "note": "新增 11 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "n802e0237b5",
+   "category": "竞品",
+   "company": "",
+   "title": "钛动科技港股IPO：规模扩张依赖高杠杆财务模式应收款激增远超收入规模实控人减持、股东清仓离场 - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVHRaQ0IzTEtISmdYZjVXYm9objR4MmJrTG5fV1BmaWJEbjAycGpvZmFSWDJOZndzWmEwX0dZdUN6S1BYWnZENDF2WGQ3X0EwQVRMcXhOVkhjOFRocmNfSGlMbk5ucV9xZmdYbGthV29PendPZVpNQVNqY2lCQmdROEZzZ2w?oc=5",
+   "date": "2026-03-06",
+   "summary": "钛动科技港股IPO：规模扩张依赖高杠杆财务模式应收款激增远超收入规模实控人减持、股东清仓离场  新浪财经",
+   "body": "钛动科技港股IPO：规模扩张依赖高杠杆财务模式应收款激增远超收入规模实控人减持、股东清仓离场  新浪财经",
+   "tags": [
+    "竞品",
+    "IPO"
+   ]
+  },
+  {
+   "id": "n91681a7fd8",
+   "category": "竞品",
+   "company": "",
+   "title": "AI搜索营销公司Profound获1.8亿美元D轮融资，估值达18亿美元 - TradingView",
+   "source": "TradingView",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE0yT0N5UDNVaGxWUWYwMDUycHBGQmJLa29RSDBZeWwzXzdWajVqSExLdlFCQU1Kbm9IMC1yY01hVFBMcUc5N3BKWlE5QlZrY3ZVdENsbzIyV21FZlp6bE1mQ0xwVTQ0Zw?oc=5",
+   "date": "2026-09-15",
+   "summary": "AI搜索营销公司Profound获1.8亿美元D轮融资，估值达18亿美元  TradingView",
+   "body": "AI搜索营销公司Profound获1.8亿美元D轮融资，估值达18亿美元  TradingView",
+   "tags": [
+    "竞品",
+    "融资",
+    "AI搜索"
+   ]
+  },
+  {
+   "id": "n2f74788d4b",
+   "category": "竞品",
+   "company": "",
+   "title": "融资12亿，收入暴涨300%：一家AI广告公司爆了 - 36Kr",
+   "source": "36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5wQUw5Q1NIVUFPbFBmQ1JGNVBCd3h1ZWRMblllNUNrX1FGN2VPUkJkaG5TN1NjSmNXdmtBYTNGelhUcFpsazc1dnd6YWRJZw?oc=5",
+   "date": "2026-09-20",
+   "summary": "融资12亿，收入暴涨300%：一家AI广告公司爆了  36Kr",
+   "body": "融资12亿，收入暴涨300%：一家AI广告公司爆了  36Kr",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "n0a07735ce7",
+   "category": "行业",
+   "company": "",
+   "title": "AI自有光丨AIGC引发智能化营销变革 梅赛德斯-奔驰周娟：科技为营销插上翅膀 - 每日经济新闻",
+   "source": "每日经济新闻",
+   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1SMjlpOFdnZzJDVEVqc1UwbGxrSENiaFI3TlUydVBpbHF1ejlUVG04TjBQOVBwR2Rwa1k1aVltekg3NEJwREZhWW9BSEFyLS1iUjlhbXFtZnNOYThUVzdKZlRfblJPQQ?oc=5",
+   "date": "2026-04-26",
+   "summary": "AI自有光丨AIGC引发智能化营销变革 梅赛德斯-奔驰周娟：科技为营销插上翅膀  每日经济新闻",
+   "body": "AI自有光丨AIGC引发智能化营销变革 梅赛德斯-奔驰周娟：科技为营销插上翅膀  每日经济新闻",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "nea3b6908dc",
+   "category": "行业",
+   "company": "",
+   "title": "纵横通信（603602.SH）涨停复盘：AIGC营销为主线，低空经济增添想象空间 - 财富号",
+   "source": "财富号",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1QMnFlRzMwVlVSV0xMY3FXQTlma0kxVzVXd2N0T2hnc3ptUi1xbDJvMGZ1Q05OT21MZVJlcnhOZjhxN1E2OXBfQ0o5QzZLQWVPWUJEbW5KeHNKMnJsUDVkZVFGYkhhcFlzd19B?oc=5",
+   "date": "2026-09-30",
+   "summary": "纵横通信（603602.SH）涨停复盘：AIGC营销为主线，低空经济增添想象空间  财富号",
+   "body": "纵横通信（603602.SH）涨停复盘：AIGC营销为主线，低空经济增添想象空间  财富号",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "nd115dc1514",
+   "category": "行业",
+   "company": "",
+   "title": "中国商务广告协会《生成式引擎优化（GEO）》团体标准发布会在上海成功举办 - 36氪",
+   "source": "36氪",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9LQ0dQVERaS3QwWW5sV2hRT2FWTDk0Mk1VTGFmMnVhUHJOdmFzTzljZlduXzFLX1VvUTJ5QnZCTkRlMmdOVTVkN2JGOGk2Zw?oc=5",
+   "date": "2026-10-22",
+   "summary": "中国商务广告协会《生成式引擎优化（GEO）》团体标准发布会在上海成功举办  36氪",
+   "body": "中国商务广告协会《生成式引擎优化（GEO）》团体标准发布会在上海成功举办  36氪",
+   "tags": [
+    "行业",
+    "GEO",
+    "发布会"
+   ]
+  },
+  {
+   "id": "naacd7b78f9",
+   "category": "政策",
+   "company": "",
+   "title": "Google搜索广告增速放缓：AI模式变现承压，市场担忧加剧 - 디지털투데이",
+   "source": "디지털투데이",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPWlp5cUdJaTVPSTdKclFRZi1nU2M1cVh2TGl1UnNhaU1nSnF1QjlLc050aDF5WE1xM01VWm1Qd3RuODctUkw4Nm1PZVJ4bXBkVnpkSENnQzROZEFSQlRlREU2d2xHRTlBYmlpeVl3SEdNVTYyOTFXNmg4SU9CRUg5T3pMUWloeUxGTnczd1l0VmlTWHkySjVrd1Z0TEU4RXJyVV8tQlZZVC0yZkpuMl83N2haZGQyc19zdmF3?oc=5",
+   "date": "2026-11-14",
+   "summary": "Google搜索广告增速放缓：AI模式变现承压，市场担忧加剧  디지털투데이",
+   "body": "Google搜索广告增速放缓：AI模式变现承压，市场担忧加剧  디지털투데이",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n791b5773e3",
+   "category": "客户",
+   "company": "",
+   "title": "珀莱雅与蚂蚁集团数字蚂力达成战略合作：以科技重塑美妆未来 以绿色定义可持续生态 - 雪球",
+   "source": "雪球",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5LcksxbEphVlJER0lFdXBtOTdIRmtiS0N1RmhqQVVCZ1JZZUQ4ZC04WXJDN2ExOVN5aWtjZXJVZkVnY1IyWGpVTE1tVGkxOWly?oc=5",
+   "date": "2025-05-22",
+   "summary": "珀莱雅与蚂蚁集团数字蚂力达成战略合作：以科技重塑美妆未来 以绿色定义可持续生态  雪球",
+   "body": "珀莱雅与蚂蚁集团数字蚂力达成战略合作：以科技重塑美妆未来 以绿色定义可持续生态  雪球",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n7448513e2c",
+   "category": "客户",
+   "company": "",
+   "title": "美妆品牌AI广告频频“翻车”，创意先过合规关 - 凤凰网",
+   "source": "凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5MWWRoQjFWNzA1NmNmUk9VN185djZiV255NHBJc3REbzdfcFFzRkZCLU51dk1ZMXZHLS1rcjhrbXZ2WVktV1g3eDVicGU?oc=5",
+   "date": "2026-11-13",
+   "summary": "美妆品牌AI广告频频“翻车”，创意先过合规关  凤凰网",
+   "body": "美妆品牌AI广告频频“翻车”，创意先过合规关  凤凰网",
+   "tags": [
+    "客户",
+    "合规"
+   ]
+  },
+  {
+   "id": "nd3e0c7d77c",
+   "category": "消费者",
+   "company": "",
+   "title": "【营销周报】小红书 10 大年度新品趋势：从「功能」到「共生」 - SocialBeta",
+   "source": "SocialBeta",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5jTlFOMVBmVWlnWDRDUmI3cTlLdHlqTzlPcWtaa0o2cUFkWkc3RWFKbTRGejBTSGNObVRfXzBqQk9sZ3pSU25panJGMkZaUQ?oc=5",
+   "date": "2026-03-15",
+   "summary": "【营销周报】小红书 10 大年度新品趋势：从「功能」到「共生」  SocialBeta",
+   "body": "【营销周报】小红书 10 大年度新品趋势：从「功能」到「共生」  SocialBeta",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n6d9b90c0bb",
+   "category": "消费者",
+   "company": "",
+   "title": "小红书2026种草趋势：“适我主义”如何重塑中国消费者决策 - China Trading Desk",
+   "source": "China Trading Desk",
+   "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxPM3V3bUtPYTNRemlyLXNpS0Q3ak5kUTkxOGY0eFBhNUt4eFdmV3FjRk1WNkZDVEFMZlAyV1I0eXVHT2FuVlFlWGQ4ampQTDZ6RFF2bDJzQjR6dWoxZDExTzFOTkJNWWItS3F0RC15dWdHcGRoM1Fpd2NkOWZ2TmFNLXFuQnU2aGhnUVdITk1iYThibjNKWm9RV2x3UlU2YXJPMUMxcC13QjdIRmdTbGxIb01TM05CTUxyYVFpMjFUWVNUWWVMX1pLcG1DYWZDOVFLTUtNM0Zrb3NFM0VtOEd2OU1xdnNMMWtKXzhFVko0UmFXRUhLTHVuUVU5RHdPbGxNVW94Z0hOQlR1ZnlQeGlmNnhoOEhSZ0pudVE5alV0NEdMQWVPTGh5clZ3TGc2SV9wb1J1VHl1UGRxaHJVOEJlV3J2MTA1aUVOTm41WFFrZ2R1U3pqNG1JOTFFSllFeUluaWFxYVczRE1FY1p6Q0RsWXk5b1haZw?oc=5",
+   "date": "2026-09-04",
+   "summary": "小红书2026种草趋势：“适我主义”如何重塑中国消费者决策  China Trading Desk",
+   "body": "小红书2026种草趋势：“适我主义”如何重塑中国消费者决策  China Trading Desk",
+   "tags": [
+    "消费者",
+    "种草"
+   ]
+  },
   {
    "id": "n02092bfbe9",
    "category": "竞品",
@@ -5580,162 +5742,6 @@ window.KB_DATA = {
    "body": "【Meta AI投资成果显著】广告收入增长26%·Muse快速增长！为巨额投资做准备设立“新类股票”，对股价有何影响？  Moomoo",
    "tags": [
     "政策"
-   ]
-  },
-  {
-   "id": "n3deff3eaff",
-   "category": "政策",
-   "company": "",
-   "title": "谷歌或将利用Gmail和相册数据定向投放广告-人工智能 - 至顶网",
-   "source": "至顶网",
-   "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1FOTk1Sm5PX1ZFR0lFQXBveVJ3UzlMS2w5d1JLUWxYdU54bDMtLTZOREhCbE5UZEV5UVN2ZlJOZm10Y3Bsb0dzUUdra19EWVF1TGREeUg2Y003QzBmNEE?oc=5",
-   "date": "2026-10-26",
-   "summary": "谷歌或将利用Gmail和相册数据定向投放广告-人工智能  至顶网",
-   "body": "谷歌或将利用Gmail和相册数据定向投放广告-人工智能  至顶网",
-   "tags": [
-    "政策",
-    "投放"
-   ]
-  },
-  {
-   "id": "nbabd16f744",
-   "category": "客户",
-   "company": "",
-   "title": "百亿美妆品牌珀莱雅首次设立CDO：向AI找增量 - Morketing",
-   "source": "Morketing",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBDNGZqZUs1amFERDBvcHFPTnIxQm9FaXpDdnhFQndHUlA3eHpUX3RqcmRHdDE0eWN3NkJXZ3YyWWloRGl2SkVvbk83SHdYaXc?oc=5",
-   "date": "2025-05-06",
-   "summary": "百亿美妆品牌珀莱雅首次设立CDO：向AI找增量  Morketing",
-   "body": "百亿美妆品牌珀莱雅首次设立CDO：向AI找增量  Morketing",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "n890f18d9ab",
-   "category": "客户",
-   "company": "",
-   "title": "知名美妆品牌“翻车”，AI营销乱象频发 - 财富号",
-   "source": "财富号",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JeFZXdlRib0R0MXN4Y0wwZDRpWmxtaTRXZmRuS190aHNTcHR1eTJxNXo1aDNMa2g3T2swZWdyTVl3TkFGaTJ2b0lGdDZId0NVTlVkZWl4Y3NoUXpBZkdEZ3I1U3VUOXRZQ2t3?oc=5",
-   "date": "2026-10-04",
-   "summary": "知名美妆品牌“翻车”，AI营销乱象频发  财富号",
-   "body": "知名美妆品牌“翻车”，AI营销乱象频发  财富号",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "n60aad05b90",
-   "category": "客户",
-   "company": "",
-   "title": "钛镁AI成为中国商务广告协会数字营销专业委员会理事单位 - 新京报",
-   "source": "新京报",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81Wk5WT29MWGxBbkw5al9FVHo3VXgydGpsZFE4dzlId0U0azFZM0NsS0tVYmFXUDJWUmlDejQwbWxoYl9INHQ4eGdJMHMxYktIcm5SR01peFl5emFIcUIxQ2dn?oc=5",
-   "date": "2026-06-02",
-   "summary": "钛镁AI成为中国商务广告协会数字营销专业委员会理事单位  新京报",
-   "body": "钛镁AI成为中国商务广告协会数字营销专业委员会理事单位  新京报",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "n10e4a2afc8",
-   "category": "消费者",
-   "company": "",
-   "title": "小红书：2026小红书自建房趋势报告-新乡居一代 - 新浪财经",
-   "source": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5qcV9PYVRmeXVhb3RZN3lPQnhpS3B1VDYxUXZRYXlaZmQ5RlRXckdXLWFPSGFMdGRNZXpCMFEwcGlMYnhTZG95MTFNY1QyRHFqa2hOVmJJWmxBS2oxLVJJOXpQTkRjTlRzbXRscUo5NnZOSnc0b21UdA?oc=5",
-   "date": "2026-10-23",
-   "summary": "小红书：2026小红书自建房趋势报告-新乡居一代  新浪财经",
-   "body": "小红书：2026小红书自建房趋势报告-新乡居一代  新浪财经",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "nee800fef46",
-   "category": "消费者",
-   "company": "",
-   "title": "酒店“转场”：在抖音，从卖房到卖一段旅行 - 环球旅讯",
-   "source": "环球旅讯",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zc3k5THlVMTVGTEJ5QWpfbGozUzAycF8wZm5Sai1IUjF5U2hURThCcFFnTnZoc0Z6bUNxYjJOVW9HaTRSWThQaXRLV092bnNOd0FHYQ?oc=5",
-   "date": "2026-10-22",
-   "summary": "酒店“转场”：在抖音，从卖房到卖一段旅行  环球旅讯",
-   "body": "酒店“转场”：在抖音，从卖房到卖一段旅行  环球旅讯",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "ne927f1d5f4",
-   "category": "消费者",
-   "company": "",
-   "title": "4月抖音月报 | 夏季消费趋势凸显，场景化营销成关键 - AgeClub",
-   "source": "AgeClub",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rdW0yZE1rUFRwNFRNemNpZnFBWkFfVnppeEcxOVAwcTdRVDhXdlN6TTBiV3FyUzQxNmtFenpGeWswWllnNEpBUGdmSEFwLXZSRUlR?oc=5",
-   "date": "2026-05-22",
-   "summary": "4月抖音月报 | 夏季消费趋势凸显，场景化营销成关键  AgeClub",
-   "body": "4月抖音月报 | 夏季消费趋势凸显，场景化营销成关键  AgeClub",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n47a0d33f2e",
-   "category": "消费者",
-   "company": "",
-   "title": "种草情报局|小红书宠物营销,9月趋势洞察 - 今日流媒体",
-   "source": "今日流媒体",
-   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CWXdVeF95MDNlUG9PbWpjUEt2N0VHVm4tQmRyMUlJWl9iU0dUR19fY3k1aXQ0dVExYU9pcXBkSktDMFdUMDdXTDZERFVIX3I3c2lZZGxiMlZ3eW8?oc=5",
-   "date": "2026-09-28",
-   "summary": "种草情报局|小红书宠物营销,9月趋势洞察  今日流媒体",
-   "body": "种草情报局|小红书宠物营销,9月趋势洞察  今日流媒体",
-   "tags": [
-    "消费者",
-    "种草"
-   ]
-  },
-  {
-   "id": "n13e27f406a",
-   "category": "竞品",
-   "company": "",
-   "title": "越理解人，AI才越有用——专访特赞科技Tezign总裁王雨婷 - 新华网上海频道",
-   "source": "新华网上海频道",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YbGhiVHhjRjZ1RUIwdjMxaXFFRGlzMjJndVhNdVNuWHk3NWllVWtjbkZsZGNyX3RjRjlKR0U4VTlaVlBZVHBRUkhLZmtwUzFjWklQaF93WXp5MlFua3EybzkxU2VJZHRIbUFLampZNFkycTQ4?oc=5",
-   "date": "2026-10-24",
-   "summary": "越理解人，AI才越有用——专访特赞科技Tezign总裁王雨婷  新华网上海频道",
-   "body": "越理解人，AI才越有用——专访特赞科技Tezign总裁王雨婷  新华网上海频道",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "n4a63dc6a80",
-   "category": "竞品",
-   "company": "",
-   "title": "特赞科技创始人范凌：“我一直想做的事情就是把科技带到创意领域里” - 上海新闻",
-   "source": "上海新闻",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PRUJrN1pqdU1DMWlwZk5yMzZOc1RuTzRVLUZtclFKaEl5LWZpQ1F5WkdKZ0hoWUJXNjh3SmFyOWRrTXhwd2pCbjl1VnM0dkg1NkpyaWJNalZnbGQwVmNuYzlvdjI2X2NtSmZHVQ?oc=5",
-   "date": "2025-04-30",
-   "summary": "特赞科技创始人范凌：“我一直想做的事情就是把科技带到创意领域里”  上海新闻",
-   "body": "特赞科技创始人范凌：“我一直想做的事情就是把科技带到创意领域里”  上海新闻",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "nbdd3de7ca2",
-   "category": "竞品",
-   "company": "",
-   "title": "钛动科技李述昊：AI大规模商业化应用难现“GPT时刻”，要在日新月异的积累中走向细分行业 - 新浪网",
-   "source": "新浪网",
-   "url": "https://news.google.com/rss/articles/CBMiogVBVV95cUxPTHBlcUh3eWtSZWx2MmhYbWg4Y1R3dGpqVUc2UC1ybDIzYU1fdGd2MVBkeTVZbndYbkRZekY1VzEyNlJ2SVRScXA5Wk9hRXZGLWdNdlN2RVNyaFRySzlTX3QySXJZaEUzeE9UdE90ZG9NMThEa3lrX0JZSWFWNHVOeUYzQWs0NkFzcG5mNlo4WTNmVEh2WjgyY3dwbUREQVVvcUZQNHpjenZ1cG4wZkxKWUJEZFNjS2F3c0NFMmJHVWZ2MUdJWGc3TkI5eDdlT19ib2dTckJnZXQ1eDY2LWxBczFDMzA2YmV4SnowMzZUdkJNeS01U0hhRG1uNmpEdzdrVHVnWDY0N3pfejFTVzF3ZXNoc1hxS05XTWFkMHVwaUppMjJ6YjYwSlkyMFdjbXBxbEdoblVaTFJIZ3pEeGNkR0N5UDhIczZqalVvTnR0YXZHbGtFRGRTU0NJeGZLUVY4MVNKLXR5dDVOTUZ2ei1LeUluaFFkMGllTHd5aE53WmQ4bkJzby1tLTh5Qk11ck5BMGk0VlQyUEVmN2RJSVpHVzI0V1g0Ql9LMXJHT3FUWFU3N1RURlBDTEh2ODFZa1ZjaHBNN2FvRG9XT3N5NTR0NXNUME1QQU5iMHk2eFhLQ1lrZko0Q0lvaU5XWGZhVVdKc2NHNVQ0R2QxNVoteWFSMkJCb0xuc2J6WW9hUkxkamdId3NXR09KM1pDWDlVQjBGVHN1b25XZUxpUXVyeUdTMUdldHhEVlN2dVl1Z2dtMFo1UHZ6NzJTWTFNeGNZQzM2RGRSVnN6NWxxenhGU2FRbnZEdUxCSjkwcGZDNGk0STk3YmY5QWZSWjl4bkJKX2JBdHp1YjdGRTU4djNKMl9tbXhUZDlkNjdqX0dhWW1VbUFqQQ?oc=5",
-   "date": "2026-10-25",
-   "summary": "钛动科技李述昊：AI大规模商业化应用难现“GPT时刻”，要在日新月异的积累中走向细分行业  新浪网",
-   "body": "钛动科技李述昊：AI大规模商业化应用难现“GPT时刻”，要在日新月异的积累中走向细分行业  新浪网",
-   "tags": [
-    "竞品"
    ]
   }
  ]
