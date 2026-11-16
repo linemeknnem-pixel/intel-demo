@@ -1,11 +1,183 @@
 /* 自动生成 by scripts/ingest.py —— 请勿手改 */
 window.KB_DATA = {
  "meta": {
-  "generated": "2026-11-15",
+  "generated": "2026-11-16",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 11 条，合计 400 条"
+  "note": "新增 12 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "n13e27f406a",
+   "category": "竞品",
+   "company": "",
+   "title": "越理解人，AI才越有用——专访特赞科技Tezign总裁王雨婷 - 新华网上海频道",
+   "source": "新华网上海频道",
+   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YbGhiVHhjRjZ1RUIwdjMxaXFFRGlzMjJndVhNdVNuWHk3NWllVWtjbkZsZGNyX3RjRjlKR0U4VTlaVlBZVHBRUkhLZmtwUzFjWklQaF93WXp5MlFua3EybzkxU2VJZHRIbUFLampZNFkycTQ4?oc=5",
+   "date": "2026-10-24",
+   "summary": "越理解人，AI才越有用——专访特赞科技Tezign总裁王雨婷  新华网上海频道",
+   "body": "越理解人，AI才越有用——专访特赞科技Tezign总裁王雨婷  新华网上海频道",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n4a63dc6a80",
+   "category": "竞品",
+   "company": "",
+   "title": "特赞科技创始人范凌：“我一直想做的事情就是把科技带到创意领域里” - 上海新闻",
+   "source": "上海新闻",
+   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PRUJrN1pqdU1DMWlwZk5yMzZOc1RuTzRVLUZtclFKaEl5LWZpQ1F5WkdKZ0hoWUJXNjh3SmFyOWRrTXhwd2pCbjl1VnM0dkg1NkpyaWJNalZnbGQwVmNuYzlvdjI2X2NtSmZHVQ?oc=5",
+   "date": "2025-04-30",
+   "summary": "特赞科技创始人范凌：“我一直想做的事情就是把科技带到创意领域里”  上海新闻",
+   "body": "特赞科技创始人范凌：“我一直想做的事情就是把科技带到创意领域里”  上海新闻",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n0658123edb",
+   "category": "竞品",
+   "company": "",
+   "title": "钛动科技携手阿里云万镜一刻，验证AI创意规模化落地路径 - 雪球",
+   "source": "雪球",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5JMGFkMTdLUUhNQS0xZnRkUEtIdnNoYzFUY1d0Sl9QLWhkdUFPWVNCUmFoOTVLQjU3b0w4RDN4Yi1CQmRTNFQyTHBuSXFQYndF?oc=5",
+   "date": "2026-05-26",
+   "summary": "钛动科技携手阿里云万镜一刻，验证AI创意规模化落地路径  雪球",
+   "body": "钛动科技携手阿里云万镜一刻，验证AI创意规模化落地路径  雪球",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n7307cde695",
+   "category": "竞品",
+   "company": "",
+   "title": "估值366亿！AI视频独角兽又融资，英特尔投了 - 智东西",
+   "source": "智东西",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9laEwtdm04RU04eDg4VUJPZ3RBZnZkZVQ3YkVRaHB3NXY4bzZsRGxSbHNybVZRNmJERk1VcUVidGtPUlFBQ3hjRw?oc=5",
+   "date": "2026-08-17",
+   "summary": "估值366亿！AI视频独角兽又融资，英特尔投了  智东西",
+   "body": "估值366亿！AI视频独角兽又融资，英特尔投了  智东西",
+   "tags": [
+    "竞品",
+    "融资",
+    "独角兽"
+   ]
+  },
+  {
+   "id": "n25e9ed8548",
+   "category": "政策",
+   "company": "",
+   "title": "Meta为Muse投电视广告：AI创作工具大众化传播与产品逻辑解析 - CSDN",
+   "source": "CSDN",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9zSDRVVEhJcFl4OVdUaVhFOEpKVHVkSW9CaTNIYXUxcGk3dS1zOEdneVlrT3ZvMlN6aW9tZ1poZHJnWk1YV2MtX3M2Z3dmcHNJTDB1YWxiYnFtZkVYU1pz?oc=5",
+   "date": "2026-11-03",
+   "summary": "Meta为Muse投电视广告：AI创作工具大众化传播与产品逻辑解析  CSDN",
+   "body": "Meta为Muse投电视广告：AI创作工具大众化传播与产品逻辑解析  CSDN",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "na8bbf716ed",
+   "category": "政策",
+   "company": "",
+   "title": "谷歌调整K-12教育AI政策：Gemini、搜索等服务默认关闭 - 凤凰网科技",
+   "source": "凤凰网科技",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5RYkhzTlFZTjNoXzEzYk1nYXE5NUpsRm1EVUhTdDdxRUxPYjNkSDdHc1N4eDN2SUpHWVJJdkRFSlhMY0NsVFJ2TEVrV0M?oc=5",
+   "date": "2026-11-04",
+   "summary": "谷歌调整K-12教育AI政策：Gemini、搜索等服务默认关闭  凤凰网科技",
+   "body": "谷歌调整K-12教育AI政策：Gemini、搜索等服务默认关闭  凤凰网科技",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n9193f190ce",
+   "category": "客户",
+   "company": "",
+   "title": "美妆品牌AI广告频频“翻车”，创意先过合规关 - 手机新浪网",
+   "source": "手机新浪网",
+   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQ1BhUmhqWnJlVHRYc2NkalhWYk84c0tRT3NvSTUtOWx4Tjdrb2NadV94TlJyMDNmUmI4TV8zMEh2NVlYc1hUaWpZaGRDbFdhTGl3bG9yZjhkdzBFOFE4TUJWWm1lTk5XSmJfV3RZdjJFOExfTV9ZVmIzTElLZTlISjhUVDdCQUEzLXlpaVVRZw?oc=5",
+   "date": "2026-11-15",
+   "summary": "美妆品牌AI广告频频“翻车”，创意先过合规关  手机新浪网",
+   "body": "美妆品牌AI广告频频“翻车”，创意先过合规关  手机新浪网",
+   "tags": [
+    "客户",
+    "合规"
+   ]
+  },
+  {
+   "id": "n890f18d9ab",
+   "category": "客户",
+   "company": "",
+   "title": "知名美妆品牌“翻车”，AI营销乱象频发 - 财富号",
+   "source": "财富号",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9JeFZXdlRib0R0MXN4Y0wwZDRpWmxtaTRXZmRuS190aHNTcHR1eTJxNXo1aDNMa2g3T2swZWdyTVl3TkFGaTJ2b0lGdDZId0NVTlVkZWl4Y3NoUXpBZkdEZ3I1U3VUOXRZQ2t3?oc=5",
+   "date": "2026-10-04",
+   "summary": "知名美妆品牌“翻车”，AI营销乱象频发  财富号",
+   "body": "知名美妆品牌“翻车”，AI营销乱象频发  财富号",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n60aad05b90",
+   "category": "客户",
+   "company": "",
+   "title": "钛镁AI成为中国商务广告协会数字营销专业委员会理事单位 - 新京报",
+   "source": "新京报",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE81Wk5WT29MWGxBbkw5al9FVHo3VXgydGpsZFE4dzlId0U0azFZM0NsS0tVYmFXUDJWUmlDejQwbWxoYl9INHQ4eGdJMHMxYktIcm5SR01peFl5emFIcUIxQ2dn?oc=5",
+   "date": "2026-06-02",
+   "summary": "钛镁AI成为中国商务广告协会数字营销专业委员会理事单位  新京报",
+   "body": "钛镁AI成为中国商务广告协会数字营销专业委员会理事单位  新京报",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "nee1cf76ab2",
+   "category": "消费者",
+   "company": "",
+   "title": "抖音生活服务2026文旅消费趋势报告：AI重塑用户体验，升级商家经营_行业动态 - 投资界",
+   "source": "投资界",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE82QUQwMWRrdWFTNG8zNHlGd1diVnJLMDhVbUhDUWZwTkl1VFpBQ0hEUHZKdktudlJ4V0JRRVhUZTJxS3gxNGxENm1pSEk2LXR3OW9VaXlNSFQ?oc=5",
+   "date": "2026-06-26",
+   "summary": "抖音生活服务2026文旅消费趋势报告：AI重塑用户体验，升级商家经营_行业动态  投资界",
+   "body": "抖音生活服务2026文旅消费趋势报告：AI重塑用户体验，升级商家经营_行业动态  投资界",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n47a0d33f2e",
+   "category": "消费者",
+   "company": "",
+   "title": "种草情报局|小红书宠物营销,9月趋势洞察 - 流媒体网",
+   "source": "流媒体网",
+   "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CWXdVeF95MDNlUG9PbWpjUEt2N0VHVm4tQmRyMUlJWl9iU0dUR19fY3k1aXQ0dVExYU9pcXBkSktDMFdUMDdXTDZERFVIX3I3c2lZZGxiMlZ3eW8?oc=5",
+   "date": "2026-09-28",
+   "summary": "种草情报局|小红书宠物营销,9月趋势洞察  流媒体网",
+   "body": "种草情报局|小红书宠物营销,9月趋势洞察  流媒体网",
+   "tags": [
+    "消费者",
+    "种草"
+   ]
+  },
+  {
+   "id": "n2b285a44eb",
+   "category": "消费者",
+   "company": "",
+   "title": "2026年的美妆趋势，都藏在年轻人让自己“更好”的愿望里 - 中华网生活",
+   "source": "中华网生活",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBqS1JMYVJFOC14N0pqenVucWdLUEE3RVZxQUdQaFZoVzl6TUZvSXQ1YXZSNFl3a0E3UG9BN1kwTWlVS2YwV3pXSWlDNjlNOXhPWG5FcnJONEFkaE5oc3ZPNjRybw?oc=5",
+   "date": "2026-03-31",
+   "summary": "2026年的美妆趋势，都藏在年轻人让自己“更好”的愿望里  中华网生活",
+   "body": "2026年的美妆趋势，都藏在年轻人让自己“更好”的愿望里  中华网生活",
+   "tags": [
+    "消费者"
+   ]
+  },
   {
    "id": "n802e0237b5",
    "category": "竞品",
@@ -5571,177 +5743,6 @@ window.KB_DATA = {
    "tags": [
     "竞品",
     "Agent"
-   ]
-  },
-  {
-   "id": "nb727424c7a",
-   "category": "竞品",
-   "company": "",
-   "title": "钛动科技李述昊：AI大规模商业化应用难现“GPT时刻”，要在日新月异的积累中走向细分行业 - 新浪财经",
-   "source": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE13NkFjaFE3UXFFUnVhd2lNUE1BMlAtRXNVeVc4dzNYemlsVExDVm5QSUk1WnJ6R2RCVWJhZGZDMExXcWI3dDY5NEtwYmtWTHlVRE9CQ1Fub3ZfR1I2NHdxQ3BYNDhTTERFT2FZM0NjWnlkQ00zMGg2OQ?oc=5",
-   "date": "2026-10-24",
-   "summary": "钛动科技李述昊：AI大规模商业化应用难现“GPT时刻”，要在日新月异的积累中走向细分行业  新浪财经",
-   "body": "钛动科技李述昊：AI大规模商业化应用难现“GPT时刻”，要在日新月异的积累中走向细分行业  新浪财经",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "n6a499f31da",
-   "category": "竞品",
-   "company": "",
-   "title": "钛动科技用账户、素材与预算协同接住每一波流量 - 人工智能",
-   "source": "人工智能",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBEYzBBR2Z4RTRjRFB3WXV5UjRxLXpjbWxJaGZ2aG1QYU5MWTJvQ1ViQjBkcm1fcUpjc25VdGxqVjBGeHk5bFVZR1pCQzdfZVBTekE?oc=5",
-   "date": "2026-10-26",
-   "summary": "钛动科技用账户、素材与预算协同接住每一波流量  人工智能",
-   "body": "钛动科技用账户、素材与预算协同接住每一波流量  人工智能",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "n909d0d48f2",
-   "category": "竞品",
-   "company": "",
-   "title": "钛动科技发布营销智能体Navos Pro，尝试把AI接入出海营销流程 - https://www.caiwennews.com/",
-   "source": "https://www.caiwennews.com/",
-   "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1hYlBvY0Y1SEZDTnZsYXdNUGRMQUN2SWdMVWpMeE93U0dWMFdfTllUbW84UF8tT3BkQ3dENUV2aS1tOGJ0S0pqNmI2MXFnYmR6QjdlRHEyemxIRkxx?oc=5",
-   "date": "2026-10-24",
-   "summary": "钛动科技发布营销智能体Navos Pro，尝试把AI接入出海营销流程  https://www.caiwennews.com/",
-   "body": "钛动科技发布营销智能体Navos Pro，尝试把AI接入出海营销流程  https://www.caiwennews.com/",
-   "tags": [
-    "竞品",
-    "出海"
-   ]
-  },
-  {
-   "id": "n307488795b",
-   "category": "竞品",
-   "company": "",
-   "title": "“90%的出海停留在出口”，钛动科技CEO李述昊：要让AI帮中国出海企业赚钱 - 搜狐网",
-   "source": "搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR3pQY3VwRmptNk9zUGJVYVh0WVNBSkZ5S0hmdjZDMUlISjZLejNBa1ZZTm1CZW91SG14Skwzd0VkaWhtU1F4YlF2S05CVnM0QlNrdldsd29MdU84X25jdzFxT1N3Z3JrU05JNi1KdFA3VEJseUEtOGdvOHF2cDM3VTdFWUcyWG8xeTR6aw?oc=5",
-   "date": "2026-10-26",
-   "summary": "“90%的出海停留在出口”，钛动科技CEO李述昊：要让AI帮中国出海企业赚钱  搜狐网",
-   "body": "“90%的出海停留在出口”，钛动科技CEO李述昊：要让AI帮中国出海企业赚钱  搜狐网",
-   "tags": [
-    "竞品",
-    "出海"
-   ]
-  },
-  {
-   "id": "n8962363843",
-   "category": "竞品",
-   "company": "",
-   "title": "2026年短视频矩阵视频混剪工具三强接入Seedance 2.0背后的商业逻辑 - 财富号",
-   "source": "财富号",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBmZ3U5Zkl3WUh6Sl93d05DNlNXR2ZXOUVOUkliaWJlMkJiZVdpMGw3bkY1czdIdUMzV1Q3VkFHNG5LTE1zenI5UGx0ZzJXQkZEVWpCUE9tcTI5MkNiZ3pqVG9fek5QbjE4X1Zn?oc=5",
-   "date": "2026-05-20",
-   "summary": "2026年短视频矩阵视频混剪工具三强接入Seedance 2.0背后的商业逻辑  财富号",
-   "body": "2026年短视频矩阵视频混剪工具三强接入Seedance 2.0背后的商业逻辑  财富号",
-   "tags": [
-    "竞品",
-    "短视频"
-   ]
-  },
-  {
-   "id": "nac6a0b378f",
-   "category": "行业",
-   "company": "",
-   "title": "“金陵工匠”淬炼AIGC数字营销实战本领 - QQ News",
-   "source": "QQ News",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1rUG1jbVdiT0U5ZGRfUzBUOXNPUnNqbWhaajJEdklQMVMtVS1JUkxrUTVpVlBVYnBTeXVvTmw0QVZaT2dtc1VOT3NTUWI5ZzdLVHhwNER3?oc=5",
-   "date": "2026-09-24",
-   "summary": "“金陵工匠”淬炼AIGC数字营销实战本领  QQ News",
-   "body": "“金陵工匠”淬炼AIGC数字营销实战本领  QQ News",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "ne8041aabe4",
-   "category": "行业",
-   "company": "",
-   "title": "2026中国AI智能体营销趋势与发展报告蓝皮书｜投资分析 - 发现报告",
-   "source": "发现报告",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ESmtmeHY3MTdDRWRBd3poZUxQUXNzcklCa2ZPSDRVZXc4bUk0R2JHdC1WYkFjZWRNNTNLVElLNWFQeWVmTGRTeTYwdEhTVnY0?oc=5",
-   "date": "2026-10-26",
-   "summary": "2026中国AI智能体营销趋势与发展报告蓝皮书｜投资分析  发现报告",
-   "body": "2026中国AI智能体营销趋势与发展报告蓝皮书｜投资分析  发现报告",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "naf3577287f",
-   "category": "行业",
-   "company": "",
-   "title": "AI+营销行业发展白皮书（2026） - AgeClub",
-   "source": "AgeClub",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsLUxrUWFKTGJJX0ozRGlCdWRoWlpDSUhiMDl2cWxRSHVKTWFXb2ROcHo5dHYzT1Vkb3Q5TEVYQlRZM2gyRFk3NkJSLVJVMXRTbUt3Mw?oc=5",
-   "date": "2026-09-03",
-   "summary": "AI+营销行业发展白皮书（2026）  AgeClub",
-   "body": "AI+营销行业发展白皮书（2026）  AgeClub",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n557fe536aa",
-   "category": "行业",
-   "company": "",
-   "title": "智启无境，共擎增长：巨量引擎以AI新质生产力，助力代理商破局增长- 中国日报网 - China Daily",
-   "source": "China Daily",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRjJpQ3ViS3VKZkxaeXV2dVp3ZFpyODhaamIxY1hYVksxZURHeDVvUnFwbVZOVkFGZnFfRm5rb09lTVJPTTBWM2NYRWxOdzNtMktkbnc2NDRKTzJiaTF3MGVuaFFWOG0yQ0FYQzEtaXlabzFpT3dlejNFRW5tdEQ3S1RCYw?oc=5",
-   "date": "2026-04-23",
-   "summary": "智启无境，共擎增长：巨量引擎以AI新质生产力，助力代理商破局增长- 中国日报网  China Daily",
-   "body": "智启无境，共擎增长：巨量引擎以AI新质生产力，助力代理商破局增长- 中国日报网  China Daily",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "nda1cf0ee0d",
-   "category": "行业",
-   "company": "",
-   "title": "AIGC广告治理蓝皮书发布：平台治理延伸至交易履约 - 华尔街见闻",
-   "source": "华尔街见闻",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5ON1RwbjRERWNLQk41UkE0d3hCMDBZaGFVME1JcFJNVlFJTUJUSUowZlJya1NTdUhueFFtWmFMT0I2YmlXUlg1S0RqUWtkMmNoc3l3?oc=5",
-   "date": "2026-10-26",
-   "summary": "AIGC广告治理蓝皮书发布：平台治理延伸至交易履约  华尔街见闻",
-   "body": "AIGC广告治理蓝皮书发布：平台治理延伸至交易履约  华尔街见闻",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n280f4d03e5",
-   "category": "行业",
-   "company": "",
-   "title": "Anthropic 总裁最新访谈：我们坚决不做“AI 伴侣”与广告，AI 研发的终极意义是把时间还给人类 - ChainCatcher",
-   "source": "ChainCatcher",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VT093MG8wNEtHUUJQNVZUS01fTXl0M2JNU3cxUy1oWnFKZWJGekx0V0pjbmZ6WVFmLWhnMVdVVTBVX2JNdWdNMlpRZFVIRjZKa3l4bGxGYw?oc=5",
-   "date": "2026-10-25",
-   "summary": "Anthropic 总裁最新访谈：我们坚决不做“AI 伴侣”与广告，AI 研发的终极意义是把时间还给人类  ChainCatcher",
-   "body": "Anthropic 总裁最新访谈：我们坚决不做“AI 伴侣”与广告，AI 研发的终极意义是把时间还给人类  ChainCatcher",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "nc30e374920",
-   "category": "政策",
-   "company": "",
-   "title": "【Meta AI投资成果显著】广告收入增长26%·Muse快速增长！为巨额投资做准备设立“新类股票”，对股价有何影响？ - Moomoo",
-   "source": "Moomoo",
-   "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOMUxHNFZ4QzRfaEFhTjBDM1BBQ1dkLXVnS0ZMbGhzZGFVUHdhS0VuYkZuX1FwdTRfNjNrLXBtMnQ4ZzBEbE1qSTlIdjVSZWN0dFNGdnRwakowMTh2ZVR6Ym9rOFRJRklrOTJfMERKT29NVWlvblV4dE1haHk0QllnSWR2QVl2VTVlSGItUFFmcmpqemwwTUJ6T3B2WUJqMFpoa05XbXlBZF9PNy1YQzBxclJ1T1NnN1hqNmZNZ2xKRm9iSDhzakc3Ng?oc=5",
-   "date": "2026-10-22",
-   "summary": "【Meta AI投资成果显著】广告收入增长26%·Muse快速增长！为巨额投资做准备设立“新类股票”，对股价有何影响？  Moomoo",
-   "body": "【Meta AI投资成果显著】广告收入增长26%·Muse快速增长！为巨额投资做准备设立“新类股票”，对股价有何影响？  Moomoo",
-   "tags": [
-    "政策"
    ]
   }
  ]
