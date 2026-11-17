@@ -1,10 +1,137 @@
 {
  "meta": {
-  "generated": "2026-11-16",
+  "generated": "2026-11-17",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 12 条，合计 400 条"
+  "note": "新增 9 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "naf3577287f",
+   "category": "行业",
+   "company": "",
+   "title": "AI+营销行业发展白皮书（2026） - AgeClub",
+   "source": "AgeClub",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBsLUxrUWFKTGJJX0ozRGlCdWRoWlpDSUhiMDl2cWxRSHVKTWFXb2ROcHo5dHYzT1Vkb3Q5TEVYQlRZM2gyRFk3NkJSLVJVMXRTbUt3Mw?oc=5",
+   "date": "2026-09-03",
+   "summary": "AI+营销行业发展白皮书（2026）  AgeClub",
+   "body": "AI+营销行业发展白皮书（2026）  AgeClub",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "neac8e88dd9",
+   "category": "行业",
+   "company": "",
+   "title": "Jiro 的“Dropshot AI”内容创作量突破 440 万……7 个月内增长 10 倍 - 벤처스퀘어",
+   "source": "벤처스퀘어",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5sUDdNTzM3ZUdwRkpPVmJxclhYckN5QklIT3NpWFZQMEtFd1lkRkpfcjdYeGV1aUJCUVVRNkFJN0Z4Y2VKVERHZlBRbnpZN2tya1NF?oc=5",
+   "date": "2026-11-16",
+   "summary": "Jiro 的“Dropshot AI”内容创作量突破 440 万……7 个月内增长 10 倍  벤처스퀘어",
+   "body": "Jiro 的“Dropshot AI”内容创作量突破 440 万……7 个月内增长 10 倍  벤처스퀘어",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n40dd4b6ade",
+   "category": "行业",
+   "company": "",
+   "title": "世界杯上的广告，都是AI做的？ - 36Kr",
+   "source": "36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5kSnBQZi1BNFQ2SE9Jam5RcnFpeU5NZlByZDZsekpyNnQyajBfTEZEREhZY0I5LW51WXZncUp0bkxpOEJBVW1KTzRudExaUQ?oc=5",
+   "date": "2026-06-03",
+   "summary": "世界杯上的广告，都是AI做的？  36Kr",
+   "body": "世界杯上的广告，都是AI做的？  36Kr",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n6f4ec17471",
+   "category": "政策",
+   "company": "",
+   "title": "Meta、TikTok和Google反对印尼AI版权法修订草案 - 维度网",
+   "source": "维度网",
+   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1VWGVsdWVCYjNlSG4yRV9OOTZnUldIc3NTUmxIUW5mdHZkdVB2cW1obmhQd3VjbHZwaE5BNGFnLVVCRkJ3am90eFIxTFJjYndxaUVZQ3Uza0c?oc=5",
+   "date": "2026-11-16",
+   "summary": "Meta、TikTok和Google反对印尼AI版权法修订草案  维度网",
+   "body": "Meta、TikTok和Google反对印尼AI版权法修订草案  维度网",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n15730b6bcc",
+   "category": "政策",
+   "company": "",
+   "title": "TikTok 推出 Buy Direct Checkout 和 AI Shopping Assistant - Unite.AI",
+   "source": "Unite.AI",
+   "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNT2VLRmFwVDNHMFdDcXRveE91TG03YVdDLU9aeUt0Q2FzYnFFTy1naHlDTy1RYURqdEJTNkFTX1lxLTU5UW5EZzhPVF9BenBGYXRHY2VTdmVCNk9ISm1CVkxtNDk3SnY1WXBaREY2NUh6VFkwWGJfQl9RU0RPaFhYUldVYWM4eklBR2ZPQ0ZkTGh1Zw?oc=5",
+   "date": "2026-10-05",
+   "summary": "TikTok 推出 Buy Direct Checkout 和 AI Shopping Assistant  Unite.AI",
+   "body": "TikTok 推出 Buy Direct Checkout 和 AI Shopping Assistant  Unite.AI",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n42c26baf53",
+   "category": "政策",
+   "company": "",
+   "title": "TikTok单月分账破亿，2026短剧出海都在卷什么？ - ThePaper.cn",
+   "source": "ThePaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rbzVxMkVXZzM1QUlrTjMtbk1BaTd6d2ZjbU8xQXRvTU9wRGU4bkswR25RUDd0ZmZDcWFKNktpRjdNWGczTkFDVDc0dnhWcElGR0VkWjFqU2c5VHNka2VHZw?oc=5",
+   "date": "2026-05-26",
+   "summary": "TikTok单月分账破亿，2026短剧出海都在卷什么？  ThePaper.cn",
+   "body": "TikTok单月分账破亿，2026短剧出海都在卷什么？  ThePaper.cn",
+   "tags": [
+    "政策",
+    "出海"
+   ]
+  },
+  {
+   "id": "n65586cbe82",
+   "category": "政策",
+   "company": "",
+   "title": "谷歌调整K-12教育AI政策：Gemini、搜索等服务默认关闭 - 凤凰网",
+   "source": "凤凰网",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBMUUdYODdkUWZUbTdYcU9BbjhORW5Yb1ZWQ3dxZ2pUVTB2NE9BTlhRSlJMQTVibWNYdXUzWFRSQnZ4ZzFDNkRMMg?oc=5",
+   "date": "2026-11-04",
+   "summary": "谷歌调整K-12教育AI政策：Gemini、搜索等服务默认关闭  凤凰网",
+   "body": "谷歌调整K-12教育AI政策：Gemini、搜索等服务默认关闭  凤凰网",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nccc1a37da6",
+   "category": "消费者",
+   "company": "",
+   "title": "深圳城市趋势报告发布：小红书上民间交流火热，共同呈现“未来生活样板间” - ThePaper.cn",
+   "source": "ThePaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE43ZnBHQlpJWGpBT0hGQ0hFRWpVYVpFY1d1NWxlOEdRZmxOd002cElQVTdsd1JoNDBYT2U4OEZMOW02YkhhLUU0amRiRHh2cFNTR09NTVZGUWZKVHh3QzRSVA?oc=5",
+   "date": "2026-11-16",
+   "summary": "深圳城市趋势报告发布：小红书上民间交流火热，共同呈现“未来生活样板间”  ThePaper.cn",
+   "body": "深圳城市趋势报告发布：小红书上民间交流火热，共同呈现“未来生活样板间”  ThePaper.cn",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n7822e43d60",
+   "category": "消费者",
+   "company": "",
+   "title": "小红书联合南方日报发布《2026小红书深圳未来城市趋势观察报告》 - Sohu",
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQdkE4dEt0cGN0Yi14SUN4UmxzWDBWcml2YXZZQ3hJUkdHM1ZPLXhXR2llc1ZLczJUeHV2VUFRdTNyTUxGTmFHY3VBMnNVVXFxWFJwT3VYWFYtSWZFdzN6ZklPU19iVTI5NXFIOC1sdG5SLXJRSzhWT2RfYmszM0NjX2hBMGFrVUxrN0cyQw?oc=5",
+   "date": "2026-11-16",
+   "summary": "小红书联合南方日报发布《2026小红书深圳未来城市趋势观察报告》  Sohu",
+   "body": "小红书联合南方日报发布《2026小红书深圳未来城市趋势观察报告》  Sohu",
+   "tags": [
+    "消费者"
+   ]
+  },
   {
    "id": "n13e27f406a",
    "category": "竞品",
@@ -5612,136 +5739,6 @@
    "tags": [
     "客户",
     "出海"
-   ]
-  },
-  {
-   "id": "n589e8975df",
-   "category": "客户",
-   "company": "",
-   "title": "【报名开启】Wati受邀出席Shopify官方大会｜9.19深圳共探AI赋能独立站增长新路径 - 中华网",
-   "source": "中华网",
-   "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1heGVHQ0Ftdkk5NElhRVRMR1VUVFZCT194aWU4RXlsc0g5S3dSX19IVUtjUHRCWllUbzlPLXNkYlFfUjg3eDNwS05Ob3MwTWhfNW9ZUGZJT29PRk9PUzJKU2JDZlhKQmlRYzhueQ?oc=5",
-   "date": "2025-08-25",
-   "summary": "【报名开启】Wati受邀出席Shopify官方大会｜9.19深圳共探AI赋能独立站增长新路径  中华网",
-   "body": "【报名开启】Wati受邀出席Shopify官方大会｜9.19深圳共探AI赋能独立站增长新路径  中华网",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "n516af9641d",
-   "category": "客户",
-   "company": "",
-   "title": "3000字干货 一文读懂DTC品牌出海四大要点 - 雨果跨境",
-   "source": "雨果跨境",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE0tZmh2VWhYakV6NmhkVzV0aWhOUll5bTFQdzBTSGVGcUVmT3BHV21BTWY0bkF1R29WWkxLNEc2QXpSMWlDY3dGUTJiSnM?oc=5",
-   "date": "2021-12-10",
-   "summary": "3000字干货 一文读懂DTC品牌出海四大要点  雨果跨境",
-   "body": "3000字干货 一文读懂DTC品牌出海四大要点  雨果跨境",
-   "tags": [
-    "客户",
-    "出海"
-   ]
-  },
-  {
-   "id": "n7dd21abbf7",
-   "category": "客户",
-   "company": "",
-   "title": "DTC品牌出海靠什么“行稳致远”？GTC2026 Shenzhen这场活动为您解答 - 白鲸出海",
-   "source": "白鲸出海",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE02MzNRTHB1NFlVX19KZTFxQ3VjZFloS1F6WWNFaU1CRUJjSTE2NVAwMHlJeFE4U21laENmRzFlQU1xNThPZlFvWnIwMzU?oc=5",
-   "date": "2026-04-20",
-   "summary": "DTC品牌出海靠什么“行稳致远”？GTC2026 Shenzhen这场活动为您解答  白鲸出海",
-   "body": "DTC品牌出海靠什么“行稳致远”？GTC2026 Shenzhen这场活动为您解答  白鲸出海",
-   "tags": [
-    "客户",
-    "出海"
-   ]
-  },
-  {
-   "id": "n234b957d36",
-   "category": "消费者",
-   "company": "",
-   "title": "双节前《2026小红书兴趣游趋势报告》发布，县域游搜索环比增长达旅游品类2.8倍 - 凤凰网",
-   "source": "凤凰网",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9xNmsta0V3QVNUNm8zcF9xN2FHYWZ4blIyRldVbnFwdWVCWmIzVUR3eW9MSlNfNUhXN3gtczhiSUhuWWdsZ3g1OHBXb0k?oc=5",
-   "date": "2026-09-24",
-   "summary": "双节前《2026小红书兴趣游趋势报告》发布，县域游搜索环比增长达旅游品类2.8倍  凤凰网",
-   "body": "双节前《2026小红书兴趣游趋势报告》发布，县域游搜索环比增长达旅游品类2.8倍  凤凰网",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n5a79e5c729",
-   "category": "消费者",
-   "company": "",
-   "title": "抖音2026文旅消费趋势报告：内容激发文旅体验经济 - 新浪财经",
-   "source": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1faVJYYldZVC0xOWVUTS1uaWFCVjFkck5XRHY1OUMyM2E5SjJPcXY4bnpzSUJGV2lJWnNJUmtRT0R2Wm9UVnZrTGNLUTVDNU5QVDBjMXR6OU5vcE52RDRyZURkdzZkbHVSZ19VZGlZQWJZNEJySkFaeQ?oc=5",
-   "date": "2026-06-15",
-   "summary": "抖音2026文旅消费趋势报告：内容激发文旅体验经济  新浪财经",
-   "body": "抖音2026文旅消费趋势报告：内容激发文旅体验经济  新浪财经",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n85955ba78b",
-   "category": "消费者",
-   "company": "",
-   "title": "不只种草，更能履约，抖音生活服务做实本地生意全链路 - 潮新闻客户端",
-   "source": "潮新闻客户端",
-   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9lbzhvTGZsaV9KendiU1hXVVpFYnk0U3V3aktsNW9aNGR4WDc4cEhLVmhhSVo5LXpiSU8tSW1uZVFha2xFSmc1c2F2M0NOT3dsOU80MndfbXM1M2t4WGYyMWlxTlZ3WERHUjhpM2lJdzVwcEU?oc=5",
-   "date": "2026-04-21",
-   "summary": "不只种草，更能履约，抖音生活服务做实本地生意全链路  潮新闻客户端",
-   "body": "不只种草，更能履约，抖音生活服务做实本地生意全链路  潮新闻客户端",
-   "tags": [
-    "消费者",
-    "种草"
-   ]
-  },
-  {
-   "id": "ndfbc05497f",
-   "category": "竞品",
-   "company": "",
-   "title": "AI成为生产力，钛动科技发布营销业首个Pro级智能体 - 搜狐网",
-   "source": "搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZWVjOUZMN2dFcG90aDRzQVFrYzYySUl3U2VJTnhsQ3JyN0VRbzJIWXZqOGJidFRvdHBvbUk0Z21fV25hWVRfTXVkRzAyVjNWNGE1WFNBeVZtNjFndDBaNXE5bC15LVdHemc2NGxBNnhvbTVwQW5rZm5qSjBkT0NsblFiZDQ2SWhPa0ZrTw?oc=5",
-   "date": "2026-10-26",
-   "summary": "AI成为生产力，钛动科技发布营销业首个Pro级智能体  搜狐网",
-   "body": "AI成为生产力，钛动科技发布营销业首个Pro级智能体  搜狐网",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "n0225255e54",
-   "category": "竞品",
-   "company": "",
-   "title": "瞄准8-10万亿市场，钛动科技TGC 2026大会现场拆解AI for Work增长框架 - 凤凰网",
-   "source": "凤凰网",
-   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBfMmwyV2YyZlVlYjV2UTJZeFI4a1E4SkJCSURqNjZqV2RIYUpHT3V2bzhjVnFiUU5BSVZ2LUE5c1lYaWR3T1FCTjMzU1diV0U?oc=5",
-   "date": "2026-10-26",
-   "summary": "瞄准8-10万亿市场，钛动科技TGC 2026大会现场拆解AI for Work增长框架  凤凰网",
-   "body": "瞄准8-10万亿市场，钛动科技TGC 2026大会现场拆解AI for Work增长框架  凤凰网",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "nd6790e653b",
-   "category": "竞品",
-   "company": "",
-   "title": "你的AI还在烧Token，行业首个Pro Agent已经开始赚钱了 - 智东西",
-   "source": "智东西",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5zMFh3RFR6aEZqV3dWeEJucF9FZDhRNjdFcUVTZG8xQmoxQ2FTakRKblNKZXBQYWJkam5OZDNDLVBNV1F0SENCMQ?oc=5",
-   "date": "2026-10-26",
-   "summary": "你的AI还在烧Token，行业首个Pro Agent已经开始赚钱了  智东西",
-   "body": "你的AI还在烧Token，行业首个Pro Agent已经开始赚钱了  智东西",
-   "tags": [
-    "竞品",
-    "Agent"
    ]
   }
  ]
