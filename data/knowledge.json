@@ -1,10 +1,196 @@
 {
  "meta": {
-  "generated": "2026-11-18",
+  "generated": "2026-11-19",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 15 条，合计 400 条"
+  "note": "新增 13 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "n853356d1fb",
+   "category": "竞品",
+   "company": "",
+   "title": "港股AI上市潮再添新军！钛动科技递表港交所 卡位Multi-Agent第一股 - 财联社",
+   "source": "财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFA5X1ZfMEs2U2RfcWxPQnM4bkp1N1Z2WjdNSi1YZTE2R2h1WDFNcW1aVzhXQi1oOXg2MjZxbUVXcEJ5c3h0R1R6RQ?oc=5",
+   "date": "2026-03-02",
+   "summary": "港股AI上市潮再添新军！钛动科技递表港交所 卡位Multi-Agent第一股  财联社",
+   "body": "港股AI上市潮再添新军！钛动科技递表港交所 卡位Multi-Agent第一股  财联社",
+   "tags": [
+    "竞品",
+    "Agent"
+   ]
+  },
+  {
+   "id": "n80d3e5c503",
+   "category": "竞品",
+   "company": "",
+   "title": "从“买AI工具”到统一管理营销能力，筷子科技推出KP钱包 - Morketing",
+   "source": "Morketing",
+   "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE50eVhsRWNTejUzZGVKcG1rdUpoTTItUUo4WnJ2T2RmZjNwSG1iR0NxMUw4dk1RNGw3bHB4Rlh4UV9wSGM2TzN4Sy1GODVlblE?oc=5",
+   "date": "2026-08-31",
+   "summary": "从“买AI工具”到统一管理营销能力，筷子科技推出KP钱包  Morketing",
+   "body": "从“买AI工具”到统一管理营销能力，筷子科技推出KP钱包  Morketing",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "n1f95421d2b",
+   "category": "竞品",
+   "company": "",
+   "title": "「筷子科技Kuaizi」完成近亿元B轮融资 - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBoMjNqc3pMdkxrVUsteG9BbTlXUWVFMWxQbU5YdUUzN0ZSc0xxWF9kX0kySDYtWnJtVEVLQVo1SHZ0dVladmxxek4wdW8zazJGX0RuQzBibmNmclZHZDlhNHZYMV9iWVd6Y3JRc2lNeHJYanRON05VYXM2aVpqcG8?oc=5",
+   "date": "2025-06-24",
+   "summary": "「筷子科技Kuaizi」完成近亿元B轮融资  新浪财经",
+   "body": "「筷子科技Kuaizi」完成近亿元B轮融资  新浪财经",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "n14b1a5495f",
+   "category": "行业",
+   "company": "",
+   "title": "专题：2025AI营销市场发展研究报告 - ThePaper.cn",
+   "source": "ThePaper.cn",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HM09oRkVpejVCaGJURHQ1WkdUdU5NOTBQWkF6bG5wMmprZ1NiWGdrSmpSd3Z6V1dwN3JKREx1bktsaC11VFAyRnlXOEcyZEpucE1pNUpNalFQVjdaNTVJVw?oc=5",
+   "date": "2025-07-08",
+   "summary": "专题：2025AI营销市场发展研究报告  ThePaper.cn",
+   "body": "专题：2025AI营销市场发展研究报告  ThePaper.cn",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n65ac3d18c8",
+   "category": "行业",
+   "company": "",
+   "title": "【活动】《2026 汽车社交营销实战与趋势报告》深度解读：六大趋势，看懂 AI 时代的车企分水岭 - SocialBeta",
+   "source": "SocialBeta",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBwSXBiWGY2bUxCWXpSTmhFb0ZjWWk1bEhyNS15d1U3bl96TFVWOUdfTzVpa2FKQmhsaUVROHB4NjVVM1NVOUVaVFppVW9aUQ?oc=5",
+   "date": "2026-05-25",
+   "summary": "【活动】《2026 汽车社交营销实战与趋势报告》深度解读：六大趋势，看懂 AI 时代的车企分水岭  SocialBeta",
+   "body": "【活动】《2026 汽车社交营销实战与趋势报告》深度解读：六大趋势，看懂 AI 时代的车企分水岭  SocialBeta",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "nc5427acbda",
+   "category": "政策",
+   "company": "",
+   "title": "Google 学校 AI 政策因搜索访问问题引发 Mamdani 的垄断批评 - remio",
+   "source": "remio",
+   "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWFVnRVpPdWZzcVlkc19zV0VxYUFJVzZjVVVrWnZ0Z2d4eWVPZUxtYzNBdzY5al83RnRpOFpOeFgwdGdEYWQ4T1dhSGxvR2hfN0FBUkJVdWNSLVNLOTdyVkNZN1pjMVdQVEc2WGdtQUF3OUtJWWVLRlk5YS1FMEl4Q3BhemZhNEt3WE1BcGVIdkItNDl4UmxtZ2lhcHluZl8xUGZIRWlreHFpVVlI?oc=5",
+   "date": "2026-11-09",
+   "summary": "Google 学校 AI 政策因搜索访问问题引发 Mamdani 的垄断批评  remio",
+   "body": "Google 学校 AI 政策因搜索访问问题引发 Mamdani 的垄断批评  remio",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "nf369247704",
+   "category": "政策",
+   "company": "",
+   "title": "谷歌《2024广告安全报告》：AI大模型重塑数字广告安全新格局 - 经济观察网",
+   "source": "经济观察网",
+   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE44OFRQT29SRzh2TkpyZkhMbUM4TThrM1k5RnEyRjV5ZmNyamJRTDBERC02ZmRhaWFjT3NLSTNDcnVFVUc1X2pCcTgwdm85MEY0SUY2d0Q0cw?oc=5",
+   "date": "2025-04-17",
+   "summary": "谷歌《2024广告安全报告》：AI大模型重塑数字广告安全新格局  经济观察网",
+   "body": "谷歌《2024广告安全报告》：AI大模型重塑数字广告安全新格局  经济观察网",
+   "tags": [
+    "政策",
+    "大模型"
+   ]
+  },
+  {
+   "id": "na900caa2ce",
+   "category": "客户",
+   "company": "",
+   "title": "行业对谈|珀莱雅首席科学官黄虎：从线粒体抗衰到多领域融合，预见美妆科研新趋势 - 新华网",
+   "source": "新华网",
+   "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPT2Y3WTlPb0RmdHc2dDFDcU5NQXlhMHBzbDE3SzlITEV0ZE9wMFFwVHpNdW93M1V2X2xFRGppVTVxM2wxZjJfRWFRZ2d6YVJDQTFScTRQZ1d6Z0t1MDJWU2w5MURzYVRxYWF1X0ptdUVmRVo2NlMzMTZjcnIzLUdzb2dn?oc=5",
+   "date": "2025-09-29",
+   "summary": "行业对谈|珀莱雅首席科学官黄虎：从线粒体抗衰到多领域融合，预见美妆科研新趋势  新华网",
+   "body": "行业对谈|珀莱雅首席科学官黄虎：从线粒体抗衰到多领域融合，预见美妆科研新趋势  新华网",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "nc650b0217a",
+   "category": "客户",
+   "company": "",
+   "title": "“家具渡河”“床垫挡炮”，AI营销短剧岂能猎奇无底线 - 封面新闻",
+   "source": "封面新闻",
+   "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1yVnlORDdDdUdXVVBzbERualVUWFhHV1pkUXR6SDNqYkdYcE9nVkgySHp2bEJTeWNGclhvQWR1OWFYRjF1SFdFRjJXVmNTd3A0ejZGLThFTkZtTU5JanhnSTJLZ29GR3g4XzUtb2VkM1FKem9VZExZ?oc=5",
+   "date": "2026-06-19",
+   "summary": "“家具渡河”“床垫挡炮”，AI营销短剧岂能猎奇无底线  封面新闻",
+   "body": "“家具渡河”“床垫挡炮”，AI营销短剧岂能猎奇无底线  封面新闻",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "nf9199b4260",
+   "category": "客户",
+   "company": "",
+   "title": "安永提出抖音全链路AI营销提效方案 建联周期从7天缩短至2天 - 观点网",
+   "source": "观点网",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4wNGw2WWc4VDJPS0NlMGUxQ05LZFloVXFJTTl1SGl0aEh2NUo0LXVkZ1hQTC1mbXZuUWw3YXVSX2loc2gxckt2UEZWOVlaMUJ0LUpQQUN1bV84eXhjb3hoUGFR?oc=5",
+   "date": "2026-11-16",
+   "summary": "安永提出抖音全链路AI营销提效方案 建联周期从7天缩短至2天  观点网",
+   "body": "安永提出抖音全链路AI营销提效方案 建联周期从7天缩短至2天  观点网",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n9d92b95c48",
+   "category": "消费者",
+   "company": "",
+   "title": "深圳城市趋势报告发布：小红书上民间交流火热，APEC带动下，搜索深圳的海外用户人数同比增长66% - Sohu",
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPek9sVEx6VVVLSkFFejNjeWJIbG0zT1VIMXZYMUM5NXFCVjlMZzJLa0RmS1g2ai0zMFZzUTNLaFk5U3RuTl9jZzJvQmkwZUFJLVlUQUJPbS15RkJOLUh5MVV3b0lnZUczTG1pR0hCVVJReGJLQndQUjlOc2xLR0k5VG5wYnVTNUE4?oc=5",
+   "date": "2026-11-17",
+   "summary": "深圳城市趋势报告发布：小红书上民间交流火热，APEC带动下，搜索深圳的海外用户人数同比增长66%  Sohu",
+   "body": "深圳城市趋势报告发布：小红书上民间交流火热，APEC带动下，搜索深圳的海外用户人数同比增长66%  Sohu",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "ne927f1d5f4",
+   "category": "消费者",
+   "company": "",
+   "title": "4月抖音月报 | 夏季消费趋势凸显，场景化营销成关键 - AgeClub",
+   "source": "AgeClub",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5rdW0yZE1rUFRwNFRNemNpZnFBWkFfVnppeEcxOVAwcTdRVDhXdlN6TTBiV3FyUzQxNmtFenpGeWswWllnNEpBUGdmSEFwLXZSRUlR?oc=5",
+   "date": "2026-05-22",
+   "summary": "4月抖音月报 | 夏季消费趋势凸显，场景化营销成关键  AgeClub",
+   "body": "4月抖音月报 | 夏季消费趋势凸显，场景化营销成关键  AgeClub",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "nff37aeeee8",
+   "category": "消费者",
+   "company": "",
+   "title": "小红书：出行趋势制造机，文旅种草新阵地 - 环球旅讯",
+   "source": "环球旅讯",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1YRmhqYVhTT0JKTG1sakd3QnIzSzFMeXl6T3BiYUMzTjFheF9BcFB2NTZseURZLXBCczl1azN3eFhadHFDQm9YMzhRMnF3TlBoMlE?oc=5",
+   "date": "2023-10-25",
+   "summary": "小红书：出行趋势制造机，文旅种草新阵地  环球旅讯",
+   "body": "小红书：出行趋势制造机，文旅种草新阵地  环球旅讯",
+   "tags": [
+    "消费者",
+    "种草"
+   ]
+  },
   {
    "id": "n880b8dfc23",
    "category": "竞品",
@@ -5558,190 +5744,6 @@
    "tags": [
     "政策",
     "投放"
-   ]
-  },
-  {
-   "id": "n479cd5cc58",
-   "category": "客户",
-   "company": "",
-   "title": "珀莱雅首位CDO上任，国货美妆龙头打造全域数字竞争力 - ELLE China",
-   "source": "ELLE China",
-   "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pLWJTTlBmMXUyLVNUbHFLejdLWFdPemJ2S0QzXzJPRzRYUW8yZWxKY0xtUXdxQUFPMmpDM0NJSUxFZlVKcS1ZOWVTRzNLQ0lyVDVVMW4tNUZEcUgwT2NTU2ZQRERSR0JuVTBRWnNVYVpfX3VnMldFNngxX29Sdw?oc=5",
-   "date": "2025-04-14",
-   "summary": "珀莱雅首位CDO上任，国货美妆龙头打造全域数字竞争力  ELLE China",
-   "body": "珀莱雅首位CDO上任，国货美妆龙头打造全域数字竞争力  ELLE China",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "nd530a845d8",
-   "category": "客户",
-   "company": "",
-   "title": "虎嗅智库举办线上研讨：AI正在重塑日化美妆内容生产链 - 虎嗅网",
-   "source": "虎嗅网",
-   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE03OE1GdzF2UUE3WElnMkxaQmxwZGY3MnJmR1BoWVBKMmFYTy04WU9UVVA2TUtwNklYNVdDV0pwenBVVUdqeVRSZXRFTTNGQ0RnTXc?oc=5",
-   "date": "2026-09-20",
-   "summary": "虎嗅智库举办线上研讨：AI正在重塑日化美妆内容生产链  虎嗅网",
-   "body": "虎嗅智库举办线上研讨：AI正在重塑日化美妆内容生产链  虎嗅网",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "n49746aa69c",
-   "category": "客户",
-   "company": "",
-   "title": "综合行业周报：AI应用企业业绩持续兑现，双十一美妆经营表现稳健_行业研究_研报 - 证券之星",
-   "source": "证券之星",
-   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBwM0xIQ1Y4OTVFZ3Y5Vk5YMFBUNF91Wm5NU0ZYQmRGMm5BaGtQaFJzWEd3dFUtVy1sMkhrLTVJZzlBQjl5aU42N3NMbzY1NDdyc0dRX2hEMnJ5eVNlMzVWNkZB?oc=5",
-   "date": "2026-10-26",
-   "summary": "综合行业周报：AI应用企业业绩持续兑现，双十一美妆经营表现稳健_行业研究_研报  证券之星",
-   "body": "综合行业周报：AI应用企业业绩持续兑现，双十一美妆经营表现稳健_行业研究_研报  证券之星",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "nf095915d7d",
-   "category": "客户",
-   "company": "",
-   "title": "【回放】AI 引擎驱动新增长：跨境电商的智能运营、AI 增长方法论与全链路提效 - 雨果跨境",
-   "source": "雨果跨境",
-   "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1uYmFhcFRmMmc2dDkyb1BCWjVmMmVpQVlmY0xvMnc2cE9ERkdOV2U0bFBGTXdXZ0N3WThFdmFmT2R6U0U5ZlJGNXlR?oc=5",
-   "date": "2026-10-09",
-   "summary": "【回放】AI 引擎驱动新增长：跨境电商的智能运营、AI 增长方法论与全链路提效  雨果跨境",
-   "body": "【回放】AI 引擎驱动新增长：跨境电商的智能运营、AI 增长方法论与全链路提效  雨果跨境",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "nbaaf09001b",
-   "category": "消费者",
-   "company": "",
-   "title": "新加坡旅游局×小红书报告揭示赴新旅游新趋势 - TTG China",
-   "source": "TTG China",
-   "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQTXVOMk5aajZNRkEzOGtkQXhVc0g5MkVaMXlpMjlGQ2VHWUZCV25yUFFkTnMzUy16WGlJWnVORmM0Z3pjeWoyTnh4RlppWlB6WU43Z1FiLUtwNlRxRUpaYU11ZldmWmNTNUk4X2FmT3QtZXllTDcyY0lJeG9TYXlrQkkxX1diSG1KMXBPR2tCdHFvQnBaSXdMSDhwRWtTVGZpYTVMVTlHNndGZjVzUDJvak1Sa1BmQTM1SUlRbnhlbkpMY1hoa3puS3BJZU95TGhpcHQxQnlTcW5sWElrc0VOT3YzTjRFSkVjemkxT1ZCY2JHQ2VkTTVvZnlGZ3ZSRXhsTEVNc3pEOHVFbU02bDB2bWFmc3l3S0oyYmpOUGVnbU1rZVgzN2lMU09GRlRlZE5jbFhpcG14ZTladw?oc=5",
-   "date": "2026-06-01",
-   "summary": "新加坡旅游局×小红书报告揭示赴新旅游新趋势  TTG China",
-   "body": "新加坡旅游局×小红书报告揭示赴新旅游新趋势  TTG China",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "nbc2bedcf4f",
-   "category": "消费者",
-   "company": "",
-   "title": "小红书2026年度居住趋势：正在向“全龄友好”转变 - AgeClub",
-   "source": "AgeClub",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1PTWRSWDdMNXh4NlRGNl9HdFE2OGFFRGMtTDFObGc5MmVuRldfd1BDNWtFOE1uZHRZWVRpcTkyck12S2xKdDl4UHRvcm45WVJ6RlhN?oc=5",
-   "date": "2026-04-28",
-   "summary": "小红书2026年度居住趋势：正在向“全龄友好”转变  AgeClub",
-   "body": "小红书2026年度居住趋势：正在向“全龄友好”转变  AgeClub",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "ne276153d0d",
-   "category": "竞品",
-   "company": "",
-   "title": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济 - 中华网",
-   "source": "中华网",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGYUc5cUpva0JFVHcxamFhb19iSlpyVUJ2dUxEcUF5RFE0Z19EeF95elpoeTNmdHg2MkR3ZWdtcE9KRjNVNlVCR29wX0EtekRWeEFKWVJVSEtVck5haEQ0QzdLdy12TG0zR0VUdEhn?oc=5",
-   "date": "2026-07-17",
-   "summary": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济  中华网",
-   "body": "同济教授、特赞创始人范凌做客WAIC央视直播间，谈人工智能赋能实体经济  中华网",
-   "tags": [
-    "竞品",
-    "直播"
-   ]
-  },
-  {
-   "id": "n23a3a80963",
-   "category": "竞品",
-   "company": "",
-   "title": "特赞科技 Tezign 发布内容人工智能 Content + AI 新产品 - SocialBeta",
-   "source": "SocialBeta",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBvSDBfVzZrakhlZkplTC00b1MxZGxNNDBjVDNKNVV6TWN6bjhVVTFHVXNkbmwzX1VLQnROYU5XN1JqT0lVcjBldngwWWYyQQ?oc=5",
-   "date": "2024-09-27",
-   "summary": "特赞科技 Tezign 发布内容人工智能 Content + AI 新产品  SocialBeta",
-   "body": "特赞科技 Tezign 发布内容人工智能 Content + AI 新产品  SocialBeta",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "ne81c9a0ad8",
-   "category": "竞品",
-   "company": "",
-   "title": "破解AI时代的“索洛悖论”，特赞科技发布智能体转型共建计划 - 搜狐网",
-   "source": "搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aSE11U2J6QWRZZDdMUGtwTzkxWU9qTEQ2dFlZX1RzMk54TDA4QmZNLUI2dGttU0g5N1FMSTZ4X2hidk1aUVdCSy1JYTliM2NWRWhzV1c1NE5xbHJMdlJULVZMSUZ6Q3AxRDNN?oc=5",
-   "date": "2026-10-23",
-   "summary": "破解AI时代的“索洛悖论”，特赞科技发布智能体转型共建计划  搜狐网",
-   "body": "破解AI时代的“索洛悖论”，特赞科技发布智能体转型共建计划  搜狐网",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "n12cdc9e23c",
-   "category": "竞品",
-   "company": "",
-   "title": "行业千亿美元豪赌AI，钛动李述昊：应用的“GPT时刻”等不来 - 21财经",
-   "source": "21财经",
-   "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPV2JRaTJQb1dzcGt6bkltbGZ5ZFdBdXRHbWxocmZNYW9nR1phUXNCeVlzNEFWRENSZkdqc3RtbTNNVmxIUG5DSUEwdWFHWVMxWGQ4SlNBazY4V29YdzEyWG1TbFRVRVRxdnByVHRSMmttUDhNS245YndvQzRINXRmQ1J4YmFTZ3VpbU9TcVhqWQ?oc=5",
-   "date": "2026-10-27",
-   "summary": "行业千亿美元豪赌AI，钛动李述昊：应用的“GPT时刻”等不来  21财经",
-   "body": "行业千亿美元豪赌AI，钛动李述昊：应用的“GPT时刻”等不来  21财经",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "nff6a601ec8",
-   "category": "竞品",
-   "company": "",
-   "title": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会 - 雷峰网",
-   "source": "雷峰网",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5YdUdyWS1zeXJpazlfalZSVF8yc3ZBMGh5c2RZTlhMbTZ4UnItWHYzOFQ2bmg5TTFSN2xxXzRmSTVyQ3hDWjB3bDRKQ1JYQU1EbExTMmU3ZkJRV0VZbE9hQ1dRdDR6YXJ0YkZpOEJuNXFXVUhJ?oc=5",
-   "date": "2026-10-23",
-   "summary": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会  雷峰网",
-   "body": "钛动科技发布行业首个Pro-Agent, Navos Pro定义结果导向的AI for Work | TGC 2026科技增长大会  雷峰网",
-   "tags": [
-    "竞品",
-    "Agent"
-   ]
-  },
-  {
-   "id": "n4297a33c46",
-   "category": "竞品",
-   "company": "",
-   "title": "钛动科技李述昊：AI大规模商业化应用难现“GPT时刻”，要在日新月异的积累中走向细分行业 - 每日经济新闻",
-   "source": "每日经济新闻",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBTbFM3TU85R2lCaFJzb3BkZVIyd09HaE92SEZaczVkMW1ueXBZQ09qVlZsSGx6ay11RFdlVVFqZ0hjdHlaV3NadHFaRGJ3R0JQSEJzWXlOdWdReWw1YUZpemNSVEZvUQ?oc=5",
-   "date": "2026-10-24",
-   "summary": "钛动科技李述昊：AI大规模商业化应用难现“GPT时刻”，要在日新月异的积累中走向细分行业  每日经济新闻",
-   "body": "钛动科技李述昊：AI大规模商业化应用难现“GPT时刻”，要在日新月异的积累中走向细分行业  每日经济新闻",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "n3907c7a19b",
-   "category": "竞品",
-   "company": "",
-   "title": "上影昊浦完成昊帧影视创制平台部署，软硬协同升级AI影视创制生态 - 上观新闻",
-   "source": "上观新闻",
-   "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9SdjZRZDVycHlXa2N1RGRHWS1xbk5OUWxobDZ0RDFaWmR2V3NtSTBPd3ViVWZ1NzlOT2hSa0JQYVMzMVNGSGd1cEtBZzBJNG15Sm15MzlMTnFuUQ?oc=5",
-   "date": "2026-08-24",
-   "summary": "上影昊浦完成昊帧影视创制平台部署，软硬协同升级AI影视创制生态  上观新闻",
-   "body": "上影昊浦完成昊帧影视创制平台部署，软硬协同升级AI影视创制生态  上观新闻",
-   "tags": [
-    "竞品"
    ]
   }
  ]
