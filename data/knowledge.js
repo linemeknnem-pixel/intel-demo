@@ -1,11 +1,199 @@
 /* 自动生成 by scripts/ingest.py —— 请勿手改 */
 window.KB_DATA = {
  "meta": {
-  "generated": "2026-11-21",
+  "generated": "2026-11-22",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 15 条，合计 400 条"
+  "note": "新增 13 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "ne2c3d842de",
+   "category": "竞品",
+   "company": "",
+   "title": "奥创光年完成千万美元A轮融资，用AI提升全域营销效率 - Sohu",
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0wS2pLNkpsbDJJRF9pOXJWVlo3RDhxLTZXbkF3cjBJM0s4RC03WVBMNmZzZE1NY0xILTJLOS1JcWo1dG1zWkxZV2k3dE1YMHhqUzgwbA?oc=5",
+   "date": "2023-08-10",
+   "summary": "奥创光年完成千万美元A轮融资，用AI提升全域营销效率  Sohu",
+   "body": "奥创光年完成千万美元A轮融资，用AI提升全域营销效率  Sohu",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "n4b5dd958f0",
+   "category": "竞品",
+   "company": "",
+   "title": "首发| 物自体科技完成新一轮战略融资，以 BOOT 推动企业级 AI 营销从工具走向增长系统 - 投资界",
+   "source": "投资界",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14NFpNMEJiclRRV0ZtdVRXR0RFWTFQZno3ZE5YRzd3UUpKN1BGNlpZS0FaZXVDNkNnSlJPQzFHMDdSMzNQQUJMdDRGdThhRWZTOFJ0dlNB?oc=5",
+   "date": "2026-09-03",
+   "summary": "首发| 物自体科技完成新一轮战略融资，以 BOOT 推动企业级 AI 营销从工具走向增长系统  投资界",
+   "body": "首发| 物自体科技完成新一轮战略融资，以 BOOT 推动企业级 AI 营销从工具走向增长系统  投资界",
+   "tags": [
+    "竞品",
+    "融资"
+   ]
+  },
+  {
+   "id": "n803bb1cebe",
+   "category": "行业",
+   "company": "",
+   "title": "正式上线｜知家DAP矩阵智慧营销中台：汽车行业企业级AIGC解决方案- 中国日报网 - China Daily",
+   "source": "China Daily",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNM1RNU2xTRGpJWmdvOUJaZVY4YmdUS3lNNS1PenA3YTMzVkxLU0VIYm1IY3RXeEVNZm5mdlFYLTVoaEZkUUpiMVNrSXp5NG1VNTJRdkVMVUpTblJDSVNwb0xPREEtdFhTemRNZDF2LVBGMmtNRjk0RGVyN3BfaFZMQjV1Yw?oc=5",
+   "date": "2026-07-10",
+   "summary": "正式上线｜知家DAP矩阵智慧营销中台：汽车行业企业级AIGC解决方案- 中国日报网  China Daily",
+   "body": "正式上线｜知家DAP矩阵智慧营销中台：汽车行业企业级AIGC解决方案- 中国日报网  China Daily",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "nef3bbfbb92",
+   "category": "行业",
+   "company": "",
+   "title": "爆火AIGC产品卷翻海外营销：AI一键搞定美工和拍摄，抠图PS设计样样精通，月活迅速破百万 - 华尔街见闻",
+   "source": "华尔街见闻",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9VaEtGV0ZNN0VXN3lrelNUNTlHYkhmSmU1dkhCYXRuZmFMZDF4UEJZaV9aUUhsSGg3b005b1NsS1RGMkV6eFdVUW9ZREtoR08yem9B?oc=5",
+   "date": "2023-04-13",
+   "summary": "爆火AIGC产品卷翻海外营销：AI一键搞定美工和拍摄，抠图PS设计样样精通，月活迅速破百万  华尔街见闻",
+   "body": "爆火AIGC产品卷翻海外营销：AI一键搞定美工和拍摄，抠图PS设计样样精通，月活迅速破百万  华尔街见闻",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "nd1b2ef2bfd",
+   "category": "行业",
+   "company": "",
+   "title": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO - 华尔街见闻",
+   "source": "华尔街见闻",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5YaUJzNUNhTzJiZmNpb2NtY3VteF9ZMER2OEZKY1lvRzU2Y2N6NjY2eTg5dWFjRkFJWmVMeUxOdlpMQ1IycjZOOEJxTU4tR2Fvbm4w?oc=5",
+   "date": "2026-01-12",
+   "summary": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO  华尔街见闻",
+   "body": "新“易中天”横空出世！改写“AI时代广告营销的底层逻辑”：GEO  华尔街见闻",
+   "tags": [
+    "行业",
+    "GEO"
+   ]
+  },
+  {
+   "id": "n4d5c2ec940",
+   "category": "政策",
+   "company": "",
+   "title": "全球广告平台变局与2026出海推广策略：基于2025年数据的趋势洞察与代理商选择- 业界 - 亿邦动力网",
+   "source": "亿邦动力网",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5xYkowemdpbTRXOEVzUWJ1OU01WWVLcXFQUm1lU0F0Q3lRVG1BZ2M4X3hpYTIyWVZrRjFscGptZUpqUHpNeTI5VWlJM0V6eUlsMlRPSDZn?oc=5",
+   "date": "2026-07-14",
+   "summary": "全球广告平台变局与2026出海推广策略：基于2025年数据的趋势洞察与代理商选择- 业界  亿邦动力网",
+   "body": "全球广告平台变局与2026出海推广策略：基于2025年数据的趋势洞察与代理商选择- 业界  亿邦动力网",
+   "tags": [
+    "政策",
+    "出海"
+   ]
+  },
+  {
+   "id": "n2b0c0ab352",
+   "category": "政策",
+   "company": "",
+   "title": "Meta、TikTok 广告流量价格正在集体暴涨 - 虎嗅网",
+   "source": "虎嗅网",
+   "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB4NkRHQjdtQ0RHQTJQNzNRQUx3YjNnWGw0Z0VjSWlpaXhtanprYmFuMno1UEdyZm82VGJpREo5ZlRXU01UTkJBQnlQcklObzNoemc?oc=5",
+   "date": "2025-08-21",
+   "summary": "Meta、TikTok 广告流量价格正在集体暴涨  虎嗅网",
+   "body": "Meta、TikTok 广告流量价格正在集体暴涨  虎嗅网",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n4eb774bdf2",
+   "category": "政策",
+   "company": "",
+   "title": "TikTok短剧首月分账破5000万，AI短剧狂吸百万粉丝 - 雨果跨境",
+   "source": "雨果跨境",
+   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE41R2JMV29LWkUtQk9XY1lRMEtFVVlSbEtrbFdQeXEwbEhNU0R4Q3BDeUMteGlxWHV5WWl4cXFmTG0waEVKdnlfYW9CNzE?oc=5",
+   "date": "2026-03-25",
+   "summary": "TikTok短剧首月分账破5000万，AI短剧狂吸百万粉丝  雨果跨境",
+   "body": "TikTok短剧首月分账破5000万，AI短剧狂吸百万粉丝  雨果跨境",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n04616d44ca",
+   "category": "政策",
+   "company": "",
+   "title": "TikTok分拆结局凸显中国科技企业“出海”难题 - 纽约时报中文网",
+   "source": "纽约时报中文网",
+   "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBWYVU2bU9VelpsM09CUzc0d1JjaERfZXRyT1J2bW5fOE9UUFZtWUFsQ2x2STVxQW1LRTBEb1dDZEdOUjJkNFlOZFpRbTdWV1hTRDY2alNuT0VEYkduLWhSRzdvOU5pbV9XZUpkSGhNd1M4bTA?oc=5",
+   "date": "2026-01-26",
+   "summary": "TikTok分拆结局凸显中国科技企业“出海”难题  纽约时报中文网",
+   "body": "TikTok分拆结局凸显中国科技企业“出海”难题  纽约时报中文网",
+   "tags": [
+    "政策",
+    "出海"
+   ]
+  },
+  {
+   "id": "n3cf4ccbceb",
+   "category": "政策",
+   "company": "",
+   "title": "海外研选 | 高盛：Meta广告业务已验证AI价值 巨额资本开支仍是主要压力 - 财联社",
+   "source": "财联社",
+   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5RcFFzN196MWkwN2NiajhaSGc1OUlDcVdyeU9lVWhIN29Nb2QybEtEekdySFJLN0U3OUVGVG96N2ctaFRrT1B3Rg?oc=5",
+   "date": "2026-07-30",
+   "summary": "海外研选 | 高盛：Meta广告业务已验证AI价值 巨额资本开支仍是主要压力  财联社",
+   "body": "海外研选 | 高盛：Meta广告业务已验证AI价值 巨额资本开支仍是主要压力  财联社",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "ne2981ef9a6",
+   "category": "政策",
+   "company": "",
+   "title": "Google教育AI争议升温，多地学区考虑弃用谷歌搜索-AI应用 - 至顶网",
+   "source": "至顶网",
+   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5GMlZMX19ZRWQzU0JQc0QtYjBvcWk3VEVpTXRPUW1rcmVZTWd4b3BGbndsZUsxcUFJelJZVFc2YkdyeWcwT0dsZExsWjFfdlFzMXBocFB2RTVuX0xmNDI3MFdXVjhGOEVITTlqdG5nYw?oc=5",
+   "date": "2026-11-20",
+   "summary": "Google教育AI争议升温，多地学区考虑弃用谷歌搜索-AI应用  至顶网",
+   "body": "Google教育AI争议升温，多地学区考虑弃用谷歌搜索-AI应用  至顶网",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "ne03a8b6e6d",
+   "category": "客户",
+   "company": "",
+   "title": "钛镁AI GEO易观分析《中国GEO产业图谱与企业竞争力分析报告2026》 - 新华报业网",
+   "source": "新华报业网",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1oWDhibVVCUkhTS3dWWVItb2JzeXRMakx0WHBDRGhwWW1ENkpvajY2a0ctZ21ENmtQOTZaeEdpc1VLMkhLckxwRzJZckl1U0pRUnpVcDZZVW13dnVQRkxQQnlBSXhiaVhScWNR?oc=5",
+   "date": "2026-06-09",
+   "summary": "钛镁AI GEO易观分析《中国GEO产业图谱与企业竞争力分析报告2026》  新华报业网",
+   "body": "钛镁AI GEO易观分析《中国GEO产业图谱与企业竞争力分析报告2026》  新华报业网",
+   "tags": [
+    "客户",
+    "GEO"
+   ]
+  },
+  {
+   "id": "nbaaf09001b",
+   "category": "消费者",
+   "company": "",
+   "title": "新加坡旅游局×小红书报告揭示赴新旅游新趋势 - TTG China",
+   "source": "TTG China",
+   "url": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQTXVOMk5aajZNRkEzOGtkQXhVc0g5MkVaMXlpMjlGQ2VHWUZCV25yUFFkTnMzUy16WGlJWnVORmM0Z3pjeWoyTnh4RlppWlB6WU43Z1FiLUtwNlRxRUpaYU11ZldmWmNTNUk4X2FmT3QtZXllTDcyY0lJeG9TYXlrQkkxX1diSG1KMXBPR2tCdHFvQnBaSXdMSDhwRWtTVGZpYTVMVTlHNndGZjVzUDJvak1Sa1BmQTM1SUlRbnhlbkpMY1hoa3puS3BJZU95TGhpcHQxQnlTcW5sWElrc0VOT3YzTjRFSkVjemkxT1ZCY2JHQ2VkTTVvZnlGZ3ZSRXhsTEVNc3pEOHVFbU02bDB2bWFmc3l3S0oyYmpOUGVnbU1rZVgzN2lMU09GRlRlZE5jbFhpcG14ZTladw?oc=5",
+   "date": "2026-06-01",
+   "summary": "新加坡旅游局×小红书报告揭示赴新旅游新趋势  TTG China",
+   "body": "新加坡旅游局×小红书报告揭示赴新旅游新趋势  TTG China",
+   "tags": [
+    "消费者"
+   ]
+  },
   {
    "id": "n624824a69a",
    "category": "竞品",
@@ -5553,195 +5741,6 @@ window.KB_DATA = {
    "body": "蚂蚁集团数字蚂力与珀莱雅达成战略合作 打造AI智能化应用矩阵  搜狐网",
    "tags": [
     "客户"
-   ]
-  },
-  {
-   "id": "nfbc02a1002",
-   "category": "客户",
-   "company": "",
-   "title": "当增长成为奢侈品，两家巨头先后设立CGO - 36氪",
-   "source": "36氪",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5EM3NmdnN5WkRoalJwSy1jcDhOZ1ByV245c3hQT2xxN0stT3ZBalpyUjBHOVplRlJyeEVQbC15X01hZjJfVHRQWEZXODBOUQ?oc=5",
-   "date": "2026-05-20",
-   "summary": "当增长成为奢侈品，两家巨头先后设立CGO  36氪",
-   "body": "当增长成为奢侈品，两家巨头先后设立CGO  36氪",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "ndb84d8fef1",
-   "category": "客户",
-   "company": "",
-   "title": "AI出海进入深水区：当“能用”不再是问题，什么才是真正的分水岭？ - 白鲸出海",
-   "source": "白鲸出海",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5XaHYtTlV3ZEdGVjhBbUhybjVFa0JhbXZCdVNMRC1sSHVvejR5T0VjUmo0Z21IMnNtT0JaOG5DbVI5N2hSUTB6MlNlQ1E?oc=5",
-   "date": "2026-10-10",
-   "summary": "AI出海进入深水区：当“能用”不再是问题，什么才是真正的分水岭？  白鲸出海",
-   "body": "AI出海进入深水区：当“能用”不再是问题，什么才是真正的分水岭？  白鲸出海",
-   "tags": [
-    "客户",
-    "出海"
-   ]
-  },
-  {
-   "id": "n1afa85e8a1",
-   "category": "客户",
-   "company": "",
-   "title": "活动｜2026 福布斯中国DTC跨境影响力品牌评选盛典圆满落幕 - Forbes China",
-   "source": "Forbes China",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1Qa3otLTFmaVNtM0ZyVmdld3ZlQ3dYdDlOSVk3ZDVIODJXa3FZeUdFMF9IYnJwajF2ZWh4bEhFaTJfSDNKUnBIZ011R004MHJVRFV3MA?oc=5",
-   "date": "2026-05-27",
-   "summary": "活动｜2026 福布斯中国DTC跨境影响力品牌评选盛典圆满落幕  Forbes China",
-   "body": "活动｜2026 福布斯中国DTC跨境影响力品牌评选盛典圆满落幕  Forbes China",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "n6c95cffdaa",
-   "category": "消费者",
-   "company": "",
-   "title": "传声港小红书种草推广白皮书：品牌方小红书营销全链路解决方案 - 中华网",
-   "source": "中华网",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9EaENISWdseER6QzFWT0JQNWZPNnpCZ0E3bWtSWm54UzgxRy1ZNUJmT1BjUXZWT1p2enVpUVhfazRhdElENXc4LUJhSEJGUFNMaVhvXzFwbnNrM1NFLWgtS1NEZ1g1OXZ6STNJenl3?oc=5",
-   "date": "2026-02-05",
-   "summary": "传声港小红书种草推广白皮书：品牌方小红书营销全链路解决方案  中华网",
-   "body": "传声港小红书种草推广白皮书：品牌方小红书营销全链路解决方案  中华网",
-   "tags": [
-    "消费者",
-    "种草"
-   ]
-  },
-  {
-   "id": "nf4e8f56a38",
-   "category": "竞品",
-   "company": "",
-   "title": "特写 | 钛动科技李述昊：等不来的“GPT时刻”，看得见的出海增长 - 观点网",
-   "source": "观点网",
-   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5GbDFjTDBLZ1lFamd1eGFSenFjNnBHOVRXeXA3a3Y0NXlYeFpNRHpfbGR4YTdOek9UYjA2UTZOMFhGb0pVM2FFS0pldlFxUQ?oc=5",
-   "date": "2026-10-29",
-   "summary": "特写 | 钛动科技李述昊：等不来的“GPT时刻”，看得见的出海增长  观点网",
-   "body": "特写 | 钛动科技李述昊：等不来的“GPT时刻”，看得见的出海增长  观点网",
-   "tags": [
-    "竞品",
-    "出海"
-   ]
-  },
-  {
-   "id": "n9525233520",
-   "category": "竞品",
-   "company": "",
-   "title": "钛动科技发布营销智能体Navos Pro，尝试把AI接入出海营销流程|跨境电商|广州市|Agent|广东省|数据_手机新浪网 - finance.sina.com.cn",
-   "source": "finance.sina.com.cn",
-   "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxPSUo5d3JzVko3OGFCRjh5aWl3ajBPUTdyOUs3Vk5XdzNhOHd0am1Za190SmllQ0FTbzJkZV82YjAxbGRueXB4aW9FWnBIMmhOSzg0M0tNS0QzUlVmaFEyTHZ4WWtJOHBISHZ5THV6cXZzRXBpSDRlb2U0RFR4dnlSN2dZSHVZVnFfTlJZSEhhYUpPcjM1TERaeS05RUR1Wl9ta1FYNEF5WHczZEpESTdEamlvNG1lMmZOc016Zk9qRjcyUXc1MURFRGhrdzRhU2EydmNkVXMwcmN1MExvbTYtWTVfMXpCdFA0eExlREh5UnVjS01VNU9keXhXQXpPMVpOQmFsbDNPcmhoSTNkX0J4NmxobWRNUWpOeWxfU2c0QUpfS2ViX2hZNURRbWtCb1pjOU1HSmpoVVBBNU9TNVMtWnVPSG1XcERPc0wyRjR1RFE4M0lGY0tRcUo4MzVzcUc1WU45TkpSMy1QSVUzSGJmOGhTNElValVXa2dwYWViVQ?oc=5",
-   "date": "2026-10-23",
-   "summary": "钛动科技发布营销智能体Navos Pro，尝试把AI接入出海营销流程|跨境电商|广州市|Agent|广东省|数据_手机新浪网  finance.sina.com.cn",
-   "body": "钛动科技发布营销智能体Navos Pro，尝试把AI接入出海营销流程|跨境电商|广州市|Agent|广东省|数据_手机新浪网  finance.sina.com.cn",
-   "tags": [
-    "竞品",
-    "出海",
-    "Agent"
-   ]
-  },
-  {
-   "id": "n8eb598f250",
-   "category": "竞品",
-   "company": "",
-   "title": "AI 应用进入“算账”时代，筷子科技为什么要做一个 KP 钱包？ - 雷峰网",
-   "source": "雷峰网",
-   "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9YVi1oeUlyS2hQczNVTFNfQ29nVFdLZnpVckhCd1FpUGwtRS1pODB0d0l1cUlFYlpRcjY5VXFqLUNIZ3d1bjVfM0pTUF9uMU1ZZVNINGdlOFU1UzQxcVc1VHVJaEw4eFZ4R3J3X1lrNHJudm1l?oc=5",
-   "date": "2026-09-01",
-   "summary": "AI 应用进入“算账”时代，筷子科技为什么要做一个 KP 钱包？  雷峰网",
-   "body": "AI 应用进入“算账”时代，筷子科技为什么要做一个 KP 钱包？  雷峰网",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "nbbaf8cf8f4",
-   "category": "竞品",
-   "company": "",
-   "title": "50 台 DGX + 万亿 Token 补贴：上影与筷子科技打造专业级 AI 片场 - 爱范儿",
-   "source": "爱范儿",
-   "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5NM1g1US1vanM4bmNYMU1Kb0l3VzZIZVBpMHBLYVNlWTEtaHNvYmRzTDVkNTRzZy1vbW85QkRPNWhLRzQ?oc=5",
-   "date": "2026-08-24",
-   "summary": "50 台 DGX + 万亿 Token 补贴：上影与筷子科技打造专业级 AI 片场  爱范儿",
-   "body": "50 台 DGX + 万亿 Token 补贴：上影与筷子科技打造专业级 AI 片场  爱范儿",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "n18ab4d9507",
-   "category": "竞品",
-   "company": "",
-   "title": "AI替代潮之下 跨境电商“卖铲人”还好吗？ - 亿邦动力网",
-   "source": "亿邦动力网",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9POVNqQWdkbGhuOXhxUVlhbzY2bXF4a2FSYlJtcGxsSXZiemZzTUdqMTMyalk3ajcxWmVOMno0MWZPaC1hM0VRS01KQ1BTbE1YS3pTcFJn?oc=5",
-   "date": "2026-04-15",
-   "summary": "AI替代潮之下 跨境电商“卖铲人”还好吗？  亿邦动力网",
-   "body": "AI替代潮之下 跨境电商“卖铲人”还好吗？  亿邦动力网",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "n5d96badc77",
-   "category": "竞品",
-   "company": "",
-   "title": "AI 一天，人间一年：我与 AI 的 2023 - 甲子光年",
-   "source": "甲子光年",
-   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE53dXJ6MV9ydlMtTHFnR1dzRnhlck5KRWZXTHpVbGdYVDA3QnRFTFBUMGsyS0czZDNsM0tSOE1qWUlDYVI4dFF3cGtBU1czNkpIeE5rb2lFVDgyTmlzMWJv?oc=5",
-   "date": "2024-02-07",
-   "summary": "AI 一天，人间一年：我与 AI 的 2023  甲子光年",
-   "body": "AI 一天，人间一年：我与 AI 的 2023  甲子光年",
-   "tags": [
-    "竞品"
-   ]
-  },
-  {
-   "id": "n6358a85596",
-   "category": "竞品",
-   "company": "",
-   "title": "广州这家ChatGPT技术供应商，拿下新融资！ - 智东西",
-   "source": "智东西",
-   "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1Gd0FXRk05R0NYN0VGZVZkYnByT1lsU3BKc2xTcUJUZS04REdyV3JGZ3BYaWpBbWM1NVg0UEZKUGNOQUdTT1lVeg?oc=5",
-   "date": "2026-08-20",
-   "summary": "广州这家ChatGPT技术供应商，拿下新融资！  智东西",
-   "body": "广州这家ChatGPT技术供应商，拿下新融资！  智东西",
-   "tags": [
-    "竞品",
-    "融资"
-   ]
-  },
-  {
-   "id": "n340d9ddb59",
-   "category": "竞品",
-   "company": "",
-   "title": "AI营销科技公司钛动科技完成新一轮融资，创始人李述昊有华为阿里背景 - 搜狐网",
-   "source": "搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNY0ptWmphNVlmZjA3bTAweGdsNTR1UzBKQXNGeDdJWjdJb3lkMDdKQWJVMVhpNFlqZXpEWGUzU05RS19vSFE3bnFWY2U4Z0dXYmhHR2JpZ21UZDZNU3Z1dEdjMzR0VjY1ekU5a3JHaVNacHpFMjFMTl9XUVFJZWh5M01DWlRIeUJuVWo5Rw?oc=5",
-   "date": "2026-08-20",
-   "summary": "AI营销科技公司钛动科技完成新一轮融资，创始人李述昊有华为阿里背景  搜狐网",
-   "body": "AI营销科技公司钛动科技完成新一轮融资，创始人李述昊有华为阿里背景  搜狐网",
-   "tags": [
-    "竞品",
-    "融资"
-   ]
-  },
-  {
-   "id": "n6703183401",
-   "category": "行业",
-   "company": "",
-   "title": "四份重磅研究，一次看懂2026营销新趋势丨第七届媒介力学论坛火热报名中！ - QQ News",
-   "source": "QQ News",
-   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFB5TEFkc0toVm10cGlmWnJhdFBxaC1UNEd2UmJrdDlMczFhbHk3c1owSGRKQjBtdEtiZUFuYl9PWFFKQU92LXhsclp5T3pvSlVzTjdiSXZ3?oc=5",
-   "date": "2026-07-14",
-   "summary": "四份重磅研究，一次看懂2026营销新趋势丨第七届媒介力学论坛火热报名中！  QQ News",
-   "body": "四份重磅研究，一次看懂2026营销新趋势丨第七届媒介力学论坛火热报名中！  QQ News",
-   "tags": [
-    "行业"
    ]
   }
  ]
