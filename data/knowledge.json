@@ -1,10 +1,179 @@
 {
  "meta": {
-  "generated": "2026-11-25",
+  "generated": "2026-11-26",
   "origin": "ingest.py · Google News RSS",
-  "note": "新增 18 条，合计 400 条"
+  "note": "新增 12 条，合计 400 条"
  },
  "items": [
+  {
+   "id": "n27adbf8845",
+   "category": "竞品",
+   "company": "",
+   "title": "强强联合！Tec-Do钛动科技战略投资跨拒通SecureGo - 游戏陀螺",
+   "source": "游戏陀螺",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9HeDU0T24wYWI4NzFGazRGRzlHdnlsU0FMdjY5NFVHWExCWFFaOUJEdW5NY2FOWWY4ekFvckFhUVFNcG9jMDY2cXluR0xXVzFf?oc=5",
+   "date": "2026-11-25",
+   "summary": "强强联合！Tec-Do钛动科技战略投资跨拒通SecureGo  游戏陀螺",
+   "body": "强强联合！Tec-Do钛动科技战略投资跨拒通SecureGo  游戏陀螺",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "nfb0530feb3",
+   "category": "竞品",
+   "company": "",
+   "title": "筷子科技推出AI“KP钱包”，打通全链路视频商业AI能力 - 搜狐网",
+   "source": "搜狐网",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOOFplRXl5RF94akEwdWMzTFFwMlZGNWVRSHRkZXd6RkNPUzdTbG8xY1EzRGhLNHg4TWFydnBEdXQ3TDJXb1EyUF9PWVhTUXRJdDQ5MlhzNmZuTUlzT1Q2RVZVc0hGSnNJZnYyN2JGVGpjajRNQ092S3hTMWRvNkxiWnk0QVRkUnk3V0RDdA?oc=5",
+   "date": "2026-09-02",
+   "summary": "筷子科技推出AI“KP钱包”，打通全链路视频商业AI能力  搜狐网",
+   "body": "筷子科技推出AI“KP钱包”，打通全链路视频商业AI能力  搜狐网",
+   "tags": [
+    "竞品"
+   ]
+  },
+  {
+   "id": "ndf88b2e099",
+   "category": "行业",
+   "company": "",
+   "title": "2026年汽车行业社交营销实战与趋势报告 - 电子工程专辑",
+   "source": "电子工程专辑",
+   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1hNkt0dElPbUNlOEN0Wi1Qc2ludHhPakp5LU5qSHBUZmI2WFlHZ2l3cURBTEJyUTRaLWJuaTZCOU1aYzVLSE15MWpsWV9jeC11MDhV?oc=5",
+   "date": "2026-05-31",
+   "summary": "2026年汽车行业社交营销实战与趋势报告  电子工程专辑",
+   "body": "2026年汽车行业社交营销实战与趋势报告  电子工程专辑",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "n52344f9acb",
+   "category": "行业",
+   "company": "",
+   "title": "1.5万字！2026年45个【AI+营销】主流产品全貌 - https://www.itopmarketing.com/",
+   "source": "https://www.itopmarketing.com/",
+   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBjSWpRWi1iaFZwd0FVelJkMWtvZkQwdkFIQTc0VE9BT2tKeGRmVVA2XzhqUkU1RnpkV2NiZ0ZnLVVucXROV25zWkhCWTBYLWoz?oc=5",
+   "date": "2026-02-12",
+   "summary": "1.5万字！2026年45个【AI+营销】主流产品全貌  https://www.itopmarketing.com/",
+   "body": "1.5万字！2026年45个【AI+营销】主流产品全貌  https://www.itopmarketing.com/",
+   "tags": [
+    "行业"
+   ]
+  },
+  {
+   "id": "na035376674",
+   "category": "政策",
+   "company": "",
+   "title": "TikTok 目前在全球有超 4 万名审核员 - 新浪财经",
+   "source": "新浪财经",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NUEd0YU5WcTd1SV9iNXh2U185OUNSRnZVTjJzRERrMk9ZOVJBUUwtM3pTRGt1STJxU1FzLXlPMUZTQk5jVEFUa3FGd09BVzI0ZEg5aDE2QnpUbUcwM2tzUk9jLTY3VlYtMVF4YUgtWF93ajdGaV9CbDg5ZmlmZjA?oc=5",
+   "date": "2024-08-08",
+   "summary": "TikTok 目前在全球有超 4 万名审核员  新浪财经",
+   "body": "TikTok 目前在全球有超 4 万名审核员  新浪财经",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n8203f3110b",
+   "category": "政策",
+   "company": "",
+   "title": "美股讯号 | 亚马逊与Meta洽谈AI购物合作，广告收入成焦点 ｜#美股资讯# #亚马逊# #行业竞争# - Sohu",
+   "source": "Sohu",
+   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObDV4T3V2TlBZRzJPdTJsdmJmNGE5ejVuTVlQVzY0NFV0ZlVRZG9uVGJOdFlLaWFCR05NQWNWNXRpVUpxeW1ORldhalBPM3lfOGJuTVh4U1l6T052eUlwN3U2bjluZC10QzNGSDZwZ19QeGlsMTBaUFBuWmd2bWhVQWNESTN5TGttakxiRA?oc=5",
+   "date": "2026-11-25",
+   "summary": "美股讯号 | 亚马逊与Meta洽谈AI购物合作，广告收入成焦点 ｜#美股资讯# #亚马逊# #行业竞争#  Sohu",
+   "body": "美股讯号 | 亚马逊与Meta洽谈AI购物合作，广告收入成焦点 ｜#美股资讯# #亚马逊# #行业竞争#  Sohu",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "n3ce7b5fe77",
+   "category": "政策",
+   "company": "",
+   "title": "谷歌又出新招，AI搜索接入消费记录，连你花了多少钱都知道 - 36Kr",
+   "source": "36Kr",
+   "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE95d01mRUo2b0UyRVNNSU5USFRQMUZvckhGNjB2LW5EZEd2Nk5namw3WkttY0xoTlVvbVZFMl92X05QY3IyUlZ0Z3ZoSlJCQQ?oc=5",
+   "date": "2026-11-23",
+   "summary": "谷歌又出新招，AI搜索接入消费记录，连你花了多少钱都知道  36Kr",
+   "body": "谷歌又出新招，AI搜索接入消费记录，连你花了多少钱都知道  36Kr",
+   "tags": [
+    "政策",
+    "AI搜索"
+   ]
+  },
+  {
+   "id": "ndcc5bd5185",
+   "category": "政策",
+   "company": "",
+   "title": "谷歌、OpenAI、Anthropic据称拟共建“前沿AI标准局” - 财联社电报",
+   "source": "财联社电报",
+   "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5yT2RYX2xQUlVVOVBwY2t1Y3ZzN3IyUktJQUtENW1Sb2JYd3FoLVkxcHFjV2RzSi11LTR3UFdUZHZVRHpfcHc?oc=5",
+   "date": "2026-09-24",
+   "summary": "谷歌、OpenAI、Anthropic据称拟共建“前沿AI标准局”  财联社电报",
+   "body": "谷歌、OpenAI、Anthropic据称拟共建“前沿AI标准局”  财联社电报",
+   "tags": [
+    "政策"
+   ]
+  },
+  {
+   "id": "ne301239cd5",
+   "category": "客户",
+   "company": "",
+   "title": "新红&DLG | 小红书高端美妆品牌影响力报告 - 新榜",
+   "source": "新榜",
+   "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9oYTMyZzZhd3phTTMxdnlZMlUxUG04S3BNU0o5R0RPQzNwTktSbkZlUTRqN0x3T1huMlhJb2RNTkVSbWhYeEUzUGcyZGIxd1VyaGRrUVV3?oc=5",
+   "date": "2025-10-09",
+   "summary": "新红&DLG | 小红书高端美妆品牌影响力报告  新榜",
+   "body": "新红&DLG | 小红书高端美妆品牌影响力报告  新榜",
+   "tags": [
+    "客户"
+   ]
+  },
+  {
+   "id": "n606c721700",
+   "category": "消费者",
+   "company": "",
+   "title": "深圳城市趋势报告发布：小红书上民间交流火热，共同呈现“未来生活样板间” - 东方财富网",
+   "source": "东方财富网",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE90U05VU1FudTA5V1JGSmJQNEd6MkVZNGxlQjdzUGE4NGxCZnRHTHoxNGUwZ2R4dXFqRXlTdzR3NTlScGpmWElwdTJjb1FGZ2ZET1otdzZORUhrTm5URnNraA?oc=5",
+   "date": "2026-11-17",
+   "summary": "深圳城市趋势报告发布：小红书上民间交流火热，共同呈现“未来生活样板间”  东方财富网",
+   "body": "深圳城市趋势报告发布：小红书上民间交流火热，共同呈现“未来生活样板间”  东方财富网",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "n3ffa73863c",
+   "category": "消费者",
+   "company": "",
+   "title": "2026年抖音生活服务心动榜餐厅正式发榜！评选亿级用户真实吃过且喜爱的门店- 中国日报网 - China Daily",
+   "source": "China Daily",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNU2Zoa0NwTWw2R2NlOF91Z2wwNFdTeHVOZXZqYnBOblNEV1h3UER0cWpUUjR2M0doa01QVkJUQkVscmFsQXRtYWdfd2VPZXZHVWVNSFNrWlhwZ1JqTXVUWnotelR1TEZheTlXZ0J2eGw3UXJZQmVYd2RsaVR3RE1fa3ZoNA?oc=5",
+   "date": "2026-06-25",
+   "summary": "2026年抖音生活服务心动榜餐厅正式发榜！评选亿级用户真实吃过且喜爱的门店- 中国日报网  China Daily",
+   "body": "2026年抖音生活服务心动榜餐厅正式发榜！评选亿级用户真实吃过且喜爱的门店- 中国日报网  China Daily",
+   "tags": [
+    "消费者"
+   ]
+  },
+  {
+   "id": "nb9152a2dad",
+   "category": "消费者",
+   "company": "",
+   "title": "2026抖音电商运动消费趋势报告正式发布 - 电商派",
+   "source": "电商派",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBZWHhTZ2Vxc29lY0hPY3VxYXQ4RWx0TVBlRmxCVmt6a2gzNTNlUnIzX1RyajZ2TlFfSWxUMnpiSkI0STR5NHY4RWluTkM5UkNlbXlsRmFJXzVndExDZTcyRA?oc=5",
+   "date": "2026-07-06",
+   "summary": "2026抖音电商运动消费趋势报告正式发布  电商派",
+   "body": "2026抖音电商运动消费趋势报告正式发布  电商派",
+   "tags": [
+    "消费者"
+   ]
+  },
   {
    "id": "n92990dd7c9",
    "category": "竞品",
@@ -5567,179 +5736,6 @@
    "body": "AI越高效，审美越重要  ThePaper.cn",
    "tags": [
     "客户"
-   ]
-  },
-  {
-   "id": "ndaf057cbd1",
-   "category": "客户",
-   "company": "",
-   "title": "聚力家具家居跨境出海，共探品牌DTC破局之路 - 雨果跨境",
-   "source": "雨果跨境",
-   "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5Pa3prYThmTEtZZWZzbW50eGJGcTdWN2g0OUM0SzdiOEs2WTJaWjQ3emx3ZUxsdk1INjJNamJLcU4tVkZqUW9xNy1lTGQ?oc=5",
-   "date": "2026-11-02",
-   "summary": "聚力家具家居跨境出海，共探品牌DTC破局之路  雨果跨境",
-   "body": "聚力家具家居跨境出海，共探品牌DTC破局之路  雨果跨境",
-   "tags": [
-    "客户",
-    "出海"
-   ]
-  },
-  {
-   "id": "nd3607907ca",
-   "category": "客户",
-   "company": "",
-   "title": "聚焦AI时代品牌全球化，优沃思传媒亮相Google 2026跨境电商领航者峰会·深圳站 - 新浪网",
-   "source": "新浪网",
-   "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56WlJMdm1WcGkzUTNCUmc1VUhFUU9LazJSbDlvRi1icFZjRXlOMGVNWjJub3kwLW14NEJHR2k3Ym1nekw4SWM4dmhpNEdLUURDdldqOC1nQWMtbmtURlhSaG4xODlNaHpyZ3NHYlg4TQ?oc=5",
-   "date": "2026-09-11",
-   "summary": "聚焦AI时代品牌全球化，优沃思传媒亮相Google 2026跨境电商领航者峰会·深圳站  新浪网",
-   "body": "聚焦AI时代品牌全球化，优沃思传媒亮相Google 2026跨境电商领航者峰会·深圳站  新浪网",
-   "tags": [
-    "客户"
-   ]
-  },
-  {
-   "id": "n1082532ef8",
-   "category": "消费者",
-   "company": "",
-   "title": "飞猪、小红书“五一”出行趋势：7成用户基于兴趣选目的地，体验型商品增速超大盘 - 环球旅讯",
-   "source": "环球旅讯",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oMnRHMGpCS0RDcWFvaVBXaE5oUEpIbl94djdKb0xQU3Zqd3c0NFY3c1dzRkRXbWp5MGN4V2dCUXE3QzlMakJRcUtLaVV6aTNaT09KSQ?oc=5",
-   "date": "2026-05-06",
-   "summary": "飞猪、小红书“五一”出行趋势：7成用户基于兴趣选目的地，体验型商品增速超大盘  环球旅讯",
-   "body": "飞猪、小红书“五一”出行趋势：7成用户基于兴趣选目的地，体验型商品增速超大盘  环球旅讯",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n6eb652bcd9",
-   "category": "消费者",
-   "company": "",
-   "title": "《2026火锅发展趋势报告》：女性与Z世代为消费主力，鲜字当头、有料锅与一人食大热，夏季逆势增长 - 21财经",
-   "source": "21财经",
-   "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPQzNRRFk1S1V3T0c2dENJWERKRTBVMXFUQmRrMnNfZ1lSa2VOeHM3bHZIQlBCdkhaZWxXdmxDcmFzUmFkNlcxOURIOE1jYWcya2JNdEdSWC1VUy01LUQtcTJ4RjdsMEFESHY0OVM3T042SWx5WjVYTG5Tb1g4M3VSNk92OHJBLS1qbG9qVg?oc=5",
-   "date": "2026-09-11",
-   "summary": "《2026火锅发展趋势报告》：女性与Z世代为消费主力，鲜字当头、有料锅与一人食大热，夏季逆势增长  21财经",
-   "body": "《2026火锅发展趋势报告》：女性与Z世代为消费主力，鲜字当头、有料锅与一人食大热，夏季逆势增长  21财经",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n4682522d09",
-   "category": "消费者",
-   "company": "",
-   "title": "《抖音2026文旅消费趋势报告》来了！ - 搜狐网",
-   "source": "搜狐网",
-   "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pYzdtUU9XY3M3T0NqQzBQUWNVMUdtZ1h1OGh1NWtrUG8zcG80VlZTODBNTlhuYkc5RGNVNUI4d3hHUWRrd2dURV8xek02dTVvcFFj?oc=5",
-   "date": "2026-09-14",
-   "summary": "《抖音2026文旅消费趋势报告》来了！  搜狐网",
-   "body": "《抖音2026文旅消费趋势报告》来了！  搜狐网",
-   "tags": [
-    "消费者"
-   ]
-  },
-  {
-   "id": "n49e265dea6",
-   "category": "竞品",
-   "company": "",
-   "title": "特赞内容数据资产管理（DAM）， 多场景赋能内容工程 - 美通社",
-   "source": "美通社",
-   "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBlejZSajZIYi13c1FPdGY1THRmVlFsUXpKeVQ1aUhjWXdYM2VfMkdXQmllbGs5dTlQYW1vazdpSUtlb290TEVPcklMRUlncDN3RXladDlmYw?oc=5",
-   "date": "2021-03-20",
-   "summary": "特赞内容数据资产管理（DAM）， 多场景赋能内容工程  美通社",
-   "body": "特赞内容数据资产管理（DAM）， 多场景赋能内容工程  美通社",
-   "tags": [
-    "竞品",
-    "DAM"
-   ]
-  },
-  {
-   "id": "n6d4b13e90d",
-   "category": "竞品",
-   "company": "",
-   "title": "“90%的出海停留在出口”，钛动科技CEO李述昊：要让AI帮中国出海企业赚钱 - 时代在线",
-   "source": "时代在线",
-   "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9qdFFNWHktSmRYWVgtZVFUNEhzTzhSZEJIM3dWZEdBNkdOLXNic3FXcTVidG5CdGZDTDlQVTRKc1JLX2RfVW9KQ0NiQmhSalBL?oc=5",
-   "date": "2026-10-26",
-   "summary": "“90%的出海停留在出口”，钛动科技CEO李述昊：要让AI帮中国出海企业赚钱  时代在线",
-   "body": "“90%的出海停留在出口”，钛动科技CEO李述昊：要让AI帮中国出海企业赚钱  时代在线",
-   "tags": [
-    "竞品",
-    "出海"
-   ]
-  },
-  {
-   "id": "n6290f4aa4f",
-   "category": "竞品",
-   "company": "",
-   "title": "钛动科技发布行业首个Pro Agent 面向跨境电商、外贸等场景 - 新浪财经",
-   "source": "新浪财经",
-   "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5DQ1hSSzlNdWpLLTM1RWh1M3JNMlNXVGN3OEQ0MzYzMW9tUmpmaFZHYTdRUUYyV1d5dVhjVDY0YWVCTU40d0xNXy03Tm15Q2pJZ21tSGxzZkdldDZrUDhDaUdwSU1RaHpCLVlSWWVXQm85YTB0VGQ2d0dqeWc?oc=5",
-   "date": "2026-10-23",
-   "summary": "钛动科技发布行业首个Pro Agent 面向跨境电商、外贸等场景  新浪财经",
-   "body": "钛动科技发布行业首个Pro Agent 面向跨境电商、外贸等场景  新浪财经",
-   "tags": [
-    "竞品",
-    "Agent"
-   ]
-  },
-  {
-   "id": "n74b6c8eaa7",
-   "category": "竞品",
-   "company": "",
-   "title": "物自体科技完成新一轮战略融资 - 手机新浪网",
-   "source": "手机新浪网",
-   "url": "https://news.google.com/rss/articles/CBMipwNBVV95cUxQdU50b2VhbTBReUhuSkR5U1R6YWxjakowd1phSi1YU04tSkg2eWtMMmw2UEtBU2xlSC1OUG5jVmdkYm42T2s5eF9xRWFBZjBaZnJlUHltYUFld3hZOTB6TGF5NmhITkswbHNNcGpvZW43XzhfTkNsdDlMQy1fNjdJa01TTmlLZU5lZEx2NmRlLWN2aHBxSWR4bld6NFFaTHlMS3g4NGtybVF5eHdfSmR5Y2ZmQWE4Tlk3WXp5VWlmdVVjdGdxUlhUQzlRWkdMeGhISUVfYWNnNFAyeU1fOU9TaXNNRXduREhUczJzc3Z3ajdQd2FIV1o4OXNWUlpyMS13dFBYVDlyUUZFeEhxX3lBYk1FX25PNDFIR2Jsdy1UUnhBYkpTRGRoWkViSDZSWHpvbnJIbks0ZlpDbG1TWmYzdU5mNm5kcDFnQVRSSFpnaHlIS1piWGNrb1pfa21xTlhXZU1RMS1Xa0NIU293WkpiQlhqWmZCY3ViNHpuZTlCTVZhSHJicEpIb1N6dktJUG9vM1VMd01uT0pGRDA5dk8wdUk2bGUtaG8?oc=5",
-   "date": "2026-10-31",
-   "summary": "物自体科技完成新一轮战略融资  手机新浪网",
-   "body": "物自体科技完成新一轮战略融资  手机新浪网",
-   "tags": [
-    "竞品",
-    "融资"
-   ]
-  },
-  {
-   "id": "ne3492ef2e6",
-   "category": "行业",
-   "company": "",
-   "title": "一汽大众、伊利试水AIGC营销，超53%的广告主开始为“效率革命”买单 - Jiemian.com",
-   "source": "Jiemian.com",
-   "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB5NVZhYzZ5YXFRT2Y4UXFreEhfSnZkQnA0Zm40M0ZKTmFKVkFPX3pBMzZXUE9LNWJ5c0lpbEtvRDVqQzYtRmhUenZDQ1ZlaWNTdzBZZnNkVGo?oc=5",
-   "date": "2025-09-29",
-   "summary": "一汽大众、伊利试水AIGC营销，超53%的广告主开始为“效率革命”买单  Jiemian.com",
-   "body": "一汽大众、伊利试水AIGC营销，超53%的广告主开始为“效率革命”买单  Jiemian.com",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "nb0a029b3aa",
-   "category": "行业",
-   "company": "",
-   "title": "春节营销哪家强？美图X王老吉用AIGC上大分！ - 中国日报网",
-   "source": "中国日报网",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zZmhXQzRKeFh6YWh3ZFRaREFqSHNqSlNXUzg2VjJ0RUlrVnc1Q2ZXMzlIeUY0TWV2akw5azQzMElwVTZBbFZlZUNSdlNjVXJlWVZFLWNKRlVzajlSVlJsSFZaR3p6UE1zdTAxcjZyQ2hzV2RQOC1udzVaSQ?oc=5",
-   "date": "2024-03-11",
-   "summary": "春节营销哪家强？美图X王老吉用AIGC上大分！  中国日报网",
-   "body": "春节营销哪家强？美图X王老吉用AIGC上大分！  中国日报网",
-   "tags": [
-    "行业"
-   ]
-  },
-  {
-   "id": "n8e4db80978",
-   "category": "行业",
-   "company": "",
-   "title": "AI营销的背后：那些被忽视的“暗礁”与风险 - CBNData-第一财经商业数据中心",
-   "source": "CBNData-第一财经商业数据中心",
-   "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE14YktWcU5MVERvSmgtZHlFeDFoTkRZeTlsX0tHTmpwcmRRdGw2eE1XWVZGMVpzSV9PbnVERHRUMFZTU3dNeHdEVzhycUE0ZENvV01DWQ?oc=5",
-   "date": "2025-03-05",
-   "summary": "AI营销的背后：那些被忽视的“暗礁”与风险  CBNData-第一财经商业数据中心",
-   "body": "AI营销的背后：那些被忽视的“暗礁”与风险  CBNData-第一财经商业数据中心",
-   "tags": [
-    "行业"
    ]
   }
  ]
